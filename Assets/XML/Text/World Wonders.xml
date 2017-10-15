@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!-- World Wonders -->
 <Civ4GameText xmlns="http://www.firaxis.com">
   <TEXT>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>蓝色清真寺</Chinese>
+    <Chinese>��ɫ������</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BLUE_MOSQUE_STRATEGY</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>婆罗浮屠</Chinese>
+    <Chinese>���޸���</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BOROBUDUR_STRATEGY</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>勃兰登堡门</Chinese>
+    <Chinese>�����Ǳ���</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BRANDENBURG_GATE_STRATEGY</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>大浴场</Chinese>
+    <Chinese>��ԡ��</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_GREAT_COTHON</Tag>
@@ -305,7 +305,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>哈曼迪尔寺</Chinese>
+    <Chinese>�����϶���</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_HARMANDIR_SAHIB_STRATEGY</Tag>
@@ -323,7 +323,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]为城市提供水源[NEWLINE][ICON_BULLET]所有新建立的城市增加额外的1人口</Chinese>
+    <Chinese>[ICON_BULLET]Ϊ�����ṩˮԴ[NEWLINE][ICON_BULLET]�����½����ĳ������Ӷ����1�˿�</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_HELP_HARMANDIR_SAHIB</Tag>
@@ -332,7 +332,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]信仰国教的城市所训练的单位经验值+2</Chinese>
+    <Chinese>[ICON_BULLET]�������̵ĳ�����ѵ���ĵ�λ����ֵ+2</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_HELP_HIMEJI_CASTLE</Tag>
@@ -377,7 +377,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>姬路城</Chinese>
+    <Chinese>��·��</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ISHTAR_GATE</Tag>
@@ -386,7 +386,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>伊什塔尔城门</Chinese>
+    <Chinese>��ʲ��������</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_LUBYANKA</Tag>
@@ -413,7 +413,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>克久拉霍</Chinese>
+    <Chinese>�˾�����</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ST_BASILS_CATHEDRAL</Tag>
@@ -440,7 +440,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>比萨斜塔</Chinese>
+    <Chinese>����б��</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_LEANING_TOWER_STRATEGY</Tag>
@@ -458,7 +458,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>马丘比丘</Chinese>
+    <Chinese>�������</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MACHU_PICCHU_HELP</Tag>
@@ -467,7 +467,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>为所在城市范围内的每座山峰[ICON_BULLET]提供2[ICON_GOLD]</Chinese>
+    <Chinese>Ϊ���ڳ��з�Χ�ڵ�ÿ��ɽ��[ICON_BULLET]�ṩ2[ICON_GOLD]</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MACHU_PICCHU_STRATEGY</Tag>
@@ -638,7 +638,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>大运河</Chinese>
+    <Chinese>���˺�</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_GRAND_CANAL_STRATEGY</Tag>
@@ -656,7 +656,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>漂浮花园</Chinese>
+    <Chinese>Ư����԰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BABYLONIAN_GARDEN</Tag>
@@ -701,7 +701,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]城市维护费减少33%</Chinese>
+    <Chinese>[ICON_BULLET]����ά���Ѽ���33%</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_FORBIDDEN_PALACE_STRATEGY</Tag>
@@ -719,7 +719,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>大报恩寺</Chinese>
+    <Chinese>�󱨶���</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PORCELAIN_TOWER_STRATEGY</Tag>
@@ -764,7 +764,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>阿格拉红堡</Chinese>
+    <Chinese>�������챤</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_RED_FORT_STRATEGY</Tag>
@@ -944,7 +944,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>兵马俑</Chinese>
+    <Chinese>����ٸ</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TERRACOTTA_ARMY_HELP</Tag>
@@ -971,7 +971,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>狄奥多西城墙</Chinese>
+    <Chinese>�Ұ¶�����ǽ</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_THEODOSIAN_WALLS_STRATEGY</Tag>
@@ -989,7 +989,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>托普卡帕宫</Chinese>
+    <Chinese>���տ�����</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ITAIPU_DAM</Tag>
@@ -1034,7 +1034,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>特拉法加广场</Chinese>
+    <Chinese>�������ӹ㳡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_SHWEDAGON_PAYA_STRATEGY</Tag>

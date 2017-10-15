@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bedouin Peoples</Chinese>
+    <Chinese>贝都因诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Sultanates</Chinese>
+    <Chinese>%s2苏丹国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_REPUBLIC</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Arab League</Chinese>
+    <Chinese>阿拉伯联盟</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pan Arab State</Chinese>
+    <Chinese>泛阿拉伯联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_COMMUNIST</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Baathist %s1</Chinese>
+    <Chinese>%s1社会主义共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_SAUDI</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Saudi-Arabia</Chinese>
+    <Chinese>沙特阿拉伯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_RASHIDUN</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rashidun</Chinese>
+    <Chinese>哈里发</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_UMMAYAD</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Umayyad</Chinese>
+    <Chinese>倭玛亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_ABBASID</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Abbasid</Chinese>
+    <Chinese>阿拔斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_VASSAL</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Emirate of %s1</Chinese>
+    <Chinese>%s1埃米尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_EGYPT</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Misr</Chinese>
+    <Chinese>米斯耳</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_BABYLONIA</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iraq</Chinese>
+    <Chinese>伊拉克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_PERSIA</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fars</Chinese>
+    <Chinese>法尔斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_CARTHAGE</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ifriqiya</Chinese>
+    <Chinese>突尼斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_ROME</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Italiya</Chinese>
+    <Chinese>意大利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_INDONESIA</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Zabag</Chinese>
+    <Chinese>室利佛逝</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_ETHIOPIA</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Abyssinia</Chinese>
+    <Chinese>阿比西尼亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_BYZANTIUM</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>R?m</Chinese>
+    <Chinese>罗姆</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_MOORS</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Al-Andalus</Chinese>
+    <Chinese>安达卢斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_SPAIN</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Esbanya</Chinese>
+    <Chinese>西班牙</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_NAME_PORTUGAL</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Al-Garb</Chinese>
+    <Chinese>西安达卢斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_TURKEY</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ottoman Sultanate</Chinese>
+    <Chinese>奥斯曼苏丹国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIAN_MUGHALS</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Emirate of Delhi</Chinese>
+    <Chinese>德里埃米尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ARABIA_ADJECTIVE</Tag>
@@ -233,6 +233,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>阿拉伯</Chinese>
+    <Chinese>Arabia</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Peoples of %s1</Chinese>
+    <Chinese>%s1诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEOPLES_ADJECTIVE</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Peoples</Chinese>
+    <Chinese>%s2诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EMPIRE_OF</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Empire of %s1</Chinese>
+    <Chinese>%s1帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EMPIRE_ADJECTIVE</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Empire</Chinese>
+    <Chinese>%s2帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_KINGDOM_OF</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_KINGDOM_ADJECTIVE</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Kingdom</Chinese>
+    <Chinese>%s2王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REPUBLIC_OF</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Republic of %s1</Chinese>
+    <Chinese>%s1共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REPUBLIC_ADJECTIVE</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Republic</Chinese>
+    <Chinese>%s2共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SOCIALIST_REPUBLIC_OF</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Socialist Republic of %s1</Chinese>
+    <Chinese>%s1社会主义共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SOCIALIST_REPUBLIC_ADJECTIVE</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Socialist Republic</Chinese>
+    <Chinese>%s2社会主义共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNITED_STATES_OF</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>United States of %s1</Chinese>
+    <Chinese>%s1合众国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNITED_STATES_ADJECTIVE</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>United %s2 States</Chinese>
+    <Chinese>%s2合众国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEOPLES_REPUBLIC_OF</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>People's Republic of %s1</Chinese>
+    <Chinese>%s1人民共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEOPLES_REPUBLIC_ADJECTIVE</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 People's Republic</Chinese>
+    <Chinese>%s2人民共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CITY_STATES_OF</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>City States of %s1</Chinese>
+    <Chinese>%s1城邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CITY_STATES_ADJECTIVE</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 City States</Chinese>
+    <Chinese>%s2城邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_TITLE</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 %s1</Chinese>
+    <Chinese>%s2%s1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CALIPHATE_ADJECTIVE</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Caliphate</Chinese>
+    <Chinese>%s2哈里发国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CALIPHATE_OF</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Caliphate of %s1</Chinese>
+    <Chinese>%s1哈里发国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SULTANATE_ADJECTIVE</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Sultanate</Chinese>
+    <Chinese>%s2苏丹国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SULTANATE_OF</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sultanate of %s1</Chinese>
+    <Chinese>%s1苏丹国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONFEDERACY_ADJECTIVE</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Confederacy</Chinese>
+    <Chinese>%s2邦联</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ISLAMIC_REPUBLIC_OF</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Islamic Republic of %s1</Chinese>
+    <Chinese>%s1伊斯兰共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ISLAMIC_REPUBLIC_ADJECTIVE</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Islamic Republic</Chinese>
+    <Chinese>%s2伊斯兰共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MANDATE_OF</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Mandate of %s1</Chinese>
+    <Chinese>%s2属%s1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONFEDERATION_ADJECTIVE</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Confederation</Chinese>
+    <Chinese>%s2同盟</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROTECTORATE_OF</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Protectorate of %s1</Chinese>
+    <Chinese>%s1藩国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLONY_OF</Tag>
@@ -251,6 +251,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Colony of %s1</Chinese>
+    <Chinese>%s1殖民地</Chinese>
   </TEXT>
 </Civ4GameText>

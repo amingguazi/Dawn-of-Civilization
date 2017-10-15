@@ -453,7 +453,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gaul</Chinese>
+    <Chinese>高卢</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_10</Tag>
@@ -462,7 +462,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Britain</Chinese>
+    <Chinese>不列颠</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_11</Tag>
@@ -471,7 +471,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Africa</Chinese>
+    <Chinese>阿非利加</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_12</Tag>
@@ -930,7 +930,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Canada</Chinese>
+    <Chinese>加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_63</Tag>
@@ -939,7 +939,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Atlantic Coast, Canada</Chinese>
+    <Chinese>大西洋沿岸、加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_64</Tag>
@@ -948,7 +948,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pacific Coast, Canada</Chinese>
+    <Chinese>太平洋沿岸、加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_65</Tag>
@@ -957,7 +957,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hawaii</Chinese>
+    <Chinese>夏威夷</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_66</Tag>
@@ -966,7 +966,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>New Zealand</Chinese>
+    <Chinese>新西兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_67</Tag>
@@ -975,7 +975,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Marquesas</Chinese>
+    <Chinese>马克萨斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_68</Tag>
@@ -984,7 +984,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Easter Island</Chinese>
+    <Chinese>复活节岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_69</Tag>
@@ -993,6 +993,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>China</Chinese>
+    <Chinese>中国</Chinese>
   </TEXT>
 </Civ4GameText>

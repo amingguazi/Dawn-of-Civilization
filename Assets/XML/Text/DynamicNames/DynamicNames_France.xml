@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>法国</Chinese>
+    <Chinese>法兰西</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_SHORT_DESC</Tag>
@@ -269,6 +269,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>法国</Chinese>
+    <Chinese>France</Chinese>
   </TEXT>
 </Civ4GameText>

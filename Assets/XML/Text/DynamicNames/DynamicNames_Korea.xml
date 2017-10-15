@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Samhan Confederacies</Chinese>
+    <Chinese>三韩部落</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_GORYEO</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Goryeo</Chinese>
+    <Chinese>高丽</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_GOGURYEO</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Goguryeo</Chinese>
+    <Chinese>高句丽</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_JOSEON</Tag>
@@ -102,6 +102,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>高丽</Chinese>
+    <Chinese>Korea</Chinese>
   </TEXT>
 </Civ4GameText>

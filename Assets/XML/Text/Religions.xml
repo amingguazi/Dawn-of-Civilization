@@ -56,7 +56,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Catholicism</Chinese>
+    <Chinese>天主教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_CATHOLICISM_ADJECTIVE</Tag>
@@ -69,7 +69,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CatholicMale0</Chinese>
+    <Chinese>天主教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_CONFUCIANISM_ADJECTIVE</Tag>
@@ -82,7 +82,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ConfucianMale0</Chinese>
+    <Chinese>儒家</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_HINDUISM_ADJECTIVE</Tag>
@@ -108,7 +108,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>伊斯兰教 Male0</Chinese>
+    <Chinese>伊斯兰教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PROTESTANTISM</Tag>
@@ -117,7 +117,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Protestantism</Chinese>
+    <Chinese>新教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PROTESTANTISM_ADJECTIVE</Tag>
@@ -126,7 +126,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Protestant</Chinese>
+    <Chinese>新教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ORTHODOXY</Tag>
@@ -148,7 +148,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>东正教 Male0</Chinese>
+    <Chinese>东正教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_REFORMATION</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>祆教</Chinese>
+    <Chinese>琐罗亚斯德教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ZOROASTRIANISM_ADJECTIVE</Tag>
@@ -201,7 +201,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ZoroastrianMale0</Chinese>
+    <Chinese>琐罗亚斯德教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PAGANISM</Tag>
@@ -210,7 +210,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Paganism</Chinese>
+    <Chinese>异教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PESEDJET</Tag>
@@ -219,7 +219,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pesedjet</Chinese>
+    <Chinese>埃及多神教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_SHENDAO</Tag>
@@ -237,7 +237,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anunnaki</Chinese>
+    <Chinese>阿努纳奇</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_VEDISM</Tag>
@@ -246,7 +246,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vedism</Chinese>
+    <Chinese>吠陀教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_OLYMPIANISM</Tag>
@@ -255,7 +255,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Olympianism</Chinese>
+    <Chinese>希腊多神教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_BAALISM</Tag>
@@ -264,7 +264,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Baalism</Chinese>
+    <Chinese>巴力崇拜</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ATUA</Tag>
@@ -273,7 +273,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Atua</Chinese>
+    <Chinese>阿图瓦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_MAZDAISM</Tag>
@@ -282,7 +282,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mazdaism</Chinese>
+    <Chinese>拜火教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_TEOTL</Tag>
@@ -291,7 +291,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Teotl</Chinese>
+    <Chinese>太奥</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_SHINTO</Tag>
@@ -300,7 +300,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Shinto</Chinese>
+    <Chinese>神道教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ASATRU</Tag>
@@ -309,7 +309,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Asatru</Chinese>
+    <Chinese>北欧异教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_DRUIDISM</Tag>
@@ -318,7 +318,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Druidism</Chinese>
+    <Chinese>德鲁伊信仰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_RODNOVERY</Tag>
@@ -327,7 +327,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rodnovery</Chinese>
+    <Chinese>罗德教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_YORUBA</Tag>
@@ -336,7 +336,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Yoruba</Chinese>
+    <Chinese>约鲁巴信仰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_INTI</Tag>
@@ -345,7 +345,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Inti</Chinese>
+    <Chinese>因蒂信仰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_TENGRI</Tag>
@@ -354,6 +354,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tengri</Chinese>
+    <Chinese>腾格里信仰</Chinese>
   </TEXT>
 </Civ4GameText>

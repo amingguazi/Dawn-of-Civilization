@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>德国</Chinese>
+    <Chinese>德意志</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_GERMANY_SHORT_DESC</Tag>
@@ -287,6 +287,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>德国</Chinese>
+    <Chinese>Germany</Chinese>
   </TEXT>
 </Civ4GameText>

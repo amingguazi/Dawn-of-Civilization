@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>New Mexica Empire</Chinese>
+    <Chinese>新墨西哥帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AZTEC_ALTEPETL</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Aztec Empire</Chinese>
+    <Chinese>阿兹特克帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AZTEC_ADJECTIVE</Tag>
@@ -71,6 +71,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>阿兹特克</Chinese>
+    <Chinese>Aztec</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Canadians</Chinese>
+    <Chinese>加拿大文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CANADA_PEOPLES</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Canadian Peoples</Chinese>
+    <Chinese>北美独立势力</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CANADA_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dominion of %s1</Chinese>
+    <Chinese>%s1自治领</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CANADA_REPUBLIC</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commonwealth of %s1</Chinese>
+    <Chinese>%s1联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CANADA_COMMUNIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Worker's Commonwealth</Chinese>
+    <Chinese>%s2工人联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CANADA_FASCIST</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Empire</Chinese>
+    <Chinese>%s2帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CANADA_ADJECTIVE</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Canadian</Chinese>
+    <Chinese>加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CANADA_SHORT_DESC</Tag>

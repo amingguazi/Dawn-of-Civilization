@@ -1,4 +1,4 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!-- Unique Powers -->
 <Civ4GameText xmlns="http://www.firaxis.com">
   <TEXT>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>æ‰€æœ‰åŸŽå¸‚èŽ·å¾—[ICON_BULLET]%D1_Change%F2_HappyOrUn</Chinese>
+    <Chinese>ËùÓÐ³ÇÊÐ»ñµÃ[ICON_BULLET]%D1_Change%F2_HappyOrUn</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ARA_TITLE</Tag>
@@ -386,7 +386,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>å¸Œè…Šæ´¾å‡ºä¸€æ”¯å†›é˜Ÿæ¥å¾æœæˆ‘ä»¬çš„æ–‡æ˜Žï¼</Chinese>
+    <Chinese>Ï£À°ÅÉ³öÒ»Ö§¾ü¶ÓÀ´Õ÷·þÎÒÃÇµÄÎÄÃ÷£¡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_HAR_TITLE</Tag>
@@ -449,7 +449,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s1çš„äººå£å› æ—§å¤§é™†çš„å¤§æ‰¹ç§»æ°‘æ¶Œå…¥è€Œè¿…é€Ÿå¢žé•¿ï¼</Chinese>
+    <Chinese>%s1µÄÈË¿ÚÒò¾É´óÂ½µÄ´óÅúÒÆÃñÓ¿Èë¶øÑ¸ËÙÔö³¤£¡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_INC_TITLE</Tag>
@@ -692,7 +692,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ç”±äºŽæ‚¨çš„ä½œæˆ˜èƒœåˆ©ä½¿æ‚¨çš„å†›é˜Ÿæ›´ä¸ºå£®å¤§ï¼</Chinese>
+    <Chinese>ÓÉÓÚÄúµÄ×÷Õ½Ê¤ÀûÊ¹ÄúµÄ¾ü¶Ó¸üÎª×³´ó£¡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MONGOL_TERROR</Tag>
@@ -719,7 +719,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ä¸ºé¿å…åŒé‚»è¿‘åŸŽå¸‚ä¸€æ ·è¢«æ¯ç­çš„å‘½è¿ï¼Œ</Chinese>
+    <Chinese>Îª±ÜÃâÍ¬ÁÚ½ü³ÇÊÐÒ»Ñù±»»ÙÃðµÄÃüÔË£¬</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_TERROR2</Tag>
@@ -728,7 +728,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>çš„å±…æ°‘å†³å®šå¼€åŸŽæŠ•é™ï¼</Chinese>
+    <Chinese>µÄ¾ÓÃñ¾ö¶¨¿ª³ÇÍ¶½µ£¡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MOO_TITLE</Tag>
@@ -863,7 +863,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ä¸€æ”¯å†›é˜Ÿå·²ç»è¢«æ´¾å‡ºæ”»å‡»%s1_civ_adjectiveï¼</Chinese>
+    <Chinese>Ò»Ö§¾ü¶ÓÒÑ¾­±»ÅÉ³ö¹¥»÷%s1_civ_adjective£¡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ROMAN_CONQUESTS_TARGET</Tag>
@@ -872,7 +872,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ç½—é©¬æ´¾å‡ºä¸€æ”¯å†›é˜Ÿæ¥å¾æœæˆ‘ä»¬çš„æ–‡æ˜Žï¼</Chinese>
+    <Chinese>ÂÞÂíÅÉ³öÒ»Ö§¾ü¶ÓÀ´Õ÷·þÎÒÃÇµÄÎÄÃ÷£¡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ROMAN_TRIUMPH</Tag>
@@ -881,7 +881,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>æ‚¨å®Œç¾Žçš„èƒœåˆ©ä½¿æ‚¨æœ‰èƒ½åŠ›æ´¾å‡ºå¦ä¸€æ”¯å†›å›¢ï¼</Chinese>
+    <Chinese>ÄúÍêÃÀµÄÊ¤ÀûÊ¹ÄúÓÐÄÜÁ¦ÅÉ³öÁíÒ»Ö§¾üÍÅ£¡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_RUS_TITLE</Tag>

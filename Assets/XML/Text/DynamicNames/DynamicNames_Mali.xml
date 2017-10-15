@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>桑海</Chinese>
+    <Chinese>Songhai</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_PEOPLES</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Malinese</Chinese>
+    <Chinese>马里</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_SHORT_DESC</Tag>
@@ -80,6 +80,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>马里</Chinese>
+    <Chinese>Mali</Chinese>
   </TEXT>
 </Civ4GameText>
