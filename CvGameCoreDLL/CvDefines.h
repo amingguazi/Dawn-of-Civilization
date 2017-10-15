@@ -63,8 +63,13 @@
 #define Z_ORDER_LAYER													(-0.1f)
 #define Z_ORDER_LEVEL													(-0.3f)
 
+#ifdef CYBERFRONT // gamespy: lobby for jp
+#define CIV4_GUID															"civ4btsjp"
+#define CIV4_PRODUCT_ID												11276
+#else
 #define CIV4_GUID															"civ4bts"
 #define CIV4_PRODUCT_ID												11081
+#endif // CYBERFRONT
 #define CIV4_NAMESPACE_ID											17
 #define CIV4_NAMESPACE_EXT										"-tk"
 

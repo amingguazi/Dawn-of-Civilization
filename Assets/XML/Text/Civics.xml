@@ -1,336 +1,751 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!-- Civics -->
-<Civ4GameText>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CENTRAL_PLANNING</Tag>
-		<English>Central Planning</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CENTRAL_PLANNING_STRATEGY</Tag>
-		<English>Extra production from specialists; extra production from workshops and lumbermills; extra commerce from watermills; double production speed for factories and coal plants</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_ANIMISM</Tag>
-		<English>Animism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_ANIMISM_STRATEGY</Tag>
-		<English>The most primitive Religion civic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_SOVEREIGNTY</Tag>
-		<English>Sovereignty</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_SOVEREIGNTY_STRATEGY</Tag>
-		<English>The most primitive Territory civic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_EGALITARIANISM</Tag>
-		<English>Egalitarianism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_EGALITARIANISM_STRATEGY</Tag>
-		<English>Double available slots for artists, scientists and engineers; extra research from specialists</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MULTILATERALISM</Tag>
-		<English>Multilateralism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MULTILATERALISM_STRATEGY</Tag>
-		<English>Extra experience for air units; extra yield from trade routes with defensive pact partners; trade routes yield production; extra war weariness</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CLERGY_STRATEGY</Tag>
-		<English>Cities with state religion construct buildings faster</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_PUBLIC_WELFARE</Tag>
-		<English>Public Welfare</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_PUBLIC_WELFARE_STRATEGY</Tag>
-		<English>Reduced unhappiness from corporations; extra commerce from excess happiness; extra commerce from windmills, nature preserves and marine preserves; can spend gold to finish building production</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_REPUBLIC</Tag>
-		<English>Republic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_REPUBLIC_STRATEGY</Tag>
-		<English>Extra food from specialists; reduced food from farms, plantations, cottages, hamlets, villages and towns; can spend gold to finish unit production</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_SECULARISM</Tag>
-		<English>Secularism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_SECULARISM_STRATEGY</Tag>
-		<English>No state religion; increased science in all cities; double production speed for hospital, university, laboratory; can build wonders that require a state religion</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_SLAVERY_STRATEGY</Tag>
-		<English>Can capture workers; extra production from quarries; extra commerce from mines and plantations</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_THEOCRACY_STRATEGY</Tag>
-		<English>Double available slots for priests; cities with state religion give extra experience; no spread of non-state religions</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TOTALITARIANISM</Tag>
-		<English>Totalitarianism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TOTALITARIANISM_STRATEGY</Tag>
-		<English>Faster military unit production; no war weariness; extra production from unhappy population</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TRIBALISM_STRATEGY</Tag>
-		<English>The most primitive Society civic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_VASSALAGE_STRATEGY</Tag>
-		<English>Additional units without upkeep; units are produced using food; extra food and commerce from forts; extra happiness from castles</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVICOPTION_TERRITORY</Tag>
-		<English>Territory</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVICOPTION_SOCIETY</Tag>
-		<English>Society</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVICOPTION_LEGITIMACY</Tag>
-		<English>Legitimacy</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CHIEFDOM</Tag>
-		<English>Chiefdom</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CHIEFDOM_STRATEGY</Tag>
-		<English>The most primitve Government civic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MONARCHY</Tag>
-		<English>Monarchy</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MONARCHY_STRATEGY</Tag>
-		<English>Extra happiness from military units</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_ELECTIVE</Tag>
-		<English>Elective</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_ELECTIVE_STRATEGY</Tag>
-		<English>Extra commerce from tiles without improvement; extra commerce from camps and pastures; double production speed for palace</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_STATE_PARTY</Tag>
-		<English>State Party</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_STATE_PARTY_STRATEGY</Tag>
-		<English>No maintenance costs from number of cities; extra espionage from specialists</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CONSTITUTION</Tag>
-		<English>Constitution</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CONSTITUTION_STRATEGY</Tag>
-		<English>Double available slots for statesmen; increased great people birth rate</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_AUTHORITY</Tag>
-		<English>Authority</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_AUTHORITY_STRATEGY</Tag>
-		<English>The most primitve Legitimacy civic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CITIZENSHIP</Tag>
-		<English>Citizenship</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CITIZENSHIP_STRATEGY</Tag>
-		<English>Extra happiness in largest cities; double production speed for aqueduct, forge, library, market and jail</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MERITOCRACY</Tag>
-		<English>Meritocracy</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MERITOCRACY_STRATEGY</Tag>
-		<English>Extra experience for units within borders; increased research in capital; extra food from paddy fields</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CENTRALISM</Tag>
-		<English>Centralism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CENTRALISM_STRATEGY</Tag>
-		<English>Increased production and gold in capital</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_IDEOLOGY</Tag>
-		<English>Ideology</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_IDEOLOGY_STRATEGY</Tag>
-		<English>Increased great general birth rate; extra production from towns; extra happiness from news press and broadcasting tower</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_DEMOCRACY</Tag>
-		<English>Democracy</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_DEMOCRACY_STRATEGY</Tag>
-		<English>Extra free specialist in all cities</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TRADITIONALISM</Tag>
-		<English>Traditionalism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TRADITIONALISM_STRATEGY</Tag>
-		<English>The most primitve Society civic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MANORIALISM</Tag>
-		<English>Manorialism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MANORIALISM_STRATEGY</Tag>
-		<English>Reduced worker cost; extra production from pastures; extra commerce from farms and orchards</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_INDIVIDUALISM</Tag>
-		<English>Individualism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_INDIVIDUALISM_STRATEGY</Tag>
-		<English>Increased growth rate for cottages, hamlets and villages; extra commerce from villages and towns</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_RECIPROCITY</Tag>
-		<English>Reciprocity</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_RECIPROCITY_STRATEGY</Tag>
-		<English>The most primitive Economy civic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_REDISTRIBUTION</Tag>
-		<English>Redistribution</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_REDISTRIBUTION_STRATEGY</Tag>
-		<English>Increased food in capital; reduced commerce from trade routes; increased production speed for granaries</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MERCHANT_TRADE</Tag>
-		<English>Merchant Trade</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MERCHANT_TRADE_STRATEGY</Tag>
-		<English>Extra trade route in all cities; happiness from oasis</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_REGULATED_TRADE</Tag>
-		<English>Regulated Trade</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_REGULATED_TRADE_STRATEGY</Tag>
-		<English>Increased commerce in capital; extra commerce from plantations and slave plantations; double production speed for customs house</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_FREE_ENTERPRISE</Tag>
-		<English>Free Enterprise</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_FREE_ENTERPRISE_STRATEGY</Tag>
-		<English>Double available slots for merchants; increased commerce from trade routes; increased commerce from corporations</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_DEIFICATION</Tag>
-		<English>Deification</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_DEIFICATION_STRATEGY</Tag>
-		<English>Increased wonder production speed; extra unhappiness from state religion; extra happiness from pagan temples</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CLERGY</Tag>
-		<English>Clergy</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CLERGY_STRATEGY</Tag>
-		<English>Increased building production in cities with state religion</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MONASTICISM</Tag>
-		<English>Monasticism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MONASTICISM_STRATEGY</Tag>
-		<English>Increased great people birth rate in cities with state religion</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TOLERANCE</Tag>
-		<English>Tolerance</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TOLERANCE_STRATEGY</Tag>
-		<English>Extra happiness from non-state religions; increased culture in capital; can train missionaries without monasteries</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CONQUEST</Tag>
-		<English>Conquest</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_CONQUEST_STRATEGY</Tag>
-		<English>Extra experience for land units; reduced growth rate for cottages, hamlets and villages</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TRIBUTARIES</Tag>
-		<English>Tributaries</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_TRIBUTARIES_STRATEGY</Tag>
-		<English>Extra commerce in capital from vassal cities; extra gold on city conquest</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_ISOLATIONISM</Tag>
-		<English>Isolationism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_ISOLATIONISM_STRATEGY</Tag>
-		<English>Extra free specialist in all cities; no foreign trade routes</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_COLONIALISM</Tag>
-		<English>Colonialism</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_COLONIALISM_STRATEGY</Tag>
-		<English>Extra commerce in capital from colonies; extra experience for water units; can buy and use slaves</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_NATIONHOOD</Tag>
-		<English>Nationhood</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_NATIONHOOD_STRATEGY</Tag>
-		<English>Can draft units; extra production from forts</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIVIC_MULTILATERALISM</Tag>
-		<English>Multilateralism</English>
-	</TEXT>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CENTRAL_PLANNING</Tag>
+    <English>Central Planning</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Central Planning</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CENTRAL_PLANNING_STRATEGY</Tag>
+    <English>Extra production from specialists; extra production from workshops and lumbermills; extra commerce from watermills; double production speed for factories and coal plants</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra production from specialists; extra production from workshops and lumbermills; extra commerce from watermills; double production speed for factories and coal plants</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_ANIMISM</Tag>
+    <English>Animism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Animism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_ANIMISM_STRATEGY</Tag>
+    <English>The most primitive Religion civic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The most primitive Religion civic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_SOVEREIGNTY</Tag>
+    <English>Sovereignty</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Sovereignty</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_SOVEREIGNTY_STRATEGY</Tag>
+    <English>The most primitive Territory civic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The most primitive Territory civic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_EGALITARIANISM</Tag>
+    <English>Egalitarianism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Egalitarianism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_EGALITARIANISM_STRATEGY</Tag>
+    <English>Double available slots for artists, scientists and engineers; extra research from specialists</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Double available slots for artists, scientists and engineers; extra research from specialists</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MULTILATERALISM</Tag>
+    <English>Multilateralism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Multilateralism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MULTILATERALISM_STRATEGY</Tag>
+    <English>Extra experience for air units; extra yield from trade routes with defensive pact partners; trade routes yield production; extra war weariness</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra experience for air units; extra yield from trade routes with defensive pact partners; trade routes yield production; extra war weariness</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CLERGY_STRATEGY</Tag>
+    <English>Cities with state religion construct buildings faster</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Cities with state religion construct buildings faster</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_PUBLIC_WELFARE</Tag>
+    <English>Public Welfare</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Public Welfare</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_PUBLIC_WELFARE_STRATEGY</Tag>
+    <English>Reduced unhappiness from corporations; extra commerce from excess happiness; extra commerce from windmills, nature preserves and marine preserves; can spend gold to finish building production</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Reduced unhappiness from corporations; extra commerce from excess happiness; extra commerce from windmills, nature preserves and marine preserves; can spend gold to finish building production</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_REPUBLIC</Tag>
+    <English>Republic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Republic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_REPUBLIC_STRATEGY</Tag>
+    <English>Extra food from specialists; reduced food from farms, plantations, cottages, hamlets, villages and towns; can spend gold to finish unit production</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra food from specialists; reduced food from farms, plantations, cottages, hamlets, villages and towns; can spend gold to finish unit production</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_SECULARISM</Tag>
+    <English>Secularism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Secularism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_SECULARISM_STRATEGY</Tag>
+    <English>No state religion; increased science in all cities; double production speed for hospital, university, laboratory; can build wonders that require a state religion</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>No state religion; increased science in all cities; double production speed for hospital, university, laboratory; can build wonders that require a state religion</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_SLAVERY_STRATEGY</Tag>
+    <English>Can capture workers; extra production from quarries; extra commerce from mines and plantations</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Can capture workers; extra production from quarries; extra commerce from mines and plantations</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_THEOCRACY_STRATEGY</Tag>
+    <English>Double available slots for priests; cities with state religion give extra experience; no spread of non-state religions</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Double available slots for priests; cities with state religion give extra experience; no spread of non-state religions</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TOTALITARIANISM</Tag>
+    <English>Totalitarianism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Totalitarianism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TOTALITARIANISM_STRATEGY</Tag>
+    <English>Faster military unit production; no war weariness; extra production from unhappy population</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Faster military unit production; no war weariness; extra production from unhappy population</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TRIBALISM_STRATEGY</Tag>
+    <English>The most primitive Society civic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The most primitive Society civic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_VASSALAGE_STRATEGY</Tag>
+    <English>Additional units without upkeep; units are produced using food; extra food and commerce from forts; extra happiness from castles</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Additional units without upkeep; units are produced using food; extra food and commerce from forts; extra happiness from castles</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVICOPTION_TERRITORY</Tag>
+    <English>Territory</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Territory</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVICOPTION_SOCIETY</Tag>
+    <English>Society</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Society</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVICOPTION_LEGITIMACY</Tag>
+    <English>Legitimacy</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Legitimacy</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CHIEFDOM</Tag>
+    <English>Chiefdom</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Chiefdom</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CHIEFDOM_STRATEGY</Tag>
+    <English>The most primitve Government civic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The most primitve Government civic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MONARCHY</Tag>
+    <English>Monarchy</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Monarchy</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MONARCHY_STRATEGY</Tag>
+    <English>Extra happiness from military units</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra happiness from military units</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_ELECTIVE</Tag>
+    <English>Elective</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Elective</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_ELECTIVE_STRATEGY</Tag>
+    <English>Extra commerce from tiles without improvement; extra commerce from camps and pastures; double production speed for palace</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra commerce from tiles without improvement; extra commerce from camps and pastures; double production speed for palace</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_STATE_PARTY</Tag>
+    <English>State Party</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>State Party</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_STATE_PARTY_STRATEGY</Tag>
+    <English>No maintenance costs from number of cities; extra espionage from specialists</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>No maintenance costs from number of cities; extra espionage from specialists</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CONSTITUTION</Tag>
+    <English>Constitution</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Constitution</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CONSTITUTION_STRATEGY</Tag>
+    <English>Double available slots for statesmen; increased great people birth rate</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Double available slots for statesmen; increased great people birth rate</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_AUTHORITY</Tag>
+    <English>Authority</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Authority</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_AUTHORITY_STRATEGY</Tag>
+    <English>The most primitve Legitimacy civic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The most primitve Legitimacy civic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CITIZENSHIP</Tag>
+    <English>Citizenship</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Citizenship</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CITIZENSHIP_STRATEGY</Tag>
+    <English>Extra happiness in largest cities; double production speed for aqueduct, forge, library, market and jail</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra happiness in largest cities; double production speed for aqueduct, forge, library, market and jail</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MERITOCRACY</Tag>
+    <English>Meritocracy</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Meritocracy</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MERITOCRACY_STRATEGY</Tag>
+    <English>Extra experience for units within borders; increased research in capital; extra food from paddy fields</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra experience for units within borders; increased research in capital; extra food from paddy fields</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CENTRALISM</Tag>
+    <English>Centralism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Centralism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CENTRALISM_STRATEGY</Tag>
+    <English>Increased production and gold in capital</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased production and gold in capital</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_IDEOLOGY</Tag>
+    <English>Ideology</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Ideology</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_IDEOLOGY_STRATEGY</Tag>
+    <English>Increased great general birth rate; extra production from towns; extra happiness from news press and broadcasting tower</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased great general birth rate; extra production from towns; extra happiness from news press and broadcasting tower</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_DEMOCRACY</Tag>
+    <English>Democracy</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Democracy</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_DEMOCRACY_STRATEGY</Tag>
+    <English>Extra free specialist in all cities</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra free specialist in all cities</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TRADITIONALISM</Tag>
+    <English>Traditionalism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Traditionalism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TRADITIONALISM_STRATEGY</Tag>
+    <English>The most primitve Society civic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The most primitve Society civic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MANORIALISM</Tag>
+    <English>Manorialism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Manorialism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MANORIALISM_STRATEGY</Tag>
+    <English>Reduced worker cost; extra production from pastures; extra commerce from farms and orchards</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Reduced worker cost; extra production from pastures; extra commerce from farms and orchards</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_INDIVIDUALISM</Tag>
+    <English>Individualism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Individualism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_INDIVIDUALISM_STRATEGY</Tag>
+    <English>Increased growth rate for cottages, hamlets and villages; extra commerce from villages and towns</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased growth rate for cottages, hamlets and villages; extra commerce from villages and towns</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_RECIPROCITY</Tag>
+    <English>Reciprocity</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Reciprocity</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_RECIPROCITY_STRATEGY</Tag>
+    <English>The most primitive Economy civic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The most primitive Economy civic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_REDISTRIBUTION</Tag>
+    <English>Redistribution</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Redistribution</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_REDISTRIBUTION_STRATEGY</Tag>
+    <English>Increased food in capital; reduced commerce from trade routes; increased production speed for granaries</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased food in capital; reduced commerce from trade routes; increased production speed for granaries</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MERCHANT_TRADE</Tag>
+    <English>Merchant Trade</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Merchant Trade</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MERCHANT_TRADE_STRATEGY</Tag>
+    <English>Extra trade route in all cities; happiness from oasis</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra trade route in all cities; happiness from oasis</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_REGULATED_TRADE</Tag>
+    <English>Regulated Trade</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Regulated Trade</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_REGULATED_TRADE_STRATEGY</Tag>
+    <English>Increased commerce in capital; extra commerce from plantations and slave plantations; double production speed for customs house</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased commerce in capital; extra commerce from plantations and slave plantations; double production speed for customs house</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_FREE_ENTERPRISE</Tag>
+    <English>Free Enterprise</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Free Enterprise</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_FREE_ENTERPRISE_STRATEGY</Tag>
+    <English>Double available slots for merchants; increased commerce from trade routes; increased commerce from corporations</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Double available slots for merchants; increased commerce from trade routes; increased commerce from corporations</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_DEIFICATION</Tag>
+    <English>Deification</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Deification</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_DEIFICATION_STRATEGY</Tag>
+    <English>Increased wonder production speed; extra unhappiness from state religion; extra happiness from pagan temples</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased wonder production speed; extra unhappiness from state religion; extra happiness from pagan temples</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CLERGY</Tag>
+    <English>Clergy</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Clergy</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CLERGY_STRATEGY</Tag>
+    <English>Increased building production in cities with state religion</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased building production in cities with state religion</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MONASTICISM</Tag>
+    <English>Monasticism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Monasticism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MONASTICISM_STRATEGY</Tag>
+    <English>Increased great people birth rate in cities with state religion</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Increased great people birth rate in cities with state religion</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TOLERANCE</Tag>
+    <English>Tolerance</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tolerance</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TOLERANCE_STRATEGY</Tag>
+    <English>Extra happiness from non-state religions; increased culture in capital; can train missionaries without monasteries</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra happiness from non-state religions; increased culture in capital; can train missionaries without monasteries</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CONQUEST</Tag>
+    <English>Conquest</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Conquest</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_CONQUEST_STRATEGY</Tag>
+    <English>Extra experience for land units; reduced growth rate for cottages, hamlets and villages</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra experience for land units; reduced growth rate for cottages, hamlets and villages</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TRIBUTARIES</Tag>
+    <English>Tributaries</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tributaries</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_TRIBUTARIES_STRATEGY</Tag>
+    <English>Extra commerce in capital from vassal cities; extra gold on city conquest</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra commerce in capital from vassal cities; extra gold on city conquest</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_ISOLATIONISM</Tag>
+    <English>Isolationism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Isolationism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_ISOLATIONISM_STRATEGY</Tag>
+    <English>Extra free specialist in all cities; no foreign trade routes</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra free specialist in all cities; no foreign trade routes</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_COLONIALISM</Tag>
+    <English>Colonialism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Colonialism</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_COLONIALISM_STRATEGY</Tag>
+    <English>Extra commerce in capital from colonies; extra experience for water units; can buy and use slaves</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Extra commerce in capital from colonies; extra experience for water units; can buy and use slaves</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_NATIONHOOD</Tag>
+    <English>Nationhood</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Nationhood</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_NATIONHOOD_STRATEGY</Tag>
+    <English>Can draft units; extra production from forts</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Can draft units; extra production from forts</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIVIC_MULTILATERALISM</Tag>
+    <English>Multilateralism</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Multilateralism</Chinese>
+  </TEXT>
 </Civ4GameText>

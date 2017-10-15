@@ -1,60 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!-- Colombia -->
 <Civ4GameText xmlns="http://www.firaxis.com">
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_DESC</Tag>
-		<English>The Colombians</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_PEOPLES</Tag>
-		<English>Colombian Peoples</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_DEFAULT</Tag>
-		<English>Kingdom of New Granada</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_REPUBLIC</Tag>
-		<English>Republic of %s1</English>
-		<French>
-			<Text>R&#233;publique de %s1</Text>
-			<Gender>Female</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Republik %s1:Republik %s1:Republik %s1</Text>
-			<Gender>Female:Female:Female</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Repubblica di %s1</Text>
-			<Gender>Female</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Rep&#250;blica de %s1</Text>
-			<Gender>Female</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_COMMUNIST</Tag>
-		<English>Socialist Republic of %s1</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_FASCIST</Tag>
-		<English>Falangist %s1</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_EMPIRE</Tag>
-		<English>Empire of Gran Colombia</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_ADJECTIVE</Tag>
-		<English>Colombian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_COLOMBIA_SHORT_DESC</Tag>
-		<English>Colombia</English>
-	</TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_DESC</Tag>
+    <English>The Colombians</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>The Colombians</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_PEOPLES</Tag>
+    <English>Colombian Peoples</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Colombian Peoples</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_DEFAULT</Tag>
+    <English>Kingdom of New Granada</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Kingdom of New Granada</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_REPUBLIC</Tag>
+    <English>Republic of %s1</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Republic of %s1</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_COMMUNIST</Tag>
+    <English>Socialist Republic of %s1</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Socialist Republic of %s1</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_FASCIST</Tag>
+    <English>Falangist %s1</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Falangist %s1</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_EMPIRE</Tag>
+    <English>Empire of Gran Colombia</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Empire of Gran Colombia</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_ADJECTIVE</Tag>
+    <English>Colombian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Colombian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_COLOMBIA_SHORT_DESC</Tag>
+    <English>Colombia</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Colombia</Chinese>
+  </TEXT>
 </Civ4GameText>
