@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Italian</Chinese>
+    <Chinese>意大利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ITALY_DESC</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Italians</Chinese>
+    <Chinese>意大利文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ITALY_SHORT_DESC</Tag>
@@ -107,6 +107,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Italy</Chinese>
+    <Chinese>意大利</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Egyptians</Chinese>
+    <Chinese>埃及文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_EGYPT_PEOPLES</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ptolemaic Empire</Chinese>
+    <Chinese>托勒密帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_EGYPT_OLD_KINGDOM</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Coptic Kingdom</Chinese>
+    <Chinese>科普特王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_EGYPT_MAMLUK</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Egyptian</Chinese>
+    <Chinese>埃及</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_EGYPT_SHORT_DESC</Tag>
@@ -152,6 +152,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Egypt</Chinese>
+    <Chinese>埃及</Chinese>
   </TEXT>
 </Civ4GameText>

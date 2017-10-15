@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Vikings</Chinese>
+    <Chinese>维京文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SWEDEN_DESC</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Swedish</Chinese>
+    <Chinese>瑞典文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SWEDEN_SHORT_DESC</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sweden</Chinese>
+    <Chinese>瑞典</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SWEDEN_ADJECTIVE</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Swedish</Chinese>
+    <Chinese>瑞典</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DENMARK_SHORT_DESC</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Denmark</Chinese>
+    <Chinese>丹麦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DENMARK_ADJECTIVE</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Denmark</Chinese>
+    <Chinese>丹麦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Norway</Chinese>
+    <Chinese>挪威</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NORWAY_ADJECTIVE</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Norway</Chinese>
+    <Chinese>挪威</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SWEDEN_DEFAULT</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1s</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_PEOPLES</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Norse Peoples</Chinese>
+    <Chinese>斯堪的纳维亚诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_DEFAULT</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_COMMUNIST</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Democratic Republic of %s1</Chinese>
+    <Chinese>%s1民主共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_FASCIST</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National Gathering of %s1</Chinese>
+    <Chinese>%s1民族联盟</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_NORSE_KINGDOMS</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Norse Kingdoms</Chinese>
+    <Chinese>挪威王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_KALMAR_UNION</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kalmar Union</Chinese>
+    <Chinese>卡尔马同盟</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_SWEDISH</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Swedish</Chinese>
+    <Chinese>瑞典</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_DENMARK_NORWAY</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Denmark-Norway</Chinese>
+    <Chinese>丹麦-挪威</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_NORWAY</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Norway</Chinese>
+    <Chinese>挪威</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_SWEDEN</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sweden</Chinese>
+    <Chinese>瑞典</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_DENMARK</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Denmark</Chinese>
+    <Chinese>丹麦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_SCANDINAVIA</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Scandinavia</Chinese>
+    <Chinese>斯堪的纳维亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKINGS_SCANDINAVIAN</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Scandinavian</Chinese>
+    <Chinese>斯堪的纳维亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKING_ENGLAND</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Danelaw</Chinese>
+    <Chinese>丹麦法区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKING_RUSSIA</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Varangian Principalities</Chinese>
+    <Chinese>瓦兰吉公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKING_ADJECTIVE</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Viking</Chinese>
+    <Chinese>维京</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKING_SHORT_DESC</Tag>
@@ -233,6 +233,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vikings</Chinese>
+    <Chinese>维京</Chinese>
   </TEXT>
 </Civ4GameText>

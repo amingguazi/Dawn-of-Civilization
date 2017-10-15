@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Assyrian</Chinese>
+    <Chinese>亚述</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_AVAR</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Avar</Chinese>
+    <Chinese>阿瓦尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_BEDOUIN</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bedouin</Chinese>
+    <Chinese>贝都因</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_BERBER</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Berber</Chinese>
+    <Chinese>柏柏尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_BULGAR</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bulgar</Chinese>
+    <Chinese>保加利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_CUMAN</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cuman</Chinese>
+    <Chinese>库曼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_ELAMITE</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Elamite</Chinese>
+    <Chinese>埃兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_GAUL</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gaul</Chinese>
+    <Chinese>高卢</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_GERMANIC</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Germanic</Chinese>
+    <Chinese>日耳曼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_GHANAIAN</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ghanaian</Chinese>
+    <Chinese>加纳</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_GOKTURK</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>G?ktürk</Chinese>
+    <Chinese>突厥</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_HEPHTHALITE</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hephthalite</Chinese>
+    <Chinese>嚈哒</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_HITTITE</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hittite</Chinese>
+    <Chinese>赫梯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_HUNNIC</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hunnic</Chinese>
+    <Chinese>匈人</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_INDO_SCYTHIAN</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indo-Scythian</Chinese>
+    <Chinese>印度-西徐亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_JURCHEN</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Jurchen</Chinese>
+    <Chinese>女真</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_KAZAKH</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Norse</Chinese>
+    <Chinese>挪威</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_NUBIAN</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Nubian</Chinese>
+    <Chinese>努比亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_PARTHIAN</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Parthian</Chinese>
+    <Chinese>帕提亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_SIBIR</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Songhai</Chinese>
+    <Chinese>桑海</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_TATAR</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tibetan</Chinese>
+    <Chinese>吐蕃</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_TURKIC</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Turkic</Chinese>
+    <Chinese>突厥</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_UIGHUR</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Uighur</Chinese>
+    <Chinese>回纥</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_UZBEK</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Visigothic</Chinese>
+    <Chinese>西哥特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ADJECTIVE_XIONGNU</Tag>
@@ -287,7 +287,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Xiongnu</Chinese>
+    <Chinese>匈奴</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERC_CELT_ADJECTIVE</Tag>
@@ -300,7 +300,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CelticMale0</Chinese>
+    <Chinese>凯尔特Male0</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERC_KOREA_ADJECTIVE</Tag>
@@ -313,7 +313,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>KoreanMale0</Chinese>
+    <Chinese>韩国Male0</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERC_ZULU_ADJECTIVE</Tag>
@@ -326,7 +326,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ZuluMale0</Chinese>
+    <Chinese>祖鲁Male0</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_AINU</Tag>
@@ -335,7 +335,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ainu</Chinese>
+    <Chinese>阿伊努</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_APACHE</Tag>
@@ -344,7 +344,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Apache</Chinese>
+    <Chinese>阿帕切</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ARABIAN</Tag>
@@ -353,7 +353,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Arabian</Chinese>
+    <Chinese>阿拉伯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ARYAN</Tag>
@@ -362,7 +362,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Aryan</Chinese>
+    <Chinese>雅利安</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ASHANTI</Tag>
@@ -371,7 +371,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ashanti</Chinese>
+    <Chinese>阿善堤</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ASSYRIAN</Tag>
@@ -380,7 +380,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Assyrian</Chinese>
+    <Chinese>亚述</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BACTRIAN</Tag>
@@ -389,7 +389,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bactrian</Chinese>
+    <Chinese>大夏</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BANTU</Tag>
@@ -398,7 +398,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bantu</Chinese>
+    <Chinese>班图</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BENGAL</Tag>
@@ -407,7 +407,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bengal</Chinese>
+    <Chinese>孟加拉</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BERBER</Tag>
@@ -416,7 +416,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Berber</Chinese>
+    <Chinese>柏柏尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BOHEMIAN</Tag>
@@ -425,7 +425,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bohemian</Chinese>
+    <Chinese>波西米亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BRITON</Tag>
@@ -434,7 +434,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Briton</Chinese>
+    <Chinese>不列颠</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BULGAR</Tag>
@@ -443,7 +443,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bulgar</Chinese>
+    <Chinese>保加利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BURGUNDIAN</Tag>
@@ -452,7 +452,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Burgundian</Chinese>
+    <Chinese>勃艮第</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_BURMESE</Tag>
@@ -461,7 +461,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Burmese</Chinese>
+    <Chinese>缅甸</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_CATALAN</Tag>
@@ -470,7 +470,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Catalan</Chinese>
+    <Chinese>加泰隆</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_CELTIC</Tag>
@@ -479,7 +479,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Celtic</Chinese>
+    <Chinese>凯尔特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_CHAN_CHAN</Tag>
@@ -488,7 +488,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Moche</Chinese>
+    <Chinese>莫希</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_CHEYENNE</Tag>
@@ -497,7 +497,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cheyenne</Chinese>
+    <Chinese>夏延</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_CIRCASSIAN</Tag>
@@ -506,7 +506,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Circassian</Chinese>
+    <Chinese>切尔克斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_DACIAN</Tag>
@@ -515,7 +515,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dacian</Chinese>
+    <Chinese>达契亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_DRAVIDIAN</Tag>
@@ -524,7 +524,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dravidian</Chinese>
+    <Chinese>达罗毗荼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ELAMITE</Tag>
@@ -533,7 +533,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Elamite</Chinese>
+    <Chinese>埃兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ETRUSCAN</Tag>
@@ -542,7 +542,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Etruscan</Chinese>
+    <Chinese>伊特鲁里亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_GAULISH</Tag>
@@ -551,7 +551,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gaulish</Chinese>
+    <Chinese>高卢</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_GOTHIC</Tag>
@@ -560,7 +560,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gothic</Chinese>
+    <Chinese>哥特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_GUARANI</Tag>
@@ -569,7 +569,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Guarani</Chinese>
+    <Chinese>瓜拉尼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_HAN</Tag>
@@ -578,7 +578,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Han</Chinese>
+    <Chinese>汉族</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_HARAPPAN</Tag>
@@ -587,7 +587,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Harappan</Chinese>
+    <Chinese>哈拉帕</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_HITTITE</Tag>
@@ -596,7 +596,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hittite</Chinese>
+    <Chinese>赫梯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_HUNGARIAN</Tag>
@@ -605,7 +605,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hungarian</Chinese>
+    <Chinese>匈牙利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_HURRIAN</Tag>
@@ -614,7 +614,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hurrian</Chinese>
+    <Chinese>胡里特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_HYKSOS</Tag>
@@ -623,7 +623,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hyksos</Chinese>
+    <Chinese>希克索斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_IBERIAN</Tag>
@@ -632,7 +632,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iberian</Chinese>
+    <Chinese>伊比利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ILLYRIAN</Tag>
@@ -641,7 +641,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Illyrian</Chinese>
+    <Chinese>伊利里亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_IRANIAN</Tag>
@@ -650,7 +650,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iranian</Chinese>
+    <Chinese>伊朗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_IRAQI</Tag>
@@ -659,7 +659,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iraqi</Chinese>
+    <Chinese>伊拉克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_IRISH</Tag>
@@ -668,7 +668,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Irish</Chinese>
+    <Chinese>爱尔兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_IROQUOIS</Tag>
@@ -677,7 +677,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iroquois</Chinese>
+    <Chinese>易洛魁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_JAVANESE</Tag>
@@ -686,7 +686,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Javanese</Chinese>
+    <Chinese>爪哇</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_JUDEAN</Tag>
@@ -695,7 +695,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Judean</Chinese>
+    <Chinese>犹太</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_KASSITE</Tag>
@@ -704,7 +704,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kassite</Chinese>
+    <Chinese>加喜特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_KHAZAR</Tag>
@@ -713,7 +713,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Khazar</Chinese>
+    <Chinese>哈札尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_KHMER</Tag>
@@ -722,7 +722,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Khmer</Chinese>
+    <Chinese>高棉</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_KHWAREZMID</Tag>
@@ -731,7 +731,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Khwarezmid</Chinese>
+    <Chinese>花剌子模</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_KIMMERIAN</Tag>
@@ -740,7 +740,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kimmerian</Chinese>
+    <Chinese>辛梅里安</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_KURDISH</Tag>
@@ -749,7 +749,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kurdish</Chinese>
+    <Chinese>库尔德</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_KUSHAN</Tag>
@@ -758,7 +758,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kushan</Chinese>
+    <Chinese>贵霜</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_LOMBARD</Tag>
@@ -767,7 +767,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Lombard</Chinese>
+    <Chinese>伦巴第</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_LYDIAN</Tag>
@@ -776,7 +776,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Lydian</Chinese>
+    <Chinese>吕底亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_MALAY</Tag>
@@ -785,7 +785,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Malay</Chinese>
+    <Chinese>马来</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_MANCHU</Tag>
@@ -794,7 +794,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Manchu</Chinese>
+    <Chinese>满族</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_MINOAN</Tag>
@@ -803,7 +803,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Minoan</Chinese>
+    <Chinese>克里特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_MOORISH</Tag>
@@ -812,7 +812,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Moorish</Chinese>
+    <Chinese>摩尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_NABATEAN</Tag>
@@ -821,7 +821,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Nabatean</Chinese>
+    <Chinese>纳巴泰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_NAZCAN</Tag>
@@ -830,7 +830,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Nazcan</Chinese>
+    <Chinese>纳斯卡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_NORMAN</Tag>
@@ -839,7 +839,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Norman</Chinese>
+    <Chinese>诺曼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_NUBIAN</Tag>
@@ -848,7 +848,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Nubian</Chinese>
+    <Chinese>努比亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_NUMIDIAN</Tag>
@@ -857,7 +857,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Numidian</Chinese>
+    <Chinese>努米底亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_OCCITAN</Tag>
@@ -866,7 +866,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Occitan</Chinese>
+    <Chinese>欧西坦尼亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_OLMEC</Tag>
@@ -875,7 +875,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Olmec</Chinese>
+    <Chinese>奥尔梅克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_OMANI</Tag>
@@ -884,7 +884,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Omani</Chinese>
+    <Chinese>阿曼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_PARTHIAN</Tag>
@@ -893,7 +893,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Parthian</Chinese>
+    <Chinese>帕提亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_PASHTUN</Tag>
@@ -902,7 +902,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pashtun</Chinese>
+    <Chinese>普什图</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_PHILISTINE</Tag>
@@ -911,7 +911,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Philistine</Chinese>
+    <Chinese>非利士</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_POLISH</Tag>
@@ -920,7 +920,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Polish</Chinese>
+    <Chinese>波兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_POLYNESIAN</Tag>
@@ -929,7 +929,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Polynesian</Chinese>
+    <Chinese>波利尼西亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_RAJPUT</Tag>
@@ -938,7 +938,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rajput</Chinese>
+    <Chinese>拉其普特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_RUS</Tag>
@@ -947,7 +947,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rus</Chinese>
+    <Chinese>罗斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SABEAN</Tag>
@@ -956,7 +956,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sabean</Chinese>
+    <Chinese>塞巴</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SCOTS</Tag>
@@ -965,7 +965,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Scottish</Chinese>
+    <Chinese>苏格兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SELJUK</Tag>
@@ -974,7 +974,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Seljuk</Chinese>
+    <Chinese>塞尔柱</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SICILIAN</Tag>
@@ -983,7 +983,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sicilian</Chinese>
+    <Chinese>西西里</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SIKH</Tag>
@@ -992,7 +992,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sikh</Chinese>
+    <Chinese>锡克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SIOUX</Tag>
@@ -1001,7 +1001,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sioux</Chinese>
+    <Chinese>苏族</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SLAVIC</Tag>
@@ -1010,7 +1010,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Slavic</Chinese>
+    <Chinese>斯拉夫</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SONGHAI</Tag>
@@ -1019,7 +1019,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Songhai</Chinese>
+    <Chinese>桑海</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SUAHELI</Tag>
@@ -1028,7 +1028,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Suaheli</Chinese>
+    <Chinese>斯瓦希里</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SUMERIAN</Tag>
@@ -1037,7 +1037,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sumerian</Chinese>
+    <Chinese>苏美尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SWISS</Tag>
@@ -1046,7 +1046,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Swiss</Chinese>
+    <Chinese>瑞士</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_TAMIL</Tag>
@@ -1055,7 +1055,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tamil</Chinese>
+    <Chinese>泰米尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_TARTAR</Tag>
@@ -1064,7 +1064,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tartar</Chinese>
+    <Chinese>鞑靼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_THAI</Tag>
@@ -1073,7 +1073,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Thai</Chinese>
+    <Chinese>泰国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_THRACIAN</Tag>
@@ -1082,7 +1082,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Thracian</Chinese>
+    <Chinese>色雷斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_TIBETAN</Tag>
@@ -1091,7 +1091,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tibetan</Chinese>
+    <Chinese>藏族</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_TOLTEC</Tag>
@@ -1100,7 +1100,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Toltec</Chinese>
+    <Chinese>托尔特克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_UZBEK</Tag>
@@ -1109,7 +1109,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Uzbek</Chinese>
+    <Chinese>乌兹别克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_VANDAL</Tag>
@@ -1118,7 +1118,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vandal</Chinese>
+    <Chinese>汪达尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_VARANGIAN</Tag>
@@ -1127,7 +1127,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Varangian</Chinese>
+    <Chinese>瓦拉几亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_VIETNAMESE</Tag>
@@ -1136,7 +1136,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vietnamese</Chinese>
+    <Chinese>越南</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_XIONGNU</Tag>
@@ -1145,7 +1145,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Xiongnu</Chinese>
+    <Chinese>匈奴</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_YAMATO</Tag>
@@ -1154,7 +1154,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Yamato</Chinese>
+    <Chinese>大和</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_YUEZHI</Tag>
@@ -1163,7 +1163,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Yuezhi</Chinese>
+    <Chinese>月氏</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ZAPOTEC</Tag>
@@ -1172,7 +1172,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Zapotec</Chinese>
+    <Chinese>萨波特克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_ZULU</Tag>
@@ -1181,6 +1181,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Zulu</Chinese>
+    <Chinese>祖鲁</Chinese>
   </TEXT>
 </Civ4GameText>

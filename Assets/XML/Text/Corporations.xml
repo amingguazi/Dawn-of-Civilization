@@ -170,6 +170,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] has left %s2_CityName.</Chinese>
+    <Chinese>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT]已经离开了%s2_CityName。</Chinese>
   </TEXT>
 </Civ4GameText>

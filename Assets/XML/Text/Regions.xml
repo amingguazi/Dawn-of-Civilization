@@ -19,7 +19,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Britain</Chinese>
+    <Chinese>不列颠</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_1</Tag>
@@ -28,7 +28,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iberia</Chinese>
+    <Chinese>伊比利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_2</Tag>
@@ -37,7 +37,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Italy</Chinese>
+    <Chinese>意大利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_3</Tag>
@@ -46,7 +46,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Balkans</Chinese>
+    <Chinese>巴尔干</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_4</Tag>
@@ -55,7 +55,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Europe</Chinese>
+    <Chinese>欧洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_5</Tag>
@@ -64,7 +64,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Scandinavia</Chinese>
+    <Chinese>斯堪的纳维亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_6</Tag>
@@ -73,7 +73,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Russia</Chinese>
+    <Chinese>俄罗斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_7</Tag>
@@ -82,7 +82,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anatolia</Chinese>
+    <Chinese>安纳托利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_8</Tag>
@@ -91,7 +91,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mesopotamia</Chinese>
+    <Chinese>美索不达米亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_9</Tag>
@@ -100,7 +100,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Arabia</Chinese>
+    <Chinese>阿拉伯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_10</Tag>
@@ -109,7 +109,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Egypt</Chinese>
+    <Chinese>埃及</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_11</Tag>
@@ -118,7 +118,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Maghreb</Chinese>
+    <Chinese>马格里布</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_12</Tag>
@@ -127,7 +127,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Persia</Chinese>
+    <Chinese>波斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_13</Tag>
@@ -136,7 +136,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>India</Chinese>
+    <Chinese>印度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_14</Tag>
@@ -145,7 +145,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Deccan</Chinese>
+    <Chinese>德干</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_15</Tag>
@@ -154,7 +154,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indochina</Chinese>
+    <Chinese>中南半岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_16</Tag>
@@ -163,7 +163,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indonesia</Chinese>
+    <Chinese>印度尼西亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_17</Tag>
@@ -172,7 +172,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>China</Chinese>
+    <Chinese>中国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_18</Tag>
@@ -181,7 +181,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Korea</Chinese>
+    <Chinese>朝鲜半岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_19</Tag>
@@ -190,7 +190,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Japan</Chinese>
+    <Chinese>日本</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_20</Tag>
@@ -199,7 +199,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Manchuria</Chinese>
+    <Chinese>满洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_21</Tag>
@@ -208,7 +208,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tibet</Chinese>
+    <Chinese>西藏</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_22</Tag>
@@ -217,7 +217,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Central Asia</Chinese>
+    <Chinese>中亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_23</Tag>
@@ -226,7 +226,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Siberia</Chinese>
+    <Chinese>西伯利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_24</Tag>
@@ -235,7 +235,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Australia</Chinese>
+    <Chinese>澳大利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_25</Tag>
@@ -244,7 +244,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Oceania</Chinese>
+    <Chinese>大洋洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_26</Tag>
@@ -253,7 +253,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ethiopia</Chinese>
+    <Chinese>埃塞俄比亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_27</Tag>
@@ -262,7 +262,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>West Africa</Chinese>
+    <Chinese>西非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_28</Tag>
@@ -271,7 +271,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>South Africa</Chinese>
+    <Chinese>南非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_29</Tag>
@@ -280,7 +280,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Canada</Chinese>
+    <Chinese>加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_30</Tag>
@@ -289,7 +289,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Alaska</Chinese>
+    <Chinese>阿拉斯加</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_31</Tag>
@@ -298,7 +298,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>United States</Chinese>
+    <Chinese>美国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_32</Tag>
@@ -307,7 +307,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Caribbean</Chinese>
+    <Chinese>加勒比</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_33</Tag>
@@ -316,7 +316,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mesoamerica</Chinese>
+    <Chinese>中美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_34</Tag>
@@ -325,7 +325,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Brazil</Chinese>
+    <Chinese>巴西</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_35</Tag>
@@ -334,7 +334,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Argentina</Chinese>
+    <Chinese>阿根廷</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_36</Tag>
@@ -343,7 +343,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Peru</Chinese>
+    <Chinese>秘鲁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_37</Tag>
@@ -352,7 +352,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Colombia</Chinese>
+    <Chinese>哥伦比亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_</Tag>
@@ -372,7 +372,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Egypt</Chinese>
+    <Chinese>埃及</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_1</Tag>
@@ -381,7 +381,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Phoenicia</Chinese>
+    <Chinese>腓尼基</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_2</Tag>
@@ -390,7 +390,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Babylonia</Chinese>
+    <Chinese>巴比伦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_3</Tag>
@@ -399,7 +399,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Persia</Chinese>
+    <Chinese>波斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_4</Tag>
@@ -408,7 +408,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mesopotamia</Chinese>
+    <Chinese>美索不达米亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_5</Tag>
@@ -417,7 +417,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Transoxania</Chinese>
+    <Chinese>河中地区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_6</Tag>
@@ -426,7 +426,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Northwest India</Chinese>
+    <Chinese>印度西北部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_7</Tag>
@@ -435,7 +435,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mediterranean</Chinese>
+    <Chinese>地中海地区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_8</Tag>
@@ -444,7 +444,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iberia</Chinese>
+    <Chinese>伊比利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_9</Tag>
@@ -453,7 +453,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gaul</Chinese>
+    <Chinese>高卢</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_10</Tag>
@@ -462,7 +462,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Britain</Chinese>
+    <Chinese>不列颠</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_11</Tag>
@@ -471,7 +471,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Africa</Chinese>
+    <Chinese>阿非利加</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_12</Tag>
@@ -480,7 +480,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greece and Anatolia</Chinese>
+    <Chinese>希腊和安纳托利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_13</Tag>
@@ -489,7 +489,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Egypt</Chinese>
+    <Chinese>埃及</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_14</Tag>
@@ -498,7 +498,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Korea</Chinese>
+    <Chinese>韩国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_15</Tag>
@@ -507,7 +507,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Manchuria</Chinese>
+    <Chinese>满洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_16</Tag>
@@ -516,7 +516,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>China</Chinese>
+    <Chinese>中国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_17</Tag>
@@ -525,7 +525,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indochina</Chinese>
+    <Chinese>中南半岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_18</Tag>
@@ -534,7 +534,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indonesia</Chinese>
+    <Chinese>印度尼西亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_19</Tag>
@@ -543,7 +543,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Philippines</Chinese>
+    <Chinese>菲律宾</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_20</Tag>
@@ -552,7 +552,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ethiopia and Subequatorial Africa</Chinese>
+    <Chinese>埃塞俄比亚和赤道非洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_21</Tag>
@@ -561,7 +561,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Balkans</Chinese>
+    <Chinese>巴尔干</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_22</Tag>
@@ -570,7 +570,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>North Africa</Chinese>
+    <Chinese>北非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_23</Tag>
@@ -579,7 +579,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Near East</Chinese>
+    <Chinese>近东</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_24</Tag>
@@ -588,7 +588,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Egypt</Chinese>
+    <Chinese>埃及</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_25</Tag>
@@ -597,7 +597,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Maghreb</Chinese>
+    <Chinese>马格里布</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_26</Tag>
@@ -606,7 +606,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mesopotamia</Chinese>
+    <Chinese>美索不达米亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_27</Tag>
@@ -615,7 +615,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Persia</Chinese>
+    <Chinese>波斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_28</Tag>
@@ -624,7 +624,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Spain</Chinese>
+    <Chinese>西班牙</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_29</Tag>
@@ -633,7 +633,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Europe</Chinese>
+    <Chinese>欧洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_30</Tag>
@@ -642,7 +642,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>North America</Chinese>
+    <Chinese>北美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_31</Tag>
@@ -651,7 +651,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>North America</Chinese>
+    <Chinese>北美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_32</Tag>
@@ -660,7 +660,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>South and Central America</Chinese>
+    <Chinese>中南美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_33</Tag>
@@ -669,7 +669,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Africa</Chinese>
+    <Chinese>非洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_34</Tag>
@@ -678,7 +678,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Asia</Chinese>
+    <Chinese>亚洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_35</Tag>
@@ -687,7 +687,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Australia and Oceania</Chinese>
+    <Chinese>澳洲和大洋洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_36</Tag>
@@ -696,7 +696,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>France</Chinese>
+    <Chinese>法兰西</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_37</Tag>
@@ -705,7 +705,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Italy</Chinese>
+    <Chinese>意大利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_38</Tag>
@@ -714,7 +714,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Russia</Chinese>
+    <Chinese>俄罗斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_39</Tag>
@@ -723,7 +723,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>England</Chinese>
+    <Chinese>英格兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_40</Tag>
@@ -732,7 +732,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Scandinavia</Chinese>
+    <Chinese>斯堪的纳维亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_41</Tag>
@@ -741,7 +741,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Siberia</Chinese>
+    <Chinese>西伯利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_42</Tag>
@@ -750,7 +750,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Andean Coast, South America</Chinese>
+    <Chinese>安第斯海岸、南美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_43</Tag>
@@ -759,7 +759,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Peru, South America</Chinese>
+    <Chinese>秘鲁、南美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_44</Tag>
@@ -768,7 +768,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gran Columbia, South America</Chinese>
+    <Chinese>大哥伦比亚、南美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_45</Tag>
@@ -777,7 +777,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Guayanas, South America</Chinese>
+    <Chinese>圭亚那、南美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_46</Tag>
@@ -786,7 +786,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Caribbean</Chinese>
+    <Chinese>加勒比海</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_47</Tag>
@@ -795,7 +795,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eastern Mediterranean</Chinese>
+    <Chinese>地中海东部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_48</Tag>
@@ -804,7 +804,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Black Sea</Chinese>
+    <Chinese>黑海地区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_49</Tag>
@@ -813,7 +813,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cairo</Chinese>
+    <Chinese>开罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_50</Tag>
@@ -822,7 +822,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mecca</Chinese>
+    <Chinese>麦加</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_51</Tag>
@@ -831,7 +831,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Baghdad</Chinese>
+    <Chinese>巴格达</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_52</Tag>
@@ -840,7 +840,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vienna</Chinese>
+    <Chinese>维也纳</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_53</Tag>
@@ -849,7 +849,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>South Asia</Chinese>
+    <Chinese>南亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_54</Tag>
@@ -858,7 +858,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>North and Central America</Chinese>
+    <Chinese>中美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_55</Tag>
@@ -867,7 +867,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Deccan</Chinese>
+    <Chinese>德干</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_56</Tag>
@@ -876,7 +876,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Srivijaya</Chinese>
+    <Chinese>室利佛逝</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_57</Tag>
@@ -885,7 +885,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iberia</Chinese>
+    <Chinese>伊比利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_58</Tag>
@@ -894,7 +894,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Maghreb</Chinese>
+    <Chinese>马格里布</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_59</Tag>
@@ -903,7 +903,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>West Africa</Chinese>
+    <Chinese>西非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_60</Tag>
@@ -912,7 +912,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Brazil</Chinese>
+    <Chinese>巴西</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_61</Tag>
@@ -921,7 +921,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>South America</Chinese>
+    <Chinese>南美洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_62</Tag>
@@ -930,7 +930,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Canada</Chinese>
+    <Chinese>加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_63</Tag>
@@ -939,7 +939,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Atlantic Coast, Canada</Chinese>
+    <Chinese>大西洋沿岸、加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_64</Tag>
@@ -948,7 +948,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pacific Coast, Canada</Chinese>
+    <Chinese>太平洋沿岸、加拿大</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_65</Tag>
@@ -957,7 +957,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hawaii</Chinese>
+    <Chinese>夏威夷</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_66</Tag>
@@ -966,7 +966,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>New Zealand</Chinese>
+    <Chinese>新西兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_67</Tag>
@@ -975,7 +975,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Marquesas</Chinese>
+    <Chinese>马克萨斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_68</Tag>
@@ -984,7 +984,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Easter Island</Chinese>
+    <Chinese>复活节岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UHV_AREA_69</Tag>
@@ -993,6 +993,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>China</Chinese>
+    <Chinese>中国</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Diplomacy</Chinese>
+    <Chinese>外交</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_1</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Neighbors</Chinese>
+    <Chinese>邻邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_10</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civic Number of Cities</Chinese>
+    <Chinese>城市数目</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_11</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civic Cap</Chinese>
+    <Chinese>政体覆盖</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_12</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civic Techs</Chinese>
+    <Chinese>政体科技</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_13</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Foreign Core Cities</Chinese>
+    <Chinese>外国核心区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_14</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>City Happiness</Chinese>
+    <Chinese>城市快乐指数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_15</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>City Civics</Chinese>
+    <Chinese>城市政体</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_16</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>City Culture</Chinese>
+    <Chinese>城市文化</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_17</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Total City Stability</Chinese>
+    <Chinese>城市稳定度总和</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_18</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Trade</Chinese>
+    <Chinese>贸易</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_19</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Economy</Chinese>
+    <Chinese>经济</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_2</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vassals</Chinese>
+    <Chinese>附庸</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_20</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Happiness</Chinese>
+    <Chinese>快乐指数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_21</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Economy Extra</Chinese>
+    <Chinese>额外经济</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_22</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Great Depression</Chinese>
+    <Chinese>大萧条</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_23</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Foreign Great Depression</Chinese>
+    <Chinese>国外大萧条</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_24</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Post-Communist Crisis</Chinese>
+    <Chinese>共产主义危机</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_25</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Transition to Democracy</Chinese>
+    <Chinese>民主主义过度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_26</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Number of Cities</Chinese>
+    <Chinese>城市数目</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_27</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Combat</Chinese>
+    <Chinese>战斗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_28</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Combat Extra</Chinese>
+    <Chinese>额外战斗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_29</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anarchy</Chinese>
+    <Chinese>无政府状态</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_3</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Imperialism</Chinese>
+    <Chinese>帝国主义</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_30</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Golden Age</Chinese>
+    <Chinese>黄金时代</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_31</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fall</Chinese>
+    <Chinese>下降</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_32</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Base Stability</Chinese>
+    <Chinese>基础稳定度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_4</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Contacts</Chinese>
+    <Chinese>联系</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_5</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Expansion</Chinese>
+    <Chinese>扩张</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_6</Tag>
@@ -269,7 +269,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Outer Expansion</Chinese>
+    <Chinese>对外扩张</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_7</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Occupied Core</Chinese>
+    <Chinese>占领核心区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_8</Tag>
@@ -287,7 +287,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civic Combinations</Chinese>
+    <Chinese>政体组合</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_9</Tag>
@@ -296,7 +296,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civic Era</Chinese>
+    <Chinese>政体时代</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_ADVISOR_TITLE</Tag>
@@ -305,7 +305,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>STABILITY: </Chinese>
+    <Chinese>稳定度: </Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_ANARCHY</Tag>
@@ -314,7 +314,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anarchy</Chinese>
+    <Chinese>无政府状态</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_BAD_RELATIONS</Tag>
@@ -341,7 +341,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Base Stability</Chinese>
+    <Chinese>基础稳定度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_BUILDINGS</Tag>
@@ -350,7 +350,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Buildings</Chinese>
+    <Chinese>建筑</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CANCEL_CAPITULATION</Tag>
@@ -395,7 +395,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Stability Limits</Chinese>
+    <Chinese>稳定度范围</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CATEGORY_DOMESTIC</Tag>
@@ -458,7 +458,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Check the Interior Advisor (F2) for details</Chinese>
+    <Chinese>查看内政顾问界面(F2)了解详情</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITIES_BUILT</Tag>
@@ -467,7 +467,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cities Built</Chinese>
+    <Chinese>建立城市</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITIES_CONQUERED</Tag>
@@ -476,7 +476,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cities Conquered</Chinese>
+    <Chinese>征服城市</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITIES_LOST</Tag>
@@ -485,7 +485,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cities Lost</Chinese>
+    <Chinese>丢失城市</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITIES_RAZED</Tag>
@@ -494,7 +494,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cities Razed</Chinese>
+    <Chinese>夷平城市</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITIES_TITLE</Tag>
@@ -503,7 +503,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CITIES</Chinese>
+    <Chinese>城市</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITY_CHANGED_OWNER</Tag>
@@ -530,7 +530,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civics</Chinese>
+    <Chinese>政体</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITY_CULTURE</Tag>
@@ -539,7 +539,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Culture</Chinese>
+    <Chinese>文化</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITY_HAPPINESS</Tag>
@@ -548,7 +548,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Happiness</Chinese>
+    <Chinese>快乐点数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CITY_INDEPENDENCE</Tag>
@@ -566,7 +566,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>City Territory</Chinese>
+    <Chinese>城市地块</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CIVIC_COMBINATIONS</Tag>
@@ -575,7 +575,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Combinations</Chinese>
+    <Chinese>组合</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CIVIC_ERA</Tag>
@@ -584,7 +584,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Era</Chinese>
+    <Chinese>时代</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CIVIC_NUMBER_CITIES</Tag>
@@ -593,7 +593,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Number of Cities</Chinese>
+    <Chinese>城市数目</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CIVIC_TECH</Tag>
@@ -602,7 +602,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Technologies</Chinese>
+    <Chinese>科技</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CIVICS_TITLE</Tag>
@@ -611,7 +611,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CIVICS</Chinese>
+    <Chinese>政体</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CIVILWAR</Tag>
@@ -620,7 +620,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>is descending into civil war!</Chinese>
+    <Chinese>陷入了内战!</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CIVILWAR_HUMAN</Tag>
@@ -629,7 +629,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Your empire is descending into civil war!</Chinese>
+    <Chinese>你的帝国陷入了内战!</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_COLLAPSE_TO_CORE</Tag>
@@ -647,7 +647,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Collapsing</Chinese>
+    <Chinese>极其动荡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_COMBAT</Tag>
@@ -656,7 +656,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Combat</Chinese>
+    <Chinese>战斗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_COMPATIBLE_CIVICS</Tag>
@@ -692,7 +692,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Contacts</Chinese>
+    <Chinese>联系</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CONTEMPORARY_CIVICS</Tag>
@@ -710,7 +710,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Contested Area</Chinese>
+    <Chinese>受争议区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CORE_AREA</Tag>
@@ -719,7 +719,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Core Area</Chinese>
+    <Chinese>核心区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_CORE_PERIPHERY_INFO</Tag>
@@ -872,7 +872,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>instability caused by transition to democracy!</Chinese>
+    <Chinese>民主制度转型导致动荡!</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_DEMOCRACY_TRANSITION</Tag>
@@ -881,7 +881,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Transition to Democracy</Chinese>
+    <Chinese>民主过渡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_DIFFICULTY</Tag>
@@ -890,7 +890,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Difficulty Level</Chinese>
+    <Chinese>游戏难度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_DIPLOMACY</Tag>
@@ -899,7 +899,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Diplomacy</Chinese>
+    <Chinese>外交</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_DIPLOMACY_TITLE</Tag>
@@ -908,7 +908,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>FOREIGN</Chinese>
+    <Chinese>外交</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_DOMESTIC_CRISIS</Tag>
@@ -971,7 +971,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Economy</Chinese>
+    <Chinese>经济</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_ECONOMY_TITLE</Tag>
@@ -980,7 +980,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ECONOMY</Chinese>
+    <Chinese>经济</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_EXPANSION_TITLE</Tag>
@@ -989,7 +989,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>EXPANSION</Chinese>
+    <Chinese>扩张</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_FALL</Tag>
@@ -998,7 +998,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Historicity</Chinese>
+    <Chinese>史实性</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_FOREIGN_AREA</Tag>
@@ -1007,7 +1007,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Foreign Area</Chinese>
+    <Chinese>外国区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_FOREIGN_CORE_AREA</Tag>
@@ -1016,7 +1016,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Foreign Core Area</Chinese>
+    <Chinese>外国核心区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_FOREIGN_GREAT_DEPRESSION</Tag>
@@ -1025,7 +1025,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Great Depression (foreign)</Chinese>
+    <Chinese>大萧条 (国外因素)</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_FOREIGN_SECESSION</Tag>
@@ -1043,7 +1043,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Golden Age</Chinese>
+    <Chinese>黄金时代</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_GOOD_RELATIONS</Tag>
@@ -1061,7 +1061,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Great Depression</Chinese>
+    <Chinese>大萧条</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION_INFLUENCE</Tag>
@@ -1070,7 +1070,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The period of Great Depression in the %s1 is negatively influencing our economy!</Chinese>
+    <Chinese>%s1的长期萧条已对我们的经济造成严重的负面影响！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION_INFLUENCE1</Tag>
@@ -1079,7 +1079,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The period of Great Depression in the</Chinese>
+    <Chinese>工商业大萧条席卷</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION_INFLUENCE2</Tag>
@@ -1088,7 +1088,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>is negatively influencing our economy!</Chinese>
+    <Chinese>并对经济造成严重影响!</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_HAPPINESS</Tag>
@@ -1097,7 +1097,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Happiness</Chinese>
+    <Chinese>快乐指数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_HISTORICAL_AREA</Tag>
@@ -1106,7 +1106,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Historical Area</Chinese>
+    <Chinese>历史区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_IMMOBILIZED_UNITS</Tag>
@@ -1205,7 +1205,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>MISCELLANEOUS</Chinese>
+    <Chinese>杂项</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_NEIGHBORS</Tag>
@@ -1232,7 +1232,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Normalization</Chinese>
+    <Chinese>正常化</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_OCCUPIED_CORE</Tag>
@@ -1241,7 +1241,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Occupied Core</Chinese>
+    <Chinese>占领核心区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_OCCUPIED_FOREIGN_CORE</Tag>
@@ -1250,7 +1250,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Occupied Foreign Core</Chinese>
+    <Chinese>占领外国核心区域</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_OUTDATED_CIVICS</Tag>
@@ -1268,7 +1268,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Outer Territory</Chinese>
+    <Chinese>外界地块</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_OVERALL</Tag>
@@ -1277,7 +1277,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Overall Stability</Chinese>
+    <Chinese>稳定度总和</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_PARAMETER_CITIES</Tag>
@@ -1286,7 +1286,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CITIES</Chinese>
+    <Chinese>城市</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_PARAMETER_CIVICS</Tag>
@@ -1295,7 +1295,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CIVICS</Chinese>
+    <Chinese>内政法令</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_PARAMETER_ECONOMY</Tag>
@@ -1304,7 +1304,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ECONOMY</Chinese>
+    <Chinese>经济因素</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_PARAMETER_EXPANSION</Tag>
@@ -1313,7 +1313,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>EXPANSION</Chinese>
+    <Chinese>扩张因素</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_PARAMETER_FOREIGN</Tag>
@@ -1322,7 +1322,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>FOREIGN</Chinese>
+    <Chinese>国外因素</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_PERIOD</Tag>
@@ -1331,7 +1331,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Your empire is experiencing a period of</Chinese>
+    <Chinese>你的帝国正在进入</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_POST_COMMUNISM</Tag>
@@ -1340,7 +1340,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Post-Communist Crisis</Chinese>
+    <Chinese>共产主义危机</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_RAZED_CITIES</Tag>
@@ -1358,7 +1358,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Religion</Chinese>
+    <Chinese>官方宗教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_RELIGIOUS_DISUNITY</Tag>
@@ -1412,7 +1412,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>has declared its independence!</Chinese>
+    <Chinese>宣布独立建国!</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_SHAKY</Tag>
@@ -1421,7 +1421,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Shaky</Chinese>
+    <Chinese>脆弱</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_SOCIETY_TITLE</Tag>
@@ -1430,7 +1430,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>SOCIETY</Chinese>
+    <Chinese>社会</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_SOLID</Tag>
@@ -1439,7 +1439,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Solid</Chinese>
+    <Chinese>稳固</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_STABLE</Tag>
@@ -1448,7 +1448,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Stable</Chinese>
+    <Chinese>安定</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_STABLE_VASSALS</Tag>
@@ -1466,7 +1466,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>SUMMARY</Chinese>
+    <Chinese>总结</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_TARGET_CITY_UNREST</Tag>
@@ -1484,7 +1484,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Technology</Chinese>
+    <Chinese>科技</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_TITLE</Tag>
@@ -1493,7 +1493,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>STABILITY: %s1</Chinese>
+    <Chinese>稳定度： %s1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_TRADE</Tag>
@@ -1502,7 +1502,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Trade</Chinese>
+    <Chinese>贸易</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_UNHAPPINESS</Tag>
@@ -1529,7 +1529,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Unstable</Chinese>
+    <Chinese>动荡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_UNSTABLE_VASSALS</Tag>
@@ -1547,7 +1547,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vassals</Chinese>
+    <Chinese>附庸</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_VERYSOLID</Tag>
@@ -1556,7 +1556,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Very Solid</Chinese>
+    <Chinese>极其稳固</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_WAR_WEARINESS</Tag>
@@ -1574,7 +1574,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>WARFARE</Chinese>
+    <Chinese>战争</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STABILITY_WARS_AUTOCRACY</Tag>

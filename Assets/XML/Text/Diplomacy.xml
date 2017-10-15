@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Please support [OUR_CIV_SHORT] and it's people. We depend on your help!</Chinese>
+    <Chinese>请支持[OUR_CIV_SHORT]以及她的子民。我们依赖您的帮助！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_PEDRO_II</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This will be of mutual benefit for us both, don't you think so?</Chinese>
+    <Chinese>这对我们是公平互利的，难道您不这样认为吗？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_RAGNAR_LODBROK_1</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our armies are evenly matched, but I believe in a battle I would win out. So that this does not occur I ask you to meet our demands.</Chinese>
+    <Chinese>我们的军队已经整装待发，我认为如果现在开战我们将会取胜。当然，我还是更希望在谈判桌上，而不是战场上解决这个问题。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_JUAREZ_1</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[OUR_CIV_SHORT] needs this and demands your assistance!</Chinese>
+    <Chinese>[OUR_CIV_SHORT]需要它，请您帮助我们！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_PEDRO_II</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Brazil is strong in many ways, [CT_NAME]. Do not force me to show you how strong.</Chinese>
+    <Chinese>从很多方面来看，巴西都十分强大，[CT_NAME]，别指望我们会屈服于你的威势！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SAN_MARTIN</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You are outgunned and outclassed. I suggest you give me what I demand.</Chinese>
+    <Chinese>你们的军队已经完全落后于时代了，我建议你乖乖地把我们想要的东西交出来。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_JUAREZ_1</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Can you spare this for the people of the [OUR_EMPIRE]?</Chinese>
+    <Chinese>你能为[OUR_EMPIRE]慷慨解囊么？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_PEDRO_II</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>My people have faith in me, [CT_NAME]. Please help me not to disappoint them.</Chinese>
+    <Chinese>我肩负我国人民的重托，[CT_NAME]。请您不要让我使他们失望。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SAN_MARTIN</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The simplest strategy is for me to ask you for what we need and hope your good will wins out.</Chinese>
+    <Chinese>对我们来说，只要你能够一路获胜，我们就能得到我们所需要的东西。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_GENERIC</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greetings, [CT_NAME]! I am [OUR_NAME], leader of the great civilization of [OUR_CIV_SHORT].</Chinese>
+    <Chinese>您好，[CT_NAME]！我是[OUR_NAME]，强大的[OUR_CIV_SHORT]文明的领导者。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HARUN_1</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>I am [OUR_NAME], the President of the Turkish people. We Turks do not consider our principles as dogmas contained in books that are said to come from heaven. We derive our inspiration not from heaven, or from an unseen world, but directly from life.</Chinese>
+    <Chinese>我就是[OUR_NAME]，土耳其人民的总统。我们土耳其人从不考虑那些上天带来的教条。我们获得的启示既不来源于上天，也不来源于那个看不见的时间，而是来源于生活。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CARDENAS_1</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hola. I am [OUR_NAME] of the [OUR_EMPIRE]. I am convinced that the good intentions of a ruler are simply not enough and that the collective factor represented by the workers is indispensable. Don't you agree [CT_NAME]?</Chinese>
+    <Chinese>你好。我是[OUR_EMPIRE]的[OUR_NAME]。我深信，对于统治者来说，徒有善意是不够的。而工人阶级所代表的集体意志是不可或缺的。你不这么认为吗，[CT_NAME]？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CHARLES_1</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Welcome [CT_NAME]. We would welcome friendship with you. Are you greedy of territory, or greedy of piece and quiet?</Chinese>
+    <Chinese>欢迎，[CT_NAME]。我们欢迎与你交朋友，你热爱于领土、和平与安宁么?</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HAILE_SELASSIE_1</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greetings in the name of God, [CT_NAME] of [CT_CIV_SHORT]. We are Emperor [OUR_NAME] of [OUR_CIV_SHORT]. We know that material and spiritual progress are essential to man. Will you join us as we ceaselessly work for the equal attainment of both?</Chinese>
+    <Chinese>以上帝之名向您问候，[CT_CIV_SHORT]的[CT_NAME]。我们是[OUR_CIV_SHORT]的帝王[OUR_NAME]。我们知道，人类的物质文明与精神文明的进步是不可或缺的。你会加入我们，为了我们之间的平等关系而不断努力吗？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JUAREZ_1</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greetings, [CT_NAME]. My name is [OUR_NAME], and I am the president of [OUR_CIV_SHORT]. My motto is: when there is respect, there is peace!</Chinese>
+    <Chinese>贵安，[CT_NAME]。我是[OUR_NAME]，[OUR_CIV_SHORT]的总统，我的座右铭是：尊重他人的权利就是和平！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_KHOMEINI_1</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>I, [OUR_NAME] of the [OUR_CIV], greet you. Know that those who speak of nationalism, democracy, and such things want to take our nation away from its mission.</Chinese>
+    <Chinese>我，来自[OUR_CIV]的[OUR_NAME]向您问候。我知道，整天谈论着民族、民主什么的那些人想要让我们的国家远离正途。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ALEXANDER_II_1</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Welcome to humble [OUR_CIV_SHORT]. I am [OUR_NAME], leader of this far-reaching and ever progressing country. Tell me, who are you?</Chinese>
+    <Chinese>谦逊的[OUR_CIV_SHORT]欢迎你。我是[OUR_NAME]，领导着这影响深远且不断进步的国家。告诉我，你是谁？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SAN_MARTIN</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hello, friend. My name is [OUR_NAME], but you can call me Jose. Or you can call me Francisco. Or you can call me Martin. Just don't call me late for dinner. </Chinese>
+    <Chinese>你好，我的朋友。我叫[OUR_NAME]，当然你可以叫我何塞，或者也可以叫我弗朗西斯科，再或者直接叫我马丁也行，就是千万别叫我留下来吃晚餐。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SANTA_ANNA_1</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greetings [CT_NAME]. I am [OUR_NAME], emperor of all the lands below the heavens. With absolute power over numberless minions, do you dare hurt the divine ruler of mighty [OUR_CIV_SHORT].</Chinese>
+    <Chinese>贵安，[CT_NAME]。朕，[OUR_NAME]，乃普天之共主。欲犯我大唐者，虽远必诛！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_IVAN_IV_1</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We must get ready to build up the friendship between our peoples. How does a people get prepared for such an endeavour? By strengthening the natural bridges that exist between us. Language is a bridge... Religon is a bridge... History is a bridge...</Chinese>
+    <Chinese>我们必须着手建立两国人民之间的友谊。如何让人民为此而奋斗？通过加强我们之间存在的天然桥梁。语言是一座桥梁……宗教是一座桥梁……历史是一座桥梁……</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_HAILE_SELASSIE_1</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Welcome, [CT_NAME]. Imagination, devotion, perseverance, together with divine grace, will assure your success. What shall we discuss?</Chinese>
+    <Chinese>欢迎，[CT_NAME]。想象力、奉献精神、意志力、加上神的恩惠，将保证你的成功。我们该先讨论哪个？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_JUAREZ_1</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greetings, [CT_NAME]! It is so great to be at peace with you glorious nation!</Chinese>
+    <Chinese>您好，[CT_NAME]！这对于你祖国的和平时多么的有利啊！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_PEDRO_II</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>I see you have come to visit, [CT_NAME]. Tell me, what is it you wish to discuss.</Chinese>
+    <Chinese>我知道你来了，[CT_NAME]。告诉我，你想讨论些什么？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_SAN_MARTIN</Tag>
@@ -269,7 +269,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Finally I get to talk to a worthy adversary. What can the [OUR_EMPIRE] do for you?</Chinese>
+    <Chinese>终于能和一个棋逢对手的人交谈了。我们的[OUR_EMPIRE]能为您做些什么吗？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HAILE_SELASSIE_1</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The world is well supplied with people who wish to rule and dominate others. People like you.</Chinese>
+    <Chinese>这个世界乐于为统治者与支配者提供服务。人们拥戴你。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_JUAREZ_1</Tag>
@@ -287,7 +287,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Oh, you again... What are you going to complain about?</Chinese>
+    <Chinese>哦，你又……你又想抱怨些什么？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_KHOMEINI_1</Tag>
@@ -296,7 +296,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>If one permits an infidel to continue in his role as a corrupter of the earth, the infidel's moral suffering will be all the worse. If one kills the infidel, and this stops him from perpetrating his misdeeds, his death will be a blessing to him.</Chinese>
+    <Chinese>如果一个人允许异教徒继续为非作歹，那么他的精神上将会受到极大的苦难。如果一个人杀死异教徒，那么他先前犯下的罪恶就能得到救赎，他的死将是对他的祝福。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ALEXANDER_II_1</Tag>
@@ -314,7 +314,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Speak fast [CT_CIV_ADJ]. I have enough on my schedule already.</Chinese>
+    <Chinese>长话短说， [CT_CIV_ADJ]。 我的日程表可是排得很紧的。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SAN_MARTIN</Tag>
@@ -323,7 +323,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You lack the guile to trick me. Be warned I will not react well to deceit. </Chinese>
+    <Chinese>你那微不足道的狡猾并不足以欺骗我，我警告你，下次你再敢这样就等着好看吧！ </Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_NO_PEACE_LEADER_JUAREZ_1</Tag>
@@ -332,7 +332,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The government of the [OUR_EMPIRE] will fulfill its duty to defend its independence, to repel foreign aggression, and accept the struggle to which it has been provoked!</Chinese>
+    <Chinese>[OUR_EMPIRE]政府将履行其维护独立的职责以击退外国入侵，并且承诺政府会与挑衅势力相抗衡！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_NO_PEACE_LEADER_PEDRO_II</Tag>
@@ -341,7 +341,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>No way! I shall punish you for your crimes against [OUR_CIV_SHORT] and its people!</Chinese>
+    <Chinese>没门！你将为你针对 [OUR_CIV_SHORT] 以及她的人民所犯下的罪恶而受到惩罚！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_NO_PEACE_LEADER_SAN_MARTIN</Tag>
@@ -350,7 +350,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>I knew you would beg for peace eventually, but there will be no peace until you surrender.</Chinese>
+    <Chinese>我知道你终于要来乞求和平了，但是我是不会答应的——除非你投降！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_JUAREZ_1</Tag>
@@ -359,7 +359,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Get out of my office!</Chinese>
+    <Chinese>滚出我的办公室！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_PEDRO_II</Tag>
@@ -368,7 +368,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You make me sad, [CT_NAME]. Go away.</Chinese>
+    <Chinese>你让我很失望，[CT_NAME]。走开。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_SAN_MARTIN</Tag>
@@ -377,7 +377,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>I will now use my cunning knowledge of tactics to ignore you. </Chinese>
+    <Chinese>我将用我平生所学的所有战术来躲开你。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_NATIVE_1</Tag>
@@ -467,7 +467,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A Mutual Protection Pact - Each Party Agrees to Automatically Declare War if the Other Party is Attacked.</Chinese>
+    <Chinese>共同防御协定——双方同意在对方遭到第三方攻击时自动向其宣战。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_TRADE_SLAVE</Tag>
@@ -476,7 +476,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Slave Trade</Chinese>
+    <Chinese>奴隶贸易</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TRUDEAU_1</Tag>

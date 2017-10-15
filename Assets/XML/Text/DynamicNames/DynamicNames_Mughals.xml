@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Mughals</Chinese>
+    <Chinese>莫卧儿文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PAKISTAN_ADJECTIVE</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pakistani</Chinese>
+    <Chinese>巴基斯坦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PAKISTAN_SHORT_DESC</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pakistan</Chinese>
+    <Chinese>巴基斯坦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_PEOPLES</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mughal</Chinese>
+    <Chinese>莫卧儿</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_SHORT_DESC</Tag>
@@ -116,6 +116,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mughals</Chinese>
+    <Chinese>莫卧儿</Chinese>
   </TEXT>
 </Civ4GameText>

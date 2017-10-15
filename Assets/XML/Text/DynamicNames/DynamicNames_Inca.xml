@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Inca</Chinese>
+    <Chinese>印加文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INCA_PEOPLES</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Peru</Chinese>
+    <Chinese>秘鲁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERU_ADJECTIVE</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Peruvian</Chinese>
+    <Chinese>秘鲁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INCA_FOUR_REGIONS</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Incan</Chinese>
+    <Chinese>印加</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INCA_SHORT_DESC</Tag>
@@ -134,6 +134,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Inca</Chinese>
+    <Chinese>印加</Chinese>
   </TEXT>
 </Civ4GameText>

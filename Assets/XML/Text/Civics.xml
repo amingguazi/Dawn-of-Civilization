@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Animism</Chinese>
+    <Chinese>泛灵论</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_ANIMISM_STRATEGY</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Egalitarianism</Chinese>
+    <Chinese>平等主义</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_EGALITARIANISM_STRATEGY</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Republic</Chinese>
+    <Chinese>共和制度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_REPUBLIC_STRATEGY</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Secularism</Chinese>
+    <Chinese>世俗主义</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_SECULARISM_STRATEGY</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Totalitarianism</Chinese>
+    <Chinese>极权主义</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_TOTALITARIANISM_STRATEGY</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The most primitive Society civic</Chinese>
+    <Chinese>最原始的社会制度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_VASSALAGE_STRATEGY</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Society</Chinese>
+    <Chinese>社会制度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVICOPTION_LEGITIMACY</Tag>

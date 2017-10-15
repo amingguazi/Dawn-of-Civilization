@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cold Storage Plant</Chinese>
+    <Chinese>冷藏库</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ARGENTINE_REFRIGERATION_PLANT_STRATEGY</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fazenda</Chinese>
+    <Chinese>农场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BRAZILIAN_FAZENDA_STRATEGY</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hacienda</Chinese>
+    <Chinese>庄园</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_COLOMBIAN_HACIENDA_STRATEGY</Tag>
@@ -548,7 +548,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tambo</Chinese>
+    <Chinese>土堡驿站</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_INCAN_TAMBO_STRATEGY</Tag>
@@ -602,7 +602,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Stepwell</Chinese>
+    <Chinese>梯井</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_INDIAN_STEPWELL_STRATEGY</Tag>
@@ -620,7 +620,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Candi</Chinese>
+    <Chinese>浮屠</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_INDONESIAN_CANDI_STRATEGY</Tag>
@@ -638,7 +638,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Art Studio</Chinese>
+    <Chinese>艺术工作室</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ITALIAN_ART_STUDIO_STRATEGY</Tag>
@@ -863,7 +863,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Noria</Chinese>
+    <Chinese>戽水车</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MOORISH_NORIA_STRATEGY</Tag>
@@ -944,7 +944,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Glassmaker</Chinese>
+    <Chinese>玻璃作坊</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PHOENICIAN_GLASSMAKER_STRATEGY</Tag>
@@ -962,7 +962,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Plague</Chinese>
+    <Chinese>瘟疫</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PORTUGUESE_FEITORIA_STRATEGY</Tag>
@@ -989,7 +989,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sejmik</Chinese>
+    <Chinese>贵族议会</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_POLISH_SEJMIK_STRATEGY</Tag>
@@ -1142,7 +1142,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sangam</Chinese>
+    <Chinese>桑迦姆</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TAMIL_SANGAM_STRATEGY</Tag>
@@ -1178,7 +1178,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ho Trai</Chinese>
+    <Chinese>藏经阁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_THAI_HO_TRAI_STRATEGY</Tag>
@@ -1205,7 +1205,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gompa</Chinese>
+    <Chinese>禅修堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TIBETAN_GOMPA_STRATEGY</Tag>
@@ -1286,7 +1286,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Orthodox Church</Chinese>
+    <Chinese>东正教礼拜堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ORTHODOX_TEMPLE_STRATEGY</Tag>
@@ -1304,7 +1304,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Orthodox Monastery</Chinese>
+    <Chinese>东正教修道院</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ORTHODOX_MONASTERY_STRATEGY</Tag>
@@ -1322,7 +1322,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Orthodox Cathedral</Chinese>
+    <Chinese>东正教大教堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ORTHODOX_CATHEDRAL_STRATEGY</Tag>
@@ -1880,7 +1880,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Zoroastrian Royal Fire</Chinese>
+    <Chinese>祆教圣火</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ZOROASTRIAN_CATHEDRAL_STRATEGY</Tag>
@@ -1898,7 +1898,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Adur Farnbag</Chinese>
+    <Chinese>法恩贝格圣火坛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ZOROASTRIAN_SHRINE_STRATEGY</Tag>
@@ -2276,7 +2276,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Edubba</Chinese>
+    <Chinese>泥版书屋</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BABYLONIAN_EDUBBA_STRATEGY</Tag>

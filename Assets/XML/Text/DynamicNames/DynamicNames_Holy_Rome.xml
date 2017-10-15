@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Germans</Chinese>
+    <Chinese>日耳曼文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIA_DESC</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Austrians</Chinese>
+    <Chinese>奥地利文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_PEOPLES</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Austria</Chinese>
+    <Chinese>奥地利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIA_ADJECTIVE</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Austrian</Chinese>
+    <Chinese>奥地利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROMAN_ITALY</Tag>

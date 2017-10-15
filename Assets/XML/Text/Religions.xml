@@ -12,7 +12,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CatholicMale0</Chinese>
+    <Chinese>天主教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JUDAISM_ADJECTIVE</Tag>
@@ -25,7 +25,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>ProtestantMale0</Chinese>
+    <Chinese>新教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_BUDDHISM</Tag>
@@ -34,7 +34,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Buddhism</Chinese>
+    <Chinese>佛教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_BUDDHISM_ADJECTIVE</Tag>
@@ -47,7 +47,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>BuddhistMale0</Chinese>
+    <Chinese>佛教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_CATHOLICISM</Tag>
@@ -95,7 +95,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>HinduMale0</Chinese>
+    <Chinese>印度教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ISLAM_ADJECTIVE</Tag>
@@ -108,7 +108,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>IslamicMale0</Chinese>
+    <Chinese>伊斯兰教 Male0</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PROTESTANTISM</Tag>
@@ -135,7 +135,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Orthodoxy</Chinese>
+    <Chinese>东正教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ORTHODOXY_ADJECTIVE</Tag>
@@ -148,7 +148,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>OrthodoxMale0</Chinese>
+    <Chinese>东正教 Male0</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_REFORMATION</Tag>
@@ -157,7 +157,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Founding Protestantism triggers the Reformation</Chinese>
+    <Chinese>[ICON_BULLET]新教的创立将引发宗教改革</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_SCREEN_DATE_FOUNDED</Tag>
@@ -166,7 +166,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Founded:</Chinese>
+    <Chinese>成立:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_TAOISM_ADJECTIVE</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>TaoistMale0</Chinese>
+    <Chinese>道教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ZOROASTRIANISM</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Zoroastrianism</Chinese>
+    <Chinese>祆教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ZOROASTRIANISM_ADJECTIVE</Tag>

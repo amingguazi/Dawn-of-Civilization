@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Russians</Chinese>
+    <Chinese>俄罗斯文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_PEOPLES</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Russian</Chinese>
+    <Chinese>俄国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_SHORT_DESC</Tag>
@@ -179,6 +179,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Russia</Chinese>
+    <Chinese>俄国</Chinese>
   </TEXT>
 </Civ4GameText>

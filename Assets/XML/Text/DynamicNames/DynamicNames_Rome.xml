@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Romans</Chinese>
+    <Chinese>罗马文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ROME_PEOPLES</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Roman</Chinese>
+    <Chinese>罗马</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ROME_SHORT_DESC</Tag>
@@ -287,6 +287,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rome</Chinese>
+    <Chinese>罗马</Chinese>
   </TEXT>
 </Civ4GameText>

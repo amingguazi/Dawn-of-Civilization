@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Spanish</Chinese>
+    <Chinese>西班牙文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_PEOPLES</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Spanish</Chinese>
+    <Chinese>西班牙</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_SHORT_DESC</Tag>
@@ -287,6 +287,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Spain</Chinese>
+    <Chinese>西班牙</Chinese>
   </TEXT>
 </Civ4GameText>

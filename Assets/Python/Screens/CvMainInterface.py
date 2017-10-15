@@ -3163,8 +3163,14 @@ class CvMainInterface:
 					yCoord = 5  # Ruff: this use to be 3 but I changed it so it lines up with the Great Person Bar
 					szText = localText.getText("INTERFACE_ANARCHY", (gc.getPlayer(ePlayer).getAnarchyTurns(), ))
 # >>> CYBERFRONT // text: adjust
+# >>> CYBERFRONT // text: adjust
+##					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
+#					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
+# <<< CYBERFRONT
+# >>> CYBERFRONT // text: adjust
 #					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
 					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
+# <<< CYBERFRONT
 # <<< CYBERFRONT
 # BUG - Bars on single line for higher resolution screens - end
 
@@ -3188,8 +3194,14 @@ class CvMainInterface:
 
 					yCoord = 5  # Ruff: this use to be 3 but I changed it so it lines up with the Great Person Bar
 # >>> CYBERFRONT // text: adjust
+# >>> CYBERFRONT // text: adjust
+##					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
+#					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
+# <<< CYBERFRONT
+# >>> CYBERFRONT // text: adjust
 #					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
 					screen.setText( "ResearchText", "Background", szText, CvUtil.FONT_CENTER_JUSTIFY, xCoord, yCoord, -0.4, FontTypes.GAME_FONT, WidgetTypes.WIDGET_RESEARCH, -1, -1 )
+# <<< CYBERFRONT
 # <<< CYBERFRONT
 					screen.show( "ResearchText" )
 # BUG - Bars on single line for higher resolution screens - end

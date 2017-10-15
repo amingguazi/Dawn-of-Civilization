@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Chinese</Chinese>
+    <Chinese>中华文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_PEOPLES</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Han Peoples</Chinese>
+    <Chinese>华夏诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Middle Kingdom of %s1</Chinese>
+    <Chinese>中国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Nationalist %s1</Chinese>
+    <Chinese>%s1民国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_ZHOU</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Zhou</Chinese>
+    <Chinese>周</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_HAN</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Han</Chinese>
+    <Chinese>汉</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_QIN</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Qin</Chinese>
+    <Chinese>秦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_SUI</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sui</Chinese>
+    <Chinese>隋</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_TANG</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tang</Chinese>
+    <Chinese>唐</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_SONG</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Song</Chinese>
+    <Chinese>宋</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_MING</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>the Great Ming</Chinese>
+    <Chinese>大明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_QING</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>the Great Qing</Chinese>
+    <Chinese>大清</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_VASSAL</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tributary %s2 State</Chinese>
+    <Chinese>%s2都护府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_EGYPT</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Haixi</Chinese>
+    <Chinese>海西</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_INDIA</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Shendu</Chinese>
+    <Chinese>身毒</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_BABYLONIA</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tiaozhi</Chinese>
+    <Chinese>条支</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_PERSIA</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anxi</Chinese>
+    <Chinese>安息</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_ROME</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Daqin</Chinese>
+    <Chinese>大秦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_JAPAN</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Wo</Chinese>
+    <Chinese>倭</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_KOREA</Tag>
@@ -179,7 +179,8 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Chaoxian</Chinese>
+    <Chinese>安东</Chinese>
+    <!-- 朝鲜 -->
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_BYZANTIUM</Tag>
@@ -188,7 +189,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Daqin</Chinese>
+    <Chinese>大秦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_ARABIA</Tag>
@@ -197,7 +198,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dashi</Chinese>
+    <Chinese>大食</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_KHMER</Tag>
@@ -206,7 +207,8 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Jiaozhi</Chinese>
+    <Chinese>安南</Chinese>
+    <!-- 交趾 -->
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_MONGOLIA</Tag>
@@ -215,7 +217,8 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Meng</Chinese>
+    <Chinese>安北</Chinese>
+    <!-- 蒙 -->
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_TURKEY</Tag>
@@ -224,7 +227,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tujue</Chinese>
+    <Chinese>北庭</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_TIBET</Tag>
@@ -233,7 +236,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Xizang</Chinese>
+    <Chinese>吐蕃</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_INDONESIA</Tag>
@@ -242,7 +245,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Yindunixiya</Chinese>
+    <Chinese>印尼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_ADJECTIVE</Tag>
@@ -251,7 +254,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Chinese</Chinese>
+    <Chinese>中华</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CHINA_SHORT_DESC</Tag>
@@ -260,6 +263,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>China</Chinese>
+    <Chinese>中华</Chinese>
   </TEXT>
 </Civ4GameText>

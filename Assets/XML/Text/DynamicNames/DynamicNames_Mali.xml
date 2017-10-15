@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Mandinka</Chinese>
+    <Chinese>曼丁哥文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_ADJECTIVE</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Songhai</Chinese>
+    <Chinese>桑海</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SONGHAI_SHORT_DESC</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Songhai</Chinese>
+    <Chinese>桑海</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_PEOPLES</Tag>
@@ -80,6 +80,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mali</Chinese>
+    <Chinese>马里</Chinese>
   </TEXT>
 </Civ4GameText>

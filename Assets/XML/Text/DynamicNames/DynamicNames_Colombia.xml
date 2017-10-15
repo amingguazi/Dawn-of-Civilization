@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Colombians</Chinese>
+    <Chinese>哥伦比亚文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_COLOMBIA_PEOPLES</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Empire of Gran Colombia</Chinese>
+    <Chinese>大哥伦比亚帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_COLOMBIA_ADJECTIVE</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Colombian</Chinese>
+    <Chinese>哥伦比亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_COLOMBIA_SHORT_DESC</Tag>
@@ -80,6 +80,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Colombia</Chinese>
+    <Chinese>哥伦比亚</Chinese>
   </TEXT>
 </Civ4GameText>

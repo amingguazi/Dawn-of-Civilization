@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The French</Chinese>
+    <Chinese>法兰西文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_PEOPLES</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>French</Chinese>
+    <Chinese>法国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_SHORT_DESC</Tag>
@@ -269,6 +269,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>France</Chinese>
+    <Chinese>法国</Chinese>
   </TEXT>
 </Civ4GameText>

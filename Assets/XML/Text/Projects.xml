@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Persecution</Chinese>
+    <Chinese>宗教审判</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROJECT_PERSECUTION_HELP</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Removes one non-state religion from this city[NEWLINE][ICON_BULLET]Causes temporary disorder and unhappiness</Chinese>
+    <Chinese>[ICON_BULLET]从这座城市中移除非官方宗教[NEWLINE][ICON_BULLET]这将导致叛乱和不满</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROJECT_MANHATTAN_PROJECT_STRATEGY</Tag>

@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Ethiopians</Chinese>
+    <Chinese>埃塞俄比亚文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ETHIOPIA_PEOPLES</Tag>
@@ -84,7 +84,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ethiopian:EthiopiansMale0:1</Chinese>
+    <Chinese>埃塞俄比亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ETHIOPIA_SHORT_DESC</Tag>
@@ -93,6 +93,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ethiopia</Chinese>
+    <Chinese>埃塞俄比亚</Chinese>
   </TEXT>
 </Civ4GameText>

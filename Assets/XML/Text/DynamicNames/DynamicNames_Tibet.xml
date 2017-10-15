@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Tibetans</Chinese>
+    <Chinese>吐蕃文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TIBET_PEOPLES</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tibetan Peoples</Chinese>
+    <Chinese>吐蕃诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TIBET_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TIBET_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Empire</Chinese>
+    <Chinese>%s2帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TIBET_ADJECTIVE</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tibetan</Chinese>
+    <Chinese>吐蕃</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TIBET_SHORT_DESC</Tag>
@@ -53,6 +53,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tibet</Chinese>
+    <Chinese>吐蕃</Chinese>
   </TEXT>
 </Civ4GameText>

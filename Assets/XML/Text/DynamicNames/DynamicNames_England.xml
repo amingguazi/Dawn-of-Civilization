@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The English</Chinese>
+    <Chinese>英格兰文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_PEOPLES</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Angevin Empire</Chinese>
+    <Chinese>安茹帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_UNITED_REPUBLIC</Tag>
@@ -269,7 +269,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>English</Chinese>
+    <Chinese>英国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_SHORT_DESC</Tag>
@@ -278,6 +278,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>England</Chinese>
+    <Chinese>英国</Chinese>
   </TEXT>
 </Civ4GameText>

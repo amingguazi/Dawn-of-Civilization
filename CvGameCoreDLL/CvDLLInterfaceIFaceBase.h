@@ -167,7 +167,23 @@ public:
 #ifdef CYBERFRONT // load: wb exit
 	virtual void exitingToMainMenu(const wchar* szLoadFile=NULL) = 0;
 #else
+#ifdef CYBERFRONT // load: wb exit
+	virtual void exitingToMainMenu(const wchar* szLoadFile=NULL) = 0;
+#else
+#ifdef CYBERFRONT // load: wb exit
+	virtual void exitingToMainMenu(const wchar* szLoadFile=NULL) = 0;
+#else
+#ifdef CYBERFRONT // load: wb exit
+	virtual void exitingToMainMenu(const wchar* szLoadFile=NULL) = 0;
+#else
+#ifdef CYBERFRONT // load: wb exit
+	virtual void exitingToMainMenu(const wchar* szLoadFile=NULL) = 0;
+#else
 	virtual void exitingToMainMenu(const char* szLoadFile=NULL) = 0;
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
 #endif // CYBERFRONT
 	virtual void setWorldBuilder(bool bTurnOn) = 0;
 	

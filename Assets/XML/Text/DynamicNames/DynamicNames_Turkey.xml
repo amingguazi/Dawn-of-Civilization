@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Turks</Chinese>
+    <Chinese>土耳其文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKEY_PEOPLES</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Turkish Peoples</Chinese>
+    <Chinese>土耳其诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKEY_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sublime %s2 State</Chinese>
+    <Chinese>%s2苏丹国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKEY_COMMUNIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National Democratic Popular %s1</Chinese>
+    <Chinese>%s1人民民主共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKEY_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pan-Turkic Empire</Chinese>
+    <Chinese>泛突厥帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKEY_OTTOMAN</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ottoman</Chinese>
+    <Chinese>奥斯曼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKEY_ISLAMIC_REPUBLIC</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Islamic %s2 Democracy</Chinese>
+    <Chinese>%s2伊斯兰民主国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_VASSAL</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of %s1</Chinese>
+    <Chinese>%s1行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_EGYPT</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Khedivate of %s1</Chinese>
+    <Chinese>%s1赫迪夫领</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_BABYLONIA</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of Mesopotamia</Chinese>
+    <Chinese>美索不达米亚行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_PERSIA</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of Sharazor</Chinese>
+    <Chinese>舒赫索行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_GREECE</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of Rumelia</Chinese>
+    <Chinese>鲁米利亚行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_PHOENICIA</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of Syria</Chinese>
+    <Chinese>叙利亚行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_ETHIOPIA</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of Habes</Chinese>
+    <Chinese>哈贝什行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_BYZANTIUM</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of R?m</Chinese>
+    <Chinese>罗姆行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_ARABIA</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sharifate of Mekke</Chinese>
+    <Chinese>麦加行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_RUSSIA</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of Yedisan</Chinese>
+    <Chinese>叶迪山行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKISH_INDONESIA</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Eyalet of Aceh</Chinese>
+    <Chinese>亚齐行省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_OTTOMAN_ADJECTIVE</Tag>
@@ -174,7 +174,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Turkish:TurksMale0:1</Chinese>
+    <Chinese>土耳其</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_OTTOMAN_SHORT_DESC</Tag>
@@ -183,6 +183,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Turkey</Chinese>
+    <Chinese>土耳其</Chinese>
   </TEXT>
 </Civ4GameText>

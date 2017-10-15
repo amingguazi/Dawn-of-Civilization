@@ -10,7 +10,10 @@ from array import *
 gc = CyGlobalContext()
 version = 11
 # >>> CYBERFRONT // character code: codepage
-##fileencoding = "latin_1"	# aka "iso-8859-1"
+# >>> CYBERFRONT // character code: codepage
+###fileencoding = "latin_1"	# aka "iso-8859-1"
+fileencoding = "utf-8"
+# <<< CYBERFRONT
 fileencoding = "utf-8"
 # <<< CYBERFRONT
 fileencoding = "utf-8"
@@ -1814,7 +1817,10 @@ class CvSignDesc:
 		f.write("\tplotY=%d\n" %(sign.getPlot().getY(),))
 		f.write("\tplayerType=%d, (%s)\n" %(sign.getPlayerType(), gc.getPlayer(sign.getPlayerType()).getName().encode(fileencoding)))
 # >>> CYBERFRONT // text: wb landmark
-#		f.write("\tcaption=%s\n" %(sign.getCaption(),))
+# >>> CYBERFRONT // text: wb landmark
+##		f.write("\tcaption=%s\n" %(sign.getCaption(),))
+#		f.write("\tcaption=%s\n" %(sign.getCaption().encode(fileencoding),))
+# <<< CYBERFRONT
 		f.write("\tcaption=%s\n" %(sign.getCaption().encode(fileencoding),))
 # <<< CYBERFRONT
 		f.write("EndSign\n")
@@ -1850,7 +1856,10 @@ class CvSignDesc:
 			v = parser.findTokenValue(toks, "caption")
 			if v!=-1:
 # >>> CYBERFRONT // text: wb landmark
-#				self.szCaption = v
+# >>> CYBERFRONT // text: wb landmark
+##				self.szCaption = v
+#				self.szCaption = (v).decode(fileencoding)
+# <<< CYBERFRONT
 				self.szCaption = (v).decode(fileencoding)
 # <<< CYBERFRONT
 				continue
@@ -1879,7 +1888,9 @@ class CvWBDesc:
 	def write(self, fileName):
 		"Save out a high-level desc of the world, and height/terrainmaps"
 # >>> CYBERFRONT // save: wb
-#		fileName = os.path.normpath(fileName)
+# >>> CYBERFRONT // save: wb
+##		fileName = os.path.normpath(fileName)
+# <<< CYBERFRONT
 # <<< CYBERFRONT
 		fileName,ext = os.path.splitext(fileName)
 		fileName = fileName.encode(fileencoding)
@@ -2104,7 +2115,9 @@ class CvWBDesc:
 	def read(self, fileName):
 		"Load in a high-level desc of the world, and height/terrainmaps"
 # >>> CYBERFRONT // load: wb
-#		fileName = os.path.normpath(fileName)
+# >>> CYBERFRONT // load: wb
+##		fileName = os.path.normpath(fileName)
+# <<< CYBERFRONT
 # <<< CYBERFRONT
 		fileName,ext=os.path.splitext(fileName)
 		if len(ext) == 0:

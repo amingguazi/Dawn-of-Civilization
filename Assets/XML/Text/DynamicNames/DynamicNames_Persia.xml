@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Persians</Chinese>
+    <Chinese>波斯文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_PEOPLES</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iranian</Chinese>
+    <Chinese>伊朗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_IRAN_DESC</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Iranians</Chinese>
+    <Chinese>伊朗文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_IRAN_SHORT_DESC</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iran</Chinese>
+    <Chinese>伊朗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_ADJECTIVE</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Persian</Chinese>
+    <Chinese>波斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_SHORT_DESC</Tag>
@@ -260,6 +260,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Persia</Chinese>
+    <Chinese>波斯</Chinese>
   </TEXT>
 </Civ4GameText>

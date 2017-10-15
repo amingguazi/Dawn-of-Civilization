@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mercenary</Chinese>
+    <Chinese>雇佣战士</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_SELFPRESERVATION1</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Self Preservation I</Chinese>
+    <Chinese>自保一级</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_SELFPRESERVATION2</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Self Preservation II</Chinese>
+    <Chinese>自保二级</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_SELFPRESERVATION3</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Self Preservation III</Chinese>
+    <Chinese>自保三级</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_DESERT_ADAPTATION</Tag>

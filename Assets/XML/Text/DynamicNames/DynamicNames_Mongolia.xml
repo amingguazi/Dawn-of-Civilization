@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Mongols</Chinese>
+    <Chinese>ци╧ендцВ</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MONGOLIA_PEOPLES</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Khamag Mongol</Chinese>
+    <Chinese>ци╧е╨╧╧З</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MONGOL_VASSAL</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mongolian</Chinese>
+    <Chinese>ци╧е</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MONGOL_SHORT_DESC</Tag>
@@ -197,6 +197,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mongolia</Chinese>
+    <Chinese>ци╧е</Chinese>
   </TEXT>
 </Civ4GameText>

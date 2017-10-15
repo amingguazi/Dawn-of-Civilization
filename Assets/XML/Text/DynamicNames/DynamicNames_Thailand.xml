@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Thais</Chinese>
+    <Chinese>泰国文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_PEOPLES</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Thai Peoples</Chinese>
+    <Chinese>暹罗诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Junta</Chinese>
+    <Chinese>%s2军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_AYUTTHAYA</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ayutthaya</Chinese>
+    <Chinese>大城</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_SIAM</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Siam</Chinese>
+    <Chinese>暹罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_SIAMESE</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Siamese</Chinese>
+    <Chinese>暹罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAI_VASSAL</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mueang of %s1</Chinese>
+    <Chinese>%s1勐</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_ADJECTIVE</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Thai</Chinese>
+    <Chinese>泰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_SHORT_DESC</Tag>
@@ -89,6 +89,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Thailand</Chinese>
+    <Chinese>泰国</Chinese>
   </TEXT>
 </Civ4GameText>

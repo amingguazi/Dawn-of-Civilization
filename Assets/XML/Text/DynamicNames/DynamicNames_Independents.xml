@@ -12,7 +12,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Celtic:CeltsMale0:1</Chinese>
+    <Chinese>凯尔特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CELT_DESC</Tag>
@@ -30,7 +30,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Celtia</Chinese>
+    <Chinese>凯尔特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDEPENDENT_ADJECTIVE</Tag>
@@ -39,7 +39,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Independent</Chinese>
+    <Chinese>独立城邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDEPENDENT_DESC</Tag>
@@ -48,7 +48,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Independent Cities</Chinese>
+    <Chinese>独立城邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDEPENDENT_SHORT_DESC</Tag>
@@ -57,7 +57,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Independents</Chinese>
+    <Chinese>独立城邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NATIVE_ADJECTIVE</Tag>
@@ -66,7 +66,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Native</Chinese>
+    <Chinese>原住民</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NATIVE_DESC</Tag>
@@ -84,7 +84,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Natives</Chinese>
+    <Chinese>原生土著</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SELJUK_ADJECTIVE</Tag>
@@ -93,7 +93,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Seljuk</Chinese>
+    <Chinese>塞尔柱</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SELJUK_DESC</Tag>
@@ -102,7 +102,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Seljuk Empire</Chinese>
+    <Chinese>塞尔柱帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SELJUK_SHORT_DESC</Tag>
@@ -111,7 +111,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Seljuks</Chinese>
+    <Chinese>塞尔柱</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ZULU_ADJECTIVE</Tag>
@@ -124,7 +124,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Zulu:ZuluMale0:1</Chinese>
+    <Chinese>祖鲁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BARBARIAN_ADJECTIVE</Tag>
@@ -133,7 +133,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Barbarian</Chinese>
+    <Chinese>蛮族</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BARBARIAN_DESC</Tag>
@@ -151,6 +151,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Barbarians</Chinese>
+    <Chinese>蛮族</Chinese>
   </TEXT>
 </Civ4GameText>

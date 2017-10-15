@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Indians</Chinese>
+    <Chinese>印度文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_PEOPLES</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indian</Chinese>
+    <Chinese>印度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_SHORT_DESC</Tag>
@@ -125,6 +125,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>India</Chinese>
+    <Chinese>印度</Chinese>
   </TEXT>
 </Civ4GameText>

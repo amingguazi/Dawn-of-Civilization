@@ -214,9 +214,219 @@ void CvGameTextMgr::setDateStr(CvWString& szString, int iGameTurn, bool bSave, C
 			if (getCurrentLanguage() == 5) // japanese
 				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
 			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+								szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+							szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+							szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+							szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+							szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+							szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+						szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
+					szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription());
+			else
 				szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
 #else
 			szString = (GC.getSeasonInfo((SeasonTypes)(iGameTurn % GC.getNumSeasonInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
 #endif // CYBERFRONT
 		}
 		break;
@@ -232,9 +442,219 @@ void CvGameTextMgr::setDateStr(CvWString& szString, int iGameTurn, bool bSave, C
 			if (getCurrentLanguage() == 5) // japanese
 				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
 			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+								szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+							szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+							szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+							szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+							szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+							szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+						szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
+					szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#else
+				szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + CvString(", ") + GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription());
+			else
 				szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
 #else
 			szString = (GC.getMonthInfo((MonthTypes)(iGameTurn % GC.getNumMonthInfos())).getDescription() + CvString(", ") + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
 #endif // CYBERFRONT
 		}
 		break;
@@ -252,9 +672,219 @@ void CvGameTextMgr::setDateStr(CvWString& szString, int iGameTurn, bool bSave, C
 			if (getCurrentLanguage() == 5) // japanese
 				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
 			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+								szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+							szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+							szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+							szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+							szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+				szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+							szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+				szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+						szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+				szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
+					szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#else
+				szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // text: date
+			if (getCurrentLanguage() == 5) // japanese
+				szString = (szYearBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szWeekBuffer);
+			else
 				szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
 #else
 			szString = (szWeekBuffer + ", " + GC.getMonthInfo((MonthTypes)((iGameTurn / GC.getDefineINT("WEEKS_PER_MONTHS")) % GC.getNumMonthInfos())).getDescription() + ", " + szYearBuffer);
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
 #endif // CYBERFRONT
 		}
 		break;

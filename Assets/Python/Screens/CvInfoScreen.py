@@ -133,7 +133,10 @@ class CvInfoScreen:
 		self.X_DEMO_DROPDOWN	= self.X_MARGIN
 		self.Y_DEMO_DROPDOWN	= self.Y_MARGIN - 20
 # >>> CYBERFRONT // text: infomation screen
-#		self.W_DEMO_DROPDOWN	= 150 #247
+# >>> CYBERFRONT // text: infomation screen
+##		self.W_DEMO_DROPDOWN	= 150 #247
+		self.W_DEMO_DROPDOWN	= 165
+# <<< CYBERFRONT
 		self.W_DEMO_DROPDOWN	= 165
 # <<< CYBERFRONT
 

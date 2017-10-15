@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Japanese</Chinese>
+    <Chinese>日本文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPAN_PEOPLES</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Japanese</Chinese>
+    <Chinese>日本</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPAN_SHORT_DESC</Tag>
@@ -98,6 +98,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Japan</Chinese>
+    <Chinese>日本</Chinese>
   </TEXT>
 </Civ4GameText>

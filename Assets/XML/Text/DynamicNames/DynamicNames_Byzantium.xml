@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Byzantines</Chinese>
+    <Chinese>拜占庭文明</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BYZANTIUM_PEOPLES</Tag>
@@ -192,7 +192,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Byzantine:ByzantinesMale0:1</Chinese>
+    <Chinese>拜占庭</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BYZANTIUM_SHORT_DESC</Tag>
@@ -201,6 +201,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Byzantium</Chinese>
+    <Chinese>拜占庭</Chinese>
   </TEXT>
 </Civ4GameText>

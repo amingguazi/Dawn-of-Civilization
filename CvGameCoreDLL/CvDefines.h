@@ -67,8 +67,38 @@
 #define CIV4_GUID															"civ4btsjp"
 #define CIV4_PRODUCT_ID												11276
 #else
+#ifdef CYBERFRONT // gamespy: lobby for jp
+#define CIV4_GUID															"civ4btsjp"
+#define CIV4_PRODUCT_ID												11276
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // gamespy: lobby for jp
+#define CIV4_GUID															"civ4btsjp"
+#define CIV4_PRODUCT_ID												11276
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // gamespy: lobby for jp
+#define CIV4_GUID															"civ4btsjp"
+#define CIV4_PRODUCT_ID												11276
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
+#ifdef CYBERFRONT // gamespy: lobby for jp
+#define CIV4_GUID															"civ4btsjp"
+#define CIV4_PRODUCT_ID												11276
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#else
 #define CIV4_GUID															"civ4bts"
 #define CIV4_PRODUCT_ID												11081
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
+#endif // CYBERFRONT
 #endif // CYBERFRONT
 #define CIV4_NAMESPACE_ID											17
 #define CIV4_NAMESPACE_EXT										"-tk"
