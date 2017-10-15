@@ -12,7 +12,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>天主教</Chinese>
+=======
+    <Chinese>CatholicMale0</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JUDAISM_ADJECTIVE</Tag>
@@ -25,7 +29,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>新教</Chinese>
+=======
+    <Chinese>ProtestantMale0</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_BUDDHISM</Tag>
@@ -34,7 +42,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>佛教</Chinese>
+=======
+    <Chinese>Buddhism</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_BUDDHISM_ADJECTIVE</Tag>
@@ -47,7 +59,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>佛教</Chinese>
+=======
+    <Chinese>BuddhistMale0</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_CATHOLICISM</Tag>
@@ -95,7 +111,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>印度教</Chinese>
+=======
+    <Chinese>HinduMale0</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ISLAM_ADJECTIVE</Tag>
@@ -108,7 +128,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>伊斯兰教 Male0</Chinese>
+=======
+    <Chinese>IslamicMale0</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PROTESTANTISM</Tag>
@@ -135,7 +159,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>东正教</Chinese>
+=======
+    <Chinese>Orthodoxy</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ORTHODOXY_ADJECTIVE</Tag>
@@ -148,7 +176,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>东正教 Male0</Chinese>
+=======
+    <Chinese>OrthodoxMale0</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_REFORMATION</Tag>
@@ -157,7 +189,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>[ICON_BULLET]新教的创立将引发宗教改革</Chinese>
+=======
+    <Chinese>[ICON_BULLET]Founding Protestantism triggers the Reformation</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_SCREEN_DATE_FOUNDED</Tag>
@@ -166,7 +202,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>成立:</Chinese>
+=======
+    <Chinese>Founded:</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_TAOISM_ADJECTIVE</Tag>
@@ -179,7 +219,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>道教</Chinese>
+=======
+    <Chinese>TaoistMale0</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ZOROASTRIANISM</Tag>
@@ -188,7 +232,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>祆教</Chinese>
+=======
+    <Chinese>Zoroastrianism</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ZOROASTRIANISM_ADJECTIVE</Tag>

@@ -71,7 +71,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>哈拉帕</Chinese>
+=======
+    <Chinese>Harappan</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HARAPPANS_DESC</Tag>
@@ -80,7 +84,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>哈拉帕文明</Chinese>
+=======
+    <Chinese>The Harappans</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HARAPPANS_SHORT_DESC</Tag>
@@ -89,6 +97,10 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>哈拉帕</Chinese>
+=======
+    <Chinese>Harappa</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

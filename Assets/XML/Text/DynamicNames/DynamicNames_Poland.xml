@@ -8,7 +8,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>²¨À¼ÎÄÃ÷</Chinese>
+=======
+    <Chinese>The Polish</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_POLAND_PEOPLES</Tag>
@@ -62,7 +66,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>²¨À¼</Chinese>
+=======
+    <Chinese>Polish</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_POLAND_SHORT_DESC</Tag>
@@ -71,6 +79,10 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>²¨À¼</Chinese>
+=======
+    <Chinese>Poland</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

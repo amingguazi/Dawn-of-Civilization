@@ -8,7 +8,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>摩尔文明</Chinese>
+=======
+    <Chinese>The Moors</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MOORS_PEOPLES</Tag>
@@ -98,7 +102,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>安达卢斯塔伊法斯</Chinese>
+=======
+    <Chinese>Andalusian Taifas</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MOORISH_ARABIA</Tag>
@@ -134,7 +142,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>摩尔</Chinese>
+=======
+    <Chinese>Moorish</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MOORS_SHORT_DESC</Tag>
@@ -143,6 +155,10 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>摩尔</Chinese>
+=======
+    <Chinese>Moors</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

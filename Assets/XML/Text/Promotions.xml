@@ -8,7 +8,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>雇佣战士</Chinese>
+=======
+    <Chinese>Mercenary</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_SELFPRESERVATION1</Tag>
@@ -17,7 +21,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>自保一级</Chinese>
+=======
+    <Chinese>Self Preservation I</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_SELFPRESERVATION2</Tag>
@@ -26,7 +34,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>自保二级</Chinese>
+=======
+    <Chinese>Self Preservation II</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_SELFPRESERVATION3</Tag>
@@ -35,7 +47,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>自保三级</Chinese>
+=======
+    <Chinese>Self Preservation III</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PROMOTION_DESERT_ADAPTATION</Tag>

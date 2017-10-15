@@ -8,7 +8,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>фоляяюндцВ</Chinese>
+=======
+    <Chinese>The Portuguese</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PORTUGAL_PEOPLES</Tag>
@@ -53,7 +57,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>фоляяю╣ш╧З</Chinese>
+=======
+    <Chinese>Portuguese Empire</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PORTUGAL_BRAZIL</Tag>
@@ -129,7 +137,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>фоляяю</Chinese>
+=======
+    <Chinese>Portuguese:PortugueseMale0:1</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PORTUGAL_SHORT_DESC</Tag>
@@ -138,6 +150,10 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>фоляяю</Chinese>
+=======
+    <Chinese>Portugal</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

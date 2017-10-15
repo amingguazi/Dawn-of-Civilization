@@ -53,7 +53,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>奥林匹克公园</Chinese>
+=======
+    <Chinese>Olympic Park</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_OLYMPIC_PARK_STRATEGY</Tag>
@@ -98,7 +102,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>贸易公司</Chinese>
+=======
+    <Chinese>Trading Company</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TRADING_COMPANY_STRATEGY</Tag>

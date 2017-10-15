@@ -377,7 +377,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>AI控制的蒙古会得到攻打俄罗斯和中东地区的额外兵力。请做好准备！</Chinese>
+=======
+    <Chinese>AI Mongols receive additional armies to attack Russia and the Middle East. Be prepared!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_2</Tag>
@@ -386,7 +390,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>在“文明的曙光”中，像拜占庭、意大利、伊朗和泰国等文明的出现需要特定的条件，因此这些文明并不一定每场游戏都会出现。</Chinese>
+=======
+    <Chinese>In Dawn of Civilization, several civilizations like Byzantium, Italy and Thailand have conditional spawns, and don't appear in every game.</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_3</Tag>
@@ -395,7 +403,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>一些文明在AI控制时出现时的归顺区域更大。</Chinese>
+=======
+    <Chinese>Several AI civilizations flip larger areas on spawn to help them along.</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_4</Tag>
@@ -422,7 +434,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>原始神庙只能建造于没有宗教信仰的城市，当宗教传入时，原始神庙自动变更为该宗教的寺庙。</Chinese>
+=======
+    <Chinese>Pagan Temples cannot be built in cities that have a religion, and when a religion spreads to a city with a Pagan Temple, it is replaced by that religion's temple instead.</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_7</Tag>
@@ -476,7 +492,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>塞尔柱文明将会于十二世纪出现在中东地区，请做好准备！</Chinese>
+=======
+    <Chinese>The Seljuks appear in the Middle East in the 11th century. Be prepared!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_13</Tag>

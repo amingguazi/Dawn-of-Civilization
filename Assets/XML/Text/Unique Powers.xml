@@ -26,7 +26,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>所有城市获得[ICON_BULLET]%D1_Change%F2_HappyOrUn</Chinese>
+=======
+    <Chinese>[ICON_BULLET]%D1_Change%F2_HappyOrUn In All Cities</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ARA_TITLE</Tag>
@@ -386,7 +390,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>希腊派出一支军队来征服我们的文明！</Chinese>
+=======
+    <Chinese>The Greeks have fielded an army to conquer our civilization!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_HAR_TITLE</Tag>
@@ -449,7 +457,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>%s1的人口因旧大陆的大批移民涌入而迅速增长！</Chinese>
+=======
+    <Chinese>Our population in %s1 is growing due to immigrants from the Old World!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_INC_TITLE</Tag>
@@ -692,7 +704,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>由于您的作战胜利使您的军队更为壮大！</Chinese>
+=======
+    <Chinese>Your successful conquests have made your horde grow!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MONGOL_TERROR</Tag>
@@ -719,7 +735,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>为避免同邻近城市一样被毁灭的命运，</Chinese>
+=======
+    <Chinese>Citizens of</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_TERROR2</Tag>
@@ -728,7 +748,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>的居民决定开城投降！</Chinese>
+=======
+    <Chinese>fear the same fate of their neighbour inhabitants and surrender!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MOO_TITLE</Tag>
@@ -863,7 +887,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>一支军队已经被派出攻击%s1_civ_adjective！</Chinese>
+=======
+    <Chinese>An army has been fielded to attack %s1_civ_adjective!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ROMAN_CONQUESTS_TARGET</Tag>
@@ -872,7 +900,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>罗马派出一支军队来征服我们的文明！</Chinese>
+=======
+    <Chinese>The Romans have fielded an army to conquer our civilization!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ROMAN_TRIUMPH</Tag>
@@ -881,7 +913,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>您完美的胜利使您有能力派出另一支军团！</Chinese>
+=======
+    <Chinese>Your triumphant victories have enabled you to field another legion!</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_RUS_TITLE</Tag>

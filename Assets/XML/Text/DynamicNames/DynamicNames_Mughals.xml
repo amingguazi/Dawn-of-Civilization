@@ -8,7 +8,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>ÄªÎÔ¶ùÎÄÃ÷</Chinese>
+=======
+    <Chinese>The Mughals</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PAKISTAN_ADJECTIVE</Tag>
@@ -17,7 +21,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>°Í»ùË¹Ì¹</Chinese>
+=======
+    <Chinese>Pakistani</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PAKISTAN_SHORT_DESC</Tag>
@@ -26,7 +34,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>°Í»ùË¹Ì¹</Chinese>
+=======
+    <Chinese>Pakistan</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_PEOPLES</Tag>
@@ -107,7 +119,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>ÄªÎÔ¶ù</Chinese>
+=======
+    <Chinese>Mughal</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_SHORT_DESC</Tag>
@@ -116,6 +132,10 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>ÄªÎÔ¶ù</Chinese>
+=======
+    <Chinese>Mughals</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

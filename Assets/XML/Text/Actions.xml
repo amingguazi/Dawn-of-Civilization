@@ -8,7 +8,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>砍伐丛林</Chinese>
+=======
+    <Chinese>Deforestation</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILD_OCEAN_FISHERY</Tag>
@@ -107,7 +111,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>[COLOR_HIGHLIGHT_TEXT]牺牲[COLOR_REVERT]%d1回合[NEWLINE]+1 [ICON_HAPPY]。[NEWLINE]通过牺牲奴隶，,为城市提供长达%d2回合额外的快乐点数和庆典回合（我们热爱领袖日），并且消耗此奴隶。</Chinese>
+=======
+    <Chinese>[COLOR_HIGHLIGHT_TEXT]Sacrifice[COLOR_REVERT][NEWLINE]+1 [ICON_HAPPY] for %d1 turns.[NEWLINE]This order sacrifice the slave, leading to extra happiness and celebrations in the city for %d2 turns. This will consume the slave.</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ACTION_DIPLOMATIC_MISSION_PEACE</Tag>
@@ -215,7 +223,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>这项命令将消耗掉一个或多个（不同类型的）伟人并开启黄金时代（额外增加[ICON_PRODUCTION]、[ICON_COMMERCE]与[ICON_GREATPEOPLE]）。</Chinese>
+=======
+    <Chinese>This order will consume one or more Great People (of different types) and initiate a Golden Age (extra [ICON_PRODUCTION], [ICON_COMMERCE], [ICON_GREATPEOPLE]).</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ESPIONAGE_SEE_ESPIONAGE</Tag>

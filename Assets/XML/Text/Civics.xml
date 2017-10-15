@@ -26,7 +26,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>泛灵论</Chinese>
+=======
+    <Chinese>Animism</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_ANIMISM_STRATEGY</Tag>
@@ -62,7 +66,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>平等主义</Chinese>
+=======
+    <Chinese>Egalitarianism</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_EGALITARIANISM_STRATEGY</Tag>
@@ -125,7 +133,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>共和制度</Chinese>
+=======
+    <Chinese>Republic</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_REPUBLIC_STRATEGY</Tag>
@@ -143,7 +155,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>世俗主义</Chinese>
+=======
+    <Chinese>Secularism</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_SECULARISM_STRATEGY</Tag>
@@ -179,7 +195,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>极权主义</Chinese>
+=======
+    <Chinese>Totalitarianism</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_TOTALITARIANISM_STRATEGY</Tag>
@@ -197,7 +217,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>最原始的社会制度</Chinese>
+=======
+    <Chinese>The most primitive Society civic</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_VASSALAGE_STRATEGY</Tag>
@@ -224,7 +248,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>社会制度</Chinese>
+=======
+    <Chinese>Society</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVICOPTION_LEGITIMACY</Tag>

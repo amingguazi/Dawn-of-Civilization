@@ -8,7 +8,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>日耳曼文明</Chinese>
+=======
+    <Chinese>The Germans</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIA_DESC</Tag>
@@ -17,7 +21,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>奥地利文明</Chinese>
+=======
+    <Chinese>The Austrians</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_PEOPLES</Tag>
@@ -98,7 +106,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>奥地利</Chinese>
+=======
+    <Chinese>Austria</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIA_ADJECTIVE</Tag>
@@ -107,7 +119,11 @@
     <L2 />
     <L3 />
     <L4 />
+<<<<<<< HEAD
     <Chinese>奥地利</Chinese>
+=======
+    <Chinese>Austrian</Chinese>
+>>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROMAN_ITALY</Tag>
