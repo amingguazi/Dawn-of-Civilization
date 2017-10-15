@@ -20,6 +20,9 @@ class CvWString : public std::wstring
 {
 public:
 	CvWString() {}
+#ifdef CYBERFRONT // character code: CvWString
+	CvWString(int iLen) { reserve(iLen); }
+#endif // CYBERFRONT
 	CvWString(const std::string& s) { Copy(s.c_str()); 	}
 	CvWString(const CvWString& s) { *this = s; 	}
 	CvWString(const char* s) { Copy(s); 	}
@@ -32,6 +35,23 @@ public:
 	CvWString(const FStringW& s) { assign(s.GetCString()); }
 #endif
 	~CvWString() {}
+
+#ifdef CYBERFRONT // character code: CvWString
+	void Convert(const std::string& s)
+	{
+		if (s.c_str())
+		{
+			int iLen = MultiByteToWideChar(CP_ACP, MB_PRECOMPOSED, s.c_str(), -1, NULL, 0);
+			if (iLen)
+			{
+				wchar *w = new wchar[iLen];
+				MultiByteToWideChar(CP_ACP, MB_PRECOMPOSED, s.c_str(), -1, w, iLen);
+				assign(w);
+				delete [] w;
+			}
+		}
+	}
+#endif // CYBERFRONT
 
 	void Copy(const char* s)
 	{ 
@@ -50,6 +70,11 @@ public:
 
 	// FString compatibility
 	const wchar* GetCString() const 	{ return c_str(); }	
+#ifdef CYBERFRONT // character code: CvWString
+	bool IsEmpty() const { return empty();	}
+	int CompareNoCase( const wchar* lpsz ) const { return _wcsicmp(lpsz, c_str()); }
+	int CompareNoCase( const wchar* lpsz, int iLength ) const { return _wcsnicmp(lpsz, c_str(), iLength);  }
+#endif // CYBERFRONT
 
 	// implicit conversion
 	operator const wchar*() const 	{ return c_str(); }							
@@ -208,7 +233,24 @@ public:
 	explicit CvString(const std::wstring& s) { Copy(s.c_str()); }		// don't want accidental conversions down to narrow strings
 	~CvString() {}
 
+#ifdef CYBERFRONT // character code: CvString
+	void Convert(const std::wstring& w)
+	{
+		if (w.c_str())
+		{
+			int iLen = WideCharToMultiByte(CP_ACP, 0, w.c_str(), -1, NULL, 0, NULL, NULL);
+			if (iLen)
+			{
+				char *s = new char[iLen];
+				WideCharToMultiByte(CP_ACP, 0, w.c_str(), -1, s, iLen, NULL, NULL);
+				assign(s);
+				delete [] s;
+			}
+		}
+	}
+#else
 	void Convert(const std::wstring& w) { Copy(w.c_str());	}
+#endif // CYBERFRONT
 	void Copy(const wchar* w)
 	{
 		if (w)

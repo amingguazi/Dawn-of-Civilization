@@ -1,51 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!-- Features -->
-<Civ4GameText>
-	<TEXT>
-		<Tag>TXT_KEY_FEATURE_CAPE</Tag>
-		<English>Cape</English>
-		<German>
-			<Text>Kap</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</German>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_FEATURE_ISLANDS</Tag>
-		<English>Islands</English>
-		<German>Inseln</German>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_FEATURE_RAINFOREST</Tag>
-		<English>Rainforest</English>
-		<German>Regenwald</German>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_FEATURE_MARSH</Tag>
-		<English>Marsh</English>
-		<French>
-			<Text>Mar&#233;cage</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Sumpf</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</German>
-		<Italian>
-			<Text>Palude</Text>
-			<Gender>Female</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Ci&#233;naga</Text>
-			<Gender>Female</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_FEATURE_NO_IMPROVEMENT</Tag>
-		<English>[NEWLINE][ICON_BULLET]Cannot build any improvements on this feature</English>
-	</TEXT>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_FEATURE_CAPE</Tag>
+    <English>Cape</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Cape</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_FEATURE_ISLANDS</Tag>
+    <English>Islands</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Islands</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_FEATURE_RAINFOREST</Tag>
+    <English>Rainforest</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Rainforest</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_FEATURE_MARSH</Tag>
+    <English>Marsh</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Marsh</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_FEATURE_NO_IMPROVEMENT</Tag>
+    <English>[NEWLINE][ICON_BULLET]Cannot build any improvements on this feature</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>[NEWLINE][ICON_BULLET]Cannot build any improvements on this feature</Chinese>
+  </TEXT>
 </Civ4GameText>

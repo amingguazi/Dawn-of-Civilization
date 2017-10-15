@@ -1,60 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!-- Tamils -->
 <Civ4GameText xmlns="http://www.firaxis.com">
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_DESC</Tag>
-		<English>The Tamils</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_PEOPLES</Tag>
-		<English>Dravidian Peoples</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_DEFAULT</Tag>
-		<English>%s2 Kingdom</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_REPUBLIC</Tag>
-		<English>Republic of Tamil Nadu</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_FASCIST</Tag>
-		<English>Dravidian Empire</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA</Tag>
-		<English>Vijayanagara</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_MYSORE</Tag>
-		<English>Mysore</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_CHOLA</Tag>
-		<English>Chola</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_PANDYAN</Tag>
-		<English>Pandyan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_CHERA</Tag>
-		<English>Chera</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_DRAVIDA</Tag>
-		<English>Dravida</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_TAMIL_NADU</Tag>
-		<English>Tamil Nadu</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_ADJECTIVE</Tag>
-		<English>Tamil</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_TAMILS_SHORT_DESC</Tag>
-		<English>Tamils</English>
-	</TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_DESC</Tag>
+    <English>The Tamils</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>泰米尔文明</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_PEOPLES</Tag>
+    <English>Dravidian Peoples</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Dravidian Peoples</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_DEFAULT</Tag>
+    <English>%s2 Kingdom</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>%s2 Kingdom</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_REPUBLIC</Tag>
+    <English>Republic of Tamil Nadu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Republic of Tamil Nadu</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_FASCIST</Tag>
+    <English>Dravidian Empire</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Dravidian Empire</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA</Tag>
+    <English>Vijayanagara</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Vijayanagara</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_MYSORE</Tag>
+    <English>Mysore</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Mysore</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_CHOLA</Tag>
+    <English>Chola</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Chola</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_PANDYAN</Tag>
+    <English>Pandyan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Pandyan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_CHERA</Tag>
+    <English>Chera</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Chera</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_DRAVIDA</Tag>
+    <English>Dravida</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Dravida</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_TAMIL_NADU</Tag>
+    <English>Tamil Nadu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tamil Nadu</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_ADJECTIVE</Tag>
+    <English>Tamil</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>泰米尔</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_SHORT_DESC</Tag>
+    <English>Tamils</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>泰米尔</Chinese>
+  </TEXT>
 </Civ4GameText>
