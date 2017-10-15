@@ -17,11 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>同意放弃该城</Chinese>
-=======
-    <Chinese>Accept the decision and leave the city</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_BRIBE_GOLD</Tag>
@@ -156,11 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>他们严词拒绝了我们的贿赂。现在他们的投票甚至可能不利于我们！</Chinese>
-=======
-    <Chinese>They refused our proposal with indignation. Now they might even vote against our interests!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_CORRUPTION_GOLD</Tag>
@@ -169,11 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们需要为此花多少钱？</Chinese>
-=======
-    <Chinese>How much gold shall we use for this purpose?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_CORRUPTION_NO</Tag>
@@ -182,11 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>他们拒绝受贿。</Chinese>
-=======
-    <Chinese>They refused our proposal.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_CORRUPTION_REQUEST</Tag>
@@ -195,11 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们可以用金钱贿赂其他文明根据我们的利益投票。你愿意进行这种尝试吗？</Chinese>
-=======
-    <Chinese>We can use some of our gold to try to bribe another civilization to vote for our interests. Do you want to attempt?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_CORRUPTION_YES</Tag>
@@ -208,11 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>他们接受了贿赂。他们将根据我们的利益投票。</Chinese>
-=======
-    <Chinese>They accepted our proposal. They will vote for our interests.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_DEMAND_CITY</Tag>
@@ -239,11 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们应该要求哪座城市?</Chinese>
-=======
-    <Chinese>What city shall we ask for?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_INTRO</Tag>
@@ -252,11 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一次国际会议即将召开。[NEWLINE]各主要国家的领袖齐聚一堂讨论如何保持世界的力量平衡。[NEWLINE][NEWLINE]各方均有机会要求一座城市的统治权，如在会议上获得通过，则城市现在的所有者必须接受。[NEWLINE]如果你拒绝接受会谈结果，可能与投下赞成票的国家开战。</Chinese>
-=======
-    <Chinese>A new international Congress is about to start.[NEWLINE]The leaders of some of the most important nations will meet there to discuss the balance of the world.[NEWLINE][NEWLINE]Each side will have its turn to ask a city; if the decision is approved the owner of the city that is being traded must accept it.[NEWLINE]If you refuse a decision, you are likely to face a war against some of the sides that voted YES.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_INTRO_NOT_INVITED</Tag>
@@ -265,11 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一次国际会议正在召开，但我们未获邀请。也许因为我们还不够强大。[NEWLINE][NEWLINE]目前我们只能期待他们的会谈能有合理的结果。</Chinese>
-=======
-    <Chinese>A World Congress is being held, but we haven't been invited. Maybe we aren't important enough.[NEWLINE][NEWLINE]Now we can only await their decisions and trust in their common sense.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_INTRODUCTION</Tag>
@@ -332,11 +296,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>两回合后将召开一次国际会议。我们已收到邀请函。你同意参加吗？</Chinese>
-=======
-    <Chinese>An international Congress is being held in 2 turns. You have been invited to participate. Will you accept the invitation?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_INVITE</Tag>
@@ -363,11 +323,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>新的国际会议</Chinese>
-=======
-    <Chinese>New Congress</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_NO_AI_REQUEST</Tag>
@@ -376,11 +332,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>无要求</Chinese>
-=======
-    <Chinese>makes no requests</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_NO_BRIBE</Tag>
@@ -398,11 +350,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>没有可要求的城市</Chinese>
-=======
-    <Chinese>There is no appropriate city to ask</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_NO_REQUEST</Tag>
@@ -411,11 +359,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>无要求</Chinese>
-=======
-    <Chinese>NO REQUEST</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_NO_RESULTS</Tag>
@@ -433,11 +377,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>已移交给%s1统治</Chinese>
-=======
-    <Chinese>is passing under %s1 control</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_NOTIFY_YES1</Tag>
@@ -446,11 +386,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>已经移交给</Chinese>
-=======
-    <Chinese>is passing under</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_NOTIFY_YES2</Tag>
@@ -459,11 +395,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>统治</Chinese>
-=======
-    <Chinese>control</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_OF</Tag>
@@ -481,11 +413,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>确定</Chinese>
-=======
-    <Chinese>OK</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_POPUP_ABSTAINS</Tag>
@@ -494,11 +422,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>弃权票[NEWLINE]</Chinese>
-=======
-    <Chinese>abstains[NEWLINE]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_POPUP_NO_WINS</Tag>
@@ -507,11 +431,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[NEWLINE]未获通过</Chinese>
-=======
-    <Chinese>[NEWLINE]NO wins</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_POPUP_VOTES_NO</Tag>
@@ -520,11 +440,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>反对票[NEWLINE]</Chinese>
-=======
-    <Chinese>votes NO[NEWLINE]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_POPUP_VOTES_YES</Tag>
@@ -533,11 +449,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>赞成票[NEWLINE]</Chinese>
-=======
-    <Chinese>votes YES[NEWLINE]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_POPUP_YES_WINS</Tag>
@@ -546,11 +458,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[NEWLINE]获得通过</Chinese>
-=======
-    <Chinese>[NEWLINE]YES wins</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_REFUSE</Tag>
@@ -568,11 +476,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>拒绝放弃该城!</Chinese>
-=======
-    <Chinese>Refuse leaving the city!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_REQUEST</Tag>
@@ -581,11 +485,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1要求%s2(%s3)</Chinese>
-=======
-    <Chinese>%s1 wants %s2 (%s3)</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_REQUEST1</Tag>
@@ -594,11 +494,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>国际会议决定</Chinese>
-=======
-    <Chinese>The Congress has decided that</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_REQUEST2</Tag>
@@ -607,11 +503,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>应该移交给</Chinese>
-=======
-    <Chinese>should be assigned to</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_REQUEST3</Tag>
@@ -620,11 +512,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>统治。[NEWLINE]你同意吗？(拒绝可能导致战争)</Chinese>
-=======
-    <Chinese>control.[NEWLINE]Do you agree? (Our refusal may lead to a war)</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONGRESS_REQUEST_CITY</Tag>

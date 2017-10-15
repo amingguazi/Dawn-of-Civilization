@@ -19,11 +19,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>文明的孕育</Chinese>
-=======
-    <Chinese>Conditional Spawns</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_CONGRESSES</Tag>
@@ -32,11 +28,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>国际会议</Chinese>
-=======
-    <Chinese>Congresses</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_CONTINENTS</Tag>
@@ -45,11 +37,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>大洲、国家与特色历史胜利</Chinese>
-=======
-    <Chinese>Continents, Countries and Unique Historical Victories</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_DIPLOMATIC_INSTITUTIONS</Tag>
@@ -67,11 +55,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>“文明的曙光”中的杂项</Chinese>
-=======
-    <Chinese>Odds and Ends in DoC</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_EMBASSIES</Tag>
@@ -80,11 +64,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>使馆</Chinese>
-=======
-    <Chinese>Embassies</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_HISTORICALSTARTS</Tag>
@@ -93,11 +73,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>史实开局</Chinese>
-=======
-    <Chinese>Historical Starts</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_MERCENARIES</Tag>
@@ -106,11 +82,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣军</Chinese>
-=======
-    <Chinese>Mercenaries</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_NEW_CORPORATIONS</Tag>
@@ -119,11 +91,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>“文明的曙光”中的公司</Chinese>
-=======
-    <Chinese>Corporations in DoC</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_ODDS</Tag>
@@ -132,11 +100,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>杂项</Chinese>
-=======
-    <Chinese>Odds and Ends</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_PLAGUE</Tag>
@@ -145,11 +109,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>瘟疫</Chinese>
-=======
-    <Chinese>Plague</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_REFORMATION</Tag>
@@ -158,11 +118,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>改革</Chinese>
-=======
-    <Chinese>Reformation</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_RESPAWNS</Tag>
@@ -171,11 +127,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>“文明的曙光”中的重生</Chinese>
-=======
-    <Chinese>Respawns in DoC</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_RFCINTRO</Tag>
@@ -184,11 +136,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>欢迎进入“文明的兴衰”</Chinese>
-=======
-    <Chinese>Welcome to Rhye's and Fall of Civilization</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_SCHISM</Tag>
@@ -197,11 +145,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>东西教会大分裂</Chinese>
-=======
-    <Chinese>Great Christian Schism</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_SLAVERY</Tag>
@@ -210,11 +154,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>奴隶制度</Chinese>
-=======
-    <Chinese>Slavery</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_STABILITY</Tag>
@@ -223,11 +163,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>稳定度</Chinese>
-=======
-    <Chinese>Stability</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_STABILITY_INFLUENCES</Tag>
@@ -245,11 +181,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>地块稳定度显示</Chinese>
-=======
-    <Chinese>Tile Stability Display</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_TRADING_COMPANY_CONQUERORS</Tag>
@@ -258,11 +190,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>贸易公司</Chinese>
-=======
-    <Chinese>Trading Companies</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CONCEPT_UP_UHV</Tag>
@@ -271,10 +199,6 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>特色专长与历史胜利条件</Chinese>
-=======
-    <Chinese>Unique Powers and Historical Victories</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

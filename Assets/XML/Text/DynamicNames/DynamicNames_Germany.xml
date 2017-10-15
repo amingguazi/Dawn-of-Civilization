@@ -8,11 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>普鲁士文明</Chinese>
-=======
-    <Chinese>The Prussians</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_GERMANY_PEOPLES</Tag>
@@ -282,11 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>德国</Chinese>
-=======
-    <Chinese>German</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_GERMANY_SHORT_DESC</Tag>
@@ -295,10 +287,6 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>德国</Chinese>
-=======
-    <Chinese>Germany</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

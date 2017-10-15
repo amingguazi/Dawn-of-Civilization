@@ -80,11 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>冷藏库</Chinese>
-=======
-    <Chinese>Cold Storage Plant</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ARGENTINE_REFRIGERATION_PLANT_STRATEGY</Tag>
@@ -174,11 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>农场</Chinese>
-=======
-    <Chinese>Fazenda</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BRAZILIAN_FAZENDA_STRATEGY</Tag>
@@ -268,11 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>庄园</Chinese>
-=======
-    <Chinese>Hacienda</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_COLOMBIAN_HACIENDA_STRATEGY</Tag>
@@ -560,11 +548,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>土堡驿站</Chinese>
-=======
-    <Chinese>Tambo</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_INCAN_TAMBO_STRATEGY</Tag>
@@ -618,11 +602,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>梯井</Chinese>
-=======
-    <Chinese>Stepwell</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_INDIAN_STEPWELL_STRATEGY</Tag>
@@ -640,11 +620,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>浮屠</Chinese>
-=======
-    <Chinese>Candi</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_INDONESIAN_CANDI_STRATEGY</Tag>
@@ -662,11 +638,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>艺术工作室</Chinese>
-=======
-    <Chinese>Art Studio</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ITALIAN_ART_STUDIO_STRATEGY</Tag>
@@ -891,11 +863,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>戽水车</Chinese>
-=======
-    <Chinese>Noria</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MOORISH_NORIA_STRATEGY</Tag>
@@ -976,11 +944,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>玻璃作坊</Chinese>
-=======
-    <Chinese>Glassmaker</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PHOENICIAN_GLASSMAKER_STRATEGY</Tag>
@@ -998,11 +962,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>瘟疫</Chinese>
-=======
-    <Chinese>Plague</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PORTUGUESE_FEITORIA_STRATEGY</Tag>
@@ -1029,11 +989,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>贵族议会</Chinese>
-=======
-    <Chinese>Sejmik</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_POLISH_SEJMIK_STRATEGY</Tag>
@@ -1186,11 +1142,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>桑迦姆</Chinese>
-=======
-    <Chinese>Sangam</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TAMIL_SANGAM_STRATEGY</Tag>
@@ -1226,11 +1178,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>藏经阁</Chinese>
-=======
-    <Chinese>Ho Trai</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_THAI_HO_TRAI_STRATEGY</Tag>
@@ -1257,11 +1205,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>禅修堂</Chinese>
-=======
-    <Chinese>Gompa</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TIBETAN_GOMPA_STRATEGY</Tag>
@@ -1342,11 +1286,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>东正教礼拜堂</Chinese>
-=======
-    <Chinese>Orthodox Church</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ORTHODOX_TEMPLE_STRATEGY</Tag>
@@ -1364,11 +1304,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>东正教修道院</Chinese>
-=======
-    <Chinese>Orthodox Monastery</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ORTHODOX_MONASTERY_STRATEGY</Tag>
@@ -1386,11 +1322,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>东正教大教堂</Chinese>
-=======
-    <Chinese>Orthodox Cathedral</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ORTHODOX_CATHEDRAL_STRATEGY</Tag>
@@ -1948,11 +1880,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>祆教圣火</Chinese>
-=======
-    <Chinese>Zoroastrian Royal Fire</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ZOROASTRIAN_CATHEDRAL_STRATEGY</Tag>
@@ -1970,11 +1898,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>法恩贝格圣火坛</Chinese>
-=======
-    <Chinese>Adur Farnbag</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ZOROASTRIAN_SHRINE_STRATEGY</Tag>
@@ -2352,11 +2276,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>泥版书屋</Chinese>
-=======
-    <Chinese>Edubba</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BABYLONIAN_EDUBBA_STRATEGY</Tag>

@@ -8,11 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>西班牙文明</Chinese>
-=======
-    <Chinese>The Spanish</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_PEOPLES</Tag>
@@ -282,11 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>西班牙</Chinese>
-=======
-    <Chinese>Spanish</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_SHORT_DESC</Tag>
@@ -295,10 +287,6 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>西班牙</Chinese>
-=======
-    <Chinese>Spain</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

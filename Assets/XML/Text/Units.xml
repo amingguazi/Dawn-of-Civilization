@@ -19,11 +19,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一分钟人</Chinese>
-=======
-    <Chinese>Minuteman</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY</Tag>
@@ -41,11 +37,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>掷弹骑兵</Chinese>
-=======
-    <Chinese>Grenadier Cavalry</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_ARABIAN_CAMEL_ARCHER</Tag>
@@ -207,11 +199,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>射石炮</Chinese>
-=======
-    <Chinese>Bombard</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_BOMBARD_STRATEGY</Tag>
@@ -436,11 +424,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>志愿兵团</Chinese>
-=======
-    <Chinese>Albion Legion</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_COLOMBIAN_ALBION_LEGION_STRATEGY</Tag>
@@ -521,11 +505,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>谷物公司经理</Chinese>
-=======
-    <Chinese>Cereal Industry Executive</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_EXECUTIVE_2</Tag>
@@ -534,11 +514,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>渔业公司经理</Chinese>
-=======
-    <Chinese>Fishing Industry Executive</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_EXECUTIVE_3</Tag>
@@ -547,11 +523,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>石油公司经理</Chinese>
-=======
-    <Chinese>Oil Industry Executive</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_EXECUTIVE_4</Tag>
@@ -560,11 +532,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>计算机公司经理</Chinese>
-=======
-    <Chinese>Computer Industry Executive</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_EXECUTIVE_5</Tag>
@@ -573,11 +541,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>纺织公司经理</Chinese>
-=======
-    <Chinese>Textile Industry Executive</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_EXECUTIVE_6</Tag>
@@ -586,11 +550,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>钢铁公司经理</Chinese>
-=======
-    <Chinese>Steel Industry Executive</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_EXECUTIVE_7</Tag>
@@ -599,11 +559,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>奢侈品公司经理</Chinese>
-=======
-    <Chinese>Luxury Industry Executive</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_EXPLORER_STRATEGY</Tag>
@@ -711,11 +667,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>重型火炮</Chinese>
-=======
-    <Chinese>Heavy Cannon</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_GREAT_STATESMAN_STRATEGY</Tag>
@@ -1039,11 +991,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>爪哇轻帆</Chinese>
-=======
-    <Chinese>Orang Laut</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_INDONESIAN_ORANG_LAUT_STRATEGY</Tag>
@@ -1061,11 +1009,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>单位信息</Chinese>
-=======
-    <Chinese>Unit Information</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_JAPANESE_SAMURAI</Tag>
@@ -1254,11 +1198,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>征召民兵</Chinese>
-=======
-    <Chinese>Levy</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_MOBILE_SAM_STRATEGY</Tag>
@@ -1375,11 +1315,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>骆驼火枪兵</Chinese>
-=======
-    <Chinese>Camel Gunner</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_MOORISH_CORSAIR</Tag>
@@ -1505,11 +1441,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>攻城战象</Chinese>
-=======
-    <Chinese>Siege Elephant</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_MUGHAL_SIEGE_ELEPHANT_STRATEGY</Tag>
@@ -1527,11 +1459,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>苏丹亲兵</Chinese>
-=======
-    <Chinese>Janissary</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_PERSIAN_IMMORTAL</Tag>
@@ -1576,11 +1504,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>双层桨战船</Chinese>
-=======
-    <Chinese>Bireme</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_SCOUT_STRATEGY</Tag>
@@ -1679,11 +1603,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>翼骑兵</Chinese>
-=======
-    <Chinese>Winged Hussar</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_PIKEMAN_STRATEGY</Tag>
@@ -1755,11 +1675,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>古拉姆战士</Chinese>
-=======
-    <Chinese>Ghulam Warrior</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_SHIP_OF_THE_LINE_STRATEGY</Tag>
@@ -1885,11 +1801,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>奴隶</Chinese>
-=======
-    <Chinese>Slave</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_SLAVE_STRATEGY</Tag>
@@ -1925,11 +1837,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>三桅轻帆</Chinese>
-=======
-    <Chinese>Dharani</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_TANK_STRATEGY</Tag>
@@ -1956,11 +1864,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>暹罗战象</Chinese>
-=======
-    <Chinese>Chang Suek</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_THAI_CHANG_SUEK_STRATEGY</Tag>
@@ -1978,11 +1882,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>康藏骑兵</Chinese>
-=======
-    <Chinese>Khampa</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_WAR_GALLEY</Tag>
@@ -2144,11 +2044,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>东正教传教士</Chinese>
-=======
-    <Chinese>Orthodox Missionary</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UNIT_ORTHODOX_MISSIONARY_STRATEGY</Tag>

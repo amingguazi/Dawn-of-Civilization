@@ -8,11 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>巴比伦文明</Chinese>
-=======
-    <Chinese>The Babylonians</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_PEOPLES</Tag>
@@ -102,11 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>腓尼基藩国</Chinese>
-=======
-    <Chinese>Babylonian Phoenicia</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_ADJECTIVE</Tag>
@@ -119,11 +111,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>巴比伦</Chinese>
-=======
-    <Chinese>Babylonian:BabyloniansMale0:1</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_SHORT_DESC</Tag>
@@ -132,10 +120,6 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>巴比伦</Chinese>
-=======
-    <Chinese>Babylonia</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

@@ -12,11 +12,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>凯尔特</Chinese>
-=======
-    <Chinese>Celtic:CeltsMale0:1</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_CELT_DESC</Tag>
@@ -34,11 +30,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>凯尔特</Chinese>
-=======
-    <Chinese>Celtia</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDEPENDENT_ADJECTIVE</Tag>
@@ -47,11 +39,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>独立城邦</Chinese>
-=======
-    <Chinese>Independent</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDEPENDENT_DESC</Tag>
@@ -60,11 +48,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>独立城邦</Chinese>
-=======
-    <Chinese>Independent Cities</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDEPENDENT_SHORT_DESC</Tag>
@@ -73,11 +57,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>独立城邦</Chinese>
-=======
-    <Chinese>Independents</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NATIVE_ADJECTIVE</Tag>
@@ -86,11 +66,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>原住民</Chinese>
-=======
-    <Chinese>Native</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NATIVE_DESC</Tag>
@@ -108,11 +84,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>原生土著</Chinese>
-=======
-    <Chinese>Natives</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SELJUK_ADJECTIVE</Tag>
@@ -121,11 +93,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>塞尔柱</Chinese>
-=======
-    <Chinese>Seljuk</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SELJUK_DESC</Tag>
@@ -134,11 +102,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>塞尔柱帝国</Chinese>
-=======
-    <Chinese>Seljuk Empire</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SELJUK_SHORT_DESC</Tag>
@@ -147,11 +111,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>塞尔柱</Chinese>
-=======
-    <Chinese>Seljuks</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ZULU_ADJECTIVE</Tag>
@@ -164,11 +124,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>祖鲁</Chinese>
-=======
-    <Chinese>Zulu:ZuluMale0:1</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BARBARIAN_ADJECTIVE</Tag>
@@ -177,11 +133,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>蛮族</Chinese>
-=======
-    <Chinese>Barbarian</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BARBARIAN_DESC</Tag>
@@ -199,10 +151,6 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>蛮族</Chinese>
-=======
-    <Chinese>Barbarians</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

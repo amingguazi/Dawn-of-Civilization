@@ -35,11 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>蓝色清真寺</Chinese>
-=======
-    <Chinese>Blue Mosque</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BLUE_MOSQUE_STRATEGY</Tag>
@@ -57,11 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>婆罗浮屠</Chinese>
-=======
-    <Chinese>Borobudur</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BOROBUDUR_STRATEGY</Tag>
@@ -79,11 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>勃兰登堡门</Chinese>
-=======
-    <Chinese>Brandenburg Gate</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BRANDENBURG_GATE_STRATEGY</Tag>
@@ -254,11 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>大浴场</Chinese>
-=======
-    <Chinese>The Great Bath</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_GREAT_COTHON</Tag>
@@ -321,11 +305,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>哈曼迪尔寺</Chinese>
-=======
-    <Chinese>Harmandir Sahib</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_HARMANDIR_SAHIB_STRATEGY</Tag>
@@ -343,11 +323,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]为城市提供水源[NEWLINE][ICON_BULLET]所有新建立的城市增加额外的1人口</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Provides fresh water to the city[NEWLINE][ICON_BULLET]All newly founded cities receive one additional point of population</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_HELP_HARMANDIR_SAHIB</Tag>
@@ -356,11 +332,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]信仰国教的城市所训练的单位经验值+2</Chinese>
-=======
-    <Chinese>[ICON_BULLET]All units built in cities with state religion receive +2 experience</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_HELP_HIMEJI_CASTLE</Tag>
@@ -405,11 +377,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>姬路城</Chinese>
-=======
-    <Chinese>Himeji Castle</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ISHTAR_GATE</Tag>
@@ -418,11 +386,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>伊什塔尔城门</Chinese>
-=======
-    <Chinese>Ishtar Gate</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_LUBYANKA</Tag>
@@ -449,11 +413,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>克久拉霍</Chinese>
-=======
-    <Chinese>Khajuraho</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ST_BASILS_CATHEDRAL</Tag>
@@ -480,11 +440,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>比萨斜塔</Chinese>
-=======
-    <Chinese>The Leaning Tower</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_LEANING_TOWER_STRATEGY</Tag>
@@ -502,11 +458,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>马丘比丘</Chinese>
-=======
-    <Chinese>Machu Picchu</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MACHU_PICCHU_HELP</Tag>
@@ -515,11 +467,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>为所在城市范围内的每座山峰[ICON_BULLET]提供2[ICON_GOLD]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Provides +2[ICON_GOLD] per Peak in City Radius</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MACHU_PICCHU_STRATEGY</Tag>
@@ -690,11 +638,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>大运河</Chinese>
-=======
-    <Chinese>The Grand Canal</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_GRAND_CANAL_STRATEGY</Tag>
@@ -712,11 +656,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>漂浮花园</Chinese>
-=======
-    <Chinese>Floating Gardens</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BABYLONIAN_GARDEN</Tag>
@@ -761,11 +701,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]城市维护费减少33%</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Civic Upkeep Reduced by 33%</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_FORBIDDEN_PALACE_STRATEGY</Tag>
@@ -783,11 +719,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>大报恩寺</Chinese>
-=======
-    <Chinese>Porcelain Tower</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PORCELAIN_TOWER_STRATEGY</Tag>
@@ -832,11 +764,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>阿格拉红堡</Chinese>
-=======
-    <Chinese>The Red Fort</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_RED_FORT_STRATEGY</Tag>
@@ -1016,11 +944,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>兵马俑</Chinese>
-=======
-    <Chinese>Terracotta Army</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TERRACOTTA_ARMY_HELP</Tag>
@@ -1047,11 +971,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>狄奥多西城墙</Chinese>
-=======
-    <Chinese>Theodosian Walls</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_THEODOSIAN_WALLS_STRATEGY</Tag>
@@ -1069,11 +989,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>托普卡帕宫</Chinese>
-=======
-    <Chinese>Topkapi Palace</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ITAIPU_DAM</Tag>
@@ -1118,11 +1034,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>特拉法加广场</Chinese>
-=======
-    <Chinese>Trafalgar Square</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_SHWEDAGON_PAYA_STRATEGY</Tag>

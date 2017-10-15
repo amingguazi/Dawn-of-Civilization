@@ -8,11 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>突厥文明</Chinese>
-=======
-    <Chinese>The Turks</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TURKEY_PEOPLES</Tag>
@@ -178,11 +174,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>土耳其</Chinese>
-=======
-    <Chinese>Turkish:TurksMale0:1</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_OTTOMAN_SHORT_DESC</Tag>
@@ -191,10 +183,6 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>土耳其</Chinese>
-=======
-    <Chinese>Turkey</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
 </Civ4GameText>

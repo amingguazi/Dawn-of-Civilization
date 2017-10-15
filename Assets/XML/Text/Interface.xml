@@ -26,11 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你的单位被敌人俘获！</Chinese>
-=======
-    <Chinese>Your unit has been enslaved!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ENSLAVE_WIN</Tag>
@@ -39,11 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>敌方单位被俘获！</Chinese>
-=======
-    <Chinese>An enemy unit has been enslaved!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_EMIGRATION</Tag>
@@ -52,11 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我国%s1的部分人口移民新大陆！</Chinese>
-=======
-    <Chinese>A part of our population from %s1 is emigrating to the New World!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_TECH_BASE_COST</Tag>
@@ -83,11 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>已签订雇佣契约</Chinese>
-=======
-    <Chinese>Units Contracted Out</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_TECH_LEADER_MODIFIER</Tag>
@@ -132,11 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]建成一座印度教神庙后创立</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Founded when a Hindu Temple is built</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_FOUND_CATHOLICISM</Tag>
@@ -244,11 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%D1_Change[ICON_UNHAPPY]: “我们的奴隶渴望自由！”</Chinese>
-=======
-    <Chinese>%D1_Change[ICON_UNHAPPY]: "Our slaves are longing for freedom!"</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_COMMERCE_BONUS</Tag>
@@ -257,11 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]交易资源减少时不降低稳定度</Chinese>
-=======
-    <Chinese>[ICON_BULLET]No negative Stability Points for low amount of traded resources</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_CONQUEST_BONUS</Tag>
@@ -270,11 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]征服城市稳定点数+2</Chinese>
-=======
-    <Chinese>[ICON_BULLET]+2 additional Stability Points on city conquest</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_CORE_FREE_SPECIALISTS</Tag>
@@ -292,11 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]城市中每驻军一单位%D1_PerUnit%F2_HappyOrSad，上限为%D3</Chinese>
-=======
-    <Chinese>[ICON_BULLET]%D1_PerUnit%F2_HappyOrSad per Military Unit Stationed in a City up to a Maximum of %D3</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_WE_LOVE_CONSUL</Tag>
@@ -305,11 +269,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>"我们热爱执政官日"</Chinese>
-=======
-    <Chinese>"We Love the Consul Day"</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_WONDER_PRODUCTION</Tag>
@@ -345,11 +305,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]每收纳一个附庸国稳定点数+4</Chinese>
-=======
-    <Chinese>[ICON_BULLET]+4 Stability Points for each vassal</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_VASSAL_BONUS_VANILLA</Tag>
@@ -358,11 +314,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]每控制一个文明发源地稳定点数+4</Chinese>
-=======
-    <Chinese>[ICON_BULLET]+4 Stability Points for each civilization starting point controlled</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_UNLIMTED</Tag>
@@ -380,11 +332,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]每座城市只能入驻一种公司[NEWLINE][ICON_BULLET]改变经济制度将导致经济危机</Chinese>
-=======
-    <Chinese>[ICON_BULLET]No more than one corporation per city[NEWLINE][ICON_BULLET]Post-communist crisis in case of economic system switch</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_PROCESS_MODIFIER</Tag>
@@ -393,11 +341,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]生产财富时效率增加%D1_Mod%%</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Can convert production to commerce with %D1_Mod%% efficiency</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_PER_SPECIALIST_THRESHOLD</Tag>
@@ -406,11 +350,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[SPACE]于每一位城市中的专业人员（城市工作地块不超过%d1块）</Chinese>
-=======
-    <Chinese>[SPACE]per Specialist for every city that works at most %d1 land tiles</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_PER_EXCESS_HAPPINESS</Tag>
@@ -482,11 +422,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]每建立一个距离首都15格以上的城市稳定点数+2</Chinese>
-=======
-    <Chinese>[ICON_BULLET]+2 additional Stability Points for each city founded at least 15 tiles from the capital</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_CORPORATION_COMMERCE</Tag>
@@ -513,11 +449,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]可能发生大萧条</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Risk of Great Depression</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_DOMAIN_PRODUCTION</Tag>
@@ -644,11 +576,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>“文明的兴衰”特有概念</Chinese>
-=======
-    <Chinese>RFC Concepts</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEDIA_CATEGORY_UPGRADES</Tag>
@@ -657,11 +585,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>单位升级</Chinese>
-=======
-    <Chinese>Unit Upgrades</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RATING_STAR</Tag>
@@ -724,11 +648,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>移除%s2附近的一处%s1，并带来了%d3[ICON_GOLD]的收入。</Chinese>
-=======
-    <Chinese>Removing a %s1 near your city of %s2 has created %d3 [ICON_GOLD] for your treasury.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BC</Tag>
@@ -773,11 +693,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>青铜时代</Chinese>
-=======
-    <Chinese>Bronze Age</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_AGE_IRON</Tag>
@@ -786,11 +702,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>铁器时代</Chinese>
-=======
-    <Chinese>Iron Age</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_AGE_MEDIEVAL</Tag>
@@ -799,11 +711,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>中古时代</Chinese>
-=======
-    <Chinese>Medieval Age</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_AGE_RENAISSANCE</Tag>
@@ -812,11 +720,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>启蒙时代</Chinese>
-=======
-    <Chinese>Renaissance Age</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_AGE_STONE</Tag>
@@ -825,11 +729,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>石器时代</Chinese>
-=======
-    <Chinese>Stone Age</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FINANCIAL_ADVISOR_MERCENARY_CONTRACT_INCOME</Tag>
@@ -838,11 +738,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣契约收入</Chinese>
-=======
-    <Chinese>Mercenary Contract Income</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FINANCIAL_ADVISOR_MERCENARY_MAINTENANCE_COST</Tag>
@@ -851,11 +747,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣军维持费</Chinese>
-=======
-    <Chinese>Mercenary Maintenance Cost</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FINANCIAL_ADVISOR_TITLE</Tag>
@@ -864,11 +756,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>内政顾问</Chinese>
-=======
-    <Chinese>Interior Advisor</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_INTERFACE_CITY_EXPANSION_TURNS</Tag>
@@ -886,11 +774,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>军事加成</Chinese>
-=======
-    <Chinese>Military Bonus</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_APOSTOLIC_PALACE_COLLECT_TITHE</Tag>
@@ -908,11 +792,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>自动进行游戏剩余回合数: %d1_Num</Chinese>
-=======
-    <Chinese>AUTO-PLAY TURNS REMAINING:  %d1_Num</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_AVAILABLE_MERCENARIES</Tag>
@@ -921,11 +801,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>现有雇佣军</Chinese>
-=======
-    <Chinese>Available Mercenaries</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_AVAILABLE_MERCENARY_GROUPS</Tag>
@@ -934,11 +810,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>现有雇佣军集团</Chinese>
-=======
-    <Chinese>Available Mercenary Groups</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_AVAILABLE_UNITS</Tag>
@@ -947,11 +819,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>现有单位</Chinese>
-=======
-    <Chinese>Available Units</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EMBASSY_ESTABLISHED</Tag>
@@ -960,11 +828,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一座%s1使馆已建立于</Chinese>
-=======
-    <Chinese>A %s1 embassy has been established in</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ENSLAVE</Tag>
@@ -973,11 +837,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>奴役</Chinese>
-=======
-    <Chinese>ENSLAVE</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ESCAPE_TEXT</Tag>
@@ -986,11 +846,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你已卷土重来掌握了%s1的统治权。现在去好好教训敌人吧！</Chinese>
-=======
-    <Chinese>You have escaped and regained control of %s1 territory. Now let's teach our enemies a lesson!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ESCAPE_TEXT1</Tag>
@@ -999,11 +855,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你已卷土重来掌握了</Chinese>
-=======
-    <Chinese>You have escaped and regained control of </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ESCAPE_TEXT2</Tag>
@@ -1012,11 +864,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>的统治权。现在去好好教训敌人吧！</Chinese>
-=======
-    <Chinese>territory. Now let's teach our enemies a lesson!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ESCAPE_TITLE</Tag>
@@ -1025,11 +873,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>重振雄风！</Chinese>
-=======
-    <Chinese>You have escaped!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EXILE_TEXT</Tag>
@@ -1038,11 +882,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你已被%s1:2流放到偏远的%s2。你必须在短时间内夺回首都以恢复权力。</Chinese>
-=======
-    <Chinese>You have been captured by the %s1:2 and exiled to the unimportant lands of %s2. You have a short period of time for retaking your capital and gain back your position.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EXILE_TEXT1</Tag>
@@ -1051,11 +891,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你已被</Chinese>
-=======
-    <Chinese>You have been captured by the</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EXILE_TEXT2</Tag>
@@ -1064,11 +900,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>抓获并流放到偏远的</Chinese>
-=======
-    <Chinese>and exiled to the unimportant lands of</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EXILE_TEXT3</Tag>
@@ -1077,11 +909,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>。你必须在短时间内夺回首都以恢复权力。</Chinese>
-=======
-    <Chinese>. You have a short period of time for retaking your capital and gain back your position.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EXILE_TITLE</Tag>
@@ -1090,11 +918,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>流放！</Chinese>
-=======
-    <Chinese>Exile!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FINANCE_ADVISOR_STABILITY</Tag>
@@ -1121,11 +945,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>来自遥远大陆的征服者开始入侵我们的领土，疯狂掠取财富！</Chinese>
-=======
-    <Chinese>Conquerors from a far away continent are invading our lands searching for wealth!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FIRST_CONTACT_OLDWORLD</Tag>
@@ -1134,11 +954,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我国的一支探险队已经抵达新大陆，寻找传说中的财富！</Chinese>
-=======
-    <Chinese>A group of our own adventurers has arrived in the new world searching for wealth!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FLIP_AGREED</Tag>
@@ -1147,11 +963,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>接受他们的要求！</Chinese>
-=======
-    <Chinese>We agreed to the flip!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FLIP_BETRAYAL</Tag>
@@ -1160,11 +972,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们的部分军队加入了叛乱者，为他们的独立而战！</Chinese>
-=======
-    <Chinese>Some of our forces are joining the enemy to help their war of liberation!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FLIP_BETRAYAL_NEW</Tag>
@@ -1173,11 +981,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>敌人的部分军队决定反戈一击，为我们的独立而战！</Chinese>
-=======
-    <Chinese>Some of our enemy's forces are joining us to help our war of liberation!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FLIP_REFUSED</Tag>
@@ -1186,11 +990,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>拒绝他们的要求，这意味着战争！</Chinese>
-=======
-    <Chinese>We refused the flip, this means war!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FLIP_TO_US</Tag>
@@ -1199,11 +999,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一些地方的城市加入了我们正在崛起的帝国！</Chinese>
-=======
-    <Chinese>Cities in the area have joined our rising empire!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FLIPMESSAGE1</Tag>
@@ -1212,11 +1008,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>以下城市:[NEWLINE][NEWLINE]</Chinese>
-=======
-    <Chinese>The following cities:[NEWLINE][NEWLINE]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FLIPMESSAGE2</Tag>
@@ -1225,11 +1017,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[NEWLINE]希望加入一个初起的文明。如果我们拒绝可能导致战争的爆发及部分军队的叛离。我们要给予他们自由吗？</Chinese>
-=======
-    <Chinese>[NEWLINE]want to flip to a rising civilization. Our refusal may lead to a war and some of our troops may join it. Should we let them go?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FOOD_PRODUCED</Tag>
@@ -1238,11 +1026,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]建造时消耗[ICON_FOOD]而不是[ICON_PRODUCTION]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Production consumes [ICON_FOOD]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_FREE_PROMOTION</Tag>
@@ -1251,11 +1035,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>免费晋升: (%s1)</Chinese>
-=======
-    <Chinese>Free Promotion: (%s1)</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HAPPY_CORPORATION</Tag>
@@ -1291,11 +1071,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>已征召雇佣军</Chinese>
-=======
-    <Chinese>Hired Mercenaries</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HIRED_MERCENARY_GROUPS</Tag>
@@ -1304,11 +1080,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>已征召雇佣军集团</Chinese>
-=======
-    <Chinese>Hired Mercenary Groups</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HURRY_GOLD_BUILDINGS</Tag>
@@ -1355,11 +1127,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一些城市宣布脱离外来统治独立建国！</Chinese>
-=======
-    <Chinese>cities have declared independence from their foreign domination!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_INDEPENDENCE_TEXT</Tag>
@@ -1368,11 +1136,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1人宣布脱离外来统治独立建国！</Chinese>
-=======
-    <Chinese>%s1 cities have declared their independence from their foreign domination!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_INDONESIAN_UP</Tag>
@@ -1390,11 +1154,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1的军队已经入侵了我国领土！</Chinese>
-=======
-    <Chinese>%s1 armies have invaded our territory!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_LOADING_TIME_MINUTES</Tag>
@@ -1421,11 +1181,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>民族主义的兴起改变了军队的构成：雇佣军已经不合时宜！</Chinese>
-=======
-    <Chinese>Nationalism has changed the conception of armies: Mercenaries no longer fit in!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARIES_SCREEN_TITLE</Tag>
@@ -1434,11 +1190,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣军管理</Chinese>
-=======
-    <Chinese>Mercenary Manager</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_CONTRACTS_SCREEN_TITLE</Tag>
@@ -1447,11 +1199,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣契约</Chinese>
-=======
-    <Chinese>Mercenary Contracts</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_GROUP_INFORMATION</Tag>
@@ -1460,11 +1208,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣军集团信息</Chinese>
-=======
-    <Chinese>Mercenary Group Information</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_GROUPS_SCREEN_TITLE</Tag>
@@ -1473,11 +1217,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣军集团</Chinese>
-=======
-    <Chinese>Mercenary Groups</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_INFORMATION</Tag>
@@ -1486,11 +1226,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣军信息</Chinese>
-=======
-    <Chinese>Mercenary Information</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MERCENARY_SCREEN_TITLE</Tag>
@@ -1499,11 +1235,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>雇佣军</Chinese>
-=======
-    <Chinese>Mercenaries</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MESSAGE_PERSECUTION</Tag>
@@ -1548,11 +1280,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_CityName已移交给%s2_CivName!!!</Chinese>
-=======
-    <Chinese>%s1_CityName was traded to the %s2_CivName!!!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_CIV_IS_BORN</Tag>
@@ -1561,11 +1289,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一个新文明在%s1_CityName诞生了</Chinese>
-=======
-    <Chinese>A new civilization is born: %s1_CityName</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_DEFEAT</Tag>
@@ -1585,11 +1309,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你失败了!!!</Chinese>
-=======
-    <Chinese>You have been defeated!!!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_ESPIONAGE_EXPERIENCE</Tag>
@@ -1616,11 +1336,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]需要传播[SPACE]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Required for the spread of[SPACE]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_GOLD_TURN</Tag>
@@ -1629,11 +1345,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>/回合)</Chinese>
-=======
-    <Chinese>/Turn)</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_HAPPINESS</Tag>
@@ -1651,11 +1363,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>来自专业人员的%D1_Change[ICON_HEALTHY]</Chinese>
-=======
-    <Chinese>%D1_Change[ICON_HEALTHY] from Specialists</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_GP_BORN_OUTSIDE</Tag>
@@ -1754,11 +1462,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>首都中已建造的建筑[ICON_BULLET]%D1%%[ICON_PRODUCTION]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]%D1%%[ICON_PRODUCTION] for having the current building in your capital</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_HELP_STATUE_OF_ZEUS_EFFECT</Tag>
@@ -1776,11 +1480,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_PlyrAdject的黄金时代开始了</Chinese>
-=======
-    <Chinese>The %s1_PlyrAdject Golden Age begins</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_ENDED</Tag>
@@ -1789,11 +1489,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_PlyrAdject的黄金时代结束了...</Chinese>
-=======
-    <Chinese>The %s1_PlyrAdject Golden Age has ended...</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_HAS_BEGUN</Tag>
@@ -1802,11 +1498,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_PlyrAdject的黄金时代开始了!!!</Chinese>
-=======
-    <Chinese>The %s1_PlyrAdject Golden Age has begun!!!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_POLLUTION_MODIFIER</Tag>
@@ -1815,11 +1507,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%D1_Change[ICON_UNHEALTHY]来自市民</Chinese>
-=======
-    <Chinese>%D1_Change[ICON_UNHEALTHY] from civics</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MISC_SPY_UPGRADED</Tag>
@@ -1837,11 +1525,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1已向你贩卖%s2。</Chinese>
-=======
-    <Chinese>%s1 has traded %s2 to you.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MM_CULTURE</Tag>
@@ -1850,11 +1534,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]文化: </Chinese>
-=======
-    <Chinese>[ICON_BULLET]Culture: </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MM_GOLD</Tag>
@@ -1863,11 +1543,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]金币: </Chinese>
-=======
-    <Chinese>[ICON_BULLET]Gold: </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MM_GROWTH</Tag>
@@ -1876,11 +1552,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]人口: </Chinese>
-=======
-    <Chinese>[ICON_BULLET]Growth: </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MM_PRODUCTION</Tag>
@@ -1889,11 +1561,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]产能: </Chinese>
-=======
-    <Chinese>[ICON_BULLET]Production: </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MM_SCIENCE</Tag>
@@ -1902,11 +1570,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]科研: </Chinese>
-=======
-    <Chinese>[ICON_BULLET]Science: </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MM_STARTING_SITUATION</Tag>
@@ -1915,11 +1579,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]初始位置: </Chinese>
-=======
-    <Chinese>[ICON_BULLET]Starting situation: </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MM_TRADE</Tag>
@@ -1928,11 +1588,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]商业: </Chinese>
-=======
-    <Chinese>[ICON_BULLET]Trade: </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MONGOL_HORDE</Tag>
@@ -1941,11 +1597,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>蒙古游牧部落入侵了%s1_civ_adjective领土!</Chinese>
-=======
-    <Chinese>The Mongol hordes have invaded %s1_civ_adjective territory!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MONGOL_HORDE_HUMAN</Tag>
@@ -1954,11 +1606,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>蒙古游牧部落入侵了我国领土!</Chinese>
-=======
-    <Chinese>The Mongol hordes have invaded our territory!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEW_MERCENARIES</Tag>
@@ -1967,11 +1615,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>新的雇佣军可供征召。</Chinese>
-=======
-    <Chinese>There are new mercenaries available for hiring.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEWCIV_MESSAGE</Tag>
@@ -1980,11 +1624,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你是否希望接手控制%s1文明？</Chinese>
-=======
-    <Chinese>Do you wish to take permanent control of the %s1 civilization?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEWCIV_MESSAGE1</Tag>
@@ -1993,11 +1633,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你是否希望接手控制</Chinese>
-=======
-    <Chinese>Do you wish to take permanent control of the </Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEWCIV_MESSAGE2</Tag>
@@ -2006,11 +1642,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>文明？</Chinese>
-=======
-    <Chinese> empire?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEWCIV_TITLE</Tag>
@@ -2019,11 +1651,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一个新的文明诞生了</Chinese>
-=======
-    <Chinese>A new civilization is being born</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEWS_EVENT_FAMINE_2</Tag>
@@ -2050,11 +1678,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective在医药方面的投资获得了回报！一项新兴特色产业正在%s2_city发展壮大，推进了民众健康和科研工作。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective investments in horticulture have paid off! A new minor industry is thriving in %s2_city, boosting health and research.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NO_RELIGIOUS_GOALS</Tag>
@@ -2081,11 +1705,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1在%s2的传播导致市民们放弃了他们的原始神庙</Chinese>
-=======
-    <Chinese>The spread of %s1 to our city of %s2 caused its citizens to abandon their Pagan Temple.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PAGAN_TEMPLE_REPLACED</Tag>
@@ -2103,11 +1723,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]需要[LINK=literal]众神论[\LINK]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Requires [LINK=literal]Pantheon[\LINK]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PERSECUTION_MESSAGE</Tag>
@@ -2116,11 +1732,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你想从%s1中移除哪种宗教？</Chinese>
-=======
-    <Chinese>Which religion do you want to persecute in %s1?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PERSECUTION_PERFORMED</Tag>
@@ -2129,11 +1741,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s2的宗教审判把%s1从这座城市中移除。</Chinese>
-=======
-    <Chinese>Religious persecution in %s2 has removed %s1 from the city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PLAGUE_PROCESS_CITY</Tag>
@@ -2142,11 +1750,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>瘟疫导致居民死亡，地点：</Chinese>
-=======
-    <Chinese>Plague is killing people in</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PLAGUE_PROCESS_UNIT</Tag>
@@ -2155,11 +1759,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>瘟疫造成单位损失，地点：</Chinese>
-=======
-    <Chinese>Plague has killed our unit near</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PLAGUE_SPREAD_CITY</Tag>
@@ -2168,11 +1768,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>瘟疫传入：</Chinese>
-=======
-    <Chinese>Plague has spread in</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PLAYER_OPTION_MODDER_1</Tag>
@@ -2253,11 +1849,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>反对</Chinese>
-=======
-    <Chinese>Vote NO</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_POPUP_VOTE_YES</Tag>
@@ -2266,11 +1858,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>赞成</Chinese>
-=======
-    <Chinese>Vote YES</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RATING</Tag>
@@ -2279,11 +1867,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>评级</Chinese>
-=======
-    <Chinese>Rating</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REBELLION_MESSAGE</Tag>
@@ -2292,11 +1876,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一些城市宣布脱离我国统治独立建国，并赶走了我们的驻军。我们要允许他们独立吗？</Chinese>
-=======
-    <Chinese>cities have declared their independence from us and expelled our garrisons. Shall we leave them free?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REBELLION_TEXT</Tag>
@@ -2305,11 +1885,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1人宣布独立建国并赶走了我们的驻军。我们要给予他们自由吗？</Chinese>
-=======
-    <Chinese>%s1 cities have declared their independence from us and expelled our garrisons. Shall we leave them free?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REBELLION_TITLE</Tag>
@@ -2318,11 +1894,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>独立！</Chinese>
-=======
-    <Chinese>Independence!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REFORMATION_MESSAGE</Tag>
@@ -2331,11 +1903,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>印刷机的发明已经推动了一波新的思潮。新教反对教皇在基督教内至高无上的权力。我们是否应该实施宗教改革？我们所有信仰天主教的城市将自动昄依新教。若我们现在实施改革，我们将迅速控制教会资产并获得500金币。</Chinese>
-=======
-    <Chinese>The invention of the Printing Press has unleashed a wave of new doctrines. Protestant churches are opposing the power of the Pope over Christian affairs. Shall we embrace the Reformation? All our Catholic cities and buildings will be converted to the new religion. If we convert now, we will receive a bonus of 500 gold for rapidly taking control of Church assets.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REFORMATION_TITLE</Tag>
@@ -2344,11 +1912,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>宗教改革!</Chinese>
-=======
-    <Chinese>The Reformation!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELEASE_CIVILIZATION</Tag>
@@ -2366,11 +1930,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]需要[LINK=literal]共和制[\LINK]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Requires [LINK=literal]Republic[\LINK]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RHYES_DAWN_OF_MAN_TEXT</Tag>
@@ -2379,11 +1939,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_year年第一天的太阳已经升起。%s2_civ人民决定结束游牧生活，并为你建造一座城市。[NEWLINE][NEWLINE]%s3_leader，你的人民愿意赋予你最高的权力。并坚信你能开创一个历久弥新的文明！</Chinese>
-=======
-    <Chinese>The sun rises on the year %s1_year. The %s2_civ people are ready to settle down and found your first city. [NEWLINE][NEWLINE]%s3_leader, your people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SAVEGAME_TURN</Tag>
@@ -2392,11 +1948,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>回合%d1_TurnNum</Chinese>
-=======
-    <Chinese>Turn %d1_TurnNum</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SCHISM_MESSAGE</Tag>
@@ -2414,11 +1966,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>教会分裂</Chinese>
-=======
-    <Chinese>The Great Schism</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SELJUK_HORDES</Tag>
@@ -2427,11 +1975,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一支庞大的塞尔柱突厥军队正在向西横跨伊朗高原！</Chinese>
-=======
-    <Chinese>A vast army of Seljuk Turks has been spotted moving west across the Iranian Plateau!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SPECIALIST_BAD_HAPPINESS</Tag>
@@ -2467,11 +2011,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>奴隶</Chinese>
-=======
-    <Chinese>Slave</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_SPECIALIST_STATESMAN</Tag>
@@ -2489,11 +2029,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>初始年份</Chinese>
-=======
-    <Chinese>Starting year</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_STATE_RELIGION</Tag>
@@ -2511,11 +2047,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>特色专长</Chinese>
-=======
-    <Chinese>Unique Power</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_VASSALAGE_ALLOWS</Tag>
@@ -2524,11 +2056,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]允许训练[LINK=literal]征召民兵[\LINK]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Required to train [LINK=literal]Levy[\LINK]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_VASSALAGE_REQUIREMENT</Tag>
@@ -2537,11 +2065,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[ICON_BULLET]需要[LINK=literal]分封制度[\LINK]</Chinese>
-=======
-    <Chinese>[ICON_BULLET]Requires [LINK=literal]Vassalage[\LINK]</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_VIKING_NAVAL_UP</Tag>
@@ -2550,11 +2074,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>通过击沉%s2 %s3，你掠夺了%d1 [ICON_GOLD]。</Chinese>
-=======
-    <Chinese>You have acquired %d1 [ICON_GOLD] by sinking a %s2 %s3.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_VOTE_COLLECT_TITHE</Tag>

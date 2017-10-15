@@ -8,11 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1贸易公司向您索要%s3的控制权以及%d2金币。 拒绝将会导致战争。我们是否同意他们的要求？</Chinese>
-=======
-    <Chinese>The %s1 Trading Company asks for the control of %s3 and offers %d2 gold. Refusal will lead to war. Shall we accept their offer?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ASKCOLONIALCITY_TITLE</Tag>
@@ -21,11 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1贸易公司</Chinese>
-=======
-    <Chinese>The %s1 Trading Company</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AIRLINER_CRASH_1</Tag>
@@ -61,11 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一架我国客机%s1_civ_adjective境内坠毁。对方允许我们的救援队自由前往现场，以在两国间建立互信。</Chinese>
-=======
-    <Chinese>One of your passenger airliners has crashed in %s1_civ_adjective territory. They have allowed unrestricted access to your recovery teams, building trust between your two nations.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_2</Tag>
@@ -74,11 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一架我国客机在%s1_civ_adjective境内坠毁。经过一番交涉，对方最终同意我们的救援队前往现场。</Chinese>
-=======
-    <Chinese>One of your passenger airliners has crashed in %s1_civ_adjective territory. They seemed to be unsure how to react at first, but finally allowed your recovery teams access to the crash site.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_3</Tag>
@@ -87,11 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一架我国客机在%s1_civ_adjective境内坠毁。对方禁止我们的救援队入境并将飞机残骸据为己有。这种行为激起了我国人民的愤怒，两国外交关系陷入僵局。</Chinese>
-=======
-    <Chinese>One of your passenger airliners has crashed in %s1_civ_adjective territory. They are denying all access and have claimed the wreckage as their own. This outrage has angered your people and driven a diplomatic wedge between your two nations.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANCIENT_TEXTS_1</Tag>
@@ -568,11 +548,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>同我们一样信奉%s1_civ_adjective的兄弟之邦提供了[COLOR_HIGHLIGHT_TEXT]铜[COLOR_REVERT]资源以资助我们的战争！</Chinese>
-=======
-    <Chinese>Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT] to aid us in our war effort!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_3</Tag>
@@ -581,11 +557,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>同我们一样信奉%s1_civ_adjective的兄弟之邦提供了[COLOR_HIGHLIGHT_TEXT]铁[COLOR_REVERT]资源以资助我们的战争！</Chinese>
-=======
-    <Chinese>Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Iron[COLOR_REVERT] to aid us in our war effort!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_4</Tag>
@@ -594,11 +566,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>同我们一样信奉%s1_civ_adjective的兄弟之邦提供了[COLOR_HIGHLIGHT_TEXT]马匹[COLOR_REVERT]资源以资助我们的战争！</Chinese>
-=======
-    <Chinese>Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT] to aid us in our war effort!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_5</Tag>
@@ -607,11 +575,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>同我们一样信奉%s1_civ_adjective的兄弟之邦提供了[COLOR_HIGHLIGHT_TEXT]象牙[COLOR_REVERT]资源以资助我们的战争！</Chinese>
-=======
-    <Chinese>Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Ivory[COLOR_REVERT] to aid us in our war effort!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_6</Tag>
@@ -620,11 +584,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>同我们一样信奉%s1_civ_adjective的兄弟之邦提供了[COLOR_HIGHLIGHT_TEXT]石油[COLOR_REVERT]资源以资助我们的战争！</Chinese>
-=======
-    <Chinese>Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Oil[COLOR_REVERT] to aid us in our war effort!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_7</Tag>
@@ -633,11 +593,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>同我们一样信奉%s1_civ_adjective的兄弟之邦提供了[COLOR_HIGHLIGHT_TEXT]铀[COLOR_REVERT]资源以资助我们的战争！</Chinese>
-=======
-    <Chinese>Our %s1_civ_adjective religious brothers have gifted us with [COLOR_HIGHLIGHT_TEXT]Uranium[COLOR_REVERT] to aid us in our war effort!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CARELESS_APPRENTICE_1</Tag>
@@ -1024,11 +980,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我国的一名高级特工叛变投靠了%s1_civ_adjective的情报部门。</Chinese>
-=======
-    <Chinese>One of our high-ranking intelligence agents has defected to the %s1_civ_adjective empire.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DEFECTING_AGENT_1</Tag>
@@ -1424,11 +1376,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s2_city的居民拿出一半粮食储备救助我国遭遇严重饥荒的%s4_city居民。这次无私的人道主义行动也许是两国关系走向全面友好的转折点。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people in %s2_city have sent half their stored food to your city of %s4_city to fend off starvation caused by a poor local harvest. This humanitarian relief may represent a positive turning point in your relations.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAMINE_OTHER_3</Tag>
@@ -1437,11 +1385,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s2_city的居民拿出了全部粮食储备救助我国遭遇严重饥荒的%s4_city居民。这次无私人道主义行动大幅拉近了两国人民的关系。</Chinese>
-=======
-    <Chinese>The generous %s1_civ_adjective people in %s2_city have sent all of their food stores to your city of %s4_city to prevent famine caused by a poor local harvest. This humanitarian effort has brought your two peoples much closer together!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FARM_BANDITS_1</Tag>
@@ -1486,11 +1430,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective大使发生失礼行为，对我国与该国的关系产生了负面影响。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective ambassador has committed a faux pas. This insulting gaffe has adversely affected our relations with his country.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAVORITE_SON_1</Tag>
@@ -1787,11 +1727,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位中立国领袖主动提出调停我们与%s1_civ_adjective之间的争端，这开启了通往和平的大门，您希望结束战争吗？</Chinese>
-=======
-    <Chinese>A great mediator has offered to arbitrate our grievance with the %s1_civ_adjective Empire. This opens the door to a possible peace treaty. Do you wish to end the war?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREED_1</Tag>
@@ -2061,11 +1997,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你的军队对俘获的%s1_civ_adjective伤兵的崇高善意开启了通向和平的大门，你希望结束战争吗？</Chinese>
-=======
-    <Chinese>A heroic gesture of mercy by your forces in regard to %s1_civ_adjective wounded has opened the door to a possible peace treaty. Do you wish to end the war?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEROIC_GESTURE_WORLD_2</Tag>
@@ -2074,11 +2006,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s3_civ_adjective军队对俘获的%s1_civ_adjective伤兵的善意举动带来了意外的和平机会，双方已准备进行停火谈判。</Chinese>
-=======
-    <Chinese>A heroic gesture of mercy by the %s3_civ_adjective forces toward the %s1_civ_adjective wounded has brought an unexpected opportunity for peace. The two sides are at least pausing to consider the possibility.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HIGH_WARLORD_1</Tag>
@@ -2474,11 +2402,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们对%s1_civ_adjective的善意姿态激怒了%s6_player。</Chinese>
-=======
-    <Chinese>Our gesture of goodwill toward the %s1_civ_adjective Empire has angered %s6_player.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INFO_FUGITIVE_5</Tag>
@@ -2487,11 +2411,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s3_civ_adjective政府已获知对我们逃亡者的进行秘密审问，这势必引发外交纠纷。</Chinese>
-=======
-    <Chinese>Word of our interrogation of the fugitive has leaked to %s3_civ_adjective authorities, angering them.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INSPIRED_MISSION_1</Tag>
@@ -2599,11 +2519,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>通过一场%s5_religion_adjective传统婚礼，一位我国显贵和一位%s1_civ_adjective人结为夫妇。他们的行为没有遭到反对，但也没得到关注。尽管两位新人的亲属对此颇有微词，但一切毕竟还算是比较顺利。</Chinese>
-=======
-    <Chinese>A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has drawn no protest from them, and in fact little interest at all. Some family members of the newlyweds are griping but the incident appears to have passed without much bitterness.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_2</Tag>
@@ -2612,11 +2528,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>通过一场%s5_religion_adjective传统婚礼，一位我国显贵和一位%s1_civ_adjective人结为夫妇。有人送上丰厚的礼物以表达对他们的祝福。我们的人民对此表示满意。</Chinese>
-=======
-    <Chinese>A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has drawn a blessing from them with generous wedding gifts. Our people are pleased by this gesture.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_3</Tag>
@@ -2625,11 +2537,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>通过一场%s5_religion_adjective传统婚礼，一位我国显贵和一位%s1_civ_adjective人结为夫妇。我们的领袖下令举国欢庆，两位新人获赠了许多珍奇的礼物，还有人为此向我们的宗教机构捐款。</Chinese>
-=======
-    <Chinese>A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has been honored by a national holiday, including outlandish wedding gifts and donations to our religious institutions. Our people are thrilled by this gesture.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LABORATORY_1</Tag>
@@ -2746,11 +2654,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们发现有%s1_civ_adjective的间谍在暗中参与%s4_city骚乱！</Chinese>
-=======
-    <Chinese>We have identified %s1_civ_adjective agents who are systematically and actively aggravating the situation in %s4_city!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MAN_NAMED_JED_1</Tag>
@@ -2840,11 +2744,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位中立国领袖提出调停%s1_civ_adjective与%s3_adjective之间的争端，恢复和平！</Chinese>
-=======
-    <Chinese>A great mediator has attempted to broker peace between the %s1_civ_adjective and %s3_adjective Empires!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_METAL_DECKS_1</Tag>
@@ -2988,11 +2888,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的地质学家在一处巨大的远古陨石撞击坑中发现了储量丰富的[COLOR_HIGHLIGHT_TEXT]铀[COLOR_REVERT]资源。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective geologists have discovered a rich source of [COLOR_HIGHLIGHT_TEXT]Uranium[COLOR_REVERT] at what turned out to be a very large and ancient impact crater.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_1</Tag>
@@ -3091,11 +2987,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s2_civ_adjective的%s3_city中的%d1座建筑被摧毁。</Chinese>
-=======
-    <Chinese>%d1 %s2_civ_adjective [NUM1:building has:buildings have] been destroyed in %s3_city</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_OVERWHELM_1</Tag>
@@ -3203,11 +3095,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective人民在被毁城市周围的乡村进行游击战，以抗击入侵者。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective citizens from the city we just razed are taking to the surrounding countryside to form Partisan resistance units!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PARTISANS_OTHER_2</Tag>
@@ -3216,11 +3104,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们摧毁的%s1_civ_adjective的市民向他们的首都撤退，并将组织起新的抵抗军！</Chinese>
-=======
-    <Chinese>%s1_civ_adjective citizens from the city we just razed are fleeing toward their capital and are expected to form Partisan resistance units there!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PASTURE_BUILT</Tag>
@@ -3310,11 +3194,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>皈依新教。</Chinese>
-=======
-    <Chinese>Embrace the Reformation.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REFORMATION_2</Tag>
@@ -3323,11 +3203,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>默许新的教义。</Chinese>
-=======
-    <Chinese>Tolerate the new sects.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REFORMATION_3</Tag>
@@ -3336,11 +3212,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>加入反宗教改革的阵营。</Chinese>
-=======
-    <Chinese>Join the Counter-Reformation.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REFORMATION_COUNTER</Tag>
@@ -3349,11 +3221,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你的官方信仰仍为天主教。新教只会传播至你的一些较大的城市。你将会向所有皈依新教的国家宣战。</Chinese>
-=======
-    <Chinese>Your state religion remains Catholic. Protestantism will only spread to some of your larger cities. You will declare war on all civilizations that decided to convert to Protestantism.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REFORMATION_EMBRACE</Tag>
@@ -3362,11 +3230,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你的官方信仰及大多数城市的宗教将变为新教。天主教也会在一些大城市中得以保留。没收天主教的教会资产将为你的国库带来%d1金币的收益。如果是你创立了新教，神殿将会在圣城中建立。天主教国家将可能会向你宣战来阻止宗教改革。</Chinese>
-=======
-    <Chinese>State religion and most of your cities will change to Protestantism. Catholicism can remain in larger cities. Seizing control of Church assets in Catholic cities is expected to bring %d1 gold to your treasury. If you have founded Protestantism, a shrine will be built in its holy city. Catholic civilizations may declare war on you to stop the Reformation.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REFORMATION_TOLERATE</Tag>
@@ -3375,11 +3239,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>新教会传播至你的城市，甚至取代天主教。</Chinese>
-=======
-    <Chinese>Protestantism can spread to your cities and even replace Catholicism.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REFORMATION_TOLERATE_STATE</Tag>
@@ -3388,11 +3248,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>你的官方信仰仍然为天主教。但新教会传播至你的城市，甚至取代天主教。</Chinese>
-=======
-    <Chinese>Your state religion remains Catholic. Protestantism can spread to your cities and even replace Catholicism.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REINFORCED_HULL_1</Tag>
@@ -3563,11 +3419,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>重创叛军。镇压起义。恢复秩序。</Chinese>
-=======
-    <Chinese>Crack down on the rebels. Put down the revolt. Re-establish order.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SLAVE_REVOLT_2</Tag>
@@ -3585,11 +3437,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们太忙了，把这件事交给地方当局吧。（起义可能仍将继续下去）</Chinese>
-=======
-    <Chinese>We are too busy to be bothered. Leave the matter to the local authorities. (Revolt may continue)</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SLAVE_REVOLT_WARNING</Tag>
@@ -3634,11 +3482,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>劣质原油？真是糟糕，但应该还烧得着吧？允许继续销售。</Chinese>
-=======
-    <Chinese>Sour crude? What a mess. Less valuable per barrel, but it still burns, right? Just deal with it.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPICY_1</Tag>
@@ -3683,11 +3527,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>“国家体育联合会”任务[PARAGRAPH:1]你的文化顾问提议建造足够数量的[COLOR_BUILDING_TEXT]竞技场[COLOR_REVERT]以举办各种体育赛事。</Chinese>
-=======
-    <Chinese>National Sports League[PARAGRAPH:1]You are tasked by your cultural advisors to build enough [COLOR_BUILDING_TEXT]Amphitheatres[COLOR_REVERT] to support viable sports leagues.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_1</Tag>
@@ -3723,11 +3563,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在本国城市建造%d1座[COLOR_BUILDING_TEXT]竞技场[COLOR_REVERT]。[PARAGRAPH:1]如果在达成目标时你的文明已拥有[COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT]，将可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你进入信息时代时仍未达成目标，你的任务将宣告失败。</Chinese>
-=======
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must build %d1 [COLOR_BUILDING_TEXT]Amphitheatres[COLOR_REVERT] in your cities.[PARAGRAPH:1]An additional reward option will be available if you control [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT] if and when this quest is successfully completed.[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you reach the Modern Era without having met the conditions.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPY_DISCOVERED</Tag>
@@ -3736,11 +3572,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一名%s1_civ_adjective间谍渗入了我国政府高层！我们该如何处理？</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective spy is operating on a high level in our government! What should we do?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPY_DISCOVERED_1</Tag>
@@ -3803,11 +3635,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>为了殖民%s3向%s2提供%d1金币。若他们拒绝则立刻开战。</Chinese>
-=======
-    <Chinese>Will offer %d1 gold to %s2 for their cities of %s3. Their refusal will lead to war.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TCC_COLONIZE</Tag>
@@ -3816,11 +3644,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>为我们的殖民者提供%d1金币用来殖民%s2。</Chinese>
-=======
-    <Chinese>Will offer %d1 gold to our colonists to settle %s2.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TCC_CONQUEST</Tag>
@@ -3829,11 +3653,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>迅速征召军队攻打%s1的城市%s2。</Chinese>
-=======
-    <Chinese>Will draft armies to attack %s1 to conquer their cities of %s2.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TCC_NO_CITIES</Tag>
@@ -3842,11 +3662,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>没有城市可供你的军队征服。</Chinese>
-=======
-    <Chinese>There are no cities that your armies could conquer.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TEA_1</Tag>
@@ -3864,11 +3680,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>对%s1_civ_adjective的茶叶出口增进了我们之间的关系。</Chinese>
-=======
-    <Chinese>Tea exports to %s1_civ_adjective customers have provided a nice boost to our relations.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TEXT_TRADING_COMPANY_CONQUERORS_1</Tag>
@@ -3877,11 +3689,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective已经控制了南亚的港口。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Trading Company has established control over South Asian harbors.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TEXT_TRADING_COMPANY_CONQUERORS_2</Tag>
@@ -3890,11 +3698,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective政府支持它的贸易公司，以实现对南亚贸易路线的军事控制！</Chinese>
-=======
-    <Chinese>The %1_civ_adjective government supports its Trading Company to achieve military control over its South Asian trade routes!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_THE_GOTHS_HELP_1</Tag>
@@ -4020,11 +3824,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>从我们的国库中出资建设承包港口。</Chinese>
-=======
-    <Chinese>Fund the establishment of contracted harbors out of our treasury.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRADING_COMPANY_CONQUERORS_2</Tag>
@@ -4033,11 +3833,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>计划建立一支军队。</Chinese>
-=======
-    <Chinese>Draft an army to establish control.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRADING_COMPANY_CONQUERORS_3</Tag>
@@ -4046,11 +3842,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>这与我们无关。</Chinese>
-=======
-    <Chinese>This is none of our concern.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_AIRLINER_CRASH_1</Tag>
@@ -4059,11 +3851,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一架%s1_civ_adjective客机在我国%s2_city附近坠毁。</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective passenger flight has crashed in our territory near %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ANCIENT_TEXTS_1</Tag>
@@ -4261,11 +4049,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>与我们一样信奉%s4_religion_adjective的%s1_civ_adjective兄弟正处于战争状态。而我们拥有他们所缺乏的重要战略资源，这是我们提供帮助的机会！</Chinese>
-=======
-    <Chinese>Our brothers in the true %s4_religion_adjective faith who dwell in the %s1_civ_adjective Empire are at war. They lack for vital strategic resources that we have in abundance. This is our chance to come to their aid!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_1</Tag>
@@ -4445,11 +4229,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们与%s1:2_civ_adjective的战争仍在继续，最高精神领袖号召发动圣战，从敌人手中夺取圣城%s6_city。</Chinese>
-=======
-    <Chinese>Our war against the %s1:2_civ_adjective continues. Our spiritual leaders cry out for us to wage a crusade to wrest control of %s6_city away from them.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CRUSADE_DONE_1</Tag>
@@ -4458,11 +4238,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>祝贺你！你的军队从%s1:2_civ_adjective异教徒手中夺取了圣城%s2_city！这场胜利使人民感到欢欣鼓舞，请在赢得圣战可带来的奖励中选择一项。</Chinese>
-=======
-    <Chinese>Congratulations! Your Crusade to secure the sacred lands of %s2_city has wrested control of the city away from the %s1:2_civ_adjective! Please choose a reward from among the benefits that may accrue from the joy your people feel in this successful Crusade.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CYCLONE_1</Tag>
@@ -4552,11 +4328,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>靠近我国边境的%s1_civ_adjective的%s6_city粮食严重歉收，人民陷入饥荒。如果%s2_city能够提供一批人道主义援助，他们将非常感激。</Chinese>
-=======
-    <Chinese>A dreadful harvest for our %s1_civ_adjective neighbors in the city of %s6_city just across the border has left its people starving. We may have a chance to gain favor with them if we provide humanitarian assistance from %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_2</Tag>
@@ -4565,11 +4337,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s6_city发生了严重饥荒。我国的%s2_city的居民有足够的粮食储备来为他们的%s1_civ_adjective邻居提供援助。我们已做好了提供救援的准备。</Chinese>
-=======
-    <Chinese>Famine has struck the city of %s6_city. Our people in %s2_city have enough food on hand to assist their %s1_civ_adjective neighbors. We stand ready to provide aid and comfort.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_3</Tag>
@@ -4650,11 +4418,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我国驻%s1_civ_adjective大使发生失礼行为！</Chinese>
-=======
-    <Chinese>Our ambassador to the %s1_civ_adjective Empire has committed a faux pas!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FAVORITE_SON_1</Tag>
@@ -4753,11 +4517,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一名遭%s1_civ_adjective政府通缉的逃犯被发现正隐藏于我国境内。</Chinese>
-=======
-    <Chinese>A fugitive from justice, wanted for crimes in the %s1_civ_adjective Empire, has been discovered hiding out in our territory.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FUGITIVE_2</Tag>
@@ -4766,11 +4526,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一名因暗杀%s1_civ_adjective官员而遭该国政府通缉的刺客在我国境内被抓获。</Chinese>
-=======
-    <Chinese>An assassin wanted for slaying a %s1_civ_adjective official has been caught fleeing through our land.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GIRLS_BEST_FRIEND_1</Tag>
@@ -4824,11 +4580,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们的将军垂涎于%s1_civ_adjective境内的[COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT]资源。由于缺乏这种资源，我们无法更有效地训练和装备部队！</Chinese>
-=======
-    <Chinese>Our generals covet a source of [COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT] that lies within %s1_civ_adjective borders. Without it, we cannot properly train and equip our troops!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GREED_DONE_1</Tag>
@@ -4837,11 +4589,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>祝贺你！你贪婪的欲望得到了满足！你夺取了%s1_civ_adjective的[COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT]资源！你的将军们已经开始研究扩军方案！</Chinese>
-=======
-    <Chinese>Congratulations! Your Greed is unmatched! You have managed to wrest control of the coveted %s1_civ_adjective [COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT] resource! Your generals are already expanding their military planning.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GUNS_BUTTER_1</Tag>
@@ -4940,11 +4688,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective军队对俘获的我国伤兵显示了出乎意料的仁慈，为他们提供救助并安全送还我方。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective forces have unexpectedly shown mercy and compassion for our wounded, tending them on the battlefield and then returning the survivors safely to us.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HIGH_WARLORD_1</Tag>
@@ -5169,11 +4913,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>热忱的%s4_religion_adjective传教士努力将他们的信仰传播到%s2_city以外的地方。他们请求你的接见，希望您资助他在全%s1_civ_adjective的传教活动。</Chinese>
-=======
-    <Chinese>Inspired %s4_religion_adjective missionaries have spread their influence out of %s2_city. They now seek an audience with you, requesting your assistance in funding additional missions to the %s1_civ_adjective Empire.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_INTERSTATE_1</Tag>
@@ -5200,11 +4940,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>两个显赫的家族，一个来自我国，另一个来自%s1_civ_adjective，通过一场%s4_religion_adjective传统婚礼结成了亲家。</Chinese>
-=======
-    <Chinese>Two prominent families, one from our people and one from the %s1_civ_adjective people, have forged an alliance through an arranged %s4_religion_adjective marriage.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_2</Tag>
@@ -5213,11 +4949,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我国一位家世显赫的年轻贵族小姐爱上了一位%s1_civ_adjective贵族，他们将按%s4_religion_adjective传统举行婚礼。</Chinese>
-=======
-    <Chinese>One of our prominent young noble ladies has fallen in love with a %s1_civ_adjective nobleman and they are to be wed in the %s4_religion_adjective tradition.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_3</Tag>
@@ -5226,11 +4958,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我国一位显赫的商业大亨已向一家%s1_civ_adjective公司的女继承人求婚。他们遵照%s4_religion_adjective传统的婚礼将在今年举行。</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective industrial heiress has received a marriage proposal from one of our prominent business tycoons. Their %s4_religion_adjective wedding will occur this year.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LABORATORY_1</Tag>
@@ -5248,11 +4976,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位我国贵族和一位%s1_civ_adjective世家女的政治联姻演最终变成了激烈的国际冲突——因为新郎在结婚当日取消了婚礼。</Chinese>
-=======
-    <Chinese>A politically arranged marriage between one of our noblemen and a woman from a noble %s1_civ_adjective family has collapsed into feuding as the groom backed out of the wedding on the wedding day.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_2</Tag>
@@ -5270,11 +4994,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一家%s1_civ_adjective企业的女继承人被一位向她求婚的我国商业大亨抛弃在婚礼的圣坛上。这场可怕的意外使双方家族都非常愤怒，不断彼此指责。</Chinese>
-=======
-    <Chinese>An %s1_civ_adjective industrial heiress has been left at the altar by one of our prominent business tycoons, who had proposed marriage to her. The fiasco has outraged the families on both sides, who are now feuding over the collapsed marriage.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LITERACY_1</Tag>
@@ -5301,11 +5021,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s6_city周边的局势已经失控。我们派往该处的间谍提议乘机采取行动。</Chinese>
-=======
-    <Chinese>There is civil unrest near the %s1_civ_adjective city of %s6_city. Our scouts in the area tell us there may be an opportunity to aggravate the situation.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LOOTERS_2</Tag>
@@ -5314,11 +5030,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s6_city附近发生骚乱。我们派往该处的间谍提议火上浇油，制造更大的麻烦。</Chinese>
-=======
-    <Chinese>There are riots taking place near the %s1_civ_adjective city of %s6_city. Our agents stand ready to add fuel to these fires, to stir up additional trouble.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MAN_NAMED_JED_1</Tag>
@@ -5615,11 +5327,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>印刷术的发明引发了一场革新教义的浪潮。天主教世界的改革者们正在向教皇的权威发起挑战。我们该如何面对这场风波？</Chinese>
-=======
-    <Chinese>The invention of the Printing Press has unleashed a wave of new doctrines. Reformers all over the Catholic world are challenging the authority of the Pope over Christian theology. How shall we react?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_REINFORCED_HULL_1</Tag>
@@ -5808,11 +5516,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我们的文化顾问认为：应该建造足够数量的[COLOR_BUILDING_TEXT]竞技场[COLOR_REVERT]供国家体育联合会举办城际体育赛事。[PARAGRAPH:1]每座主要城市都应该拥有自己的大型体育设施以便实行主客场赛制。</Chinese>
-=======
-    <Chinese>Our cultural advisors believe that our nation could benefit from city-based sports franchises if we built enough [COLOR_BUILDING_TEXT]Amphitheatres[COLOR_REVERT] to support national sports leagues.[PARAGRAPH:1]Each major city would require its own facility in which its teams could play.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SPORTS_LEAGUE_DONE_1</Tag>
@@ -5821,11 +5525,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>祝贺你！你已经建造了足够数量的[COLOR_BUILDING_TEXT]竞技场[COLOR_REVERT]以举办各种城际体育赛事，请在丰富的体育文化可带来的奖励中选择一项。</Chinese>
-=======
-    <Chinese>Congratulations! You have met the goals of your sports entrepreneurs and built enough [COLOR_BUILDING_TEXT]Amphitheatres[COLOR_REVERT] to support viable leagues. Please choose a reward from among the benefits your new national pastimes can provide to you.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_STAINED_GLASS_1</Tag>
@@ -5861,11 +5561,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>自%s1_civ_adjective进口的茶饮料已成为我国社会精英阶层热烈追捧的时尚饮品。</Chinese>
-=======
-    <Chinese>Imported %s1_civ_adjective tea has become all the rage amongst our social elite.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_THOROUGHBRED_1</Tag>
@@ -5937,11 +5633,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>随着我们贸易公司的建立，我们国家的商人正根据你的意图采取行动，以便进一步巩固在南亚市场的地位。</Chinese>
-=======
-    <Chinese>With the establishment of our own Trading Company, our country's merchants are approaching you to take action to further assert their position in the South Asian markets.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TRUFFLES_1</Tag>
@@ -6031,11 +5723,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>我国一个贵族世家和另一个%s1_civ_adjective家族之间的一场政治联姻因是否应按%s4_religion_adjective传统进行婚礼而争论不休，紧张局势逐步加剧。</Chinese>
-=======
-    <Chinese>A politically arranged marriage between one of our noble families and another %s1_civ_adjective family has collapsed over feuding about whether to hold the marriage in their tradition or to make it a %s4_religion_adjective wedding. Tensions are escalating.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_2</Tag>
@@ -6044,11 +5732,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>两个有名望的家族为他们的孩子而发生争执，他们的孩子违背了家长的意愿一起私奔了。%s1_civ_adjective的领袖还因我们坚持按%s4_religion_adjective传统举行婚礼而感到不满。</Chinese>
-=======
-    <Chinese>Two prominent families are feuding over their children, who eloped together against everybody else's wishes. %s1_civ_adjective leaders are particularly upset that the marriage was held in our %s4_religion_adjective tradition.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_3</Tag>
@@ -6057,11 +5741,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective一家企业的女继承人收到我国一位商业大亨的求婚并欣然同意。但双方家族为应按何种宗教传统举行婚礼而各执己见。这对新人决定按%s4_religion_adjective传统举行婚礼以平息新娘家族的不满。</Chinese>
-=======
-    <Chinese>An industrial heiress from the %s1_civ_adjective Empire has received a marriage proposal from one of our prominent business tycoons. The marriage is going forward, but the families on both sides are feuding over which religion should preside over the ceremony. The couple has decided on a %s4_religion_adjective wedding to the great annoyance of the bride's family.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WHALEOFATHING_1</Tag>
@@ -6295,11 +5975,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位我国显贵和一位%s1_civ_adjective人按%s5_religion_adjective传统举行的婚礼激起了我国人民的愤怒。不过对方国家并未采取挑衅行动，相信我们的人民也不会有更过激的反应。</Chinese>
-=======
-    <Chinese>A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has angered our people. Our rivals have granted no special gifts or attention, though, so our people are merely grumbling and fuming.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_2</Tag>
@@ -6308,11 +5984,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位我国显贵同一位%s1_civ_adjective人按%s5_religion_adjective传统举行了婚礼，对方国家为此送来祝福和丰厚的礼物。但他们对我们信仰的侮辱还是引发了国民的公愤。</Chinese>
-=======
-    <Chinese>A %s5_religion_adjective wedding between one of our citizens and one from the %s1_civ_adjective Empire has drawn our rivals' blessing with generous wedding gifts. Our people are outraged by this insult to our faith.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_3</Tag>
@@ -6321,11 +5993,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位我国显贵同一位%s2_civ人按%s1_religion_adjective传统举行了婚礼，对方下令举国欢庆并送来珍奇的礼物，还向他们的宗教机构捐献大笔金钱。他们对我们信仰的侮辱引起了国民的公愤，我们应该向这些异教徒发动圣战吗？</Chinese>
-=======
-    <Chinese>A %s1_religion_adjective wedding between one of our citizens and one from %s2_civ has been honored by a national holiday by our rivals, including outlandish wedding gifts and donations to their religious institutions. This insult against our religious traditions has outraged our populace. Should we declare a holy war upon the unbelievers?</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WHALEOFATHING_1</Tag>
@@ -6361,11 +6029,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一架%s4_civ_adjective客机在%s1_civ_adjective境内坠毁。事件双方均未就此事透露任何细节。</Chinese>
-=======
-    <Chinese>A %s4_civ_adjective passenger aircraft has crashed within %s1_civ_adjective territory. Neither side has provided any details of the incident.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ANCIENT_TEXTS_1</Tag>
@@ -6374,11 +6038,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>考古学家在%s2_civ_adjective境内的沙漠中发掘出一批古籍。</Chinese>
-=======
-    <Chinese>In the sands of a %s2_civ_adjective desert, archaeologists have unearthed a cache of ancient texts.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ANCIENTOLYMPICS</Tag>
@@ -6405,11 +6065,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective境内的羚羊迅速繁育，可以用作新的食物资源。</Chinese>
-=======
-    <Chinese>Antelope are thriving in %s1_civ_adjective territory well enough to serve as a new resource.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ANTIMONARCHISTS</Tag>
@@ -6418,11 +6074,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的一些宗教人士发动示威抗议君主专制，要求提高教会的地位以制衡国王的权力。 </Chinese>
-=======
-    <Chinese>%s1_civ_adjective antimonarchists are protesting, saying that the religious institutions don't have enough power compared to the King.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_APPLESEED</Tag>
@@ -6431,11 +6083,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在一位%s1_civ_adjective民间植树英雄的带领下，人们创造了一处繁茂的苹果树林。</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective folk hero has caused the creation of a new forest of apple trees.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_AT_THE_SWORD</Tag>
@@ -6444,11 +6092,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的勇士们聚集在战争英雄的麾下。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective soldiers have rallied behind their heroes of the sword.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_AXE_HAFT_1</Tag>
@@ -6457,11 +6101,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的工匠改进了斧柄设计，制造出全世界最精良的战斧。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective craftsmen have improved the design of their axe manufacturing. These are the finest axes in the world.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BABY_BOOM_1</Tag>
@@ -6470,11 +6110,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>退伍的%s1_civ_adjective战士和他们的妻子努力生养儿女以庆祝战争结束，由此导致了一场婴儿潮。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective soldiers and their wives are celebrating the end of war by creating a baby boom.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BABY_BOOM_2</Tag>
@@ -6483,11 +6119,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>受战后婴儿潮的影响，%s1_civ_adjective的人口正迅速增长。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective population is growing rapidly as a post-war baby boom sweeps through their settlements.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BANANA_SPLIT</Tag>
@@ -6496,11 +6128,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商家发明了“香蕉船”冰淇淋，使得冰激凌销售量大幅增长。</Chinese>
-=======
-    <Chinese>Invention of the banana split by a %s1_civ_adjective businessman has led to booming ice cream sales for their vendors.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BARDS_TALE_1</Tag>
@@ -6509,11 +6137,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s2_city的一位艺术家创作的一首感人的民谣唤起了%s1_civ_adjective人的文化自豪感。</Chinese>
-=======
-    <Chinese>A heartrending ballad written by an artist in %s2_city is inspiring cultural pride amongst the %s1_civ_adjective people.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BARDS_TALE_2</Tag>
@@ -6522,11 +6146,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s2_city的一位艺术家创作的歌曲广受欢迎，加强了%s1_civ_adjective的文化影响力。</Chinese>
-=======
-    <Chinese>A songwriter from %s2_city has gained local and national recognition, strengthening %s1_civ_adjective culture.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BERMUDA_TRIANGLE</Tag>
@@ -6535,11 +6155,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的飞机和轮船连续在“百慕大三角”海域神秘失踪。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective ships and planes have disappeared without a trace in the Bermuda Triangle!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BEST_DEFENSE_DONE</Tag>
@@ -6548,11 +6164,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>坚强的%s1_civ_adjective人民胜利完成了“顶级防御”任务！</Chinese>
-=======
-    <Chinese>The sturdy %s1_civ_adjective people have completed The Best Defense quest!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BETTER_COAL</Tag>
@@ -6561,11 +6173,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的科学家发明了更先进的煤炭深加工技术。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective scientists have developed better ways of processing coal fuel.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BLACK_PEARLS</Tag>
@@ -6574,11 +6182,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商人开始批量销售黑珍珠。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective merchants are now selling black pearls in larger quantities.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BLESSED_SEA_DONE</Tag>
@@ -6587,11 +6191,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>“受祝福的海洋”任务完成了，%s4_religion_adjective的精神领袖为此赐予%s1_civ_adjective人民巨大的奖赏。</Chinese>
-=======
-    <Chinese>%s4_religion_adjective leaders have bestowed grand rewards upon the %s1_civ_adjective people for completing the Quest of the Blessed Sea!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BLIZZARD_1</Tag>
@@ -6600,11 +6200,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s2_city遭遇百年一遇的严冬。</Chinese>
-=======
-    <Chinese>Severe winter weather is plaguing the %s1_civ_adjective people near their city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BLIZZARD_2</Tag>
@@ -6613,11 +6209,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>猛烈的暴风雪袭击了%s1_civ_adjective的%s2_city。</Chinese>
-=======
-    <Chinese>A blizzard has dumped disastrous quantities of snow upon a %s1_civ_adjective region near %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BOILERS</Tag>
@@ -6626,11 +6218,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一种新型锅炉的普及提升了%s1_civ_adjective工业能力，国家税收因而迅速增长。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective factories are benefitting from a new boiler design, providing a short term rise in their tax revenue.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BOWYER</Tag>
@@ -6639,11 +6227,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位制弓大师改进了弓弩制造技术，使%s1_civ_adjective部队装备的弓弩更加强劲。</Chinese>
-=======
-    <Chinese>A master bowyer has developed techniques that improve the strength of all %s1_civ_adjective war bows.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BREAKTHROUGH_1</Tag>
@@ -6652,11 +6236,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据报%s1_civ_adjective科学家在技术上取得突破，使其研究进度快速增长。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective researchers are rumored to have made a technological breakthrough, rapidly advancing their progress.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BREAKTHROUGH_2</Tag>
@@ -6665,11 +6245,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的最新发现使他们在现有研究项目上取得突破。</Chinese>
-=======
-    <Chinese>Discoveries made by the %s1_civ_adjective Empire have boosted progress on their current research project.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BROKEN_DAM</Tag>
@@ -6687,11 +6263,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective领袖已与同样信仰%s3_religion_adjective的%s4_civ_adjective领袖会面，讨论是否需要向对方提供战争援助。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective leaders have met with their %s4_civ_adjective %s3_religion_adjective brothers to discuss the possibility of sending them strategic resources to aid in their war effort.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CARELESS_APPRENTICE</Tag>
@@ -6700,11 +6272,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一场大火烧毁了%s1_civ_adjective的%s2_city的煅造厂。</Chinese>
-=======
-    <Chinese>A fire has destroyed the Forge in the %s1_civ_adjective city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CHAMPION</Tag>
@@ -6722,11 +6290,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位魅力超群的独裁者掌握了%s1_civ_adjective的最高权力，并通过铁腕手段改组政府以实现他的个人野心。</Chinese>
-=======
-    <Chinese>A charismatic %s1_civ_adjective dictator has risen to control the Party. This strong man is reshaping the government to suit his plans.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CHILLY_FLIGHT</Tag>
@@ -6735,11 +6299,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>来自%s2_city的一位飞行员首次独自飞越北极，这一英雄壮举激发了%s1_civ_adjective人的民族自豪感。</Chinese>
-=======
-    <Chinese>A pilot from %s2_city has inspired pride amongst the %s1_civ_adjective people by becoming the first to fly solo over the North Pole.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CIGARETTE_SMOKER</Tag>
@@ -6757,11 +6317,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective探险队在%s2_city附近发现了埋藏在废墟中的重要资料。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective explorers have discovered valuable information buried in ruins near %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CIV_GAME</Tag>
@@ -6770,11 +6326,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的游戏设计师开发了一款全新电脑游戏——《文明》。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective game designers have developed a new game of Civilization.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CLASSIC_LITERATURE_DONE</Tag>
@@ -6783,11 +6335,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ学者对本民族的口头传说故事进行了全面的记录和整理，从而胜利完成了“经典文学”任务！</Chinese>
-=======
-    <Chinese>%s1_civ scholars have successfully recorded all of their oral traditions and stories in to a new compendium of literature, thereby completing the quest of Classic Literature!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CLUNKER_COAL</Tag>
@@ -6796,11 +6344,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商人开始倾销劣质煤炭。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective merchants are offering discounts on tons of their clunker coal, which is filled with impurities.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_COMET_FRAGMENT</Tag>
@@ -6809,11 +6353,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一块彗星碎片撞击地球，坠落在寒冷的冻土地带，大片森林被摧毁。%s1_civ_adjective的科学家们正在紧张地研究各种对对地球构成潜在威胁的天体，包括彗星、小行星及流星。</Chinese>
-=======
-    <Chinese>A comet fragment has struck the earth in a remote tundra region, obliterating a whole forest. %s1_civ_adjective scientists are scrambling like mad to learn more about potential threats posed to our planet by other rogue heavenly bodies: comets, asteroids, meteors, and whatever else may be lurking out there.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CONTROVERSIAL_PHILOSOPHER</Tag>
@@ -6822,11 +6362,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位%s1_civ_adjective哲学家提出的新学说在虔诚的教徒中引发了激烈的争议。</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective philosopher has stirred up controversy among the religious population.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CORPORATE_EXPANSION_DONE</Tag>
@@ -6835,11 +6371,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective完成了“商业扩张”任务，正如预期的那样，%s6_corporation的收益像宇宙火箭般迅速窜升。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have completed the quest of Corporate Expansion. %s6_corporation profits expected to skyrocket.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CRAB_CAKES</Tag>
@@ -6848,11 +6380,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的蟹肉饼销售量大幅增长。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective crab cake sales are booming.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CRISIS_IN_THE_SENATE</Tag>
@@ -6870,11 +6398,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的军队发动了一场圣战，从%s4_civ_adjective异教徒手中夺取了圣城%s2_city。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective armies have completed their Crusade, wresting control of the Holy City of %s2_city away from the %s4_civ_adjective people!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CYCLONE</Tag>
@@ -6883,11 +6407,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>特大飓风在%s1_civ的%s2_city登陆，狂风和海浪造成了巨大的破坏。</Chinese>
-=======
-    <Chinese>A massive cyclone has made landfall at the %s1_civ city of %s2_city, causing widespread wind and storm surge damage.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_DEFECTING_AGENT</Tag>
@@ -6896,11 +6416,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的一名高级特工叛变投靠了%s4_civ_adjective的情报部门。</Chinese>
-=======
-    <Chinese>A high-ranking %s1_civ_adjective intelligence agent has defected to the %s4_civ_adjective government.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_DISSIDENT_PRIEST</Tag>
@@ -6918,11 +6434,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>由于低劣的技术和过度的耕种，%s1_civ_adjective境内出现水土流失和土地沙化现象。</Chinese>
-=======
-    <Chinese>Excessive farming with poor techniques has led to soil erosion and a dustbowl effect in the %s1_civ_adjective Empire.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_DUSTBOWL_CONT</Tag>
@@ -6931,11 +6443,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>由于沙漠化进程的加剧，%s1_civ_adjective的农民推动了大片耕地。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective farmers continue to suffer loss of their land due to ongoing dust storms sweeping across the plains.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_EARTHDAY</Tag>
@@ -6944,11 +6452,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective宣布开展一年一度的“地球日”活动，大力宣传环境保护。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire has announced the first annual Earth Day, crusading for the cause of Environmentalism.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ELECTRIC_COMPANY</Tag>
@@ -6957,11 +6461,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>为了满足生活品质日益增长的需求，%s1_civ_adjective电力部门的员工努力扩大能源生产，赢得了市民的赞誉。</Chinese>
-=======
-    <Chinese>Motivated by freedom and quality of life in the %s1_civ_adjective Empire, the power company workers restore electricity outages rapidly, making the citizens there even happier.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ELITE_SWORDS_DONE</Tag>
@@ -6970,11 +6470,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective建立了一支强大的剑士部队，各国统治者都在担心自己的文明恐怕无法存活到“刀剑之上”的时代。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have trained the largest force of Swordsman units. Advisors across the known world are wondering if their civilizations will survive long enough to see what lies beyond the sword.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ESTEEMED_PLAYWRIGHT</Tag>
@@ -6992,11 +6488,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective海军的一位退休舰长请求到%s2_city的干船坞工作，继续发挥他的才干。</Chinese>
-=======
-    <Chinese>A retiring %s1_civ_adjective naval captain has pledged his expertise to assist the Drydock located in %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FARM_BANDITS</Tag>
@@ -7005,11 +6497,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>盗匪在%s1_civ_adjective的乡村肆虐。</Chinese>
-=======
-    <Chinese>Bandits are wreaking havoc in %s1_civ_adjective farmlands.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FARM_BANDITS_AGAIN</Tag>
@@ -7018,11 +6506,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的粮食生产由于匪患而遭受严重损失。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire continues to suffer a loss of food production due to banditry.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FARM_PLOWS</Tag>
@@ -7031,11 +6515,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective出产的犁在市场上大量销售。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective plow sales are booming.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FASHION</Tag>
@@ -7044,11 +6524,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>通过媒体广告的大力宣传，%s1_civ_adjective出产的丝绸服装已成为社会各阶层的流行时尚。</Chinese>
-=======
-    <Chinese>Silk dresses manufactured in %s1_civ_adjective factories have become an extremely popular fashion choice across the region, due in part to radio advertising.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FAUX_PAS</Tag>
@@ -7057,11 +6533,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective大使的失礼行为在%s4_civ_adjective国内引发强烈不满。</Chinese>
-=======
-    <Chinese>A faux pas commited by the %s1_civ_adjective ambassador has caused quite a stir in the %s4_civ_adjective Capital.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FAVORITE_SON</Tag>
@@ -7070,11 +6542,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位%s1_civ_adjective角斗士以其英勇无畏的气概赢得了%s2_city居民的赞赏和尊敬。</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective gladiator from %s2_city has become a local hero and an inspiration.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FEDERAL_RESERVE</Tag>
@@ -7083,11 +6551,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的经济学家提出了一种有关控制通货膨胀的新理论</Chinese>
-=======
-    <Chinese>%s1_civ_adjective economists have developed advanced economic theory pertaining to inflation costs.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FIRING_PINS_1</Tag>
@@ -7096,11 +6560,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的掷弹兵开始装备不需要导火线的新式手榴弹。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective Grenadier units have been issued more effective explosives: bombs that do not need a fuse.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FOREST_FIRE</Tag>
@@ -7109,11 +6569,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjectiv的%s2_city附近发生森林大火。</Chinese>
-=======
-    <Chinese>Fire has raged through a forest near the %s1_civ_adjective city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FORTY_THIEVES_1</Tag>
@@ -7122,11 +6578,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>四十大盗的传说吸引了大批追求财富和刺激的冒险者涌入%s2_civ_adjective。</Chinese>
-=======
-    <Chinese>The legend of Forty Thieves is luring treasure hunters and adventure seekers to %s2_civ_adjective lands.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FREEDOMCONCERT</Tag>
@@ -7135,11 +6587,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective举办了一场旨在推进信仰自由的慈善募捐活动。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire has donated funds raised at a charity event to the cause of religious freedom.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FRIENDLY_LOCALS_1</Tag>
@@ -7157,11 +6605,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>对敌人的压迫心怀不满的当地居民救助了一名受伤的%s1_civ_adjective战士。</Chinese>
-=======
-    <Chinese>A wounded %s1_civ_adjective unit has received assistance from a small faction who resists the rule of their enemy.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FRIENDLY_LOCALS_3</Tag>
@@ -7170,11 +6614,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>虔诚信教、慈悲为怀的当地居民救助了一名受伤的%s1_civ_adjective战士。</Chinese>
-=======
-    <Chinese>A pious tribe who believe in mercy have extended religious protection to a wounded unit of %s1_civ_adjective origin.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FUEL_ADDITIVES</Tag>
@@ -7192,11 +6632,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据传，%s1_civ_adjective当局逮捕了一名遭%s4_civ_adjective政府通缉的逃犯。此事尚未得到确认。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective authorities are rumored to have captured a fugitive fleeing from %s4_civ_adjective justice. No confirmation is available.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GIRLS_BEST_FRIEND</Tag>
@@ -7205,11 +6641,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的钻戒销售量大幅增长。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective diamond ring sales are booming.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GOLD_RUSH_1</Tag>
@@ -7218,11 +6650,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city附近发现黄金，世界各地的淘金者蜂拥而至，梦想着一夜暴富。</Chinese>
-=======
-    <Chinese>A gold rush has begun at the %s1_civ_adjective city of %s2_city. Fortune seekers from across the world travel there in hopes of getting rich quickly.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GOLD_RUSH_2</Tag>
@@ -7231,11 +6659,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>由于怀揣发财梦的淘金者大量涌入，%s1_civ_adjective%s2_city的人口迅速增加。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire is enjoying a population increase at %s2_city thanks to a gold rush bringing in prospectors and hopefuls.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GOLDEN_BUDDHA</Tag>
@@ -7253,11 +6677,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective某地的猎场附近出现一只巨兽。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective hunters have discovered a great beast lurking near one of their camps.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GREAT_DEPRESSION</Tag>
@@ -7266,11 +6686,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>总部设在%s1_civ_adjective境内的%s6_corporation近日被揭露存在商业欺诈行为，其股价暴跌，进而导致证券市场疲软，引发全球经济萧条。</Chinese>
-=======
-    <Chinese>Corporate fraud within %s6_corporation, headquartered in the %s1_civ_adjective Empire, has collapsed the company's stock price, taking the rest of the market down with it and triggering a global economic depression.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GREED_DONE</Tag>
@@ -7279,11 +6695,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的军队出于对战略资源的贪婪，攻击了%s4:2_civ_adjective，并且缴获了自己国境内没有的资源。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective army, in a purely greedy bid for strategic resources, have attacked the %s4:2_civ_adjective and seized control of resources they lacked within their own borders.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GUNS_BUTTER_DONE</Tag>
@@ -7292,11 +6704,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective建立了全世界最强大的火器部队。各国统治者一想到他们将要面对的战火硝烟和枪林弹雨都会感到恐惧不已。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have trained the largest force of musket units. Advisors across the known world are panicking at the thought of their nation being ground under the thundering clatter and deadly terror of an endless hail of bullets.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HALBERD_1</Tag>
@@ -7305,11 +6713,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的长枪兵开始使用新式长戟，增强了对抗步兵的能力。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective Pikemen have begun using a new type of halberd, boosting their strength versus foot soldiers.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HAMBURGER_JOINT</Tag>
@@ -7318,11 +6722,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的企业家发明了快餐连锁经营模式，通过媒体广告的大力宣传，这种新型商业模式迅速发展。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective entrepreneurs have invented the fast food hamburger joint. Thanks to radio advertising, this phenomenon is spreading rapidly.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HAPPY_HUNTING</Tag>
@@ -7331,11 +6731,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s2_city附近的猎人捕获大量野味，增加了食物供给。</Chinese>
-=======
-    <Chinese>Surplus game harvested by hunters near the %s1_civ_adjective city of %s2_city has fueled a minor population boom.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HARBORMASTER_DONE</Tag>
@@ -7344,11 +6740,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>擅长航海的%s1_civ_adjective人胜利完成了“港口主管”任务！</Chinese>
-=======
-    <Chinese>The seaworthy %s1_civ_adjective people have completed the quest of The Harbormaster!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HEALING_PLANT</Tag>
@@ -7357,11 +6749,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的草药医生发现了一种极具治疗效果的药用植物。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective herbalists have discovered a plant that might result in better illness treatment.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HERESY</Tag>
@@ -7370,11 +6758,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一种异端信仰开始在%s1_civ_adjective的部分地区流行，对正统信仰的统治地位造成冲击。</Chinese>
-=======
-    <Chinese>The thoroughly religious %s1_civ_adjective state is dealing with an outbreak of heresy in some segments of its population.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HIGH_WARLORD</Tag>
@@ -7392,11 +6776,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一艘%s1_civ_adjective的氢气飞艇意外爆炸并坠毁，该国政府已展开调查，努力避免此类事故再次发生。</Chinese>
-=======
-    <Chinese>A hydrogen-filled %s1_civ_adjective airship has exploded and crashed. Their government is scrambling to prevent a reoccurrence.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HIYOSILVER</Tag>
@@ -7405,11 +6785,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的探矿者因找到了一处银矿而大发横财。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective miners have struck it rich with the discovery of new veins of Silver ore.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HOLY_MOUNTAIN_DONE</Tag>
@@ -7418,11 +6794,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective人民在神的指引下找到了圣山，虔诚的%s3_religion_adjective信众因而备受鼓舞。</Chinese>
-=======
-    <Chinese>The faithful %s3_religion_adjective people are inspired by the divine providence of the %s1_civ_adjective Empire for completing the Quest of the Holy Mountain!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HOLY_RITUAL</Tag>
@@ -7431,11 +6803,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的薰香销售量大幅增长。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective sales of incense are booming.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HORSE_WHISPERING_DONE</Tag>
@@ -7444,11 +6812,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的驯马师在政府大力支持下胜利完成了“马语者”任务！</Chinese>
-=======
-    <Chinese>%s1_civ_adjective stable masters and horse trainers have completed the quest of Horse Whispering!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HORSESHOE</Tag>
@@ -7457,11 +6821,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位煅造大师改进了马掌设计，使%s1_civ_adjective骑兵能够更有效地发动奔袭并迅速转移。</Chinese>
-=======
-    <Chinese>A master smith has developed improved horseshoes, boosting the chance for %s1_civ_adjective mounted units to strike and then escape.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HORTICULTURE</Tag>
@@ -7470,11 +6830,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的园艺师采集当地特有植物制成一种珍贵的药物。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective horticulturists have harnessed rare local resources to produce remedies.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE</Tag>
@@ -7483,11 +6839,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective完成了“恶意接管”任务，正如预期的那样，%s6_corporation的收益像宇宙火箭般迅速窜升。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have completed the quest of Corporate Expansion. %s6_corporation profits expected to skyrocket.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HURRICANE</Tag>
@@ -7496,11 +6848,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s2_city遭遇特大飓风的直接袭击。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective city of %s2_city took a direct hit from a powerful hurricane.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HYMNS_AND_SCULPTURES</Tag>
@@ -7509,11 +6857,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s2_city宗教音乐和雕塑作品的熏陶下，一位年轻的大艺术家在%s1_civ_adjective崭露头角。</Chinese>
-=======
-    <Chinese>Inspired by religious music and sculpture in %s2_city, a new Great Artist has emerged in the %s1_civ_adjective Empire.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ICE_SCULPTURE</Tag>
@@ -7522,11 +6866,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一种新的艺术形式——冰雕在%s1_civ_adjective%s2_city的冰天雪地中诞生。</Chinese>
-=======
-    <Chinese>A new art form involving the carving of large blocks of ice has been created in the icy tundra near the %s1_civ_adjective city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_IMMIGRANTS</Tag>
@@ -7544,11 +6884,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的总统面临弹劾。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective President is facing impeachment.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_INDEPENDENTFILMS</Tag>
@@ -7557,11 +6893,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city的多家电影公司拍摄了多部卖座大片。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective filmmakers from %s2_city have managed to wrest control over a slice of the Hit Movies market.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_INDUSTRIAL_FIRE</Tag>
@@ -7579,11 +6911,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s2_city暴发了一场严重的流感，许多%s1_civ_adjective人因此丧生。</Chinese>
-=======
-    <Chinese>A deadly influenza epidemic has broken out amongst %s1_civ_adjective people, originating in the city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_INSPIRED_MISSION</Tag>
@@ -7592,11 +6920,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>来自%s1_civ_adjective的%s2_city的%s4_religion_adjective传教士迅速拓展了他们宗教的影响力！</Chinese>
-=======
-    <Chinese>Inspired %s3_religion_adjective missionaries from the %s1_civ_adjective city of %s2_city have greatly expanded the influence of their religion!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_INTERSTATE</Tag>
@@ -7605,11 +6929,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective开始兴建令全世界羡慕的现代化国家公路网。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire has begun construction of a modern national highway network that shall be the envy of the world.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_JADE</Tag>
@@ -7618,11 +6938,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商人开始销售用玉石雕刻的艺术品</Chinese>
-=======
-    <Chinese>%s1_civ_adjective merchants are now selling jade carvings in small quantities.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_JAIL</Tag>
@@ -7640,11 +6956,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一场遵照%s3_religion_adjective传统进行的婚姻在%s1_civ_adjective和%s4_civ_adjective人民之间建立了新的纽带，双方都很欣赏这对新人，乐于接纳来自外国的亲家。</Chinese>
-=======
-    <Chinese>A joyous marriage in the %s3_religion_adjective tradition has forged new bonds between %s1_civ_adjective and %s4_civ_adjective peoples, who both adore the new couple and are pleased with the behavior of the inlaws from the other nation.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_LABORATORY</Tag>
@@ -7662,11 +6974,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位显贵的女儿在一场失败的政治联姻中被抛弃，导致%s4_civ_adjective和%s1_civ_adjective之间关系极度紧张。</Chinese>
-=======
-    <Chinese>A collapsed politically arranged wedding and a jilted bride are at the center of new tensions between the %s4_civ_adjective and %s1_civ_adjective Empires.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_LITERACY</Tag>
@@ -7675,11 +6983,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的文化教育事业迅速推进，几乎完全消除了文盲。</Chinese>
-=======
-    <Chinese>The learned %s1_civ_adjective people enjoy a virtually universal literacy rate.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_LONG_RANGE_FIGHTERS_1</Tag>
@@ -7688,11 +6992,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective研制出了一种新型远程战斗机。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire has developed a long range Fighter plane.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_LOOTERS</Tag>
@@ -7701,11 +7001,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s4_civ_adjective的%s5_city周边的局势已经失控，骚乱和劫掠事件层出不穷。</Chinese>
-=======
-    <Chinese>The %s4_civ_adjective city of %s5_city is suffering civil unrest. Riots and looting have broken out.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MARATHON</Tag>
@@ -7714,11 +7010,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一名%s1_civ_adjective战士奔跑了漫长的距离带回敌人入侵的警讯，鼓舞了国人的抗战意志。</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective soldier has run a great distance to warn of invasion, inspiring defenders all across their lands.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MARBLE_STATUES</Tag>
@@ -7727,11 +7019,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city地方官员决定使用精美的大理石雕像装饰各大公共建筑。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective officials in %s2_city have lavishly decorated their public buildings with finely carved marble statues.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MASTER_BLACKSMITH_DONE</Tag>
@@ -7740,11 +7028,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的冶金业者胜利完成了“煅造大师”任务！</Chinese>
-=======
-    <Chinese>The skilled %s1_civ_adjective metalworkers have completed the quest of The Master Blacksmith!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MASTER_SMITH</Tag>
@@ -7753,11 +7037,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s1_civ_adjective的%s2_city，一位煅造大师改进了熔炉设计。</Chinese>
-=======
-    <Chinese>A grand master blacksmith has overseen improvements to the Forge in the %s1_civ_adjective city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_METAL_DECKS_1</Tag>
@@ -7766,11 +7046,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的航空母舰停止采用木制甲板，改用钢制甲板。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire has halted production of aircraft carriers with wooden decks. Their decks are now made of steel.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MINING_ACCIDENT</Tag>
@@ -7779,11 +7055,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的%s2_city附近发生一场矿难，造成数以百计的矿工遇难。</Chinese>
-=======
-    <Chinese>A tragic mining accident near the %s1_civ_adjective city of %s2_city has claimed the lives of hundreds of their miners.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MIRACLE</Tag>
@@ -7792,11 +7064,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据报在%s2_city发生了奇迹，吸引了来自天南海北的%s3_religion_adjective朝圣者。</Chinese>
-=======
-    <Chinese>A miracle performed at the city wall in %s2_city is attracting %s3_religion_adjective pilgrims from far and wide.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MODERNOLYMPICS</Tag>
@@ -7814,11 +7082,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s2_city的市场成为闻名世界的贸易中心，促进了%s1_civ_adjective的经济繁荣。</Chinese>
-=======
-    <Chinese>The Market in %s2_city has become renowned as a worldwide center of dealings in global currency. This is bolstering %s1_civ_adjective profits.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MONEY_CHANGERS_2</Tag>
@@ -7827,11 +7091,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city的市场中聚集了大批货币兑换商，为各国顾客提供货币兑换业务。</Chinese>
-=======
-    <Chinese>Money changers have flocked to the Market in the %s1_civ_adjective city of %s2_city, attracting all manner of customers in need of changing one nation's currency for another's.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MONSOON</Tag>
@@ -7840,11 +7100,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>百年一遇的洪水给%s2_city居民带来了巨大灾难。</Chinese>
-=======
-    <Chinese>Monsoon flooding, more severe than usual for %s2_city, has visited disaster upon the %s1_civ_adjective people there.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MOTHER_LODE</Tag>
@@ -7853,11 +7109,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective矿工在%s2_city附近的金矿中找到了主矿脉。</Chinese>
-=======
-    <Chinese>Gold miners near the %s1_civ_adjective city of %s2_city have struck the mother lode.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MOTOR_OIL</Tag>
@@ -7866,11 +7118,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的化学家改进了润滑油的提炼方法。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective chemists have developed an advanced refinement process for motor oil.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_NEW_DYNASTY</Tag>
@@ -7879,11 +7127,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective原来的世袭王室已经绝嗣，一个新的派系夺取了统治权并着手稳定局势。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective hereditary dynasty has died out. A new faction has claimed the throne and is off to a roaringly successful start.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_NOBLE_KNIGHTS_DONE</Tag>
@@ -7892,11 +7136,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective建立了一支强大的骑士部队。各国统治者一想到他们将要面对隆隆的铁蹄、密集的长枪巨大的冲击力都会感到颤栗不已。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have trained the largest force of knights. Advisors across the known world tremble at the thought of facing rows of lances powered by the thundering hooves of a full battle charge.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_NUCLEAR_PROTEST</Tag>
@@ -7905,11 +7145,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据报%s1_civ_adjective的民众举行大规模抗议活动，反对本国政府加强核军备。</Chinese>
-=======
-    <Chinese>News reports indicate massive %s1_civ_adjective protests over the country's nuclear weapons stockpile.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_OVERWHELM_DONE</Tag>
@@ -7918,11 +7154,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective建立了有史以来最强大的现代化海军，他们的航空母舰战斗群能够轻易摧毁任何敌人。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have constructed what is by far the most deadly fleet of warships in the history of warfare. Their aircraft carrier battle group could crush anything that gets in its way.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PARROTS</Tag>
@@ -7931,11 +7163,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商人开始批量销售作为宠物的鹦鹉。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective merchants are now selling caged parrots as exotic pets.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PARTISANS</Tag>
@@ -7944,11 +7172,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s5_city的人民目睹家园被烧毁！他们组织起一支游击队来帮助我们对抗邪恶的%s4_civ_adjective侵略者。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people from the city of %s5_city have seen their homes burned! They are rising up against the wicked %s4_civ_adjective invaders, forming Partisan units to join the resistance as militia fighters!</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PASTURE_BUILT</Tag>
@@ -7957,11 +7181,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective某地勤劳的村民新建了一个大牧场。</Chinese>
-=======
-    <Chinese>Industrious villagers have built a Pasture in %s1_civ_adjective lands.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PATRON_OF_KNOWLEDGE_1</Tag>
@@ -7970,11 +7190,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s1_civ_adjective的%s2_city，一位收藏家向当地图书馆捐赠了一批珍贵的手稿。</Chinese>
-=======
-    <Chinese>A patron of knowledge from the %s1_civ_adjective city of %s2_city has donated a cache of rare writings to the local Library.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PATRON_OF_KNOWLEDGE_2</Tag>
@@ -7983,11 +7199,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s1_civ_adjective的%s2_city，当地图书馆从一位收藏家那里获赠一批珍贵的手稿。</Chinese>
-=======
-    <Chinese>The Library in the %s1_civ_adjective city of %s2_city has received an influx of precious writings thanks to the generosity of a wealthy family.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PERSONAL_COMPUTERS</Tag>
@@ -7996,11 +7208,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city出产的个人电脑销量大幅增长。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective personal computers, manufactured in %s2_city, are selling in record numbers.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PESTILENCE</Tag>
@@ -8009,11 +7217,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>瘟疫侵袭%s1_civ_adjective的乡村地区。</Chinese>
-=======
-    <Chinese>Pestilence has struck %s1_civ_adjective agricultural lands.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PRAIRIE_DOGS</Tag>
@@ -8022,11 +7226,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商人开始批量销售作为宠物的土拨鼠。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective merchants are now selling domesticated prairie dogs as exotic pets.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_PREACHING_RESEARCHER</Tag>
@@ -8044,11 +7244,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>宗教改革的浪潮已经衍生到了%s1_civ_adjective。</Chinese>
-=======
-    <Chinese>The Reformation has reached the %s1_civ_adjective civilization.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_REINFORCED_HULL_1</Tag>
@@ -8057,11 +7253,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据报%s1_civ_adjective正对其三层桨战船进行技术改装。</Chinese>
-=======
-    <Chinese>Rumors abound that %s1_civ_adjective shipmasters are doing extensive refitting work on their trireme fleet.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_RIFLED_CANNON_1</Tag>
@@ -8070,11 +7262,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的工程师改进了炮管设计，大大提升了加农炮的射程和精度。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective Cannon units can now shoot farther and more accurately thanks to improved barrel design.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ROGUE_STATION</Tag>
@@ -8083,11 +7271,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city的一家电台发起宣传攻势，鼓动民众反对执政党。</Chinese>
-=======
-    <Chinese>A rogue radio station in the %s1_civ_adjective city of %s2_city is broadcasting propaganda against the ruling party.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_RUNNING_BULLS</Tag>
@@ -8105,11 +7289,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city的杂货商与远郊区的农民签订了粮食收购协议。</Chinese>
-=======
-    <Chinese>Enterprising %s1_civ_adjective grocers in %s2_city have struck a deal to import surplus food from rural farmers outside the normal range of city business.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_RURAL_FARMERS_2</Tag>
@@ -8118,11 +7298,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city的杂货店以其质量优异、货物充足、品种多样而享誉四方。</Chinese>
-=======
-    <Chinese>The Grocer in the %s1_civ_adjective city of %s2_city is becoming renowned for its superior selection, quality and quantity of foodstuffs.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SALTPETER</Tag>
@@ -8131,11 +7307,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商人开始批量销售火药。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective merchants are now selling gunpowder in larger quantities.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SEA_TURTLES</Tag>
@@ -8144,11 +7316,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective人开始大量捕捉海龟。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective people are now harvesting sea turtles on an annual basis.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SECRET_KNOWLEDGE</Tag>
@@ -8157,11 +7325,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s1_civ_adjective的一座修道院里发现了一批古籍。</Chinese>
-=======
-    <Chinese>A cache of ancient texts has been discovered hidden away in a %s1_civ_adjective monastery.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SECURITY_TAX</Tag>
@@ -8170,11 +7334,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>获得良好保护的%s1_civ_adjective居民被迫额外交纳“安全税”，用于维护城墙及供养守卫。</Chinese>
-=======
-    <Chinese>The well-protected %s1_civ_adjective citizens endure paying a Security Tax to help maintain their city walls and guards.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SETBACK_1</Tag>
@@ -8183,11 +7343,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据报%s1_civ_adjective科学家遭遇重大挫折，使得研究进度放缓。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective researchers are rumored to have suffered a major setback, slowing their progress.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SETBACK_2</Tag>
@@ -8196,11 +7352,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的一项新发现被证明是错误的！研究被迫进度放缓。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective discoveries have turned out to be false! This dead end result has slowed their current research project.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SLAVE_REVOLT</Tag>
@@ -8227,11 +7379,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的武器工匠发明了无烟火药，使火枪手的战斗力获得提升。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective weaponsmiths have invented smokeless powder, giving their musketmen a significant advantage.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SOLO_FLIGHT</Tag>
@@ -8240,11 +7388,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位勇敢的%s1_civ_adjective飞行员首次完成了单人环球飞行，他的英雄壮举赢得了全世界的赞誉。</Chinese>
-=======
-    <Chinese>A daring %s1_civ_adjective pilot is the first to fly solo around the world, lifting spirits across the globe and winning admiration from all of humanity.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SOUR_CRUDE</Tag>
@@ -8253,11 +7397,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective商人开始倾销劣质原油。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective merchants are offering discounts on barrels of their sour crude oil, which is filled with impurities.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SPICY</Tag>
@@ -8266,11 +7406,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一位%s1_civ_adjective的厨师发现了一种珍贵的新香料。</Chinese>
-=======
-    <Chinese>A %s1_civ_adjective chef has identified a new and valuable type of spice.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SPOILED_GRAIN</Tag>
@@ -8288,11 +7424,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective通过建造足够数量的[COLOR_BUILDING_TEXT]竞技场[COLOR_REVERT]胜利完成了“国家体育联合会”任务，增强社会凝聚力和民族认同感。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective cities have built enough [COLOR_BUILDING_TEXT]Amphitheatres[COLOR_REVERT] to complete the National Sports League quest, strengthening their social fabric and their national identity.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SPY_DISCOVERED</Tag>
@@ -8301,11 +7433,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective政府内部发现了一名潜伏的%s4_civ_adjective间谍。</Chinese>
-=======
-    <Chinese>A %s4_civ_adjective infiltrator has been dicovered in the %s1_civ_adjective government.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_STAINED_GLASS</Tag>
@@ -8314,11 +7442,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的彩色玻璃销售量大幅增长。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective stained glass sales are booming.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_STRONGER_FITTINGS_1</Tag>
@@ -8327,11 +7451,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据报%s1_civ_adjective军队开始装备新式劲弩，这种强大武器的技术细节被严格保密。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective Crossbow units are rumored to be carrying improved weapons. Specifics on how or why their bows are stronger remains a mystery.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SUBWAY</Tag>
@@ -8340,11 +7460,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective%s2_city这座现代化大都市完成了宏伟地下轨道公共交通网络，人们称之为“地铁”。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective metropolis of %s2_city has constructed a mass transit marvel: an underground railroad network. They are calling it the Subway.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TEA</Tag>
@@ -8353,11 +7469,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective上流社会饮用自%s4_civ_adjective进口的茶饮料已蔚然成风。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective citizens who are socially advanced have adopted imported %s4_civ_adjective tea as their beverage of choice.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_THE_GOTHS</Tag>
@@ -8411,11 +7523,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective繁育的纯种赛马在世界市场上广受欢迎。</Chinese>
-=======
-    <Chinese>Thoroughbred race horses raised by %s1_civ_adjective breeders have generated extra revenue for their treasury.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TIN</Tag>
@@ -8424,11 +7532,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective成为世界产锡大国。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Empire has become the world's leading producer of tin.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TOO_CLOSE_TO_CALL</Tag>
@@ -8437,11 +7541,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective大选的票数是如此接近，宪法法院不得不下令重新计票以获得准确结果。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective election results were so close, the courts had to rule on the vote-counting procedures to arrive at an outcome.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TORNADO_1</Tag>
@@ -8450,11 +7550,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>强烈的飓风横扫%s1_civ_adjective，沿途留下一片废墟。</Chinese>
-=======
-    <Chinese>Vicious tornadoes carved a path of destruction through the %s1_civ_adjective Empire.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TORNADO_2</Tag>
@@ -8463,11 +7559,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的基础设施遭到雷暴和飓风的严重破坏。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective infrastructure was wiped out by a deadly thunderstorm and the violent twisters it spawned.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TOWER_SHIELD_1</Tag>
@@ -8485,11 +7577,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s1_civ_adjective举行的托克斯卡特尔祭礼上，一名特兹凯里波卡神选定的年轻人挣脱锁链逃走了。</Chinese>
-=======
-    <Chinese>The man who is Tezcatlipoca's likeness has escaped during this year's Toxcatl feast in the %s1_civ_adjective Empire.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TRADING_COMPANY_CONQUERORS</Tag>
@@ -8498,11 +7586,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective正采取行动，以巩固其在南亚市场的地位。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective Trading Company considers to take further actions to enforce its South Asian market position.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TRUFFLES</Tag>
@@ -8511,11 +7595,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective人声称该国出产的块菌是世界上最美味的食物。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective people are bragging about their truffles, claiming they are the most delicious in the world.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TSUNAMI</Tag>
@@ -8524,11 +7604,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>高达15米的海啸袭击了%s1_civ_adjective的%s2_city，造成史上罕有的巨大破坏。</Chinese>
-=======
-    <Chinese>A tsunami more than fifteen meters high has rolled over the %s1_civ_adjective city of %s2_city. The destruction is unprecedented in world history.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_VOLCANO_1</Tag>
@@ -8537,11 +7613,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>火山喷发对%s1_civ_adjective的%s2_city周边地区造成严重破坏，城市本身则幸运地逃过此劫。</Chinese>
-=======
-    <Chinese>A volcanic eruption near %s2_city has devastated the countryside. Fortunately, the %s1_civ_adjective city itself was spared.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_VOLCANO_2</Tag>
@@ -8550,11 +7622,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s1_civ_adjective的%s2_city附近，一座休眠火山突然猛烈喷发。</Chinese>
-=======
-    <Chinese>The earth has spewed forth lava and ash from a previously dormant volcano near the %s1_civ_adjective city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_WAR_CHARIOTS_DONE</Tag>
@@ -8563,11 +7631,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective建立了一支强大的战车部队。各国统治者都被这些战争机器的铁蹄和车轮巨大的轰鸣声吓得心慌意乱！</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have trained the largest force of Chariot units. Advisors across the known world are panicking at the thought of their nation being ground under the thundering hooves and churning wheels of these mighty war machines.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_WARSHIPS_DONE</Tag>
@@ -8576,11 +7640,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective建立了全世界最强大的海军。各国统治者都在担心这支无敌舰队将长期称霸海洋。</Chinese>
-=======
-    <Chinese>The %s1_civ_adjective people have trained the largest fleet of warships. Advisors across the known world whisper of their fears that this fleet will dominate the seas for centuries to come.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_WASHED_OUT</Tag>
@@ -8589,11 +7649,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective发生洪灾，%s2_city附近的道路被冲毁。</Chinese>
-=======
-    <Chinese>Floods have washed out some of the routes near the %s1_civ_adjective city of %s2_city.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_WATERS_OF_LIFE_1</Tag>
@@ -8602,11 +7658,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>据传%s2_civ_adjective境内的某个绿洲存在一眼能够治病疗伤的“生命之泉”。</Chinese>
-=======
-    <Chinese>The Waters of Life, drawn from a certain oasis in %s2_civ_adjective lands, are rumored to be able to cure the sick and heal the injured.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_WEDDING_FEUD</Tag>
@@ -8615,11 +7667,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>一个%s4_civ_adjective的贵族世家对他们的%s1_civ_adjective亲家表示非常愤怒，因为按%s3_religion_adjective传统举行的婚礼违背了他们的意愿。这件事引起了极大的关注，一场争端因此而引发。</Chinese>
-=======
-    <Chinese>Nobles from a %s4_civ_adjective family are angry with their new %s1_civ_adjective inlaws for holding a %s3_religion_adjective wedding against their wishes. This event has drawn great interest within these nations as feuding has broken out over the dispute.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_WHALEOFATHING</Tag>
@@ -8628,11 +7676,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>在%s1_civ_adjective的领海发现了大量鲸鱼。</Chinese>
-=======
-    <Chinese>A new source of Whales has been located off the %s1_civ_adjective coast.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_WININGMONKS</Tag>
@@ -8641,11 +7685,7 @@
     <L2 />
     <L3 />
     <L4 />
-<<<<<<< HEAD
     <Chinese>%s1_civ_adjective的僧侣们努力经营葡萄园，出产了大批美酒。</Chinese>
-=======
-    <Chinese>%s1_civ_adjective monks who have grown their vinyards over the years are now producing Wines in significant quantities.</Chinese>
->>>>>>> 3e61ab415e2a59b842c7d2d7ebee2232404ce96f
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_NUCLEAR_REACTOR_LEAK</Tag>
