@@ -117,13 +117,19 @@ FONT_LEFT_JUSTIFY=1<<0
 def convertToUnicode(s):
 	"if the string is non unicode, convert it to unicode by decoding it using 8859-1, latin_1"
 	if (isinstance(s, str)):
-		return s.decode("latin_1")
+# >>> CYBERFRONT // character code: codepage
+#		return s.decode("latin_1")
+		return s.decode("utf-8")
+# <<< CYBERFRONT
 	return s
 	
 def convertToStr(s):
 	"if the string is unicode, convert it to str by encoding it using 8859-1, latin_1"
 	if (isinstance(s, unicode)):
-		return s.encode("latin_1")
+# >>> CYBERFRONT // character code: codepage
+#		return s.encode("latin_1")
+		return s.encode("utf-8")
+# <<< CYBERFRONT
 	return s
 
 class RedirectDebug:

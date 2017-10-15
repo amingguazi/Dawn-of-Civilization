@@ -1,596 +1,1186 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!-- Barbarians -->
-<Civ4GameText>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_ASSYRIAN</Tag>
-		<English>Assyrian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_AVAR</Tag>
-		<English>Avar</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_BEDOUIN</Tag>
-		<English>Bedouin</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_BERBER</Tag>
-		<English>Berber</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_BULGAR</Tag>
-		<English>Bulgar</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_CUMAN</Tag>
-		<English>Cuman</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_ELAMITE</Tag>
-		<English>Elamite</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_GAUL</Tag>
-		<English>Gaul</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_GERMANIC</Tag>
-		<English>Germanic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_GHANAIAN</Tag>
-		<English>Ghanaian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_GOKTURK</Tag>
-		<English>G&#246;kt&#252;rk</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_HEPHTHALITE</Tag>
-		<English>Hephthalite</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_HITTITE</Tag>
-		<English>Hittite</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_HUNNIC</Tag>
-		<English>Hunnic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_INDO_SCYTHIAN</Tag>
-		<English>Indo-Scythian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_JURCHEN</Tag>
-		<English>Jurchen</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_KAZAKH</Tag>
-		<English>Kazakh</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_KHITAN</Tag>
-		<English>Khitan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_KUSHANA</Tag>
-		<English>Kushan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_NOGAI</Tag>
-		<English>Nogai</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_NORSE</Tag>
-		<English>Norse</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_NUBIAN</Tag>
-		<English>Nubian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_PARTHIAN</Tag>
-		<English>Parthian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_SIBIR</Tag>
-		<English>Sibir</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_SONGHAI</Tag>
-		<English>Songhai</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_TATAR</Tag>
-		<English>Tatar</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_TIBETAN</Tag>
-		<English>Tibetan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_TURKIC</Tag>
-		<English>Turkic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_UIGHUR</Tag>
-		<English>Uighur</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_UZBEK</Tag>
-		<English>Uzbek</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_VISIGOTHIC</Tag>
-		<English>Visigothic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_ADJECTIVE_XIONGNU</Tag>
-		<English>Xiongnu</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERC_CELT_ADJECTIVE</Tag>
-		<English>
-			<Text>Celtic</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</English>
-		<French>
-			<Text>Celtes</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
-		</French>
-		<German>
-			<Text>Keltisch</Text>
-			<Gender>Neuter</Gender>
-			<Plural>0</Plural>
-		</German>
-		<Italian>
-			<Text>del popolo celtico</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>celta</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERC_KOREA_ADJECTIVE</Tag>
-		<English>
-			<Text>Korean</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</English>
-		<French>
-			<Text>Cor&#233;ens</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
-		</French>
-		<German>
-			<Text>Koreanisch</Text>
-			<Gender>Neuter</Gender>
-			<Plural>0</Plural>
-		</German>
-		<Italian>
-			<Text>del popolo coreano</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>coreano</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERC_ZULU_ADJECTIVE</Tag>
-		<English>
-			<Text>Zulu</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</English>
-		<French>
-			<Text>Zoulous</Text>
-			<Gender>Male</Gender>
-			<Plural>1</Plural>
-		</French>
-		<German>
-			<Text>Zulul&#228;ndisch</Text>
-			<Gender>Neuter</Gender>
-			<Plural>0</Plural>
-		</German>
-		<Italian>
-			<Text>del popolo zulu</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>zul&#250;</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_AINU</Tag>
-		<English>Ainu</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_APACHE</Tag>
-		<English>Apache</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ARABIAN</Tag>
-		<English>Arabian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ARYAN</Tag>
-		<English>Aryan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ASHANTI</Tag>
-		<English>Ashanti</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ASSYRIAN</Tag>
-		<English>Assyrian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BACTRIAN</Tag>
-		<English>Bactrian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BANTU</Tag>
-		<English>Bantu</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BENGAL</Tag>
-		<English>Bengal</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BERBER</Tag>
-		<English>Berber</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BOHEMIAN</Tag>
-		<English>Bohemian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BRITON</Tag>
-		<English>Briton</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BULGAR</Tag>
-		<English>Bulgar</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BURGUNDIAN</Tag>
-		<English>Burgundian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_BURMESE</Tag>
-		<English>Burmese</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_CATALAN</Tag>
-		<English>Catalan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_CELTIC</Tag>
-		<English>Celtic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_CHAN_CHAN</Tag>
-		<English>Moche</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_CHEYENNE</Tag>
-		<English>Cheyenne</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_CIRCASSIAN</Tag>
-		<English>Circassian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_DACIAN</Tag>
-		<English>Dacian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_DRAVIDIAN</Tag>
-		<English>Dravidian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ELAMITE</Tag>
-		<English>Elamite</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ETRUSCAN</Tag>
-		<English>Etruscan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_GAULISH</Tag>
-		<English>Gaulish</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_GOTHIC</Tag>
-		<English>Gothic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_GUARANI</Tag>
-		<English>Guarani</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_HAN</Tag>
-		<English>Han</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_HARAPPAN</Tag>
-		<English>Harappan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_HITTITE</Tag>
-		<English>Hittite</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_HUNGARIAN</Tag>
-		<English>Hungarian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_HURRIAN</Tag>
-		<English>Hurrian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_HYKSOS</Tag>
-		<English>Hyksos</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_IBERIAN</Tag>
-		<English>Iberian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ILLYRIAN</Tag>
-		<English>Illyrian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_IRANIAN</Tag>
-		<English>Iranian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_IRAQI</Tag>
-		<English>Iraqi</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_IRISH</Tag>
-		<English>Irish</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_IROQUOIS</Tag>
-		<English>Iroquois</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_JAVANESE</Tag>
-		<English>Javanese</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_JUDEAN</Tag>
-		<English>Judean</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_KASSITE</Tag>
-		<English>Kassite</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_KHAZAR</Tag>
-		<English>Khazar</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_KHMER</Tag>
-		<English>Khmer</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_KHWAREZMID</Tag>
-		<English>Khwarezmid</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_KIMMERIAN</Tag>
-		<English>Kimmerian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_KURDISH</Tag>
-		<English>Kurdish</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_KUSHAN</Tag>
-		<English>Kushan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_LOMBARD</Tag>
-		<English>Lombard</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_LYDIAN</Tag>
-		<English>Lydian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_MALAY</Tag>
-		<English>Malay</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_MANCHU</Tag>
-		<English>Manchu</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_MINOAN</Tag>
-		<English>Minoan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_MOORISH</Tag>
-		<English>Moorish</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_NABATEAN</Tag>
-		<English>Nabatean</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_NAZCAN</Tag>
-		<English>Nazcan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_NORMAN</Tag>
-		<English>Norman</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_NUBIAN</Tag>
-		<English>Nubian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_NUMIDIAN</Tag>
-		<English>Numidian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_OCCITAN</Tag>
-		<English>Occitan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_OLMEC</Tag>
-		<English>Olmec</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_OMANI</Tag>
-		<English>Omani</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_PARTHIAN</Tag>
-		<English>Parthian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_PASHTUN</Tag>
-		<English>Pashtun</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_PHILISTINE</Tag>
-		<English>Philistine</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_POLISH</Tag>
-		<English>Polish</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_POLYNESIAN</Tag>
-		<English>Polynesian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_RAJPUT</Tag>
-		<English>Rajput</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_RUS</Tag>
-		<English>Rus</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SABEAN</Tag>
-		<English>Sabean</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SCOTS</Tag>
-		<English>Scottish</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SELJUK</Tag>
-		<English>Seljuk</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SICILIAN</Tag>
-		<English>Sicilian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SIKH</Tag>
-		<English>Sikh</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SIOUX</Tag>
-		<English>Sioux</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SLAVIC</Tag>
-		<English>Slavic</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SONGHAI</Tag>
-		<English>Songhai</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SUAHELI</Tag>
-		<English>Suaheli</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SUMERIAN</Tag>
-		<English>Sumerian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_SWISS</Tag>
-		<English>Swiss</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_TAMIL</Tag>
-		<English>Tamil</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_TARTAR</Tag>
-		<English>Tartar</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_THAI</Tag>
-		<English>Thai</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_THRACIAN</Tag>
-		<English>Thracian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_TIBETAN</Tag>
-		<English>Tibetan</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_TOLTEC</Tag>
-		<English>Toltec</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_UZBEK</Tag>
-		<English>Uzbek</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_VANDAL</Tag>
-		<English>Vandal</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_VARANGIAN</Tag>
-		<English>Varangian</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_VIETNAMESE</Tag>
-		<English>Vietnamese</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_XIONGNU</Tag>
-		<English>Xiongnu</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_YAMATO</Tag>
-		<English>Yamato</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_YUEZHI</Tag>
-		<English>Yuezhi</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ZAPOTEC</Tag>
-		<English>Zapotec</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_MERCENARY_ZULU</Tag>
-		<English>Zulu</English>
-	</TEXT>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_ASSYRIAN</Tag>
+    <English>Assyrian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Assyrian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_AVAR</Tag>
+    <English>Avar</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Avar</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_BEDOUIN</Tag>
+    <English>Bedouin</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Bedouin</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_BERBER</Tag>
+    <English>Berber</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Berber</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_BULGAR</Tag>
+    <English>Bulgar</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Bulgar</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_CUMAN</Tag>
+    <English>Cuman</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Cuman</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_ELAMITE</Tag>
+    <English>Elamite</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Elamite</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_GAUL</Tag>
+    <English>Gaul</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Gaul</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_GERMANIC</Tag>
+    <English>Germanic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Germanic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_GHANAIAN</Tag>
+    <English>Ghanaian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Ghanaian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_GOKTURK</Tag>
+    <English>G?kt¨¹rk</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>G?kt¨¹rk</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_HEPHTHALITE</Tag>
+    <English>Hephthalite</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Hephthalite</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_HITTITE</Tag>
+    <English>Hittite</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Hittite</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_HUNNIC</Tag>
+    <English>Hunnic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Hunnic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_INDO_SCYTHIAN</Tag>
+    <English>Indo-Scythian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Indo-Scythian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_JURCHEN</Tag>
+    <English>Jurchen</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Jurchen</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_KAZAKH</Tag>
+    <English>Kazakh</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Kazakh</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_KHITAN</Tag>
+    <English>Khitan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Khitan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_KUSHANA</Tag>
+    <English>Kushan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Kushan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_NOGAI</Tag>
+    <English>Nogai</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Nogai</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_NORSE</Tag>
+    <English>Norse</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Norse</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_NUBIAN</Tag>
+    <English>Nubian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Nubian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_PARTHIAN</Tag>
+    <English>Parthian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Parthian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_SIBIR</Tag>
+    <English>Sibir</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Sibir</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_SONGHAI</Tag>
+    <English>Songhai</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Songhai</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_TATAR</Tag>
+    <English>Tatar</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tatar</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_TIBETAN</Tag>
+    <English>Tibetan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tibetan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_TURKIC</Tag>
+    <English>Turkic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Turkic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_UIGHUR</Tag>
+    <English>Uighur</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Uighur</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_UZBEK</Tag>
+    <English>Uzbek</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Uzbek</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_VISIGOTHIC</Tag>
+    <English>Visigothic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Visigothic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ADJECTIVE_XIONGNU</Tag>
+    <English>Xiongnu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Xiongnu</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERC_CELT_ADJECTIVE</Tag>
+    <English>
+      <Text>Celtic</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>CelticMale0</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERC_KOREA_ADJECTIVE</Tag>
+    <English>
+      <Text>Korean</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>KoreanMale0</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERC_ZULU_ADJECTIVE</Tag>
+    <English>
+      <Text>Zulu</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>ZuluMale0</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_AINU</Tag>
+    <English>Ainu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Ainu</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_APACHE</Tag>
+    <English>Apache</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Apache</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ARABIAN</Tag>
+    <English>Arabian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Arabian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ARYAN</Tag>
+    <English>Aryan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Aryan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ASHANTI</Tag>
+    <English>Ashanti</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Ashanti</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ASSYRIAN</Tag>
+    <English>Assyrian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Assyrian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BACTRIAN</Tag>
+    <English>Bactrian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Bactrian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BANTU</Tag>
+    <English>Bantu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Bantu</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BENGAL</Tag>
+    <English>Bengal</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Bengal</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BERBER</Tag>
+    <English>Berber</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Berber</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BOHEMIAN</Tag>
+    <English>Bohemian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Bohemian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BRITON</Tag>
+    <English>Briton</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Briton</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BULGAR</Tag>
+    <English>Bulgar</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Bulgar</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BURGUNDIAN</Tag>
+    <English>Burgundian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Burgundian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_BURMESE</Tag>
+    <English>Burmese</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Burmese</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_CATALAN</Tag>
+    <English>Catalan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Catalan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_CELTIC</Tag>
+    <English>Celtic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Celtic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_CHAN_CHAN</Tag>
+    <English>Moche</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Moche</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_CHEYENNE</Tag>
+    <English>Cheyenne</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Cheyenne</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_CIRCASSIAN</Tag>
+    <English>Circassian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Circassian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_DACIAN</Tag>
+    <English>Dacian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Dacian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_DRAVIDIAN</Tag>
+    <English>Dravidian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Dravidian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ELAMITE</Tag>
+    <English>Elamite</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Elamite</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ETRUSCAN</Tag>
+    <English>Etruscan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Etruscan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_GAULISH</Tag>
+    <English>Gaulish</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Gaulish</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_GOTHIC</Tag>
+    <English>Gothic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Gothic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_GUARANI</Tag>
+    <English>Guarani</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Guarani</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_HAN</Tag>
+    <English>Han</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Han</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_HARAPPAN</Tag>
+    <English>Harappan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Harappan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_HITTITE</Tag>
+    <English>Hittite</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Hittite</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_HUNGARIAN</Tag>
+    <English>Hungarian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Hungarian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_HURRIAN</Tag>
+    <English>Hurrian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Hurrian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_HYKSOS</Tag>
+    <English>Hyksos</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Hyksos</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_IBERIAN</Tag>
+    <English>Iberian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Iberian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ILLYRIAN</Tag>
+    <English>Illyrian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Illyrian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_IRANIAN</Tag>
+    <English>Iranian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Iranian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_IRAQI</Tag>
+    <English>Iraqi</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Iraqi</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_IRISH</Tag>
+    <English>Irish</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Irish</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_IROQUOIS</Tag>
+    <English>Iroquois</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Iroquois</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_JAVANESE</Tag>
+    <English>Javanese</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Javanese</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_JUDEAN</Tag>
+    <English>Judean</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Judean</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_KASSITE</Tag>
+    <English>Kassite</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Kassite</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_KHAZAR</Tag>
+    <English>Khazar</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Khazar</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_KHMER</Tag>
+    <English>Khmer</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Khmer</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_KHWAREZMID</Tag>
+    <English>Khwarezmid</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Khwarezmid</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_KIMMERIAN</Tag>
+    <English>Kimmerian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Kimmerian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_KURDISH</Tag>
+    <English>Kurdish</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Kurdish</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_KUSHAN</Tag>
+    <English>Kushan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Kushan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_LOMBARD</Tag>
+    <English>Lombard</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Lombard</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_LYDIAN</Tag>
+    <English>Lydian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Lydian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_MALAY</Tag>
+    <English>Malay</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Malay</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_MANCHU</Tag>
+    <English>Manchu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Manchu</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_MINOAN</Tag>
+    <English>Minoan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Minoan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_MOORISH</Tag>
+    <English>Moorish</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Moorish</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_NABATEAN</Tag>
+    <English>Nabatean</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Nabatean</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_NAZCAN</Tag>
+    <English>Nazcan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Nazcan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_NORMAN</Tag>
+    <English>Norman</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Norman</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_NUBIAN</Tag>
+    <English>Nubian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Nubian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_NUMIDIAN</Tag>
+    <English>Numidian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Numidian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_OCCITAN</Tag>
+    <English>Occitan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Occitan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_OLMEC</Tag>
+    <English>Olmec</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Olmec</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_OMANI</Tag>
+    <English>Omani</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Omani</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_PARTHIAN</Tag>
+    <English>Parthian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Parthian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_PASHTUN</Tag>
+    <English>Pashtun</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Pashtun</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_PHILISTINE</Tag>
+    <English>Philistine</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Philistine</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_POLISH</Tag>
+    <English>Polish</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Polish</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_POLYNESIAN</Tag>
+    <English>Polynesian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Polynesian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_RAJPUT</Tag>
+    <English>Rajput</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Rajput</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_RUS</Tag>
+    <English>Rus</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Rus</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SABEAN</Tag>
+    <English>Sabean</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Sabean</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SCOTS</Tag>
+    <English>Scottish</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Scottish</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SELJUK</Tag>
+    <English>Seljuk</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Seljuk</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SICILIAN</Tag>
+    <English>Sicilian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Sicilian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SIKH</Tag>
+    <English>Sikh</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Sikh</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SIOUX</Tag>
+    <English>Sioux</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Sioux</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SLAVIC</Tag>
+    <English>Slavic</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Slavic</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SONGHAI</Tag>
+    <English>Songhai</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Songhai</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SUAHELI</Tag>
+    <English>Suaheli</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Suaheli</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SUMERIAN</Tag>
+    <English>Sumerian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Sumerian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_SWISS</Tag>
+    <English>Swiss</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Swiss</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_TAMIL</Tag>
+    <English>Tamil</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tamil</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_TARTAR</Tag>
+    <English>Tartar</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tartar</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_THAI</Tag>
+    <English>Thai</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Thai</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_THRACIAN</Tag>
+    <English>Thracian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Thracian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_TIBETAN</Tag>
+    <English>Tibetan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Tibetan</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_TOLTEC</Tag>
+    <English>Toltec</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Toltec</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_UZBEK</Tag>
+    <English>Uzbek</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Uzbek</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_VANDAL</Tag>
+    <English>Vandal</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Vandal</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_VARANGIAN</Tag>
+    <English>Varangian</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Varangian</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_VIETNAMESE</Tag>
+    <English>Vietnamese</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Vietnamese</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_XIONGNU</Tag>
+    <English>Xiongnu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Xiongnu</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_YAMATO</Tag>
+    <English>Yamato</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Yamato</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_YUEZHI</Tag>
+    <English>Yuezhi</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Yuezhi</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ZAPOTEC</Tag>
+    <English>Zapotec</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Zapotec</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MERCENARY_ZULU</Tag>
+    <English>Zulu</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Zulu</Chinese>
+  </TEXT>
 </Civ4GameText>
