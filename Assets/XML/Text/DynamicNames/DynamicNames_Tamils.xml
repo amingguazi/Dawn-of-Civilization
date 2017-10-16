@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dravidian Peoples</Chinese>
+    <Chinese>达罗毗荼诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Kingdom</Chinese>
+    <Chinese>%s2王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_REPUBLIC</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Republic of Tamil Nadu</Chinese>
+    <Chinese>泰米尔纳德共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dravidian Empire</Chinese>
+    <Chinese>达罗毗荼帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vijayanagara</Chinese>
+    <Chinese>毗奢耶那伽罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_MYSORE</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mysore</Chinese>
+    <Chinese>迈索尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_CHOLA</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Chola</Chinese>
+    <Chinese>注辇</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_PANDYAN</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pandyan</Chinese>
+    <Chinese>潘地亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_CHERA</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Chera</Chinese>
+    <Chinese>哲罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_DRAVIDA</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dravida</Chinese>
+    <Chinese>达罗毗荼</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_TAMIL_NADU</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tamil Nadu</Chinese>
+    <Chinese>泰米尔纳德</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_TAMILS_ADJECTIVE</Tag>

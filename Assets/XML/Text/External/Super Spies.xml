@@ -368,7 +368,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A %s1_ThingName was destroyed by enemy infiltrators!</Chinese>
+    <Chinese>敌方间谍摧毁了我们的%s1_ThingName!</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_ESPIONAGE_TARGET_SOMETHING_DESTROYED_NEAR_CITY</Tag>

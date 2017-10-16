@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indo-Aryan Peoples</Chinese>
+    <Chinese>雅利安诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Maharajate of %s1</Chinese>
+    <Chinese>%s1土邦同盟</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Undivided %s1</Chinese>
+    <Chinese>%s1统一党军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_MARATHA</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Maratha</Chinese>
+    <Chinese>马拉塔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_MAHAJANAPADAS</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Mahajanapadas</Chinese>
+    <Chinese>%s2十六雄国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_MAURYA</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Maurya</Chinese>
+    <Chinese>孔雀</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_GUPTA</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gupta</Chinese>
+    <Chinese>笈多</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_PALA</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pala</Chinese>
+    <Chinese>波罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_VIJAYANAGARA</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vijayanagara</Chinese>
+    <Chinese>毗奢耶那伽罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIAN_VASSAL</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Janapada of %s1</Chinese>
+    <Chinese>%s1邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIAN_AZTECS</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Aztec Janapada</Chinese>
+    <Chinese>阿兹特克邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDIA_ADJECTIVE</Tag>

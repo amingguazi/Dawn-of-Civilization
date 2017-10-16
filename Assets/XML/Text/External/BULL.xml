@@ -591,7 +591,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Trade</Chinese>
+    <Chinese>贸易</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_DOMESTIC_TRADE_HEADING</Tag>
@@ -1376,7 +1376,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Happiness</Chinese>
+    <Chinese>快乐指数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_MISCHOVER__BUILDINGADDITIONALHAPPINESS_HOVER</Tag>
@@ -1594,7 +1594,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Happiness</Chinese>
+    <Chinese>快乐指数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_CITYBAR__HAPPINESS_HOVER</Tag>
@@ -1756,7 +1756,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Trade</Chinese>
+    <Chinese>贸易</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_CITYBAR__TRADEDETAIL_HOVER</Tag>

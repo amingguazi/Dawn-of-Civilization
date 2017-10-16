@@ -503,7 +503,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The most primitive Economy civic</Chinese>
+    <Chinese>最原始的经济制度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_REDISTRIBUTION</Tag>
@@ -728,7 +728,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Nationhood</Chinese>
+    <Chinese>民族国家</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_NATIONHOOD_STRATEGY</Tag>

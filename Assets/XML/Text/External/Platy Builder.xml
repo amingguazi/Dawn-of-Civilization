@@ -973,7 +973,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Unit Upgrades</Chinese>
+    <Chinese>单位升级</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEDIA_CATEGORY_PROMOTION_TREE</Tag>
@@ -1018,7 +1018,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Unique Buildings</Chinese>
+    <Chinese>特色建筑</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag>
@@ -1317,7 +1317,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Historical</Chinese>
+    <Chinese>历史</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_WB_RELIGIONMAP_CORE</Tag>

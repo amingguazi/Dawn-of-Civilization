@@ -567,7 +567,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Trade</Chinese>
+    <Chinese>贸易</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT</Tag>
@@ -1660,7 +1660,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The generous people of %s2_city have donated famine relief to the endangered people of %s4_city. This humanitarian effort has brought the two nations closer together.</Chinese>
+    <Chinese>来自%s2_city的慷慨捐赠挽救了许多濒临死亡的%s4_city居民，这次无私的人道主义行动拉近了两国的关系。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEWS_EVENT_FAMINE_3</Tag>
@@ -1669,7 +1669,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The generous people of %s2_city have donated massive famine relief to the starving people of %s4_city. This generous humanitarian effort has brought the two nations much closer together.</Chinese>
+    <Chinese>来自%s2_city的慷慨捐赠帮助了大批面临饥荒的%s4_city居民，这次无私的人道主义行动大幅拉近了两国的关系。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_NEWS_EVENT_HORTICULTURE_3</Tag>
@@ -2092,7 +2092,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>U.N. Resolution #743 (Global Civic - Egalitarianism)</Chinese>
+    <Chinese>联合国第743号决议 (全球实行-平均主义)</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_VOTE_EXCOMMUNICATION</Tag>
@@ -2164,7 +2164,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>U.N. Resolution #427 (Global Civic - Secularism)</Chinese>
+    <Chinese>联合国第427号决议 (全球实行-世俗主义)</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_VOTE_UN_DECOLONIZE</Tag>
@@ -2794,7 +2794,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Buildings</Chinese>
+    <Chinese>建筑</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_PEDIA_SPECIALISTS</Tag>

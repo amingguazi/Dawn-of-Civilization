@@ -2959,7 +2959,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vassals</Chinese>
+    <Chinese>附庸</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_MILITARY_SITREP_VASSAL</Tag>
@@ -3161,7 +3161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Info</Chinese>
+    <Chinese>信息</Chinese>
   </TEXT>
   <!-- Fix for wrong translation of "Power" in German, Italian and Spanish language -->
   <TEXT>
@@ -3171,7 +3171,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Power</Chinese>
+    <Chinese>实力</Chinese>
   </TEXT>
   <!-- Graph Screen -->
   <TEXT>
@@ -3564,6 +3564,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Religion</Chinese>
+    <Chinese>官方宗教</Chinese>
   </TEXT>
 </Civ4GameText>

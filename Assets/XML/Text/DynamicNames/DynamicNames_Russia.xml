@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rus' Peoples</Chinese>
+    <Chinese>罗斯诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Grand Duchy of %s1</Chinese>
+    <Chinese>%s1大公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_REPUBLIC</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Federation</Chinese>
+    <Chinese>%s2联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_COMMUNIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Union of Soviet Socialist Republics</Chinese>
+    <Chinese>苏维埃社会主义共和国联盟</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_TSARDOM_OF</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tsardom of %s1</Chinese>
+    <Chinese>沙皇俄国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_FASCIST</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Panslavic Empire</Chinese>
+    <Chinese>泛斯拉夫帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_MUSCOVY</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Muscovy</Chinese>
+    <Chinese>莫斯科</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_KIEVAN_RUS</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kievan Rus</Chinese>
+    <Chinese>基辅罗斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_RUS</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rus of %s1</Chinese>
+    <Chinese>%s1罗斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIAN_VASSAL</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s1 Krai</Chinese>
+    <Chinese>%s1边疆区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIAN_POLAND</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congress %s1</Chinese>
+    <Chinese>波兰会议王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_SOVIET</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Soviet %s1</Chinese>
+    <Chinese>%s1苏维埃</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_SOVIET_REPUBLIC_ADJECTIVE</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Soviet Republic</Chinese>
+    <Chinese>%s2苏维埃共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIAN_NAME_PERSIA</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Gilan</Chinese>
+    <Chinese>吉兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_SOVIET_JAPAN</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Far Eastern Republic</Chinese>
+    <Chinese>远东共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_SOVIET_TURKEY</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Transcaucasian Socialist Federative Soviet Republic</Chinese>
+    <Chinese>外高加索苏维埃社会主义共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_SOVIET_GERMANY</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Democratic Republic</Chinese>
+    <Chinese>%s2民主共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_ADJECTIVE</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>俄国</Chinese>
+    <Chinese>俄罗斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_RUSSIA_SHORT_DESC</Tag>

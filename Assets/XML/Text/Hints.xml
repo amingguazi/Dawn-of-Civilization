@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You can check the parameters influencing your stability in the Financial Advisor</Chinese>
+    <Chinese>你可以在财政顾问界面查看稳定度的各项影响因素。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_2</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Not every lake produces 2 food. Some are salt lakes, and thus produce 1 food, like coast.</Chinese>
+    <Chinese>并非所有湖泊均产出2食物，咸水湖同近海一样只产出1食物。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_4</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>If you get a skull over your cities, it means they have the plague! The population and units in the city and in the surrounding region will probably decrease dramatically. To reduce the effects and the duration of plague, keep your cities healthy.</Chinese>
+    <Chinese>如果你的城市显示骷髅图标，说明爆发了瘟疫！城市居民和城防单位将会大批死亡。要避免瘟疫的影响，请注意提升城市健康度。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_5</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Plague can spread in many ways - through trade routes, along roads and between neighbouring cities.</Chinese>
+    <Chinese>瘟疫可有多种传播方式——通过商路、道路、邻近城市等等。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_6</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The civilization you choose to play affects your difficulty every bit as much as the difficulty level you choose. Make sure to pick a civ that suits your playing style and your level of expertise.</Chinese>
+    <Chinese>选择不同的文明则游戏难度将有很大差异。注意选择适合自己游戏风格和游戏水平的文明。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_7</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Every civ has hidden modifiers that influence their growth. This way, modern civs are not disadvantaged by their late start.</Chinese>
+    <Chinese>每个文明都有一些影响其发展的隐藏属性。通过这种设置，后起的文明将不至于在竞争中处于劣势。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_8</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You can declare war on independent states and minor civs only by moving your units into their territory.</Chinese>
+    <Chinese>要对独立城邦或小文明开战，你必须直接派兵进入其领土。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_9</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Combining certain civics will improve or harm the stability of your empire.</Chinese>
+    <Chinese>特定内政法令组合可能提升或降低国家稳定度。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_10</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You can't see the current year until you discover calendar.</Chinese>
+    <Chinese>在获得历法之前你将无法查看确切年份。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_11</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Remember that you can always take control of a newborn civ if you don't like the civilization you started with. You can also use this feature to play from 3000BC even when you want to pick a civ that starts later on.</Chinese>
+    <Chinese>如果你不喜欢开局时选择的文明，可以在新文明诞生时接手该文明。因此即使你想要控制的文明诞生时间较晚，仍然可以在公元前3000年开始游戏。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_12</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Combining Totalitarianism and Universal Suffrage isn't a good idea.</Chinese>
+    <Chinese>同时极权主义控普选制度法令可不是个好主意。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_13</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Rhye's and Fall of Civilization, vassals can declare war.</Chinese>
+    <Chinese>在“文明的兴衰”中，附属国也可以宣战。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_14</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Rhye's and Fall of Civilization, movement through ocean tiles costs ? a movement point.</Chinese>
+    <Chinese>在“文明的兴衰”中，通过海洋所需的移动力减少。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_15</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Rhye's and Fall of Civilization, the max income from a shrine is 20 gold per turn.</Chinese>
+    <Chinese>在“文明的兴衰”中, 圣城每回合的最高收入为20金币。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_16</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Rhye's and Fall of Civilization, the Colosseum is a world wonder. The generic building is called an "amphitheatre."</Chinese>
+    <Chinese>在“文明的兴衰”中，“大竞技场”（Colosseum）是世界奇观，即历史上古罗马城的竞技场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_17</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>If you like the mod, and if you have any ideas to improve it, or you just have a bug to report, make sure to check out the development forum at CivFanatics.com.</Chinese>
+    <Chinese>如果你喜欢本模组并希望提供改进建议或是报告错误，可以访问CivFanatics.com网站的专题论坛.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_19</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>If it's been a while since the last time you got an updated version of the mod, make sure to check CivFanatics.com for a new version. The mod is in active development, and updates are uploaded often. Every update is full of fixes and new features.</Chinese>
+    <Chinese>请访问CivFanatics.com网站的专题论坛查看本模组更新情况，及时下载最新版本。本模组的更新相当频繁的，新版本会修正原有错误并增加特色内容。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_20</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Rhye's and Fall of Civilization, camera flying mode hotkey has changed to [CTRL + F]</Chinese>
+    <Chinese>在“文明的兴衰”中，飞行视点模式的热键被改为[CTRL+F]</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_21</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Rhye's and Fall of Civilization, city founding is not allowed in tundra, ice or desert if far from water.</Chinese>
+    <Chinese>在“文明的兴衰”中，城市不能建立于冻土、冰原或远离水源的沙漠地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_22</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>If you attempt to stop the growth of newborn civs, some of your units will flip to their side.</Chinese>
+    <Chinese>如果你决定镇压新诞生的文明，你的部分单位可能叛离。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_24</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Rhye's and Fall of Civilization, many wonder effects have been changed</Chinese>
+    <Chinese>在“文明的兴衰”中，许多奇观的作用都进行了修改。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_25</Tag>
@@ -494,7 +494,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Corporation headquarters and executives have been removed, corporations spread on their own if the prerequisites are met.</Chinese>
+    <Chinese>取消了公司总部和公司经理的设定，公司会自动向满足条件的城市传播。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_15</Tag>
@@ -521,7 +521,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In Dawn of Civilization, many wonders have religion or civic prerequisites to encourage their historical distribution.</Chinese>
+    <Chinese>在“文明的曙光”中，许多奇迹的建造需要某些国家与宗教作为条件。这是为了让它们能够出现在符合历史的区域内。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_18</Tag>
@@ -548,7 +548,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>When a UHV goal asks to control a civilization, you need to own more cities in their core than they do.</Chinese>
+    <Chinese>当一个历史目标要求控制一个文明，那么你需要在其核心区域拥有比它更多的城市。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_21</Tag>
@@ -557,7 +557,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Areas that are relevant to your UHV are displayed in light blue in the tile tooltip.</Chinese>
+    <Chinese>与你的历史任务有关联的地域将会在提示栏中显示为亮蓝色。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_22</Tag>
@@ -602,7 +602,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Confused about the expansion and civic stability rules? Look them up under the Concepts section in the Civilopedia!</Chinese>
+    <Chinese>是否对于扩张和政体对于稳定度的影响有所困惑？浏览一下文明百科的相关概念吧！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_27</Tag>
@@ -611,7 +611,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The soundtracks you hear during the Classical, Medieval and Renaissance eras depend on your state religion.</Chinese>
+    <Chinese>你所听到的背景音乐根据时代的区分和官方宗教所决定。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_28</Tag>
@@ -620,7 +620,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>AI Romans and Greeks will receive armies to conquer the Mediterranean and Mesopotamia. Be prepared!</Chinese>
+    <Chinese>AI控制的罗马和希腊将会接收到征服地中海和美索不达米亚地区的军队。请做好准备！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_HINT_DOC_29</Tag>

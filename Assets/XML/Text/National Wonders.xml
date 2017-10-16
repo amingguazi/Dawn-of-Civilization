@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National Theatre</Chinese>
+    <Chinese>国家大剧院</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_THEATRE_STRATEGY</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]National Theatre[COLOR_REVERT] increases the cultural output of the city as well as increasing the city's happiness. It increases its city's chance of generating a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]国家大剧院[COLOR_REVERT] increases the cultural output of the city as well as increasing the city's happiness. It increases its city's chance of generating a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_GALLERY</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National Gallery</Chinese>
+    <Chinese>国家美术馆</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_GALLERY_STRATEGY</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]National Gallery[COLOR_REVERT] doubles its city's cultural output and increases its chances of generating a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]国家美术馆[COLOR_REVERT] doubles its city's cultural output and increases its chances of generating a [COLOR_UNIT_TEXT]Great Artist[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_PARK_STRATEGY</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]National Park[COLOR_REVERT] greatly increases the health in your city. It also provides a free specialist for each [COLOR_HIGHLIGHT_TEXT]Forest Preserve[COLOR_REVERT] in its city radius and increases the chance of generating a [COLOR_UNIT_TEXT]Great Scientist[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]国家公园[COLOR_REVERT] greatly increases the health in your city. It also provides a free specialist for each [COLOR_HIGHLIGHT_TEXT]Forest Preserve[COLOR_REVERT] in its city radius and increases the chance of generating a [COLOR_UNIT_TEXT]Great Scientist[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_OLYMPIC_PARK</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Olympic Park[COLOR_REVERT] begins a [COLOR_HIGHLIGHT_TEXT]Golden Age[COLOR_REVERT] for your civilization. It increases its city's odds of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]奥林匹克公园[COLOR_REVERT] begins a [COLOR_HIGHLIGHT_TEXT]Golden Age[COLOR_REVERT] for your civilization. It increases its city's odds of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_SECRET_SERVICE</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Secret Service</Chinese>
+    <Chinese>特勤局</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_SECRET_SERVICE_STRATEGY</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Secret Service[COLOR_REVERT] increases its city's espionage output and gives experience points to [COLOR_UNIT_TEXT]Espionage Units[COLOR_REVERT] built in it's city.</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]特勤局[COLOR_REVERT] increases its city's espionage output and gives experience points to [COLOR_UNIT_TEXT]Espionage Units[COLOR_REVERT] built in it's city.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_RED_CROSS_STRATEGY</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Red Cross[COLOR_REVERT] gives all units built in its city the [COLOR_HIGHLIGHT_TEXT]Medic I[COLOR_REVERT] promotion, and it increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Scientist[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]红十字会[COLOR_REVERT]使所在城市组建的单位获得[COLOR_HIGHLIGHT_TEXT]医疗一级[COLOR_REVERT]晋升，并提升该城市产生[COLOR_UNIT_TEXT]大科学家[COLOR_REVERT]的几率。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TRADING_COMPANY</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Trading Company[COLOR_REVERT] generates income for each city with Trading Company has spread to. It generates health for its city with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT] and happiness for its city with access to [COLOR_HIGHLIGHT_TEXT]Coffee[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Tea[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Tobacco[COLOR_REVERT]. It increases its city's odds of generating a [COLOR_UNIT_TEXT]Great Merhant[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]贸易公司[COLOR_REVERT] generates income for each city with Trading Company has spread to. It generates health for its city with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT] and happiness for its city with access to [COLOR_HIGHLIGHT_TEXT]Coffee[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Tea[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Tobacco[COLOR_REVERT]. It increases its city's odds of generating a [COLOR_UNIT_TEXT]Great Merhant[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TRIUMPHAL_ARCH</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Triumphal Arch</Chinese>
+    <Chinese>凯旋门</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TRIUMPHAL_ARCH_HELP</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[COLOR_WARNING_TEXT]Is automatically built on achievement of 2 Historical Goals out of 3[COLOR_REVERT]</Chinese>
+    <Chinese>[COLOR_WARNING_TEXT]在完成3个历史目标中的2个之后自动建造[COLOR_REVERT]</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TRIUMPHAL_ARCH_STRATEGY</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Triumphal Arch[COLOR_REVERT] begins a [COLOR_HIGHLIGHT_TEXT]Golden Age[COLOR_REVERT] for your civilization. It increases its city's production when creating military units.</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]凯旋门[COLOR_REVERT] begins a [COLOR_HIGHLIGHT_TEXT]Golden Age[COLOR_REVERT] for your civilization. It increases its city's production when creating military units.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_STOCK_EXCHANGE</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Stock Exchange</Chinese>
+    <Chinese>证券交易所</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_STOCK_EXCHANGE_STRATEGY</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Stock Exchange[COLOR_REVERT] increases its city's production of wealth and increases its chances of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]证券交易所[COLOR_REVERT] increases its city's production of wealth and increases its chances of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_IRONWORKS</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ironworks</Chinese>
+    <Chinese>钢铁厂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_IRONWORKS_STRATEGY</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Ironworks[COLOR_REVERT] increases a city's production if that city has access to coal and/or iron, but also adds unhealthiness. It increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Engineer[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]钢铁厂[COLOR_REVERT] increases a city's production if that city has access to coal and/or iron, but also adds unhealthiness. It increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Engineer[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MANUFACTORY</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Manufactory</Chinese>
+    <Chinese>制造厂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MANUFACTORY_STRATEGY</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[COLOR_BUILDING_TEXT]Manufactories[COLOR_REVERT] increase a city's production and increase trade route yield.</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]制造厂[COLOR_REVERT] increase a city's production and increase trade route yield.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MUSEUM</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Museum</Chinese>
+    <Chinese>博物馆</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MUSEUM_STRATEGY</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[COLOR_BUILDING_TEXT]Musea[COLOR_REVERT] greatly increase a city's cultural output. They also increase a city's [COLOR_HIGHLIGHT_TEXT]Great Person[COLOR_REVERT] birth rate depending on the culture level.</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]博物馆[COLOR_REVERT] greatly increase a city's cultural output. They also increase a city's [COLOR_HIGHLIGHT_TEXT]Great Person[COLOR_REVERT] birth rate depending on the culture level.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ARMOURY</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Armoury</Chinese>
+    <Chinese>兵工厂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ARMOURY_STRATEGY</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[COLOR_BUILDING_TEXT]Armouries[COLOR_REVERT] increase a city's military unit production.</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]兵工厂[COLOR_REVERT] increase a city's military unit production.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_COLLEGE</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National College</Chinese>
+    <Chinese>国立大学</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_COLLEGE_STRATEGY</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]National College[COLOR_REVERT] greatly increases the scientific output of its city. It also allows you to change three citizens into scientists and increases its city's chance of generating a [COLOR_UNIT_TEXT]Great Scientist[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]国立大学[COLOR_REVERT] greatly increases the scientific output of its city. It also allows you to change three citizens into scientists and increases its city's chance of generating a [COLOR_UNIT_TEXT]Great Scientist[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_MONUMENT</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National Monument</Chinese>
+    <Chinese>国家纪念碑</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_NATIONAL_MONUMENT_STRATEGY</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]National Monument[COLOR_REVERT] greatly increases the rate at which its city produces [COLOR_HIGHLIGHT_TEXT]Great People[COLOR_REVERT], particularly [COLOR_UNIT_TEXT]Great Artists[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]国家纪念碑[COLOR_REVERT] greatly increases the rate at which its city produces [COLOR_HIGHLIGHT_TEXT]Great People[COLOR_REVERT], particularly [COLOR_UNIT_TEXT]Great Artists[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MILITARY_ACADEMY</Tag>
@@ -269,7 +269,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Military Academy</Chinese>
+    <Chinese>军事学院</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MILITARY_ACADEMY_STRATEGY</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Military Academy[COLOR_REVERT] increase a city's military unit production, grants the [COLOR_HIGHLIGHT_TEXT]Leadership[COLOR_REVERT] promotion to all units and increases its city's chance of generating a [COLOR_UNIT_TEXT]Great Statesman[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]军事学院[COLOR_REVERT] increase a city's military unit production, grants the [COLOR_HIGHLIGHT_TEXT]Leadership[COLOR_REVERT] promotion to all units and increases its city's chance of generating a [COLOR_UNIT_TEXT]Great Statesman[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CENTRAL_BANK</Tag>
@@ -287,7 +287,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Central Bank</Chinese>
+    <Chinese>中央银行</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CENTRAL_BANK_STRATEGY</Tag>
@@ -296,17 +296,15 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Central Bank[COLOR_REVERT] doubles its city's wealth output and increases its chances of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]中央银行[COLOR_REVERT] doubles its city's wealth output and increases its chances of generating a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT].</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_</Tag>
-    <English>
-    </English>
+    <English></English>
     <L1 />
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>
-    </Chinese>
+    <Chinese></Chinese>
   </TEXT>
 </Civ4GameText>

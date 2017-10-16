@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Wat Preah Pisnulok</Chinese>
+    <Chinese>彭世洛大寺</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_WAT_PREAH_PISNULOK_HELP</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Wembley</Chinese>
+    <Chinese>温布利球场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_WEMBLEY_STRATEGY</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>CERN Research Complex</Chinese>
+    <Chinese>核子研究中心</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CERN_RESEARCH_COMPLEX_STRATEGY</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Temple of Kukulkan</Chinese>
+    <Chinese>库库尔坎神庙</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TEMPLE_OF_KUKULKAN_STRATEGY</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dome of the Rock</Chinese>
+    <Chinese>圆顶清真寺</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_EMPIRE_STATE_BUILDING</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Empire State Building</Chinese>
+    <Chinese>帝国大厦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_EMPIRE_STATE_BUILDING_HELP</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Colosseum</Chinese>
+    <Chinese>大竞技场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_COLOSSEUM_STRATEGY</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Great Cothon</Chinese>
+    <Chinese>巨港</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_GREAT_COTHON_STRATEGY</Tag>
@@ -395,7 +395,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Lubyanka</Chinese>
+    <Chinese>卢比扬卡广场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_LUBYANKA_STRATEGY</Tag>
@@ -422,7 +422,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>St. Basil's Cathedral</Chinese>
+    <Chinese>圣巴希尔大教堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ST_BASILS_CATHEDRAL_STRATEGY</Tag>
@@ -494,7 +494,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>La Mezquita</Chinese>
+    <Chinese>科尔多瓦清真寺</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PENTAGON_STRATEGY</Tag>
@@ -512,7 +512,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Hagia Sophia</Chinese>
+    <Chinese>圣索菲亚大教堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MT_RUSHMORE_STRATEGY</Tag>
@@ -782,7 +782,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Graceland</Chinese>
+    <Chinese>恩赐之地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_GRACELAND_STRATEGY</Tag>
@@ -800,7 +800,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>San Marco Basilica</Chinese>
+    <Chinese>圣马可广场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_SAN_MARCO_BASILICA_STRATEGY</Tag>
@@ -845,7 +845,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The [COLOR_BUILDING_TEXT]Statue of Liberty[COLOR_REVERT] gives all cities in your civilization one free specialist. It increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Engineer[COLOR_REVERT].</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]自由女神像[COLOR_REVERT]可使所有城市免费获得一位专业人员。并可提升城市产生[COLOR_UNIT_TEXT]大工程师[COLOR_REVERT]的几率。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_STATUE_OF_ZEUS_HELP</Tag>
@@ -935,7 +935,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Doubles the revenue limit of all your shrines</Chinese>
+    <Chinese>[ICON_BULLET]您的圣地将得到双倍收入</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_TERRACOTTA_ARMY</Tag>
@@ -1106,7 +1106,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Westminster Palace</Chinese>
+    <Chinese>威斯敏斯特宫</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_WESTMINSTER_PALACE_STRATEGY</Tag>

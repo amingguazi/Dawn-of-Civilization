@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Allow their recovery teams unfettered access to the crash site.</Chinese>
+    <Chinese>允许他们的救援队自由前往现场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AIRLINER_CRASH_2</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Stall them for time while your own team learns what it can first.</Chinese>
+    <Chinese>阻挠对方救援队的行动，让我们的人先进行调查。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AIRLINER_CRASH_3</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Deny access. Claim the wreckage and let your engineers pore over it.</Chinese>
+    <Chinese>禁止别国救援队进入现场。让我们的人对飞机残骸进行全面调查。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_1</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Disperse the texts to various researchers and specialists, to see what we might learn.</Chinese>
+    <Chinese>将古籍开放给所有专家学者进行研究。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANCIENT_TEXTS_2</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund an effort to preserve these artifacts in museums, accessible only to the most careful scholars.</Chinese>
+    <Chinese>将古籍存放在博物馆中，开放给少数学者进行研究。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANCIENTOLYMPICS_1</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>These Games are honorable, but overall their importance to our civilization is minor.</Chinese>
+    <Chinese>真是一场盛大的赛事，但是未免有些劳民伤财。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANCIENTOLYMPICS_2</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>These Games are grand! We should invite and sponsor athletes from neighboring civilizations to attend.</Chinese>
+    <Chinese>真是一场盛大的赛事！我们应该邀请邻近文明参加进来。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANCIENTOLYMPICS_HELP_2</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Receive a %D1 diplomatic boost with all your close neighbors</Chinese>
+    <Chinese>[ICON_BULLET]与邻国的外交关系%D1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANGEL_OF_MERCY_1</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The extra patients will enhance city revenue.</Chinese>
+    <Chinese>大批求医者将增加城市收入。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANGEL_OF_MERCY_2</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We could sanction the hospital as a state holy site. This may please the local populace.</Chinese>
+    <Chinese>大力宣传这家神圣的医院，当地居民将因此受益。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANTELOPE_1</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That sounds like welcome news for our economy.</Chinese>
+    <Chinese>这个消息有利于我们的经济发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANTELOPE_2</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commit our government to harvesting this new resource immediately.</Chinese>
+    <Chinese>让政府统一组织捕猎活动。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANTIMONARCHISTS</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anti-monarchists are claiming that the King has too much power and that religious leaders need to have some, too.</Chinese>
+    <Chinese>一些宗教人士发动示威抗议君主专制，他们认为宗教领袖应该拥有更大的权力。 </Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANTIMONARCHISTS_1</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our King is the State!</Chinese>
+    <Chinese>国王即国家！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ANTIMONARCHISTS_2</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>It's a valid point, our clerics need more influence.</Chinese>
+    <Chinese>有点道理，神职人员应该获得更大的权力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_APPLESEED_1</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>How many trees were planted? That's amazing!</Chinese>
+    <Chinese>种植了多少棵树？真是太棒了！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AT_THE_SWORD_1</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Decorate our glorious heroes of the sword!</Chinese>
+    <Chinese>为我们光荣的战争英雄授勋！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_AXE_HAFT_1</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Convert our axemen to the new axe handles immediately.</Chinese>
+    <Chinese>让我们的斧兵换装新式战斧。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BABY_BOOM_1</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our people are thriving in peace time.</Chinese>
+    <Chinese>我国进入欣欣向荣的和平时代。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BANANA_SPLIT_1</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mmm, ice cream. The customers must be going bananas over that!</Chinese>
+    <Chinese>嗯，香蕉加冰淇淋，顾客一定会喜欢的！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BARBARIAN_UPRISING</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are likely to take the worst of the barbarian horde's fury.</Chinese>
+    <Chinese>我们正面临蛮族部落的大举入侵。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BARDS_TALE_1</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are glad to see that the local culture is thriving.</Chinese>
+    <Chinese>我们很高兴看到当地文化的繁荣。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BARDS_TALE_2</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund the writing of a play that revolves around this ballad, to be performed at the local Theatre.</Chinese>
+    <Chinese>出资将这首民谣改编为歌剧，并在当地的剧场演出。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BARDS_TALE_3</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>See that the artist is given a recording contract.</Chinese>
+    <Chinese>建议唱片公司与这位艺术家签约。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BERMUDA_TRIANGLE_1</Tag>
@@ -269,7 +269,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our investigations have turned up no worthwhile results? This is most peculiar.</Chinese>
+    <Chinese>调查人员没有获得任何有价值的结果？这真是太奇怪了。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BEST_DEFENSE_1</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Best Defense[PARAGRAPH:1]You are tasked by your armed forces to build enough [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT] for them to ward off invasion effectively.</Chinese>
+    <Chinese>“顶级防御”任务[PARAGRAPH:1]军队将领请你完成一项任务：建造足够数量的[COLOR_BUILDING_TEXT]城堡[COLOR_REVERT]以有效地防御敌人入侵。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BEST_DEFENSE_DONE_1</Tag>
@@ -287,7 +287,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Use our advantage to help better train our forces.</Chinese>
+    <Chinese>利用所获优势更好地训练我们的军队。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BEST_DEFENSE_DONE_2</Tag>
@@ -296,7 +296,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Leverage our defensive advantage in to political capital.</Chinese>
+    <Chinese>利用所获优势提升我们的政治威望。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BEST_DEFENSE_DONE_3</Tag>
@@ -305,7 +305,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Now that we are safe, focus on learning what others are planning.</Chinese>
+    <Chinese>既然我们已经能够确保自身安全，那就专注于刺探别国的机密吧。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BEST_DEFENSE_DONE_HELP_2</Tag>
@@ -314,7 +314,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Receive [COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] attitude from all leaders</Chinese>
+    <Chinese>[ICON_BULLET]所有领袖的外交态度[COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT]</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BEST_DEFENSE_HELP_1</Tag>
@@ -323,7 +323,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must build %d1 [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT] in your cities.[PARAGRAPH:1]An additional reward option will be available if your civilization controls the Great Wall.[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you discover [COLOR_TECH_TEXT]Rifling[COLOR_REVERT], [COLOR_TECH_TEXT]Railroad[COLOR_REVERT], or [COLOR_TECH_TEXT]Economics[COLOR_REVERT] without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在本国城市建造%d1座[COLOR_BUILDING_TEXT]城堡[COLOR_REVERT]。[PARAGRAPH:1]如果你的文明拥有长城将可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你发现[COLOR_TECH_TEXT]膛线[COLOR_REVERT]、[COLOR_TECH_TEXT]铁路[COLOR_REVERT]或[COLOR_TECH_TEXT]经济学[COLOR_REVERT]时仍未达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BETTER_COAL</Tag>
@@ -332,7 +332,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our scientists have developed better ways of processing coal fuel. Our economy stands ready to benefit from this development.</Chinese>
+    <Chinese>我们的科学家发明了更先进的煤炭深加工技术，我们的经济发展将因此受益。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BETTER_COAL_1</Tag>
@@ -341,7 +341,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Put it to use at our Coal-fueled power plants. Production is power!</Chinese>
+    <Chinese>在所有使用煤炭的发电站推广这项新技术，产能就是力量！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BETTER_COAL_2</Tag>
@@ -350,7 +350,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>I suppose we can make our Drydocks a more healthy place to work and slightly more productive, then.</Chinese>
+    <Chinese>在所有干船坞推广这项新技术，在减少工业污染的同时增加产能。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLACK_PEARLS_1</Tag>
@@ -359,7 +359,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Let them keep the secret. We are happy enough to tax their higher profits.</Chinese>
+    <Chinese>让他们继续保守秘密吧，我们可以从销售利润中收取税金。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLESSED_SEA_1</Tag>
@@ -368,7 +368,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Blessed Sea[PARAGRAPH:1]You are tasked by your religious leaders to found cities on new landmasses. If you can build enough cities on new landmasses you will please the masters, who will offer you a choice of rewards.</Chinese>
+    <Chinese>“受祝福的海洋”任务[PARAGRAPH:1]宗教领袖交给你一个任务：在新的大陆上建立城市。如果你在新大陆上建立了足够的城市，宗教领袖将给予你一种奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLESSED_SEA_DONE_1</Tag>
@@ -377,7 +377,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Establish your religion in a number of your cities.</Chinese>
+    <Chinese>将你的宗教信仰传播到多座本国城市。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLESSED_SEA_DONE_2</Tag>
@@ -386,7 +386,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Receive a Temple improvement in all cities with five population or more, where your State Religion is present.</Chinese>
+    <Chinese>在人口规模5级以上且信奉国教的城市赠送神庙。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLESSED_SEA_DONE_3</Tag>
@@ -395,7 +395,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Receive a Great Prophet.</Chinese>
+    <Chinese>赠送一位大预言家。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLESSED_SEA_HELP</Tag>
@@ -404,7 +404,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must establish or capture cities on %d1 total landmasses of any size, from one-plot islands to massive continents. All landmasses where you have at least one city are counted. Note that additional cities on the same island or continent do not help in this quest. The goal is to establish your presence on a number of different landmasses and thereby prove your mastery over the waters.[PARAGRAPH:1] You will fail this quest if you change state religions, cease to have a state religion or reach [COLOR_TECH_TEXT]Industrialism[COLOR_REVERT] without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在%d1块陆地上建立或占领城市，陆地的大小没有限制，只有一格的小岛或是广阔的大洲都可以。只要你在一块陆地上拥有至少一个城市，这片陆地就会被计算在内。请注意，在同一个海岛或大陆上建立多个城市无助于完成本任务。任务目标是将你的势力扩张到尽可能多的独立陆地上，并由此展现你对海洋的统治能力。[PARAGRAPH:1]如果你改变了国教、不再设立国教或已获得了[COLOR_TECH_TEXT]产业主义[COLOR_REVERT]时目标仍未达成，任务即宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLIZZARD_1</Tag>
@@ -413,7 +413,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The rescue and recovery efforts are best handled by the locals.</Chinese>
+    <Chinese>组织当地居民进行清理。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BLIZZARD_2</Tag>
@@ -422,7 +422,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Organize and send assistance to help them dig out and to preserve threatened facilities.</Chinese>
+    <Chinese>派遣救援人员帮助灾民并修复设施。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BOWYER_1</Tag>
@@ -431,7 +431,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We will include the new design principles in all of our bowmaking.</Chinese>
+    <Chinese>我们将全面推广改进的弓弩设计。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BREAKTHROUGH_1</Tag>
@@ -440,7 +440,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Good job, knowledge is power!</Chinese>
+    <Chinese>干得好，知识就是力量！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROKEN_DAM</Tag>
@@ -449,7 +449,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The dam in %s2_city has broken. The city's suburbs are flooded and deaths have been reported.</Chinese>
+    <Chinese>%s2_city的大堤发生垮塌。洪水冲入郊区，造成许多人员伤亡。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROKEN_DAM_1</Tag>
@@ -458,7 +458,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That is very unfortunate, but we can not help. Tell the local authorities they'll have to handle the situation.</Chinese>
+    <Chinese>真是不幸的消息，但是我们帮不上忙。让当地官员自行处理。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROKEN_DAM_2</Tag>
@@ -467,7 +467,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Repair the dam from our emergency funds.</Chinese>
+    <Chinese>动用应急基金立即修复大堤。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROKEN_DAM_3</Tag>
@@ -476,7 +476,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Repair the dam and provide compensation to the affected families.</Chinese>
+    <Chinese>立即修复大堤并向灾民发放救济金。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_1</Tag>
@@ -485,7 +485,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Although our brothers are in need, it is best not to get involved at this time.</Chinese>
+    <Chinese>虽然我们的兄弟确实需要帮助，但是此时介入并不明智。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_2</Tag>
@@ -494,7 +494,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Offer to send them a large supply of Copper for weapon making.</Chinese>
+    <Chinese>向他们提供铜用于制造武器。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_3</Tag>
@@ -503,7 +503,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Provide Iron so that they may craft strong weaponry.</Chinese>
+    <Chinese>向他们提供铁用于加强军备。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_4</Tag>
@@ -512,7 +512,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send large herds of war-trained Horses to our brothers.</Chinese>
+    <Chinese>向我们的兄弟提供大量马匹。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_5</Tag>
@@ -521,7 +521,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>War Elephants are what they need. Send in the jumbos!</Chinese>
+    <Chinese>他们需要战象，我们送一批过去！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_6</Tag>
@@ -530,7 +530,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Their vehicles require diesel. Tanks cannot roll without fuel!</Chinese>
+    <Chinese>他们需要柴油，坦克没有燃料就无法行动！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_7</Tag>
@@ -539,7 +539,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anything for our brothers in need. There is no limit to our support.</Chinese>
+    <Chinese>他们有任何需要，我们都可以无限供应！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_BROTHERS_IN_NEED_OTHER_2</Tag>
@@ -602,7 +602,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Organize a rebuilding effort.</Chinese>
+    <Chinese>立即组织重建。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CARELESS_APPRENTICE_2</Tag>
@@ -611,7 +611,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Investigate the cause of the fire.</Chinese>
+    <Chinese>调查火灾起因。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CARELESS_APPRENTICE_3</Tag>
@@ -620,7 +620,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are too pressed to spare any attention to a small fire.</Chinese>
+    <Chinese>我们很忙，没有精力去管一次小小的火灾。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CHAMPION_1</Tag>
@@ -629,7 +629,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Decorate our champions! We shall celebrate their achievement.</Chinese>
+    <Chinese>嘉奖冠军部队！祝贺他们取得优异成绩。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CHAMPION_HELP</Tag>
@@ -638,7 +638,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Our %s1_unit will gain the [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT] promotion</Chinese>
+    <Chinese>[ICON_BULLET]我们的%s1_unit获得[COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT]晋升。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CHARISMATIC_1</Tag>
@@ -647,7 +647,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Advise him to focus on his relationship with the armed forces.</Chinese>
+    <Chinese>建议他加强对军队的控制。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CHARISMATIC_2</Tag>
@@ -656,7 +656,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Advise him to focus on domestic harmony and stamping out sources of opposition.</Chinese>
+    <Chinese>建议他专注于社会和谐，平息一切反对声浪。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CHILLY_FLIGHT_1</Tag>
@@ -665,7 +665,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Set up a monument at the airport to produce tourism.</Chinese>
+    <Chinese>在当地机场建造一座纪念碑以吸引游客。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CIGARETTE_SMOKER_1</Tag>
@@ -674,7 +674,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Organize a rebuilding effort.</Chinese>
+    <Chinese>立即组织重建。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CIGARETTE_SMOKER_2</Tag>
@@ -683,7 +683,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Investigate the cause of the fire.</Chinese>
+    <Chinese>调查火灾起因。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CIGARETTE_SMOKER_3</Tag>
@@ -692,7 +692,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are too pressed to spare any attention to a fire.</Chinese>
+    <Chinese>我们太忙了，没空理会这场小火灾。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CITY_RUINS_1</Tag>
@@ -701,7 +701,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send commendations to the leaders of the exploring party.</Chinese>
+    <Chinese>嘉奖探险队的领袖。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CITY_RUINS_2</Tag>
@@ -710,7 +710,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund additional exploratory efforts.</Chinese>
+    <Chinese>资助他们继续探险。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CIV_GAME_1</Tag>
@@ -719,7 +719,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send congratulations to the developers. Our people should enjoy this game.</Chinese>
+    <Chinese>向游戏设计师表示祝贺，所有人都应该来体验这款游戏带来的无穷乐趣。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CIV_GAME_2</Tag>
@@ -728,7 +728,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This game seems to have great educational potential. Suggest that it be used in our educational system.</Chinese>
+    <Chinese>这款游戏的内容非常有教育意义，建议在我们的教育系统中推广应用！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CIV_GAME_3</Tag>
@@ -737,7 +737,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Computer games? They have no place in our society! Sell the franchise to foreign buyers!</Chinese>
+    <Chinese>电脑游戏？我们的社会不需要这种电子海洛因！把版权卖给外国人吧！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CLASSIC_LITERATURE_1</Tag>
@@ -746,7 +746,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Classic Literature[PARAGRAPH:1]You are tasked by our scholars to build enough [COLOR_BUILDING_TEXT]Libraries[COLOR_REVERT] to hold the newly recorded texts of our ancient stories and oral traditions.</Chinese>
+    <Chinese>“经典文学”任务[PARAGRAPH:1]我国的学者请你完成一项任务：建造足够数量的[COLOR_BUILDING_TEXT]图书馆[COLOR_REVERT]以保存新近搜集整理的古老文献。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CLASSIC_LITERATURE_DONE_1</Tag>
@@ -755,7 +755,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our library with the largest repository of classic literature receives a research bonus.</Chinese>
+    <Chinese>我们保存着经典文学宝库的图书馆带来了额外的科研奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CLASSIC_LITERATURE_DONE_2</Tag>
@@ -764,7 +764,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Discover and decipher lost knowledge from within some of the literature.</Chinese>
+    <Chinese>通过研究经典文学宝库寻找并破解失传的远古科技。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CLASSIC_LITERATURE_DONE_3</Tag>
@@ -773,7 +773,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[COLOR_BUILDING_TEXT]The Great Library[COLOR_REVERT] receives additional scholars to help boost research.</Chinese>
+    <Chinese>[COLOR_BUILDING_TEXT]大图书馆[COLOR_REVERT]带来了额外的科研奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CLASSIC_LITERATURE_DONE_HELP_2</Tag>
@@ -782,7 +782,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Receive a random Technology from among Ancient Era techs not yet discovered.</Chinese>
+    <Chinese>[ICON_BULLET]随机获得一项未被发现的远古时代科技。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CLASSIC_LITERATURE_HELP_1</Tag>
@@ -791,7 +791,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must build %d1 [COLOR_BUILDING_TEXT]Libraries[COLOR_REVERT] in your various cities.[PARAGRAPH:1]An additional reward option will be available if you control the [COLOR_BUILDING_TEXT]Great Library[COLOR_REVERT] if and when this quest is successfully completed.[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you reach the Renaissance Era without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在本国城市建造%d1座[COLOR_BUILDING_TEXT]图书馆[COLOR_REVERT]。[PARAGRAPH:1]此外，如果你的文明拥有[COLOR_BUILDING_TEXT]大图书馆[COLOR_REVERT]将可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你进入启蒙时代仍未达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CLUNKER_COAL_1</Tag>
@@ -800,7 +800,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Clunker coal? What a mess. Less valuable per ton, but it still burns, right? Just deal with it.</Chinese>
+    <Chinese>劣质煤炭？真是糟糕，但应该还烧得着吧？允许继续销售。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_COMET_FRAGMENT_1</Tag>
@@ -809,7 +809,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>What if something even bigger is out there, on a collision course with our world? If so, we must find it. We must get into space!</Chinese>
+    <Chinese>是否还有其他更巨大的天体可能撞击地球？必须提前发现及早准备，我们必须登上太空！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CONTROVERSIAL_PHILOSOPHER</Tag>
@@ -818,7 +818,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A philosopher from %s2_city is stirring up controversy among our population. Our people are highly distrustful of his teachings.</Chinese>
+    <Chinese>一位来自%s2_city的哲学家提出的新学说引发了激烈的争议，许多民众认为他的言论与传统教义相悖。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CONTROVERSIAL_PHILOSOPHER_1</Tag>
@@ -827,7 +827,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We won't tolerate such heresy. Send him into exile!</Chinese>
+    <Chinese>我们不能容忍异端邪说，立即将他驱逐出境！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CONTROVERSIAL_PHILOSOPHER_2</Tag>
@@ -836,7 +836,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>He's a senile old fool. Let him teach if he wants to.</Chinese>
+    <Chinese>他只是个老糊涂虫，不必理会那些胡言乱语。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CONTROVERSIAL_PHILOSOPHER_3</Tag>
@@ -845,7 +845,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That's one exceptional mind! Sponsor an Academy for him to teach!</Chinese>
+    <Chinese>真是一位天才思想家！拨款资助他创办一所学院！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CORPORATE_EXPANSION_1</Tag>
@@ -854,7 +854,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Corporate Expansion[PARAGRAPH:1]You are tasked by your corporate leaders to expand the reach of their corporation.</Chinese>
+    <Chinese>“商业扩张”任务[PARAGRAPH:1]我国一家公司请求国家支持拓展他们快速拓展业务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CORPORATE_EXPANSION_DONE_1</Tag>
@@ -863,7 +863,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cha-ching! Show me the money!</Chinese>
+    <Chinese>太棒了！让我数数有多少钱。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CORPORATE_EXPANSION_HELP_1</Tag>
@@ -872,7 +872,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must spread [COLOR_HIGHLIGHT_TEXT]%s1_corporation[COLOR_REVERT] to %d2 new cities.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在%d2座新城市设立[COLOR_HIGHLIGHT_TEXT]%s1_corporation[COLOR_REVERT]的分支机构。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRISIS_IN_THE_SENATE_1</Tag>
@@ -881,7 +881,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Let the senators fight amongst themselves. When both sides are weakened, step in and assert presidential authority.</Chinese>
+    <Chinese>任由参议员们互相争斗，等双方都精疲力竭再乘机强化总统的权力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRISIS_IN_THE_SENATE_2</Tag>
@@ -890,7 +890,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Support the ruling party in impeaching numerous members of the scandalized party, destroying all effective opposition to the ruling party.</Chinese>
+    <Chinese>弹劾深陷丑闻的其他党派议员，确立执政党的优势地位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRISIS_IN_THE_SENATE_3</Tag>
@@ -899,7 +899,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rely on judicial authority to enforce the letter of the constitution.</Chinese>
+    <Chinese>提交司法裁决，确立现行宪法的绝对权威。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_1</Tag>
@@ -908,7 +908,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Crusade[PARAGRAPH:1]You are tasked by your religious leaders to capture and occupy the Holy City.</Chinese>
+    <Chinese>“圣战”任务[PARAGRAPH:1]我国早高精神领袖要求使用武力夺取圣城。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_DONE_1</Tag>
@@ -917,7 +917,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Holy City needs more protection. Recruit and train capable units from among the faithful.</Chinese>
+    <Chinese>圣城需要更好的保护，应该从虔诚的信徒当中征召和训练一批精锐的战士。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_DONE_2</Tag>
@@ -926,7 +926,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Harness the fervor of the believers to construct a Holy Shrine to honor the sacred sites where our faith was born.</Chinese>
+    <Chinese>将狂热的信徒们组织起来，在我们神圣信仰的诞生地建造一座圣坛。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_DONE_3</Tag>
@@ -935,7 +935,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Spread the word of our success and of the blessings of our faith as far and wide as possible.</Chinese>
+    <Chinese>大力宣扬圣战的辉煌功绩，向四方传播我们的信仰。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_DONE_HELP_1</Tag>
@@ -944,7 +944,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Add %d1 [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] [NUM1:defender:defenders] to %s3_city.</Chinese>
+    <Chinese>[ICON_BULLET]%d1个[COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT]单位加入%s3_city的防御。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_DONE_HELP_2</Tag>
@@ -953,7 +953,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Build [COLOR_BUILDING_TEXT]%s1_building[COLOR_REVERT] in %s2_city.</Chinese>
+    <Chinese>[ICON_BULLET]在%s2_city建成[COLOR_BUILDING_TEXT]%s1_building[COLOR_REVERT]。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_DONE_HELP_3</Tag>
@@ -962,7 +962,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Spread [COLOR_HIGHLIGHT_TEXT]%s1_religion[COLOR_REVERT] to up to %d2 new [NUM2:city:cities].</Chinese>
+    <Chinese>[ICON_BULLET]传播[COLOR_HIGHLIGHT_TEXT]%s1_religion[COLOR_REVERT]到%d2座新的城市。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_CRUSADE_HELP_1</Tag>
@@ -971,7 +971,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]You will fail this quest if a rival civilization captures %s1_city first, if you change your state religion, or if your war ends for any reason prior to your success.</Chinese>
+    <Chinese>[PARAGRAPH:1]如果其他文明率先占领%s1_city，或者你改变了官方信仰，或者在达成目标之前结束战争，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DEFECTING_AGENT</Tag>
@@ -989,7 +989,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That's regrettable. We'll need to review our security procedures.</Chinese>
+    <Chinese>真是遗憾，我们的安全体系需要进行全面检查。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DEFECTING_AGENT_2</Tag>
@@ -998,7 +998,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Unacceptable. An "accident" should happen to the traitor!</Chinese>
+    <Chinese>绝不能宽恕叛国行为，给他安排一场意外“事故”。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DISSIDENT_PRIEST</Tag>
@@ -1007,7 +1007,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A dissident priest from %s2_city is doubting the supreme power of Amun-Re in an unprecedented outbreak of heresy.</Chinese>
+    <Chinese>%s2_city的一位激进的祭司强烈质疑传统神灵的至尊地位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DISSIDENT_PRIEST_1</Tag>
@@ -1016,7 +1016,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That is disgusting and preposterous. The heresy must be dealt with in the name of Amun-Re, even if the locals won't support it.</Chinese>
+    <Chinese>这是在哗众取宠。异端分子必须以真神的名义加以铲除，即使当地人反对这样做。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DISSIDENT_PRIEST_2</Tag>
@@ -1025,7 +1025,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We can ignore that nutter, our people will get over it.</Chinese>
+    <Chinese>完全不加理会，我们的人民很快就会忘记这件事。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DISSIDENT_PRIEST_3</Tag>
@@ -1034,7 +1034,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Diversity is good. Allow these beliefs to spread and be recorded, though convincing our people that it's nothing to fear won't be easy.</Chinese>
+    <Chinese>应该允许百花齐放，允许不同思想自由传播，虽然我们的人民一时还难以改变固有的观念。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DUSTBOWL_1</Tag>
@@ -1043,7 +1043,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We need that food. Do whatever it takes to figure out how to mitigate the erosion of the soil and end the dust storms.</Chinese>
+    <Chinese>我们需要保证粮食供应，采取一切必要手段解决水土流失问题。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DUSTBOWL_2</Tag>
@@ -1052,7 +1052,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We cannot afford to spend gold on this problem. Leave the matter to the local authorities.</Chinese>
+    <Chinese>我们无法继续在此领域投入资金，让当地官员自行处理。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_DUSTBOWL_2_HELP</Tag>
@@ -1061,7 +1061,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Significant chance the dustbowl will continue</Chinese>
+    <Chinese>[ICON_BULLET]沙漠化很有可能继续下去。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_EARTHDAY_1</Tag>
@@ -1070,7 +1070,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Enshrine the day as a national holiday.</Chinese>
+    <Chinese>将地球日定为国家假日。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_EARTHDAY_2</Tag>
@@ -1079,7 +1079,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund an international awareness effort in addition to our local efforts.</Chinese>
+    <Chinese>拨出专款提升国际社会对环境问题的关注度。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_EARTHDAY_HELP_2</Tag>
@@ -1088,7 +1088,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Persuade other nations to convert to [COLOR_HIGHLIGHT_TEXT]Environmentalism[COLOR_REVERT] (at least one civilization must have the ability to do so).</Chinese>
+    <Chinese>[ICON_BULLET]说服其他文明实行[COLOR_HIGHLIGHT_TEXT]绿色经济[COLOR_REVERT]（至少要有一个文明已达成相应前提条件）。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ELECTRIC_COMPANY_1</Tag>
@@ -1097,7 +1097,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Freedom is the best motivator. We are lucky to have workers like these, who keep the power flowing to our citizenry.</Chinese>
+    <Chinese>自由的环境是最好的工作激励，我们很高兴拥有这样爱岗敬业的电力工人。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ELITE_SWORDS_1</Tag>
@@ -1106,7 +1106,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Elite Swordsmen[PARAGRAPH:1]You are tasked by your military leaders to train a sizable force of [COLOR_UNIT_TEXT]Swordsmen[COLOR_REVERT].</Chinese>
+    <Chinese>“精锐剑士”任务[PARAGRAPH:1]你的军事将领请求训练足够数量的[COLOR_UNIT_TEXT]剑士[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ELITE_SWORDS_DONE_1</Tag>
@@ -1115,7 +1115,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>With such a large force of Swordsmen working together, additional training for these units can be achieved.</Chinese>
+    <Chinese>我们应该加强对这支强大剑士部队的训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ELITE_SWORDS_DONE_2</Tag>
@@ -1124,7 +1124,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our monarch will establish an institution that will enable current and future troops to obtain additional training.</Chinese>
+    <Chinese>我们的君主将建立一所军事学院，加强对所有现役和新建部队的训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ELITE_SWORDS_HELP_1</Tag>
@@ -1142,7 +1142,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The theatre patronage will enhance city revenue.</Chinese>
+    <Chinese>剧场赞助商可以增加城市收入。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ESTEEMED_PLAYWRIGHT_2</Tag>
@@ -1151,7 +1151,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We could double the cultural value of the theatre by officially sanctioning this artist's works.</Chinese>
+    <Chinese>给予这位艺术家的作品官方保护，剧场可以积累双倍的文化点数。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_EXPERIENCED_CAPTAIN_1</Tag>
@@ -1160,7 +1160,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The reputation boost should enhance revenues.</Chinese>
+    <Chinese>这将提升城市声望并增加收入。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_EXPERIENCED_CAPTAIN_2</Tag>
@@ -1169,7 +1169,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We should fund an effort to translate his experience into a format that can be passed on to future generations.</Chinese>
+    <Chinese>我们应该拨出专款，让他主持编写海军教材。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_BEST_DEFENSE</Tag>
@@ -1178,7 +1178,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of The Best Defense</Chinese>
+    <Chinese>你没能完成“顶级防御”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_BLESSED_SEA</Tag>
@@ -1187,7 +1187,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of The Blessed Sea.</Chinese>
+    <Chinese>你没能完成“受祝福的海洋”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_CLASSIC_LITERATURE</Tag>
@@ -1196,7 +1196,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of Classic Literature.</Chinese>
+    <Chinese>你没能完成“经典文学”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_CORPORATE_EXPANSION</Tag>
@@ -1205,7 +1205,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of the Corporate Expansion!</Chinese>
+    <Chinese>你没能完成“商业扩张”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_CRUSADE</Tag>
@@ -1214,7 +1214,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Your Crusade has ended. The quest has failed.</Chinese>
+    <Chinese>对异教徒的征讨无果告终，你没能完成“圣战”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_ELITE_SWORDS</Tag>
@@ -1223,7 +1223,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of the Elite Swordsmen!</Chinese>
+    <Chinese>你没能完成“精锐剑士”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_GREED</Tag>
@@ -1232,7 +1232,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the Quest of Greed!</Chinese>
+    <Chinese>你没有完成“贪婪的欲望”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_GUNS_BUTTER</Tag>
@@ -1241,7 +1241,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of "Guns not Butter!"</Chinese>
+    <Chinese>你没能完成“要火枪不要黄油”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_HARBORMASTER</Tag>
@@ -1250,7 +1250,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of the Harbormaster</Chinese>
+    <Chinese>你没能完成“港口主管”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_HOLY_MOUNTAIN</Tag>
@@ -1259,7 +1259,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of The Holy Mountain.</Chinese>
+    <Chinese>你没能完成“圣山”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_HORSE_WHISPERING</Tag>
@@ -1268,7 +1268,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of Horse Whispering</Chinese>
+    <Chinese>你没能完成“马语者”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_HOSTILE_TAKEOVER</Tag>
@@ -1277,7 +1277,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of the Hostile Takeover!</Chinese>
+    <Chinese>你没能完成“恶意接管”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_MASTER_BLACKSMITH</Tag>
@@ -1286,7 +1286,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of The Master Blacksmith.</Chinese>
+    <Chinese>你没能完成“煅造大师”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_NOBLE_KNIGHTS</Tag>
@@ -1295,7 +1295,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of "Noble Knights!"</Chinese>
+    <Chinese>你没能完成“贵族骑士”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_OLYMPICS</Tag>
@@ -1304,7 +1304,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>All records of ancient games have been forever lost.</Chinese>
+    <Chinese>古代运动会的相关记载永远失传了。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_OVERWHELM</Tag>
@@ -1313,7 +1313,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of the "Overwhelm Doctrine!"</Chinese>
+    <Chinese>你没能完成“绝对优势”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_SPORTS_LEAGUE</Tag>
@@ -1322,7 +1322,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of The National Sports League.</Chinese>
+    <Chinese>你没能完成“国家体育联合会”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_WAR_CHARIOTS</Tag>
@@ -1331,7 +1331,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of the War Chariots!</Chinese>
+    <Chinese>你没能完成“战车部队”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAIL_WARSHIPS</Tag>
@@ -1340,7 +1340,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have failed the quest of the Warships!</Chinese>
+    <Chinese>你没能完成“无敌舰队”任务！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAMINE_1</Tag>
@@ -1349,7 +1349,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are unable to assist at this time. Send our condolensces to their leaders.</Chinese>
+    <Chinese>现在我们爱莫能助，只能向对方领袖致以真切的慰问。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAMINE_2</Tag>
@@ -1358,7 +1358,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Open the city granaries and send half the stores to our troubled neighbors.</Chinese>
+    <Chinese>打开我们的粮仓，给陷入困境的邻居提供一半的粮食储备。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAMINE_3</Tag>
@@ -1367,7 +1367,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send all of the food stores! Spare no expense to aid our friends!</Chinese>
+    <Chinese>拿出全部的粮食储备，不计代价地帮助我们的朋友！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAMINE_OTHER_2</Tag>
@@ -1394,7 +1394,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We need that food. Do whatever it takes to deal with those bandits.</Chinese>
+    <Chinese>确保粮食供给，尽一切手段对付盗匪。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FARM_BANDITS_2</Tag>
@@ -1403,7 +1403,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dispatch some of our troops to hunt down these bandits.</Chinese>
+    <Chinese>派遣一些部队去围剿这帮强盗。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FARM_BANDITS_3</Tag>
@@ -1412,7 +1412,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are too busy to be bothered. Leave the matter to the local authorities. (Banditry may continue)</Chinese>
+    <Chinese>我们没时间管这烦心事，让当地官员自行处理吧。（匪患可能会继续）</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAUX_PAS_1</Tag>
@@ -1421,7 +1421,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This gaffe has adversely affected our relations.</Chinese>
+    <Chinese>这一过失对双边关系产生了负面影响。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAUX_PAS_OTHER_1</Tag>
@@ -1439,7 +1439,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>No one survives forever. Cash in on the phenomenon before he meets the inevitable end.</Chinese>
+    <Chinese>没人能永远好运，利用他当下的声名及时获取利益。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FAVORITE_SON_2</Tag>
@@ -1448,7 +1448,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Arrange for him to be matched against easy opponents and see that his legend increases.</Chinese>
+    <Chinese>给他安排好打的对手，确保他的传奇永远延续。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FEDERAL_RESERVE_1</Tag>
@@ -1457,7 +1457,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Let the free market make use of these techniques.</Chinese>
+    <Chinese>在市场经济中运用这些新调控手段。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FEDERAL_RESERVE_2</Tag>
@@ -1466,7 +1466,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund a national Federal Reserve Bank to carry out the new policy.</Chinese>
+    <Chinese>建立联邦储备银行以推行新经济政策。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FIRING_PINS_1</Tag>
@@ -1475,7 +1475,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Supply our Grenadiers with the improved explosives.</Chinese>
+    <Chinese>让我们的掷弹兵换用新式手榴弹。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FOREST_FIRE_1</Tag>
@@ -1484,7 +1484,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Organize a replanting effort.</Chinese>
+    <Chinese>重新植树造林。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FOREST_FIRE_2</Tag>
@@ -1493,7 +1493,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send emissaries to assist the bereaved.</Chinese>
+    <Chinese>派遣专员救助灾民。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FOREST_FIRE_3</Tag>
@@ -1502,7 +1502,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are too pressed to spare any aid.</Chinese>
+    <Chinese>我们很忙，无法提供救助。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FORTY_THIEVES_1</Tag>
@@ -1511,7 +1511,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Excellent.</Chinese>
+    <Chinese>棒极了。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FREEDOMCONCERT_1</Tag>
@@ -1520,7 +1520,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Donate the money raised to the local temples.</Chinese>
+    <Chinese>将筹集的善款捐献给当地寺庙。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FREEDOMCONCERT_2</Tag>
@@ -1529,7 +1529,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Use the money to fund a public service ad campaign for religious freedom and tolerance.</Chinese>
+    <Chinese>用筹集的善款建立公益基金，大力宣传信仰自由。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FREEDOMCONCERT_HELP_2</Tag>
@@ -1538,7 +1538,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Spread each of the religions present to a new city</Chinese>
+    <Chinese>[ICON_BULLET]将现有的信仰传播到一座新城市。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FRIENDLY_LOCALS_1</Tag>
@@ -1547,7 +1547,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This assistance should help our unit recover its strength.</Chinese>
+    <Chinese>当地部落可帮助我们的单位恢复力量。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FUEL_ADDITIVES_1</Tag>
@@ -1556,7 +1556,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Reduced costs, lower pollution and improved revenues are always welcome news.</Chinese>
+    <Chinese>能够节约成本、减少污染并增加收入肯定是好事情。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FUGITIVE_1</Tag>
@@ -1565,7 +1565,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Extradite the offender back to his homeland.</Chinese>
+    <Chinese>将这名罪犯引渡回国。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FUGITIVE_2</Tag>
@@ -1574,7 +1574,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Secretly interrogate the prisoner, hoping to learn sensitive information.</Chinese>
+    <Chinese>秘密审问，以便获取敏感情报。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_FUGITIVE_3</Tag>
@@ -1583,7 +1583,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Release the prisoner. This is none of our affairs.</Chinese>
+    <Chinese>将其释放。此事与我们无关。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GOLD_RUSH_1</Tag>
@@ -1592,7 +1592,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>When the boom passes, many of the immigrants will settle down.</Chinese>
+    <Chinese>最初的热潮逐渐消退，许多新移民决定在此定居。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GOLD_RUSH_2</Tag>
@@ -1601,7 +1601,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund efforts to motivate more of the gold seekers to settle down when the rush ends.</Chinese>
+    <Chinese>最初的热潮消退之后，许多淘金者决定在此定居，长期发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA</Tag>
@@ -1610,7 +1610,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A blacksmith working in the Forge of %s2_city has made a beautiful golden statue of Buddha.</Chinese>
+    <Chinese>%s2_city煅造场的一位工匠制作了一尊美丽的金佛像。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_1</Tag>
@@ -1619,7 +1619,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That's not his job. Sell the statue and remind the blacksmith what his responsibilities are.</Chinese>
+    <Chinese>真是不务正业，卖掉金佛像并敦促他专注于本职工作。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_2</Tag>
@@ -1628,7 +1628,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Impressive. This should make the Forge a cultural attraction.</Chinese>
+    <Chinese>真是精美绝伦，应该让更多人参观这座充满文化气息的煅造场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_3</Tag>
@@ -1637,7 +1637,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The blacksmith is a true talent, we should encourage him to make more of these statues.</Chinese>
+    <Chinese>真是艺术天才，我们应该鼓励他制作更多的雕像。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_BEAST</Tag>
@@ -1646,7 +1646,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A great beast has been discovered near one of our hunting camps.</Chinese>
+    <Chinese>某地的猎场附近出现一只巨兽。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_BEAST_1</Tag>
@@ -1655,7 +1655,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Let it breed and give offspring. Hunt sparingly.</Chinese>
+    <Chinese>限制狩猎，让它自由地繁育幼兽。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_BEAST_2</Tag>
@@ -1664,7 +1664,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Looks like it could feed many people. Organize a hunting party!</Chinese>
+    <Chinese>它的肉够许多人吃的，马上组织狩猎队！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_BEAST_3</Tag>
@@ -1673,7 +1673,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hunt it? Are you mad? The beast is a manifestation of a divine spirit!</Chinese>
+    <Chinese>猎杀它？你疯了吗？那只巨兽是神灵的化身！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_BEAST_3_HELP</Tag>
@@ -1682,7 +1682,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]%D1[ICON_HAPPY] in all cities with %F3_religion for %d2 [NUM2:turn:turns].</Chinese>
+    <Chinese>[ICON_BULLET]所有信仰%F3_religion的城市%D1[ICON_HAPPY]，持续%d2回合。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_DEPRESSION_1</Tag>
@@ -1691,7 +1691,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>There is really not much we can do about this, is there?</Chinese>
+    <Chinese>对此我们无能为力，不是吗？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_DEPRESSION_HELP</Tag>
@@ -1700,7 +1700,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]All nations in the world suffer the loss of %d1%% their national treasury.</Chinese>
+    <Chinese>[ICON_BULLET]所有国家的国库储备均减少%d1%%。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_MEDIATOR_1</Tag>
@@ -1709,7 +1709,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We do not want peace! Let the war continue.</Chinese>
+    <Chinese>我们不需要和平！让战争继续。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_MEDIATOR_2</Tag>
@@ -1718,7 +1718,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Peace would benefit both sides. Give our blessing to this mediator, and may his words prove sharper than their hatreds.</Chinese>
+    <Chinese>和平对双方都有利，祝福这位调停者，希望他的言辞能战胜仇恨。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREAT_MEDIATOR_OTHER_3</Tag>
@@ -1736,7 +1736,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greed[PARAGRAPH:1]You are tasked by your military leaders to seize control of that resource.</Chinese>
+    <Chinese>“贪婪的欲望”任务[PARAGRAPH:1]你的军事领袖要求夺取一处资源的控制权。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREED_DONE_1</Tag>
@@ -1745,7 +1745,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Recruit and train units that take advantage of our new resources.</Chinese>
+    <Chinese>利用新获得的资源征召和训练部队。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREED_DONE_HELP_1</Tag>
@@ -1754,7 +1754,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Receive %d1 [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] [NUM1:unit:units].</Chinese>
+    <Chinese>[ICON_BULLET]获得%d1个[COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GREED_HELP_1</Tag>
@@ -1763,7 +1763,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must invade %s1_civ and gain control of the %s2_resource resource.[PARAGRAPH:1]You will fail this quest if a rival civilization captures the target city first, if the city is destroyed, or if %d3 turns pass without achieving the objective.</Chinese>
+    <Chinese>[PARAGRAPH:1]为了完成这项任务，你需要入侵%s1_civ并取得对%s2_resource资源的控制权。[PARAGRAPH:1]如果其他文明率先占领该城，或者该城被摧毁，或者经过%d3回合仍然未达成目标，任务即宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GUNS_BUTTER_1</Tag>
@@ -1772,7 +1772,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Guns Not Butter[PARAGRAPH:1]You are tasked by your military leaders to train a sizable force of musket units.</Chinese>
+    <Chinese>“要火枪不要黄油”任务[PARAGRAPH:1]你的军事将领请求训练足够数量的火枪手单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_1</Tag>
@@ -1781,7 +1781,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>With such a large force of musketmen working together, additional training for these units can be achieved.</Chinese>
+    <Chinese>我们应该加强对这支强大火枪手部队的训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_2</Tag>
@@ -1790,7 +1790,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Leverage our military advantage to collect harsh taxes from our feudal lords and their counties.</Chinese>
+    <Chinese>利用我们的军事优势对下属封国课以重税。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_3</Tag>
@@ -1799,7 +1799,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Enjoy our Golden Age of Muskets.</Chinese>
+    <Chinese>让我们进入“火枪的黄金时代”！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_GUNS_BUTTER_HELP_1</Tag>
@@ -1808,7 +1808,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must train %d1 [COLOR_UNIT_TEXT] Musketman[COLOR_REVERT] units.[PARAGRAPH:1]An additional reward option will be available if your civilization is operating in the [COLOR_HIGHLIGHT_TEXT]Vassalage[COLOR_REVERT] civic.[PARAGRAPH:1]An additional reward option will be available if your civilization controls [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you discover advanced firearms ([COLOR_TECH_TEXT]Rifling[COLOR_REVERT] or [COLOR_TECH_TEXT]Railroad[COLOR_REVERT] technologies) without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须训练%d1个[COLOR_UNIT_TEXT]火枪手[COLOR_REVERT]单位。[PARAGRAPH:1]如果你的文明实行[COLOR_HIGHLIGHT_TEXT]分封制度[COLOR_REVERT]，将可以获得一个额外奖励选项。[PARAGRAPH:1]如果你的文明拥有[COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT]，也可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者你在达成目标前获得了训练更先进火器单位的技术（[COLOR_TECH_TEXT]膛线[COLOR_REVERT]或[COLOR_TECH_TEXT]铁路[COLOR_REVERT]），你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HALBERD_1</Tag>
@@ -1817,7 +1817,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Issue the new weapons to all of our pikemen.</Chinese>
+    <Chinese>让我们的长枪兵换装新式武器。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HAMBURGER_JOINT_1</Tag>
@@ -1826,7 +1826,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Can we have fries with that? Thanks!</Chinese>
+    <Chinese>来份炸薯条好吗？谢谢！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HAPPY_HUNTING_1</Tag>
@@ -1835,7 +1835,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send congratulations to the citizens.</Chinese>
+    <Chinese>向当地的居民发去祝贺。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HARBORMASTER_1</Tag>
@@ -1844,7 +1844,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Harbormaster[PARAGRAPH:1]You are tasked by your merchant marine industry to build enough [COLOR_BUILDING_TEXT]Harbors[COLOR_REVERT] for them to become the undisputed trading kings of the sea. You will also need to build a fleet of [COLOR_UNIT_TEXT]Caravels[COLOR_REVERT] to help carry cargo across deep water.</Chinese>
+    <Chinese>“港口主管”任务[PARAGRAPH:1]海上贸易商人请你完成一项任务：建造足够数量的[COLOR_BUILDING_TEXT]港口[COLOR_REVERT]使他们能够主导全世界的海上贸易。你还需要建立一支[COLOR_UNIT_TEXT]轻帆船[COLOR_REVERT]舰队以提升跨越大洋运送货物的能力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_1</Tag>
@@ -1853,7 +1853,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Use our advantage to boost the seamanship of our current and future Naval units</Chinese>
+    <Chinese>利用所获优势提升现有和未来海军单位的技术水平。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_2</Tag>
@@ -1862,7 +1862,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our trade empire should be leveraged in to producing lots of wealth.</Chinese>
+    <Chinese>利用我们的海上贸易霸主地位创造更多的财富。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_3</Tag>
@@ -1871,7 +1871,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our ship captains gain extra experience, enabling them to better navigate.</Chinese>
+    <Chinese>为我们的船长积累更多的经验，提升海军整体素质。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HARBORMASTER_HELP</Tag>
@@ -1880,7 +1880,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must construct %d1 [COLOR_BUILDING_TEXT]Harbors[COLOR_REVERT] in your various coastal cities. You will also have to build %d2 [COLOR_UNIT_TEXT]Caravels[COLOR_REVERT].[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you reach the Industrial Era without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在沿海城市兴建%d1座[COLOR_BUILDING_TEXT]港口[COLOR_REVERT]，还要建造%d2个[COLOR_UNIT_TEXT]轻帆船[COLOR_REVERT]单位。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你进入工业时代仍未达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEALING_PLANT</Tag>
@@ -1889,7 +1889,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our herbalists have discovered a new plant that holds great promise for health treatments. However, tests on human subjects are required to find the right mixture.</Chinese>
+    <Chinese>我国草药医生发现了一种新的药用植物，对多种疾病具有极佳的疗效。但确定最佳配方还需要进行大量临床试验。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEALING_PLANT_1</Tag>
@@ -1898,7 +1898,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Forget these tests. Anything worth knowing has already been discovered, so why risk needless death?</Chinese>
+    <Chinese>不必进行临床试验了，我们的医学知识已经够丰富了，何必让宝贵的生命冒无谓的风险？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEALING_PLANT_2</Tag>
@@ -1907,7 +1907,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Alright, try limited tests, but only on non-essential citizens.</Chinese>
+    <Chinese>针对少部分人群进行有限度的临床试验。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEALING_PLANT_3</Tag>
@@ -1916,7 +1916,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Health is the bedrock to world domination! Run full scale tests on all but the youngest and weakest among us.</Chinese>
+    <Chinese>国民健康是国家强盛的基石！针对大部分人群进行临床试验。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEALING_PLANT_4</Tag>
@@ -1925,7 +1925,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In their attempts to find the right mixture of herbs, our healers caused fatalities throughout the empire!</Chinese>
+    <Chinese>我国医生为了寻找正确的草药配方进行了大规模临床试验，结果酿成了一场可怕的灾难！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEALING_PLANT_5</Tag>
@@ -1934,7 +1934,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our experiments have been a success! Our cities now enjoy better healing herbs!</Chinese>
+    <Chinese>我国医生的临床试验获得了成功！所有国民都将受益于这种新药！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEALING_PLANT_6</Tag>
@@ -1943,7 +1943,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our experiments have been a resounding success! We now posess much better treatments!</Chinese>
+    <Chinese>我国医生的临床试验获得了巨大成功！我们拥有了疗效更好的新药！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HERESY_1</Tag>
@@ -1952,7 +1952,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Suppress the heresy! Then launch a drive to remind our people that we already adhere to the one true faith.</Chinese>
+    <Chinese>镇压异端！让人民了解我们必须尊奉真正的信仰。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HERESY_2</Tag>
@@ -1961,7 +1961,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tolerate the heresy, yet reward the faithful with reduced taxes for a while, to send a message.</Chinese>
+    <Chinese>容忍异端，但对坚持正确信仰的人实行减税，以表达我们的态度。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HERESY_3</Tag>
@@ -1970,7 +1970,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ignore the heresy.</Chinese>
+    <Chinese>无视异端。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEROIC_GESTURE_1</Tag>
@@ -1979,7 +1979,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>No good deed shall go unpunished. Send our recovered soldiers back into battle the moment they are ready.</Chinese>
+    <Chinese>高姿态并不能逃避惩罚，让伤愈士兵尽快返回战场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEROIC_GESTURE_2</Tag>
@@ -1988,7 +1988,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Perhaps this is a sign that enough blood has been shed. Send our emissaries to see if they are ready to discuss peace.</Chinese>
+    <Chinese>也许血确实流得够多了，派出使节尝试与对方和谈。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HEROIC_GESTURE_OTHER_3</Tag>
@@ -2015,7 +2015,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We have no need of his services. Ask him instead to donate his money to the state.</Chinese>
+    <Chinese>我们不需要军事学院，让他直接把钱捐给国家。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HIGH_WARLORD_2</Tag>
@@ -2024,7 +2024,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Excellent! Have him train Pikeman units for us.</Chinese>
+    <Chinese>太好了！让他为我们训练一批长枪兵。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HIGH_WARLORD_3</Tag>
@@ -2033,7 +2033,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Superb! Have all our military recruits in that city undergo a training regimen at the new academy.</Chinese>
+    <Chinese>太棒了！在那里征召的所有部队都应到军事学院进行训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HINDENBERG_1</Tag>
@@ -2042,7 +2042,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Outlaw the use of hydrogen in lighter-than-air vehicles.</Chinese>
+    <Chinese>立法禁止空气浮力飞行器使用氢气填充。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HINDENBERG_2</Tag>
@@ -2051,7 +2051,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund a drive to regulate air traffic, improve safety and ensure the viability of commercial air travel.</Chinese>
+    <Chinese>投资加强空中交通管理，保证商业航空旅行的安全。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HIYOSILVER_1</Tag>
@@ -2060,7 +2060,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That sounds like welcome news for our economy.</Chinese>
+    <Chinese>这个消息有利于我们的经济发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HIYOSILVER_2</Tag>
@@ -2069,7 +2069,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commit our government to harvesting this new resource immediately.</Chinese>
+    <Chinese>让政府立即组织开采这处新资源。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_1</Tag>
@@ -2078,7 +2078,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Holy Mountain[PARAGRAPH:1]You are tasked by your religious leaders to locate, settle near and seize control over the Holy Mountain.</Chinese>
+    <Chinese>“圣山”任务[PARAGRAPH:1]宗教领袖要求你去寻找圣山，在附近建立定居点以取得对圣山的控制权。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_DONE_1</Tag>
@@ -2087,7 +2087,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Your people are inspired by the way in which you have honored your faith.</Chinese>
+    <Chinese>我国人民因你光大了我们的信仰而备受鼓舞。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_HELP</Tag>
@@ -2096,7 +2096,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must extend your cultural influence and control over the Peak plot that is the Holy Mountain. You may achieve this by divine providence by settling near any Peaks you find. Eventually you may find the right one.[PARAGRAPH:1]Or you may seek further guidance from studying the holy scriptures. If you build %d3 religious buildings (Temples and Monasteries), your religious leaders will solve the puzzle and identify the correct location of the Holy Mountain, which you must then still go and settle near to complete the quest. A %s2_building allows for more coordinated worship and is worth as much as four Temples for the purposes of this quest.[PARAGRAPH:1]You will fail this quest if you change state religions, cease to have a state religion, or reach [COLOR_TECH_TEXT]Industrialism[COLOR_REVERT] without having met the conditions. You will also fail this quest if any other civilization takes control of the Holy Mountain before you do.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这个任务，你必须扩张你的文化影响并控制圣山主峰所在的地区。你可以在你见到的每个山峰附近建立定居点，这样你就一定能找到真正的圣山。[PARAGRAPH:1]你也可以靠深入研究经文来得到更多启示。如果你建成%d3座宗教建筑（神庙和修道院），你的宗教领袖就能最终确定圣山的位置；在确定的位置建立定居点即可任务。一座%s2_building可以容纳更多信徒开展宗教活动，因此其价值等同于四座神庙。[PARAGRAPH:1]如果你更换了国教、取消了国教或者在获得[COLOR_TECH_TEXT]产业主义[COLOR_REVERT]后仍然没有达成以上条件，任务就将失败。如果其他文明比你先控制了圣山，任务也将失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_REVEALED_1</Tag>
@@ -2105,7 +2105,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Look at the Holy Mountain.</Chinese>
+    <Chinese>让我们一起仰望这座神圣的山峰。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOLY_RITUAL_1</Tag>
@@ -2114,7 +2114,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fill the order!</Chinese>
+    <Chinese>批准订购！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORSE_WHISPERING_1</Tag>
@@ -2123,7 +2123,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Horse Whispering[PARAGRAPH:1]You are tasked by your elite trainers to build enough stables for them to transcend the traditional limits of animal husbandry.</Chinese>
+    <Chinese>“马语者”任务[PARAGRAPH:1]资深驯马师请你完成一项任务：建造足够数量的马厩，以便他们尝试超越传统理念的新型驯马方法。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_1</Tag>
@@ -2132,7 +2132,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Use our advantage to immediately train [COLOR_UNIT_TEXT]Horse Archers[COLOR_REVERT].</Chinese>
+    <Chinese>利用所获优势立即训练[COLOR_UNIT_TEXT]骑射手[COLOR_REVERT]。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_2</Tag>
@@ -2141,7 +2141,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Use our existing horses as more effective scouts.</Chinese>
+    <Chinese>使用现有马匹加强我们的侦察部队。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_3</Tag>
@@ -2150,7 +2150,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our horses are trained to be more productive on the farm.</Chinese>
+    <Chinese>经过我们训练的马匹能够更快地繁育。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_HELP_1</Tag>
@@ -2159,7 +2159,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Receive %d1 [COLOR_UNIT_TEXT]Horse Archers[COLOR_REVERT].</Chinese>
+    <Chinese>[ICON_BULLET]获得%d1个[COLOR_UNIT_TEXT]骑射手[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORSE_WHISPERING_HELP</Tag>
@@ -2168,7 +2168,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must build %d1 [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] in your various cities.[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you reach the Renaissance Era without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在本国城市兴建%d1座[COLOR_BUILDING_TEXT]马厩[COLOR_REVERT]。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你进入启蒙时代仍未达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORSESHOE_1</Tag>
@@ -2177,7 +2177,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We will utilize the improved shoes for all of our mounted units.</Chinese>
+    <Chinese>我们将在骑兵部队中推广新型马掌。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORTICULTURE_1</Tag>
@@ -2186,7 +2186,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We should establish internal trade with the locals for these rare commodities.</Chinese>
+    <Chinese>我们应该与这个部落开展贸易以获取这种珍奇的商品。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HORTICULTURE_2</Tag>
@@ -2195,7 +2195,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund efforts to increase production without endangering the natural resources that produce them.</Chinese>
+    <Chinese>为此项目投入资金，在增加产量同时确保这一自然物种的延续。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_1</Tag>
@@ -2204,7 +2204,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hostile Takeover[PARAGRAPH:1]You are tasked by your corporate leaders to obtain (by any means necessary) our own source of all resource types they need to conduct their operations.</Chinese>
+    <Chinese>“恶意接管”任务[PARAGRAPH:1]我国一家公司请求国家采取行动（通过任何必要的手段）控制其需要的所有资源。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_DONE_1</Tag>
@@ -2213,7 +2213,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cha-ching! Show me the money!</Chinese>
+    <Chinese>太棒了！让我数数有多少钱。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_HELP_1</Tag>
@@ -2222,7 +2222,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must settle near uncontrolled resources or attack rival civilizations and take over their resources.[PARAGRAPH:1]You will need to obtain new sources of %d1 [NUM1:resource type:different resource types] (%s2_list_of_resources).[PARAGRAPH:1]You must also retain control over all needed resource types already owned.[PARAGRAPH:1]You will fail this quest if a rival civilization who is also seeking to obtain control over needed resources for one of its corporations should happen to complete this task ahead of you.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在无主资源所在地建立定居点，或者夺取别国领土以接管其资源。[PARAGRAPH:1]你需要夺取%d1种资源（%s2_list_of_resources）。[PARAGRAPH:1]您还必须保持对已有相关资源的控制权。[PARAGRAPH:1]如果其他文明的公司率先达成控制全部相关资源的目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HURRICANE_1</Tag>
@@ -2231,7 +2231,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Buildings have been destroyed.</Chinese>
+    <Chinese>一些建筑被毁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HURRICANE_2</Tag>
@@ -2240,7 +2240,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Citizens have been killed.</Chinese>
+    <Chinese>许多市民死亡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_HYMNS_AND_SCULPTURES_1</Tag>
@@ -2249,7 +2249,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Please grant an audience to this promising new artist so that we may decide how best to make use of their talents.</Chinese>
+    <Chinese>会见这位极具潜质的艺术家，我们要最充分地运用其天赋。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ICE_SCULPTURE_1</Tag>
@@ -2258,7 +2258,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are glad to see that the local culture is thriving.</Chinese>
+    <Chinese>我们很高兴看到当地文化的繁荣。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ICE_SCULPTURE_2</Tag>
@@ -2267,7 +2267,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This is an endeavor worth pursuing. Fund an effort to master this new art form and incorporate it in to the local culture.</Chinese>
+    <Chinese>冰雕艺术具有美好的前景，资助这种新兴艺术的创作，发展地方特色文化。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_IMMIGRANTS_1</Tag>
@@ -2276,7 +2276,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are pleased at their new choice of residence.</Chinese>
+    <Chinese>很高兴他们找到了梦想中的新家园。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_IMPACT_CRATER_1</Tag>
@@ -2285,7 +2285,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Why is this important? Do not bother me with petty details.</Chinese>
+    <Chinese>这算什么重要消息？我可没时间管鸡毛蒜皮的小事。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_IMPACT_CRATER_2</Tag>
@@ -2294,7 +2294,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commit our government to unlocking the secrets of this mystery.</Chinese>
+    <Chinese>组织专家学者开展深入研究。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_IMPEACHMENT</Tag>
@@ -2303,7 +2303,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Congress wants to impeach the President. The population supports this motion.</Chinese>
+    <Chinese>国会希望弹劾总统，这一动议获得了民众的支持。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_IMPEACHMENT_1</Tag>
@@ -2312,7 +2312,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Then the impeachment should proceed, if that's the people's will.</Chinese>
+    <Chinese>启动弹劾程序，既然这是人民的意愿。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_IMPEACHMENT_2</Tag>
@@ -2321,7 +2321,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That's an overreaction. The President has gotten the message that his administration needs to improve.</Chinese>
+    <Chinese>不必反应过度，既然总统已经认识到了错误。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INDEPENDENTFILMS_1</Tag>
@@ -2330,7 +2330,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That sounds like welcome news for our economy.</Chinese>
+    <Chinese>这个消息有利于我们的经济发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INDEPENDENTFILMS_HELP_1</Tag>
@@ -2339,7 +2339,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]%D1%F2 in %s3_city</Chinese>
+    <Chinese>[ICON_BULLET]%s3_city%D1%F2</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INDUSTRIAL_FIRE_1</Tag>
@@ -2348,7 +2348,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Emphasize improved safety so that this particular type of accident should never happen again.</Chinese>
+    <Chinese>加强安全措施，避免类似事故再次发生。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INDUSTRIAL_FIRE_2</Tag>
@@ -2357,7 +2357,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund an emergency rebuilding effort.</Chinese>
+    <Chinese>紧急拨款组织重建。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INFLUENZA_1</Tag>
@@ -2366,7 +2366,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Spend whatever is necessary to quarrantine the city.</Chinese>
+    <Chinese>采取一切必要措施控制疫情。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INFLUENZA_2</Tag>
@@ -2375,7 +2375,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>If only we had knowledge of Medicine!</Chinese>
+    <Chinese>我们应该加强医学研究！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INFLUENZA_HELP_2</Tag>
@@ -2384,7 +2384,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]The virus spreads to some nearby cities and reduces their population by %d1</Chinese>
+    <Chinese>[ICON_BULLET]疫情传播导致周围城市人口减少%d1级。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INFLUENZA_HIT_CITY</Tag>
@@ -2393,7 +2393,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Influenza virus has struck %s1_city.</Chinese>
+    <Chinese>%s1_city暴发流感。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INFO_FUGITIVE_4</Tag>
@@ -2420,7 +2420,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are unable to assist at this time.</Chinese>
+    <Chinese>我们现在无法提供资助。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INSPIRED_MISSION_2</Tag>
@@ -2429,7 +2429,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We can afford a small donation.</Chinese>
+    <Chinese>我们可以提供少量资助。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INSPIRED_MISSION_3</Tag>
@@ -2438,7 +2438,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are pleased to provide any assistance they may require!</Chinese>
+    <Chinese>我们可以尽力满足他们。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_INTERSTATE_1</Tag>
@@ -2447,7 +2447,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Construction will begin as soon as plans are finalized.</Chinese>
+    <Chinese>完善设计后立即开工建造。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JADE_1</Tag>
@@ -2456,7 +2456,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We can sell the precious jade for additional profit.</Chinese>
+    <Chinese>我们应该批量销售玉器换取财富。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JAIL</Tag>
@@ -2465,7 +2465,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>People of %s2_city are not feeling safe. They are worried that criminals may escape from the local Jail.</Chinese>
+    <Chinese>%s2_city的市民缺乏安全感，他们担心在当地监狱里服刑的犯人可能越狱。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JAIL_1</Tag>
@@ -2474,7 +2474,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>So what? No one is going to escape anyway.</Chinese>
+    <Chinese>开什么玩笑？犯人不可能越狱。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JAIL_2</Tag>
@@ -2483,7 +2483,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Boost jail security and organize a campaign to convince the citizens that they're safe.</Chinese>
+    <Chinese>加强监狱的安全措施，并通过媒体进行宣传以使市民们放心。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_1</Tag>
@@ -2492,7 +2492,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send well wishes and a token wedding gift.</Chinese>
+    <Chinese>送去美好的祝福和一份象征性的礼物。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_2</Tag>
@@ -2501,7 +2501,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send hearty congratulations and a generous wedding gift.</Chinese>
+    <Chinese>送去衷心的祝愿和一份丰厚的礼物。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_3</Tag>
@@ -2510,7 +2510,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Announce a national celebration, send an outlandish wedding gift and donate generously to religious organizations in the name of the newlyweds.</Chinese>
+    <Chinese>宣布举国欢庆，送上一份珍奇的礼物，并以这对新人的名义向宗教机构慷慨捐赠。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_1</Tag>
@@ -2546,7 +2546,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This should speed our current research.</Chinese>
+    <Chinese>这显然会加快我们目前的科研速度。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LEFT_AT_ALTAR_1</Tag>
@@ -2555,7 +2555,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send condolences to both families and urge them to seek a peaceful resolution to their grievances.</Chinese>
+    <Chinese>向双方家族表示遗憾并促请他们用和平的方式化解的怨气。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LITERACY_1</Tag>
@@ -2564,7 +2564,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Continue to promote reading and writing. Knowledge is power!</Chinese>
+    <Chinese>继续推进文化教育事业，知识就是力量！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LONG_RANGE_FIGHTERS_1</Tag>
@@ -2573,7 +2573,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Begin production of the new fighter.</Chinese>
+    <Chinese>立即投产新型战斗机。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_1</Tag>
@@ -2582,7 +2582,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Their problems are none of our affairs. Tell our operatives to stand down.</Chinese>
+    <Chinese>他们的问题与我们无关，让我们的特工继续潜伏。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_2</Tag>
@@ -2591,7 +2591,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>See that aid reaches those organizing local criminal activity. Be discrete.</Chinese>
+    <Chinese>向当地的犯罪组织提供协助，要注意小心行事。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_3</Tag>
@@ -2600,7 +2600,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Unleash our agents. Allow them to capitalize on any opportunities for mischief-making that they can find.</Chinese>
+    <Chinese>让特工采取行动，允许他们乘机煽风点火。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_3_HELP</Tag>
@@ -2609,7 +2609,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Between %d1 and %d2 buildings destroyed in %s3_city</Chinese>
+    <Chinese>[ICON_BULLET]%s3_city中的%d1至%d2座建筑被摧毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_4</Tag>
@@ -2618,7 +2618,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our agents have been exposed!</Chinese>
+    <Chinese>我们的间谍被发现了！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_OTHER_1</Tag>
@@ -2627,7 +2627,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civil unrest near %s4_city has led to riots and looting.</Chinese>
+    <Chinese>%s4_city附近发生骚乱和抢掠事件。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_OTHER_2</Tag>
@@ -2636,7 +2636,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civil unrest near %s4_city has led to riots and looting. Multiple improvements have been destroyed!</Chinese>
+    <Chinese>%s4_city附近发生骚乱和抢掠事件。大量设施遭到破坏！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_OTHER_3</Tag>
@@ -2645,7 +2645,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Massive civil unrest near %s4_city has led to riots and looting. Both inside and outside the city, some of our improvements have been destroyed by looters.</Chinese>
+    <Chinese>%s4_city附近发生骚乱和抢掠事件。许多建筑和设施遭到破坏。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_LOOTERS_OTHER_4</Tag>
@@ -2663,7 +2663,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We have no time for such nonsense. Order them to continue scouting.</Chinese>
+    <Chinese>我们没时间理会这些鸡毛蒜皮的事情，命令他们继续打猎。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MAN_NAMED_JED_2</Tag>
@@ -2672,7 +2672,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This substance must be studied to see how we might make use of it.</Chinese>
+    <Chinese>我们要好好研究一下这种液体，看看能用它来做些什么。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MARATHON_1</Tag>
@@ -2681,7 +2681,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This heroic deed has inspired our entire army!</Chinese>
+    <Chinese>这件英雄壮举鼓舞了我们全军将士！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_1</Tag>
@@ -2690,7 +2690,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Master Blacksmith[PARAGRAPH:1]You are tasked by the master blacksmith to build enough new [COLOR_BUILDING_TEXT]Forges[COLOR_REVERT] to provide acceptable working environments for all the students to whom he intends to pass on his trade secrets.</Chinese>
+    <Chinese>“煅造大师”任务[PARAGRAPH:1]一位煅造大师请你完成一项任务：建造足够数量的[COLOR_BUILDING_TEXT]煅造场[COLOR_REVERT]以便为他的众多学徒提供良好的训练和工作环境。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_1</Tag>
@@ -2699,7 +2699,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Use our advantage to discover a new source of [COLOR_HIGHLIGHT_TEXT]Copper[COLOR_REVERT].</Chinese>
+    <Chinese>利用所获优势发现一处[COLOR_HIGHLIGHT_TEXT]铜[COLOR_REVERT]资源。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_2</Tag>
@@ -2708,7 +2708,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our metalworking empire should be leveraged into producing stronger weaponry.</Chinese>
+    <Chinese>利用我们的冶金王国地位改善武器装备。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_3</Tag>
@@ -2717,7 +2717,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The master's best student will be granted control over his forge when he retires, launching a tradition of metalcasting excellence in that city.</Chinese>
+    <Chinese>一位最优秀的学徒将在煅造大师退休后接管他的煅造场，继续发扬光大当地冶金业的优良传统。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_HELP_1</Tag>
@@ -2726,7 +2726,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must build a total of %d1 [COLOR_BUILDING_TEXT]Forges[COLOR_REVERT] in your various cities. This may include Forges already completed.[PARAGRAPH:1]The master smith is a religious man. An additional reward option will be available if your civilization has a state religion if and when the quest is completed successfully.[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, if you lose control over %s2_city and the master smith, or if you reach the Renaissance Era without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须在本国城市建造%d1座[COLOR_BUILDING_TEXT]煅造场[COLOR_REVERT]（已建成的包括在内）。[PARAGRAPH:1]这位煅造大师非常虔信宗教。如果你的文明设立了官方信仰，则在完成任务时可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你失去了煅造大师所定居的城市%s2_city，或者当你进入进入启蒙时代仍未达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MASTER_SMITH_1</Tag>
@@ -2735,7 +2735,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We applaud the accomplishments of our revered grand master blacksmith.</Chinese>
+    <Chinese>表彰煅造大师的杰出成就。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MEDIATOR_WORLD_2</Tag>
@@ -2753,7 +2753,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Make it so.</Chinese>
+    <Chinese>就这么办。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MINING_ACCIDENT_1</Tag>
@@ -2762,7 +2762,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Organize a rebuilding effort, with emphasis on improved mining safety.</Chinese>
+    <Chinese>组织重建矿井，加强安全管理。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MINING_ACCIDENT_2</Tag>
@@ -2771,7 +2771,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send emissaries to assist the bereaved.</Chinese>
+    <Chinese>派专人安抚死难者家属。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MINING_ACCIDENT_3</Tag>
@@ -2780,7 +2780,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are too pressed to spare any aid for the city.</Chinese>
+    <Chinese>我们太忙了，无法提供额外救助。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MIRACLE_1</Tag>
@@ -2789,7 +2789,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The tourism will enhance city revenue.</Chinese>
+    <Chinese>旅游业的兴盛增加了城市收入。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MIRACLE_2</Tag>
@@ -2798,7 +2798,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We should hire and train some of the pilgrims as missionaries.</Chinese>
+    <Chinese>我们应该在朝圣者中征召和训练一批传教士。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MODERNOLYMPICS_1</Tag>
@@ -2807,7 +2807,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Games will be a grand spectacle, with athletes from all nations invited to attend!</Chinese>
+    <Chinese>这届运动会将成为空前的体育盛事，向所有国家的选手发出邀请！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MONEY_CHANGERS_1</Tag>
@@ -2816,7 +2816,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>These dealings in foreign currency increase the Market's profitability? That is welcome news.</Chinese>
+    <Chinese>活跃的外汇交易将增加市场的收益？真是个好消息。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MOTHER_LODE_1</Tag>
@@ -2825,7 +2825,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cash in on our success!</Chinese>
+    <Chinese>让我们享受胜利果实吧！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MOTOR_OIL_1</Tag>
@@ -2834,7 +2834,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Authorize the selling of the improved motor oil on the open market.</Chinese>
+    <Chinese>授权新型润滑油在市场销售。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_MOTOR_OIL_2</Tag>
@@ -2843,7 +2843,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund upgrades to our army's vehicle fleet to make use of the new formula.</Chinese>
+    <Chinese>在军队中推广使用新型润滑油。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NEW_DYNASTY_1</Tag>
@@ -2852,7 +2852,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Throw support behind the leading general to become the new monarch via coup d'état.</Chinese>
+    <Chinese>暗中支持一位军事将领发动政变夺取统治权。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NEW_DYNASTY_2</Tag>
@@ -2861,7 +2861,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Let the nobles fight amongst themselves. The strongest or cleverest will emerge as the new monarch.</Chinese>
+    <Chinese>任由贵族们互相争斗，让最强者脱颖而出成为新的君主。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NEW_DYNASTY_3</Tag>
@@ -2870,7 +2870,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Follow the guidance of spiritual leadership in identifying who enjoys divine favor, then support that claimant.</Chinese>
+    <Chinese>让宗教领袖决定谁是神所眷顾的新任君主。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NEWS_IMPACT_CRATER_1</Tag>
@@ -2879,7 +2879,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Discovery of naturally occurring glass globules has been ignored by %s1_civ_adjective leadership and will pass in to the dustbin of history.</Chinese>
+    <Chinese>%s1_civ_adjective境内某处发现了大量天然玻璃球，但并未引起国家领导人的重视。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NEWS_IMPACT_CRATER_2</Tag>
@@ -2897,7 +2897,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Noble Knights[PARAGRAPH:1]You are tasked by the mandate of your people to train a sizable force of [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] units.</Chinese>
+    <Chinese>“贵族骑士”任务[PARAGRAPH:1]我们的精英阶层要求训练足够数量的[COLOR_UNIT_TEXT]骑士[COLOR_REVERT]单位.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_1</Tag>
@@ -2906,7 +2906,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>With such a large force of Knights working together, additional training for these units can be achieved.</Chinese>
+    <Chinese>我们应该加强对这支强大骑士部队的训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_2</Tag>
@@ -2915,7 +2915,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Enlist our noble Knights into a drive to spread our faith.</Chinese>
+    <Chinese>利用高贵骑士的声名大力传播我们的信仰。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_3</Tag>
@@ -2924,7 +2924,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>From among our most faithful knights emerges one with holy vision.</Chinese>
+    <Chinese>一位信仰坚定的骑士以其英雄壮举被人们尊为“圣骑士”。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_HELP_1</Tag>
@@ -2933,7 +2933,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must train %d1 [COLOR_UNIT_TEXT]Knights[COLOR_REVERT] units.[PARAGRAPH:1]An additional reward option will be available if your civilization is operating in the [COLOR_HIGHLIGHT_TEXT]Organized Religion[COLOR_REVERT] civic.[PARAGRAPH:1]An additional reward option will be available if your civilization controls [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you discover advanced firearms ([COLOR_TECH_TEXT]Military Tradition[COLOR_REVERT], [COLOR_TECH_TEXT]Rifling[COLOR_REVERT], or [COLOR_TECH_TEXT]Railroad[COLOR_REVERT] technologies) without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须训练%d1个[COLOR_UNIT_TEXT]骑士[COLOR_REVERT]单位。[PARAGRAPH:1]如果你的文明实行[COLOR_HIGHLIGHT_TEXT]信仰控制[COLOR_REVERT]法令，将可以获得一个额外奖励选项。[PARAGRAPH:1]如果你的文明拥有[COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT]，也可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者你在达成目标前获得了训练更先进火器单位的技术（[COLOR_TECH_TEXT]军事制度[COLOR_REVERT]、[COLOR_TECH_TEXT]膛线[COLOR_REVERT]或[COLOR_TECH_TEXT]铁路[COLOR_REVERT]），你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST</Tag>
@@ -2942,7 +2942,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our people are protesting against our nuclear arsenal. They fear that we would use nukes with disastrous consequences.</Chinese>
+    <Chinese>我国民众举行大规模抗议活动，反对加强核军备。他们担心使用核武器会造成灾难性的后果。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_1</Tag>
@@ -2951,7 +2951,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The people's wishes are our top priority. We will disband our nuclear weapons.</Chinese>
+    <Chinese>人民的意志是国家的最高准则，让我们全面销毁核武器。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_1_HELP</Tag>
@@ -2960,7 +2960,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Lose all nuclear weapons.</Chinese>
+    <Chinese>[ICON_BULLET]失去全部核武器。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_2</Tag>
@@ -2969,7 +2969,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>What? Find those who spread such nonsense and prosecute them!</Chinese>
+    <Chinese>什么？将那些散布谬论的人绳之以法！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_3</Tag>
@@ -2978,7 +2978,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We need a positive publicity campaign for our military, right now!</Chinese>
+    <Chinese>我们必须加强对我国军事力量的正面宣传！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_NUM_BUILDINGS_DESTROYED</Tag>
@@ -2996,7 +2996,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Overwhelm Doctrine[PARAGRAPH:1]You are tasked by your military leaders to construct a fully functional aircraft carrier battle fleet.</Chinese>
+    <Chinese>“绝对优势”任务[PARAGRAPH:1]你的海军将领请求建立一个强大的航空母舰战斗群。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_OVERWHELM_DONE_1</Tag>
@@ -3005,7 +3005,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Take advantage of our momentum to provide additional training for these crews. Prepare them for battle.</Chinese>
+    <Chinese>我们应该加强对这支强大海军的训练，随时准备投入战斗。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_OVERWHELM_DONE_2</Tag>
@@ -3014,7 +3014,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our intent is to keep the peace through strength. Leverage our might in to commercial opportunity.</Chinese>
+    <Chinese>通过武力威慑确保和平，利用我们的制海权控制世界贸易。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_OVERWHELM_DONE_3</Tag>
@@ -3023,7 +3023,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Leverage our military advantage to persuade the world to ban nuclear weapons.</Chinese>
+    <Chinese>利用我们的军事优势对别国施加影响，推动世界无核化进程。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_OVERWHELM_DONE_HELP_3</Tag>
@@ -3032,7 +3032,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]No nuclear weapons.</Chinese>
+    <Chinese>[ICON_BULLET]禁止核武器。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_OVERWHELM_HELP_1</Tag>
@@ -3041,7 +3041,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must build %d1 [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT], %d3 [COLOR_UNIT_TEXT]%s4_unit[COLOR_REVERT], %d5 [COLOR_UNIT_TEXT]%s6_unit[COLOR_REVERT], and %d7 [COLOR_UNIT_TEXT]%s8_unit[COLOR_REVERT] units. A source of [COLOR_HIGHLIGHT_TEXT]Oil[COLOR_REVERT] will be required to fuel the planes.[PARAGRAPH:1]An additional reward option will be available if your civilization was the one to build [COLOR_BUILDING_TEXT]%s9_building[COLOR_REVERT].[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须建造%d1个[COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT]单位，%d3个[COLOR_UNIT_TEXT]%s4_unit[COLOR_REVERT]单位，%d5个[COLOR_UNIT_TEXT]%s6_unit[COLOR_REVERT]单位和%d7个[COLOR_UNIT_TEXT]%s8_unit[COLOR_REVERT]单位。为给舰载战机补充燃料，必须保证[COLOR_HIGHLIGHT_TEXT]石油[COLOR_REVERT]资源的供应。[PARAGRAPH:1]如果你的文明建造了[COLOR_BUILDING_TEXT]%s9_building[COLOR_REVERT]，将可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PARROTS_1</Tag>
@@ -3050,7 +3050,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Parrots make fine pets. We should promote them as one of our trade goods.</Chinese>
+    <Chinese>鹦鹉可以作为宠物，我们应该进行批量销售。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PARTISANS_1</Tag>
@@ -3059,7 +3059,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send word to the new partisan units to continue the fight near their destroyed homes.</Chinese>
+    <Chinese>给游击队们带去口信，告诉他们继续在被毁的城市周围抗击敌人。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PARTISANS_2</Tag>
@@ -3068,7 +3068,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Although we will lose up to half their number to exhaustion, desertion and willful refusal to leave the area, we must convince these units to retreat. Have them march to our capital city, where they will reform into units.</Chinese>
+    <Chinese>尽管漫长征途和思乡情绪可能导致大量减员，但我们必须说服他们撤离，并前往首都接受正规化训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PARTISANS_HELP_1</Tag>
@@ -3077,7 +3077,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Receive %d1 [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] [NUM1:unit:units] near the ruins of the city.</Chinese>
+    <Chinese>在城市的废墟周围获得%d1个[COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PARTISANS_HELP_2</Tag>
@@ -3086,7 +3086,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Receive %d1 [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] [NUM1:unit:units] in our capital city of %s3_city.</Chinese>
+    <Chinese>在我们的首都%s3_city获得%d1个[COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PARTISANS_OTHER_1</Tag>
@@ -3113,7 +3113,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Industrious villagers near our city of %s2_city have built a Pasture.</Chinese>
+    <Chinese>在%s2_city附近，勤劳的当地村民新建了一个大牧场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PASTURE_BUILT_1</Tag>
@@ -3122,7 +3122,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send them our thanks.</Chinese>
+    <Chinese>向他们致以真诚的感谢。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PATRON_OF_KNOWLEDGE_1</Tag>
@@ -3131,7 +3131,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Disperse the writing to our researchers so that we may obtain some immediate benefit.</Chinese>
+    <Chinese>立即将手稿交给学者进行研究。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PATRON_OF_KNOWLEDGE_2</Tag>
@@ -3140,7 +3140,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fund the expansion of the Library to include a new wing housing all of these precious writings.</Chinese>
+    <Chinese>扩建当地图书馆以存放这批手稿。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PESTILENCE_1</Tag>
@@ -3149,7 +3149,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That's horrible.</Chinese>
+    <Chinese>那太可怕了。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PRAIRIE_DOGS_1</Tag>
@@ -3158,7 +3158,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Prairie dogs? This is making us money? That's good, I suppose.</Chinese>
+    <Chinese>土拨鼠也能卖钱？我想这是件好事。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER</Tag>
@@ -3167,7 +3167,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A scientist from %s2_city has undergone baptism and become a preacher at the city's Christian Monastery.</Chinese>
+    <Chinese>%s2_city的一位著名学者决定接受洗礼，到当地修道院担任宣教师。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER_1</Tag>
@@ -3176,7 +3176,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send the scientist our well wishes.</Chinese>
+    <Chinese>向这位学者致以美好的祝愿。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER_2</Tag>
@@ -3185,7 +3185,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>See if the scientist would be willing to continue the scientific work at the Monastery, given some additional funding.</Chinese>
+    <Chinese>提供资助让这位学者在修道院里继续他的科学研究。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_REFORMATION_1</Tag>
@@ -3257,7 +3257,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our existing ships can also be refitted? Begin immediately.</Chinese>
+    <Chinese>现有的战船都可以改装吗？立即着手改装。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_RIFLED_CANNON_1</Tag>
@@ -3266,7 +3266,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Do we want stronger cannon? Is that a trick question?</Chinese>
+    <Chinese>我们是否需要更强大的加农炮？这个还用问吗？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ROGUE_STATION</Tag>
@@ -3275,7 +3275,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A rogue radio station in %s2_city is broadcasting propaganda against our ruling party in an amazing display of impudence.</Chinese>
+    <Chinese>%s2_city的一家非官方电台发起大规模宣传攻势，鼓动民众反对执政党。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ROGUE_STATION_1</Tag>
@@ -3284,7 +3284,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send a blackops group to destroy the radio tower, we can blame it on an industrial accident.</Chinese>
+    <Chinese>派遣特工破坏他们的广播塔，并将原因归结为一次工业事故。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ROGUE_STATION_2</Tag>
@@ -3293,7 +3293,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Round up the broadcasters, that should send a message.</Chinese>
+    <Chinese>派遣警察包围这家电台，如果他们知趣得话应该会放老实点。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_ROGUE_STATION_3</Tag>
@@ -3302,7 +3302,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Wait for the station to get more listeners, then round them up along with the broadcasters and send them all to do labour at our factories.</Chinese>
+    <Chinese>不动声色地暗中监视，等时机成熟时再将鼓动者和追随者一网打尽，全部送进工厂做苦力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_RUNNING_BULLS_1</Tag>
@@ -3311,7 +3311,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We are glad to see that the local culture is thriving.</Chinese>
+    <Chinese>我们很高兴看到当地文化的繁荣。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_RUNNING_BULLS_2</Tag>
@@ -3320,7 +3320,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We should make this a national holiday!</Chinese>
+    <Chinese>我们应该使其成为全国性节日！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_RURAL_FARMERS_1</Tag>
@@ -3329,7 +3329,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This arrangement brings more food to the city? Excellent.</Chinese>
+    <Chinese>这份协议能使城市获得更充足的食物供应？太好了。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SALES_TAXES</Tag>
@@ -3338,7 +3338,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The taxes from these sales should nicely boost our coffers.</Chinese>
+    <Chinese>征收商业税充实国库。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SALTPETER_1</Tag>
@@ -3347,7 +3347,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our ability to manufacture large amounts of gunpowder should prove lucrative.</Chinese>
+    <Chinese>规模化的火药生产有利于国家。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SALTPETER_DISCOVERED</Tag>
@@ -3356,7 +3356,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Saltpeter Discovered.</Chinese>
+    <Chinese>发现硝石.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SALTPETER_HELP</Tag>
@@ -3365,7 +3365,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]+1[ICON_COMMERCE] in %d1 additional [NUM1:plot:plots]</Chinese>
+    <Chinese>%d1个区域[ICON_BULLET]+1[ICON_COMMERCE]。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SEA_TURTLES_1</Tag>
@@ -3374,7 +3374,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Turtles! What will they think of next?</Chinese>
+    <Chinese>海龟！那里还有什么好吃的东西？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SECRET_KNOWLEDGE_1</Tag>
@@ -3383,7 +3383,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Hand the material over to our researchers.</Chinese>
+    <Chinese>将这批古籍交给我们的研究人员。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SECRET_KNOWLEDGE_2</Tag>
@@ -3392,7 +3392,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Preserve these works as a cultural treasure.</Chinese>
+    <Chinese>秘密保存这一文化宝库。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SECURITY_TAX_1</Tag>
@@ -3401,7 +3401,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Collect the taxes!</Chinese>
+    <Chinese>开征“安全税”！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SETBACK_1</Tag>
@@ -3410,7 +3410,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Progress sometimes comes more slowly than we would wish.</Chinese>
+    <Chinese>进度有时要比我们想象的慢。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SLAVE_REVOLT_1</Tag>
@@ -3428,7 +3428,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Restore order first, then investigate and redress some of the slaves' grievances.</Chinese>
+    <Chinese>恢复秩序并展开调查，采取措施改善奴隶处境。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SLAVE_REVOLT_3</Tag>
@@ -3446,7 +3446,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sir, our slaves are on the verge of revolting! As long as our society continues to use slaves, there is a possibility of them revolting!</Chinese>
+    <Chinese>阁下，我国的奴隶无法继续忍受残酷的压迫！如果我们继续实行奴隶制度，有发生大规模奴隶暴动的危险！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SMOKELESS_POWDER_1</Tag>
@@ -3455,7 +3455,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Convert our musketmen to the new gunpowder.</Chinese>
+    <Chinese>让我们的火枪手换用无烟火药。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SOLO_FLIGHT_1</Tag>
@@ -3464,7 +3464,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This grand achievement has won admiration from people across the globe!</Chinese>
+    <Chinese>这一英雄壮举赢得了全世界人民的赞誉！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SOLO_FLIGHT_HELP_1</Tag>
@@ -3473,7 +3473,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Receive [COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] attitude from all leaders</Chinese>
+    <Chinese>[ICON_BULLET]所有领袖对你的态度[COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT]</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SOUR_CRUDE_1</Tag>
@@ -3491,7 +3491,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That sounds like welcome news for our economy.</Chinese>
+    <Chinese>这对我们的经济来说是个好消息。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPICY_2</Tag>
@@ -3500,7 +3500,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commit our government to harvesting this new resource immediately.</Chinese>
+    <Chinese>让当地政府大量收购这种新香料。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPOILED_GRAIN_1</Tag>
@@ -3509,7 +3509,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That sounds like bad news, but what can we do? Nothing.</Chinese>
+    <Chinese>真是个坏消息，但我们能有什么办法？什么办法也没有。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPOILED_GRAIN_2</Tag>
@@ -3518,7 +3518,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pay to have the lost grain replaced.</Chinese>
+    <Chinese>立即出资补充粮食储备。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_1</Tag>
@@ -3536,7 +3536,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Use the leagues to make your people happy.</Chinese>
+    <Chinese>利用体育联赛使人民更加快乐。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_2</Tag>
@@ -3545,7 +3545,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Leverage these sports leagues in to a cultural tradition.</Chinese>
+    <Chinese>使体育联赛成为一项新的文化传统。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_3</Tag>
@@ -3554,7 +3554,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Organize  large-scale periodic sporting events in the name of Zeus.</Chinese>
+    <Chinese>以众神之王宙斯的名义定期举办大型综合运动会。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_HELP_1</Tag>
@@ -3581,7 +3581,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Be discreet. Offer the to release the spy to their government, but question him first.</Chinese>
+    <Chinese>保持谨慎态度。允许将其释放回国，但要先进行审讯。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPY_DISCOVERED_2</Tag>
@@ -3590,7 +3590,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Every man has his price. His knowledge could make him a very valuable asset.</Chinese>
+    <Chinese>国家利益至上。他所掌握的情报也可以成为我们的财富。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPY_DISCOVERED_3</Tag>
@@ -3599,7 +3599,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That is an act of war! Clearly, our people and military contractors will rise to the occasion!</Chinese>
+    <Chinese>这是战争行径！显然我们的人民——还有我们的军火商应该作出最强烈的反应！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SPY_DISCOVERED_3_HELP</Tag>
@@ -3608,7 +3608,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Receive %d1 [COLOR_UNIT_TEXT][NUM1:Tank:Tanks][COLOR_REVERT].</Chinese>
+    <Chinese>[ICON_BULLET]获得%d1个[COLOR_UNIT_TEXT]坦克[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_STRONGER_FITTINGS_1</Tag>
@@ -3617,7 +3617,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commission the new fittings for all of our crossbow units.</Chinese>
+    <Chinese>让我们的弩手换装新式劲弩。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_SUBWAY_1</Tag>
@@ -3626,7 +3626,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This is a model for the entire world to follow! Great work.</Chinese>
+    <Chinese>真全世界的楷模！干得好。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TCC_ACQUIRE</Tag>
@@ -3671,7 +3671,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The taxes from these sales should boost our coffers nicely, as well as boosting our relations.</Chinese>
+    <Chinese>茶叶贸易增进了两国关系，从中征收的销售税也充实了我们的国库。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TEA_OTHER_1</Tag>
@@ -3707,7 +3707,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Axeman[COLOR_REVERT] units have spawned near our border.</Chinese>
+    <Chinese>[ICON_BULLET]大量蛮族[COLOR_UNIT_TEXT]斧兵[COLOR_REVERT]出现在我国边境地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_THE_HUNS_HELP_1</Tag>
@@ -3716,7 +3716,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Horse Archer[COLOR_REVERT] units have spawned near our border.</Chinese>
+    <Chinese>[ICON_BULLET]大量蛮族[COLOR_UNIT_TEXT]骑射手[COLOR_REVERT]出现在我国边境地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_THE_PHILISTINES_HELP_1</Tag>
@@ -3725,7 +3725,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Spearman[COLOR_REVERT] units have spawned near our border.</Chinese>
+    <Chinese>[ICON_BULLET]大量蛮族[COLOR_UNIT_TEXT]矛兵[COLOR_REVERT]出现在我国边境地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_THE_VANDALS_HELP_1</Tag>
@@ -3734,7 +3734,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] units have spawned near our border.</Chinese>
+    <Chinese>[ICON_BULLET]大量蛮族[COLOR_UNIT_TEXT]剑士[COLOR_REVERT]出现在我国边境地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_THE_VEDIC_ARYANS_HELP_1</Tag>
@@ -3743,7 +3743,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]A dangerous number of barbarian [COLOR_UNIT_TEXT]Archer[COLOR_REVERT] units have spawned near our border.</Chinese>
+    <Chinese>[ICON_BULLET]大量蛮族[COLOR_UNIT_TEXT]弓手[COLOR_REVERT]出现在我国边境地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TIN_1</Tag>
@@ -3752,7 +3752,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Excellent news. Among other things, this will boost our production of bronze.</Chinese>
+    <Chinese>好消息，锡是生产青铜的重要原料。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TOO_CLOSE_TO_CALL_1</Tag>
@@ -3761,7 +3761,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Let the court case take its course, even if the judges seem to split their vote along a purely partisan basis. Follow the constitution to its letter, even though the outcome appears to come down to which party in the dispute had more supporters on the bench.</Chinese>
+    <Chinese>进入司法程序，即便法官都难以保证中间立场。遵守宪法条文，即便选举结果仅能代表法官的意志。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TOO_CLOSE_TO_CALL_2</Tag>
@@ -3770,7 +3770,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Refuse to submit to constitutional rule of law, citing wishful reinterpretations of the constitution or arguments based on passion and principle. Arrive at the desired outcome without heed to the actual constitution.</Chinese>
+    <Chinese>反对机械片面地解读法律，改以符合情理的方式重新解读宪法条文，达成令各方都能接受的结果。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TORNADO_1</Tag>
@@ -3779,7 +3779,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Do what we can to aid the survivors.</Chinese>
+    <Chinese>尽力救助灾民。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TOWER_SHIELD_1</Tag>
@@ -3788,7 +3788,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Issue shields to our troops as supplies permit.</Chinese>
+    <Chinese>在军队中大量装备塔盾。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TOXCATL</Tag>
@@ -3797,7 +3797,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>During the Toxcatl feast, the young man who is Tezcatlipoca's likeness has escaped from the teokalli in %s2_city before he could be sacrificed!</Chinese>
+    <Chinese>托克斯卡特尔祭礼上，一名被特兹凯里波卡神选定的年轻人在被献祭之前挣脱锁链逃出了%s2_city！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TOXCATL_1</Tag>
@@ -3806,7 +3806,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This is horrible news. May the heavens be merciful...</Chinese>
+    <Chinese>真是可怕的消息，也许是众神在怜悯他……</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TOXCATL_2</Tag>
@@ -3815,7 +3815,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Make every effort to recapture him!</Chinese>
+    <Chinese>尽一切努力把他抓回来！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRADING_COMPANY_CONQUERORS_1</Tag>
@@ -3860,7 +3860,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Archaeologists have unearthed a cache of scrolls and stone tablets buried in the desert sands.</Chinese>
+    <Chinese>考古学家找到了一批埋藏在沙漠中的卷轴和石板古籍。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ANCIENTOLYMPICS_1</Tag>
@@ -3869,7 +3869,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In honor of our gods, the city of %s2_city has organized and hosted a grand series of Games. Athletes from all over the nation travel there to compete.</Chinese>
+    <Chinese>为了彰显众神的荣耀，%s2_city举办了一场盛大的综合运动会，全国各地的选手们踊跃参赛。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ANGEL_OF_MERCY_1</Tag>
@@ -3878,7 +3878,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Rumors that a spirit angel of mercy is watching over the patients in the hospital in %s2_city are leading many devout believers to seek treatment there.</Chinese>
+    <Chinese>据传%s2_city的市立医院有天使保佑，大批信徒涌向那里接受治疗。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ANTELOPE_1</Tag>
@@ -3887,7 +3887,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>With removal by man of natural predators, the antelope population has grown large enough to serve as a sustained food source.</Chinese>
+    <Chinese>人类活动使食肉动物数量大减，导致羚羊种群迅速繁育，可以用作新的食物资源。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_APPLESEED_1</Tag>
@@ -3896,7 +3896,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A passionate young man has undertaken a crusade to plant as many new apple trees as he can.</Chinese>
+    <Chinese>一位热情的年轻人年复一年地种下无数棵苹果树。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_AT_THE_SWORD_1</Tag>
@@ -3905,7 +3905,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Soldiers from our victorious %s3_unit have rallied behind their combat heroes! Their strength and resolve have firmed! Their proficiency has increased!</Chinese>
+    <Chinese>战无不胜的%s3_unit部队的战士们聚集在战争英雄麾下！他们的力量和勇气在燃烧！他们的战争经验大大提升！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_AXE_HAFT_1</Tag>
@@ -3914,7 +3914,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our craftsmen have devised a technique for improving the balance of our axes.</Chinese>
+    <Chinese>我国的工匠改进了斧柄设计，使其威力大大提升。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BABY_BOOM_1</Tag>
@@ -3923,7 +3923,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our soldiers, returning from war, have dedicated themselves to peace and to raising families. Our civilization is experiencing a baby boom!</Chinese>
+    <Chinese>我们的士兵从战场返回家园，为和平与家庭努力奉献他们的力量。我们的文明进入了生育高峰期！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BANANA_SPLIT_1</Tag>
@@ -3932,7 +3932,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>One of our ice cream parlors has invented the banana split.</Chinese>
+    <Chinese>我国的一位小商贩发明了“香蕉船”冰淇淋。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BARDS_TALE_1</Tag>
@@ -3941,7 +3941,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A songwriter from %s2_city has composed a heartrending ballad, which is growing in popularity amongst the people there.</Chinese>
+    <Chinese>%s2_city的一位艺术家因创作了一首感人的民谣而广受赞誉。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BERMUDA_TRIANGLE_1</Tag>
@@ -3950,7 +3950,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>On a sunny day, with no storms in sight, one of our vessels has been lost at sea. Not only is the cause unknown, but there is no trace whatsoever of the ship or its crew or cargo. Several smaller vessels and some airplanes in the same general region also have vanished without a trace. Rumors are flying concerning this mystery. This region has been dubbed by the press as the Bermuda Triangle, named after a small island nearby.</Chinese>
+    <Chinese>一艘轮船在风平浪静的晴朗天气神秘地消失于海面。人们找不到船只、人员和货物的任何踪迹。也曾有其它较小的船只和飞机在此海域神秘失踪。围绕这一神秘现象的谣言不胫而走、愈传愈盛，该海域也因附近的一座岛屿被媒体称为“百慕大三角”。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BEST_DEFENSE</Tag>
@@ -3959,7 +3959,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our generals request government aid in expanding our fortifications.[PARAGRAPH:1]We will need to build enough [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT] to satisfy their views on mounting a proper defense for our nation.</Chinese>
+    <Chinese>我们的将军请求政府加强城防建设。[PARAGRAPH:1]我们需要建造足够数量的[COLOR_BUILDING_TEXT]城堡[COLOR_REVERT]以保护国家安全。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BEST_DEFENSE_DONE_1</Tag>
@@ -3968,7 +3968,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have met the goals of your military planners and built enough [COLOR_BUILDING_TEXT]Castles[COLOR_REVERT] to serve as fortresses against invaders. Please choose a reward from among the benefits your defense is able to provide to you.</Chinese>
+    <Chinese>祝贺你！你已经建造了足够数量的[COLOR_BUILDING_TEXT]城堡[COLOR_REVERT]以有效地防御敌人入侵。请在顶级防御体系可带来的奖励中选择一项。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BLACK_PEARLS_1</Tag>
@@ -3977,7 +3977,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Locals have figured out a way to obtain a higher yield of black pearls. They are guarding their secret with great care.</Chinese>
+    <Chinese>当地居民找到了大规模养殖黑珍珠的方法，他们小心保守着这个秘密。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_1</Tag>
@@ -3986,7 +3986,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our spiritual leaders are urging us to seek the blessings of the sea![PARAGRAPH:1]The wise masters have divined the way regarding our relationship with the sea. They urge us to embrace the sea, to broaden our influence over it and spread our traditions to new lands.</Chinese>
+    <Chinese>宗教领袖催促我们寻找海洋的祝福！[PARAGRAPH:1]睿智的导师指出我们应如何与神圣的海洋友好相处。他们要求我们拥抱海洋，加强我们的海上力量，将我们的贸易拓展到新的陆地。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_DONE_1</Tag>
@@ -3995,7 +3995,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have met the goals of your religious masters and spread your civilization across the waters. You have completed the quest of The Blessed Sea.</Chinese>
+    <Chinese>祝贺你！你达成了宗教领袖的要求，将文明扩张到了大洋的彼岸。你已完成了“受祝福的海洋”任务。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BLIZZARD_1</Tag>
@@ -4004,7 +4004,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A blizzard has dumped several meters of snow on a region near %s2_city.</Chinese>
+    <Chinese>在%s2_city地区，强冷空气带来深达数米的积雪。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BLIZZARD_2</Tag>
@@ -4013,7 +4013,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Massive snowfall has buried a region of our territory near %s2_city.</Chinese>
+    <Chinese>深深的积雪几乎将%s2_city完全掩没。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BOILERS_1</Tag>
@@ -4022,7 +4022,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A new design of steel boiler is in demand, because it can raise manufacturing productivity.</Chinese>
+    <Chinese>一种新型锅炉在各地广受欢迎，因为它显著提升了生产效率。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BOWYER_1</Tag>
@@ -4031,7 +4031,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A master bowyer has crafted a bow design that works particularly well with our native wood.</Chinese>
+    <Chinese>一位制弓大师改进了弓弩设计，使我们可以用便宜的本国木材大量生产良弓。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BREAKTHROUGH_1</Tag>
@@ -4040,7 +4040,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our researchers have made a technological breakthrough, rapidly advancing their progress.</Chinese>
+    <Chinese>我们的科学家在技术上取得突破，使得当前研究进度加快。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_BROTHERS_IN_NEED_1</Tag>
@@ -4058,7 +4058,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A careless apprentice started a fire at the Forge in %s2_city, during which the facility was destroyed.</Chinese>
+    <Chinese>一个粗心的学徒点燃了%s2_city的煅造场，所有设备都被烧毁了。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_2</Tag>
@@ -4067,7 +4067,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Brush fires sparked by dry conditions near %s2_city spread to the trade district. The Forge was burned down.</Chinese>
+    <Chinese>%s2_city附近干燥的气候引发的火灾扩散到了商业区，煅造场被彻底烧毁了。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_3</Tag>
@@ -4076,7 +4076,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Unknown arsonists have torched the Forge in %s2_city.</Chinese>
+    <Chinese>不明身份的纵火犯烧毁了%s2_city的煅造场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CHAMPION_1</Tag>
@@ -4085,7 +4085,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our military leaders have held internal war games to strengthen our training and grit. One unit has emerged as the champion.</Chinese>
+    <Chinese>我们的指挥官通过组织内部兵棋推演强化作战能力，其中一支部队最终赢得冠军。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CHARISMATIC_1</Tag>
@@ -4094,7 +4094,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A stronger, more charismatic dictator has seized control of the Party and the nation!</Chinese>
+    <Chinese>一位强悍而魅力超群的独裁者掌握了党和国家的最高权力！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CHILLY_FLIGHT_1</Tag>
@@ -4103,7 +4103,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A pilot from %s2_city has become the first to fly solo over the North Pole and return safely.</Chinese>
+    <Chinese>来自%s2_city的一位飞行员首次独自飞越北极并安全返回。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_1</Tag>
@@ -4112,7 +4112,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A careless cigarette smoker started a fire at the Theatre in %s2_city, during which the building was destroyed and numerous patrons died.</Chinese>
+    <Chinese>一位粗心的烟民在%s2_city的剧场引发了一场火灾，剧场被烧毁，许多观众被烧死。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_2</Tag>
@@ -4121,7 +4121,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An accident on stage at the Theatre in %s2_city started a fire that burned down the building. Most of the audience escaped alive, thank goodness.</Chinese>
+    <Chinese>一场意外火灾烧毁了%s2_city的剧场，不过大部分观众都幸运逃生。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_ANCIENT_1</Tag>
@@ -4130,7 +4130,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Scouts exploring ruins near %s2_city have discovered a cache of knowledge.</Chinese>
+    <Chinese>侦察兵在%s2_city附近的废墟中发现了一批秘密资料。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_INDUSTRIAL_1</Tag>
@@ -4139,7 +4139,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An archaeological expedition to city ruins near %s2_city has uncovered lost treasures, texts and artifacts.</Chinese>
+    <Chinese>一支探险队在%s2_city附近的废墟中发现了一批珍宝、古籍和艺术品。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CIV_GAME</Tag>
@@ -4148,7 +4148,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our game designers have developed a new addictive game of Civilization. How shall we proceed?</Chinese>
+    <Chinese>我国的游戏设计师开发了一款令人上瘾的全新电脑游戏——《文明》，对此我们应作何反应？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CLASSIC_LITERATURE</Tag>
@@ -4157,7 +4157,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our eldest scholars have collaborated on an effort to collect, record, and preserve all of our oral traditions and unwritten literature.[PARAGRAPH:1]They require storage space for pottery, stone tablets and other artifacts, as well as special repositories within our cities.</Chinese>
+    <Chinese>许多著名学者正致力于搜集、记录和保存在民间口头流传的历史与文学作品。[PARAGRAPH:1]他们要求在我们的城市中建立专门用于贮藏陶器、石板等古代文物的场所。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CLASSIC_LITERATURE_DONE_1</Tag>
@@ -4166,7 +4166,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have met the goals of your scholars and built for them enough [COLOR_BUILDING_TEXT]Libraries[COLOR_REVERT] to store their newly recorded works. Please choose a reward from among the benefits your new treasure trove of written literature are able to provide to you.</Chinese>
+    <Chinese>祝贺你！你已经为学者们建造了足够数量的[COLOR_BUILDING_TEXT]图书馆[COLOR_REVERT]以保存新近搜集整理的经典著作。请在经典文学宝库可带来的奖励中选择一项。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CLUNKER_COAL_1</Tag>
@@ -4175,7 +4175,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Most of the coal being mined from one of our sites is thick with rock, shale, and other impurities. We are stuck with a source of clunker coal!</Chinese>
+    <Chinese>从某个矿井中开采出来的煤炭混有大量泥沙，这种劣质煤炭已经堆积成山！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_COMET_FRAGMENT_1</Tag>
@@ -4184,7 +4184,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A comet fragment has crashed to earth in a remote tundra region, obliterating an entire forest and speeding the earth's rotation by two seconds.</Chinese>
+    <Chinese>一块彗星碎片撞击地球，坠落在寒冷的冻土地带，大片森林被摧毁，还导致地球自转周期加快了2秒钟。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CORPORATE_EXPANSION_1</Tag>
@@ -4193,7 +4193,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Chief Executive Officer of %s11_corporation seeks government incentives to better enable his company to expand.[PARAGRAPH:1]If we can assist in spreading his corporation to new cities, profits will skyrocket.</Chinese>
+    <Chinese>%s11_corporation的首席执行官请求国家给予优惠政策，鼓励他们快速拓展业务。[PARAGRAPH:1]如果我们能资助该公司将业务拓展到更多城市，其收益将像宇宙火箭般迅速窜升。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CORPORATE_EXPANSION_DONE_1</Tag>
@@ -4202,7 +4202,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have completed the quest of Corporate Expansion and enabled %s11_corporation to turn extra profit.</Chinese>
+    <Chinese>祝贺你！你已经完成了“商业扩张”任务，使%s11_corporation能够创造更多的利润。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CRAB_CAKES_1</Tag>
@@ -4211,7 +4211,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Crab cakes prepared in our cities have become enormously popular across the region.</Chinese>
+    <Chinese>我们城市生产的蟹肉饼在各地广受欢迎。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CRISIS_IN_THE_SENATE_1</Tag>
@@ -4220,7 +4220,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The eldest senator of the leading opposition party has been disgraced by scandal. The entire senate has been thrown into chaos.</Chinese>
+    <Chinese>来自最大反对党的一名资深议员遭遇政治丑闻的困扰，导致整个参议院陷入混乱。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_CRUSADE</Tag>
@@ -4247,7 +4247,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A powerful cyclone originating in the southern hemisphere has made landfall at %s2_city.</Chinese>
+    <Chinese>产生于南半球的特大飓风在%s2_city登陆。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_DUSTBOWL_1</Tag>
@@ -4256,7 +4256,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Excessive tilling of the soil on the open plains has caused massive wind erosion and created a dustbowl effect, complete with dust storms.</Chinese>
+    <Chinese>人们在平原地区的过度开垦造成严重的沙尘暴，导致土地日渐贫瘠。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_DUSTBOWL_CONT_1</Tag>
@@ -4265,7 +4265,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The dustbowl effect continues. Another of our Farms has been wiped out by soil loss and by farmers abandoning their steads.</Chinese>
+    <Chinese>随着沙漠化进程的加剧，昔日肥沃的农田变成了荒地。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_EARTHDAY_1</Tag>
@@ -4274,7 +4274,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our government announces the first annual Earth Day to raise awareness of all environmental issues among the populace.</Chinese>
+    <Chinese>我们的政府宣布开展一年一度的“地球日”活动，提升公众对环境问题的关注度。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ELECTRIC_COMPANY_1</Tag>
@@ -4283,7 +4283,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The workers for our electric companies are so happy and well motivated, they repair damaged lines quickly no matter the conditions.</Chinese>
+    <Chinese>我国电力部门的员工爱岗敬业、技术精熟，努力克服各种不利因素的影响，及时地修复发生故障的线路。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ELITE_SWORDS_1</Tag>
@@ -4292,7 +4292,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our military commanders wish to prepare for war.[PARAGRAPH:1]If we train enough [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] units, we should be able to rout our enemies on the field of battle!</Chinese>
+    <Chinese>我们的军事将领希望为战争做好准备。[PARAGRAPH:1]如果我们训练了足够数量的[COLOR_UNIT_TEXT]剑士[COLOR_REVERT]单位，我们就能随心所欲地消灭任何敌人！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ELITE_SWORDS_DONE_1</Tag>
@@ -4301,7 +4301,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have trained a large enough force of [COLOR_UNIT_TEXT]Swordsman[COLOR_REVERT] units. Please choose your reward.</Chinese>
+    <Chinese>祝贺你！你已经拥有了一支强大的[COLOR_UNIT_TEXT]剑士[COLOR_REVERT]部队。请选择你的奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ESTEEMED_PLAYWRIGHT_1</Tag>
@@ -4310,7 +4310,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A prolific playwright from %s2_city has written a long series of exceptionally popular plays. His home theatre has gained renown.</Chinese>
+    <Chinese>%s2_city的一位杰出剧作家创作的一系列剧本广受欢迎，当地剧场因此名声大振。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_EXPERIENCED_CAPTAIN_1</Tag>
@@ -4319,7 +4319,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A retiring captain from one of our most elite naval vessels has pledged his wisdom and abilities toward shipbuilding at the drydock in %s2_city.</Chinese>
+    <Chinese>我国海军一位曾经叱咤风云的退休舰长请求到%s2_city的干船坞工作，继续发挥他的才干。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_1</Tag>
@@ -4346,7 +4346,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tragedy has struck just beyond your border, as the %s1_civ_adjective Empire struggles to feed all its hungry people in %s6_city. Many will die without enough to eat. Should the citizens of %s2_city move to assist them?</Chinese>
+    <Chinese>悲剧在我们的边境发生，虽然%s1_civ_adjective政府尽力赈济%s6_city的饥民，但仍有许多人面临死亡威胁。%s2_city的居民应该努力提供救助吗？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_1</Tag>
@@ -4355,7 +4355,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Farmers outside %s2_city are complaining of bandits robbing them regularly.</Chinese>
+    <Chinese>%s2_city附近的农民因盗匪肆虐而苦不堪言。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_2</Tag>
@@ -4364,7 +4364,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Criminal activity has disrupted food production in a farming region outside %s2_city.</Chinese>
+    <Chinese>%s2_city周边盗匪肆虐，扰乱了粮食生产。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_3</Tag>
@@ -4373,7 +4373,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We may need to take action against thieves in %s2_city who are preying upon our farmers.</Chinese>
+    <Chinese>我们要对在%s2_city猖狂肆虐的盗匪采取行动。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_AGAIN_1</Tag>
@@ -4382,7 +4382,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The local authorities of %s2_city are still struggling to control the bandit activity plaguing our farmers.</Chinese>
+    <Chinese>%s2_city地方政府无力阻止横行乡里的强盗。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_AGAIN_2</Tag>
@@ -4391,7 +4391,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Criminals are still preying on our farmers. A more stringent response may be necessary in %s2_city.</Chinese>
+    <Chinese>我们的农民仍然遭受盗匪侵害，或许有必要在%s2_city周边采取更严厉的措施。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FARM_PLOWS_1</Tag>
@@ -4400,7 +4400,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A new plow design has become popular. Our Forges have filled orders for the new plows from farmers across our lands.</Chinese>
+    <Chinese>一种新型的犁在市场上大受欢迎，各地农场主的订单雪片般飞往我们的煅造场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FASHION_1</Tag>
@@ -4409,7 +4409,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Silk dresses have become the latest fashion, sweeping the nation thanks to radio advertising.</Chinese>
+    <Chinese>在媒体广告的大力宣传下，丝绸服装已成为社会各阶层的流行时尚。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FAUX_PAS_1</Tag>
@@ -4427,7 +4427,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A gladiator from %s2_city has survived many battles in the arena. He is attracting a lot of fans.</Chinese>
+    <Chinese>一位英勇的角斗士在%s2_city赢得了无数场生死角斗的胜利，吸引了大批热情的角斗迷。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FEDERAL_RESERVE_1</Tag>
@@ -4436,7 +4436,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our economists have devised a system of regulating interest rates to help normalize economic growth.</Chinese>
+    <Chinese>我们的经济学家研究出了一套完善的利率管理制度，能够确保经济的平稳增长。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FIRING_PINS_1</Tag>
@@ -4445,7 +4445,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A master smith has devised a firing pin for our grenades, ending the need to use fuses.</Chinese>
+    <Chinese>一位武器大师为我们的手榴弹设计了一种撞针式引信，淘汰了原来使用的导火线。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_1</Tag>
@@ -4454,7 +4454,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A forest fire sparked by lightning has raged across the land near %s2_city.</Chinese>
+    <Chinese>闪电引发的森林大火在%s2_city附近肆虐。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_2</Tag>
@@ -4463,7 +4463,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Criminals have set fire to the forest near %s2_city in a failed bid to aid their escape from justice.</Chinese>
+    <Chinese>一群罪犯在%s2_city附近的森林里纵火，妄想乘乱逃脱法网。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_3</Tag>
@@ -4472,7 +4472,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tragedy has struck near %s2_city as a village fire spread to the forest, scarring the land for miles.</Chinese>
+    <Chinese>悲剧降临了%s2_city，一场小火灾蔓延到了附近的森林，大片绿地化为焦土。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FORTY_THIEVES_1</Tag>
@@ -4481,7 +4481,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The legend of Forty Thieves has attracted treasure hunters and tourists to the area, boosting local commerce.</Chinese>
+    <Chinese>四十大盗的传说吸引了大批追求财富和刺激的冒险者，促进了地方经济的繁荣。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FREEDOMCONCERT_1</Tag>
@@ -4490,7 +4490,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Musical artists from across our nation have gathered in %s2_city to raise money and awareness for the cause of religious freedom.</Chinese>
+    <Chinese>全国各地的音乐家齐聚%s2_city，参加为推进信仰自由而举办的慈善募捐晚会。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FRIENDLY_LOCALS_1</Tag>
@@ -4499,7 +4499,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A small tribe of friendly locals have granted sanctuary to our beleaguered %s3_unit.</Chinese>
+    <Chinese>一个友善的当地部落为遭到围攻的我方%s3_unit单位提供了帮助。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FUEL_ADDITIVES_1</Tag>
@@ -4508,7 +4508,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The mass transit system in %s2_city has implemented a city-wide program of using fuel additives to reduce pollution and improve on maintenance costs and fuel efficiency.</Chinese>
+    <Chinese>%s2_city的公交系统开始推广使用新型燃油添加剂，以减少污染、节约成本并提升燃油效率。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_FUGITIVE_1</Tag>
@@ -4535,7 +4535,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Jewelers have successfully launched a tradition of the diamond ring as the gift of choice for wedding proposals.</Chinese>
+    <Chinese>在珠宝公司的大力宣传下，选择钻戒作为求婚礼物已蔚然成风。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_1</Tag>
@@ -4544,7 +4544,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Small amounts of gold panned from streams have sparked a gold rush to the area by immigrants looking to strike it rich.</Chinese>
+    <Chinese>由于在当地的河滩上发现少量金沙，世界各地的淘金者蜂拥而至，梦想着一夜暴富。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_2</Tag>
@@ -4553,7 +4553,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Prospectors have successfully mined newly discovered veins of gold near %s2_city. The news has produced a gold rush.</Chinese>
+    <Chinese>%s2_city附近新发现了一处金矿，引发了一场淘金热。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GREAT_DEPRESSION_1</Tag>
@@ -4562,7 +4562,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Corporate fraud within our own [COLOR_HIGHLIGHT_TEXT]%s11_corporation[COLOR_REVERT] has collapsed the company's stock price, taking the rest of the market down with it and triggering a global economic depression.</Chinese>
+    <Chinese>我们的[COLOR_HIGHLIGHT_TEXT]%s11_corporation[COLOR_REVERT]被揭发存在商业欺诈行为，其股价暴跌，进而导致证券市场疲软，引发全球经济萧条。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GREAT_MEDIATOR_1</Tag>
@@ -4571,7 +4571,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A great mediator has emerged, offering to arbitrate the dispute between %s1_civ_adjective leadership and our nation. This could be a chance for peace.</Chinese>
+    <Chinese>一位中立国领袖主动提出充当调停者，对%s1_civ_adjective与我国之间的争端进行仲裁，这可能是一个和平的机会。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_GREED_1</Tag>
@@ -4607,7 +4607,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have trained a large enough force of musket units. Please choose your reward.</Chinese>
+    <Chinese>祝贺你！你已经训练了足够数量的火枪手。请选择你的奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HALBERD_1</Tag>
@@ -4616,7 +4616,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our weapon masters have devised a halberd design that remains fully effective versus mounted units but will boost effectiveness versus foot soldiers.</Chinese>
+    <Chinese>我们的武器工匠设计了一种新式长戟，这种新武器不但保持了对骑兵的优势，还增强了对抗步兵的能力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HAMBURGER_JOINT_1</Tag>
@@ -4625,7 +4625,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A new type of rapid-service restaurant selling primarily hamburgers was launched recently. Thanks to successful radio advertising, the chain is now expanding across the nation.</Chinese>
+    <Chinese>一种以销售汉堡为主的新型自助式连锁快餐店在市场上出现，通过媒体广告的大力宣传，这种新型商业模式迅速发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_1</Tag>
@@ -4634,7 +4634,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Moose herds near %s2_city have grown particularly large. Our hunters have harvested a cache of surplus food.</Chinese>
+    <Chinese>%s2_city附近的驯鹿快速繁衍，当地的猎人收获颇丰。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_2</Tag>
@@ -4643,7 +4643,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The people of %s2_city celebrate as the latest caribou hunting season has brought a rich harvest.</Chinese>
+    <Chinese>由于在狩猎季节中收获颇丰，%s2_city居民举城欢庆。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_3</Tag>
@@ -4652,7 +4652,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Deer proliferate through the forest near %s2_city, allowing our hunters to store up extra meat.</Chinese>
+    <Chinese>%s2_city附近的森林中野鹿数量激增，当地的猎人收获颇丰。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HARBORMASTER</Tag>
@@ -4661,7 +4661,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our harbormasters request government aid in expanding our overseas trading empire.[PARAGRAPH:1]We will need to build enough [COLOR_BUILDING_TEXT]Harbors[COLOR_REVERT] in our cities and construct enough ocean worthy ships.</Chinese>
+    <Chinese>我们的港口主管请求政府资助扩张海外贸易。[PARAGRAPH:1]我们需要建造足够数量的[COLOR_BUILDING_TEXT]港口[COLOR_REVERT]和远洋船舶。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HARBORMASTER_DONE_1</Tag>
@@ -4670,7 +4670,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have met the goals of your merchant marine and built for them enough ships and docks to empower their plans. Please choose a reward from among the benefits your new trading empire is able to provide to you.</Chinese>
+    <Chinese>祝贺你！你已经为拓展海上贸易建造了足够数量的港口和船舶。请在海上贸易可带来的奖励中选择一项。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HERESY_1</Tag>
@@ -4679,7 +4679,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A heretical spiritual movement has started in %s2_city and is gaining strength among some sections of our populace.</Chinese>
+    <Chinese>一个发源于%s2_city的异端信仰开始在我国部分地区散播！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HEROIC_GESTURE_1</Tag>
@@ -4697,7 +4697,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An esteemed warlord who operates from the castle in %s2_city has offered to set up a special military academy at his own expense.</Chinese>
+    <Chinese>%s2_city的一位军事首领提议由他出资创办一所军事学院。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HINDENBERG_1</Tag>
@@ -4706,7 +4706,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Reckless merchants used hydrogen instead of helium to fill their dirigibles and one has caught fire and crashed in a spectacularly fatal accident.</Chinese>
+    <Chinese>唯利是图的商人使用氢气而非氦气作为填充气体，导致一艘飞艇起火爆炸并坠毁，造成重大人员伤亡。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HIYOSILVER_1</Tag>
@@ -4715,7 +4715,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Prospectors have discovered rich new veins of Silver ore.</Chinese>
+    <Chinese>探矿者找到了一处储量丰富的银矿。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_1</Tag>
@@ -4724,7 +4724,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our religious leaders believe our people can earn the blessings of the deity if we can reclaim the Holy Mountain![PARAGRAPH:1]They have studied the scriptures with an eye toward locating the holy mountain. They have so far not found it anywhere within our lands and believe that it must lie elsewhere. More study will be needed if we are to identify the sacred location.</Chinese>
+    <Chinese>宗教领袖相信：如果将遥远的圣山纳入我国版图，人民将会得到神灵的眷顾！[PARAGRAPH:1]宗教领袖对提及圣山位置的经文进行了研究。他们未能在我国境内找到圣山，它应该位于世界的其他地方。如果我们想要找到那个地方，就需要对经文进行更多的研究。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_DONE_1</Tag>
@@ -4733,7 +4733,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have located the Holy Mountain and extended your cultural influence over the sacred site!</Chinese>
+    <Chinese>祝贺你！你已经找到了圣山并将本国文化扩展到了这片圣地！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_REVEALED_1</Tag>
@@ -4742,7 +4742,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>You have built enough religious buildings for your religious leaders to solve the puzzle and identify the correct location of the Holy Mountain. Settle near that location to complete the quest!</Chinese>
+    <Chinese>你已经建成足够数量的宗教建筑，你的宗教领袖将能并最终确定圣山的位置了。在那附近建立城市以完成这个任务吧！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HOLY_RITUAL_1</Tag>
@@ -4751,7 +4751,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The high priest of the temple in %s2_city has placed a large order for our domestically produced incense for use in holy rituals.</Chinese>
+    <Chinese>%s2_city的高级祭司准备大量订购薰香用于举办祭仪。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING</Tag>
@@ -4760,7 +4760,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our horse trainers believe that it would be possible to gain a much deeper bond with and understanding of our riding animals.[PARAGRAPH:1]They require a larger and more coordinated network of [COLOR_BUILDING_TEXT]Stables[COLOR_REVERT] to pursue this goal.</Chinese>
+    <Chinese>我们的驯马师相信骑手与马匹之间可以进一步增进相互了解，建立牢固的感情纽带。[PARAGRAPH:1]为实现这一目标，他们要求在各个城市兴建设施完善的[COLOR_BUILDING_TEXT]马厩[COLOR_REVERT]。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING_DONE_1</Tag>
@@ -4769,7 +4769,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have met the goals of your horse trainers and built for them enough facilities to empower their plans. Please choose a reward from among the benefits your horse trainers are able to provide to you.</Chinese>
+    <Chinese>祝贺你！你已经建成了足够数量的马厩，请在驯马师可带来的奖励中选择一项。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HORSESHOE_1</Tag>
@@ -4778,7 +4778,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A brilliant smith has developed significant innovation in the design of horseshoes.</Chinese>
+    <Chinese>一位煅造大师改进了马掌设计。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HORTICULTURE_1</Tag>
@@ -4787,7 +4787,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Herbalists have discovered rare and precious plants that grow in abundance only in a certain region near %s2_city.</Chinese>
+    <Chinese>草药医生发现一种稀有的药用植物在%s2_city附近大量生长。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HORTICULTURE_2</Tag>
@@ -4796,7 +4796,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A medicinal tea cultivated by locals has been found to be effective with treating illnesses. This tea grows only in a specific region near %s2_city.</Chinese>
+    <Chinese>生长于%s2_city附近一种茶树被发现极具治疗功效，成为当地独有的特产。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HORTICULTURE_3</Tag>
@@ -4805,7 +4805,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Certain rare insects found near %s2_city, when harvested and ground into a paste by a reclusive tribe, can be ingested to reduce fever.</Chinese>
+    <Chinese>在%s2_city附近发现了一种稀有昆虫，当地部落居民将其碾成糊状服用以治疗热病。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HOSTILE_TAKEOVER_1</Tag>
@@ -4814,7 +4814,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Chief Executive Officer of %s11_corporation covets getting out from under the thumb of foreign suppliers of raw materials.[PARAGRAPH:1]If we can obtain control over all resource types his corporation needs for industrial use, their profits will skyrocket.</Chinese>
+    <Chinese>%s11_corporation的首席执行官渴望摆脱受制于外国原材料供应商的状况。[PARAGRAPH:1]如果我们能控制该公司需要的所有资源，其收益将像宇宙火箭般迅速窜升。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HOSTILE_TAKEOVER_DONE_1</Tag>
@@ -4823,7 +4823,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have completed the quest of Hostile Takeover and enabled %s11_corporation to turn extra profit.</Chinese>
+    <Chinese>祝贺你！你已经完成了“恶意接管”任务，使%s11_corporation能够创造更多的利润。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HURRICANE_1</Tag>
@@ -4832,7 +4832,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A powerful hurricane has made a direct hit on %s2_city.</Chinese>
+    <Chinese>特大飓风袭击了%s2_city。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_1</Tag>
@@ -4841,7 +4841,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The music played in your %s5_building in %s2_city has inspired a young person, who has grown into a Great Artist!</Chinese>
+    <Chinese>一位年轻人受到%s2_city的%s5_building中演奏的音乐熏陶，逐渐成长为杰出的大艺术家。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_2</Tag>
@@ -4850,7 +4850,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The art and sculpture decorating the %s5_building in %s2_city has nurtured the imagination and talents of a new Great Artist!</Chinese>
+    <Chinese>%s2_city的%s5_building中的壁画和雕塑激发了一位年轻的大艺术家的想象力和创造力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_ICE_SCULPTURE_1</Tag>
@@ -4859,7 +4859,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An artist in the frozen tundra near %s2_city has perfected a means of crafting beautiful ice sculptures.</Chinese>
+    <Chinese>一位艺术家在%s2_city附近的冰天雪地中完善了制作美丽冰雕作品的方法。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_IMMIGRANTS</Tag>
@@ -4868,7 +4868,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Immigrants are flowing to %s2_city inspired by stories of its culture!</Chinese>
+    <Chinese>%s2_city悠久的历史文化吸引了许多新移民前往定居！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_IMPACT_CRATER_1</Tag>
@@ -4877,7 +4877,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Researchers have discovered a large incidence of naturally formed glass globules in an area around a wide circular valley.</Chinese>
+    <Chinese>科学家在一处巨大的环形山谷中发现了大量天然玻璃球。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_INDEPENDENTFILMS_1</Tag>
@@ -4886,7 +4886,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A community of independent film producers based in %s2_city has managed to secure a slice of the Hit Movies market.</Chinese>
+    <Chinese>%s2_city集中了多家独立电影公司，在世界电影市场上占有极大份额。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_INDUSTRIAL_FIRE_1</Tag>
@@ -4895,7 +4895,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A fire at the Factory in %s2_city, which was started by a worker's mistake, has gutted the building.</Chinese>
+    <Chinese>%s2_city的一座工厂被工人操作失误引起的大火烧毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_INFLUENZA_1</Tag>
@@ -4904,7 +4904,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An influenza epidemic has struck hard at the people of %s2_city. Most have fallen ill and many are dying.</Chinese>
+    <Chinese>%s2_city暴发了一场严重的流感，许多人患病死亡。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_INSPIRED_MISSION_1</Tag>
@@ -4922,7 +4922,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our engineers have conceived a national highway system of divided highways free of all traffic stops, built in straight lines on smooth grades.</Chinese>
+    <Chinese>我们的工程师完成了多车道、全封闭、全立交的现代化国家公路网设计。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_JADE_1</Tag>
@@ -4931,7 +4931,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A rich source of jade has been found amongst the veins of iron at one of our mines.</Chinese>
+    <Chinese>工人在一处铁矿脉中发现丰富的玉石原料。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_1</Tag>
@@ -4967,7 +4967,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A scientific breakthrough has occurred at the Laboratory in %s2_city.</Chinese>
+    <Chinese>%s2_city的实验室获得了一项重大科研突破。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_1</Tag>
@@ -4985,7 +4985,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Two prominent families, one from our people and one from the %s1_civ_adjective Empire, are feuding over their children. A groom, from our family, jilted his would-be bride by walking his cold feet right on out of the temple, insulting and outraging his would-be inlaws.</Chinese>
+    <Chinese>两个显赫的贵族世家，一个来自我国，另一个来自%s1_civ_adjective，正为他们的孩子而发生激烈冲突。由于新郎在教堂中突然抛弃新娘独自逃走，严重激怒了对方家族。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_3</Tag>
@@ -5003,7 +5003,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our citizenry enjoys virtually universal literacy. This achievement is bound to pay off in unexpected ways.</Chinese>
+    <Chinese>我们已经成功普及了基础教育，这一成就将带来长远而深刻的社会影响。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LONG_RANGE_FIGHTERS_1</Tag>
@@ -5012,7 +5012,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our engineers have developed an advanced fighter design that is lighter and carries slightly more fuel, extending its operational range.</Chinese>
+    <Chinese>我们的工程师们研制出了一种先进的战斗机，新机型的重量更轻、载油量更多，作战范围因而大大提升。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_LOOTERS_1</Tag>
@@ -5039,7 +5039,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>While hunting, our %s3_unit has discovered a rich supply of a black oil that burns rather hot.</Chinese>
+    <Chinese>我们的%s3_unit在野外狩猎时偶然发现了一种能够炙烈燃烧的黑油。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MARATHON_1</Tag>
@@ -5048,7 +5048,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A brave and hardy soldier has run over twenty-six miles on foot to warn of the invasion!</Chinese>
+    <Chinese>一名勇敢而坚强的战士徒步奔跑了26英里，带回敌人入侵的警讯！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MARBLE_STATUES_1</Tag>
@@ -5057,7 +5057,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Local officials in %s2_city have ordered a large number of marble statues to adorn their public buildings and their forum.</Chinese>
+    <Chinese>%s2_city地方官员订购了许多大理石雕像，用于装饰各大公共建筑和市政广场。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MASTER_BLACKSMITH</Tag>
@@ -5066,7 +5066,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The master blacksmith in %s2_city has offered to take on and train multiple apprentices if the government will build new forges for them to operate once their training has been completed.[PARAGRAPH:1]We will need to build enough [COLOR_BUILDING_TEXT]Forges[COLOR_REVERT] in our cities to accommodate the master's new students.</Chinese>
+    <Chinese>%s2_city的一位煅造大师希望政府建造更多的煅造场，以便为他招收的众多学徒提供良好的训练和工作环境。[PARAGRAPH:1]我们需要建造足够数量的[COLOR_BUILDING_TEXT]煅造场[COLOR_REVERT]以接纳大师的新学徒们。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MASTER_BLACKSMITH_DONE_1</Tag>
@@ -5075,7 +5075,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have met the goals of your master blacksmith and built enough [COLOR_BUILDING_TEXT]Forges[COLOR_REVERT] for each for his students to have his own to operate. Please choose a reward from among the benefits your new metalworking empire is able to provide to you.</Chinese>
+    <Chinese>祝贺你！你已经为煅造大师和他的学徒建造了足够数量的[COLOR_BUILDING_TEXT]煅造场[COLOR_REVERT]，请在“冶金王国”可带来的奖励中选择一项。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MASTER_SMITH_1</Tag>
@@ -5084,7 +5084,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2_city has produced a grand master blacksmith who has overseen the expansion and upgrade of the Forge to increase its efficiency.</Chinese>
+    <Chinese>在%s2_city，一位煅造大师改进了熔炉设计，提高了生产效率。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_METAL_DECKS_1</Tag>
@@ -5093,7 +5093,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our shipmasters have concluded that switching to steel decks on our carriers instead of wooden decks would be to our advantage.</Chinese>
+    <Chinese>我们的船舶工程师决定将航空母舰原本使用的木制甲板改为钢制甲板，以提升其性能。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_1</Tag>
@@ -5102,7 +5102,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A minor earthquake near %s2_city has caused the collapse of a nearby mine. Trapped miners have perished by the hundreds.</Chinese>
+    <Chinese>%s2_city附近发生了一场地震，造成附近矿井坍塌，有数以百计的矿工遇难。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_2</Tag>
@@ -5111,7 +5111,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A massive explosion has destroyed one of our mines. The cause is unknown, but hundreds are dead.</Chinese>
+    <Chinese>我国的一处矿井毁于不明原因的大爆炸，数百名矿工遇难。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_3</Tag>
@@ -5120,7 +5120,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tragedy has struck near %s2_city as poisonous gases filled a mine and struck down most of the miners who were inside.</Chinese>
+    <Chinese>%s2_city附近的矿井发生了一场悲剧：地下喷出的致命毒瓦斯导致井下矿工几乎全部遇难。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MIRACLE_1</Tag>
@@ -5129,7 +5129,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A miracle is believed to have occurred at the city wall in %s2_city. Pilgrims are flocking from all over to visit the new holy site.</Chinese>
+    <Chinese>据报在%s2_city发生了奇迹，大批朝圣者从各地涌向这个新的圣地。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MODERNOLYMPICS_1</Tag>
@@ -5138,7 +5138,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>In the spirit of international cooperation, the city of %s2_city has decided to revive its ancient tradition of the Games, forming this in to a world event.</Chinese>
+    <Chinese>本着国际协作精神，%s2_city决定复兴古代运动会的传统，将现代运动会办成一场世界性的体育盛事。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MONEY_CHANGERS_1</Tag>
@@ -5147,7 +5147,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Market in %s2_city has attracted a number of prominent money changers and is becoming renowned for its dealings involving foreign currency.</Chinese>
+    <Chinese>%s2_city的市场聚集了许多资本雄厚的货币兑换商，使那里成为著名的外汇交易中心。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MONSOON_1</Tag>
@@ -5156,7 +5156,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Although %s2_city is used to some flooding during monsoon season, a rare and powerful monsoon has brought devastatingly strong floods this year.</Chinese>
+    <Chinese>尽管%s2_city人已经习惯了河流的季节性泛滥，然而这场洪水威力空前，造成了严重的破坏。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MOTHER_LODE_1</Tag>
@@ -5165,7 +5165,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our gold miners near %s2_city have struck the mother lode! We are rich, rich, rich!</Chinese>
+    <Chinese>我们的矿工在%s2_city附近的金矿中找到了主矿脉，我们发财了！发财了！发财了！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_MOTOR_OIL_1</Tag>
@@ -5174,7 +5174,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our chemists have developed an improved motor oil that lasts longer and lubricates engines better.</Chinese>
+    <Chinese>我们的化学家改进了润滑油的提炼方法，能够大大提升发动机性能。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_NEW_DYNASTY_1</Tag>
@@ -5183,7 +5183,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The old dynasty has died out! No more hereditary heirs remain to claim the throne!</Chinese>
+    <Chinese>古老的王朝宣告灭亡！没有留下合法继承者！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_NOBLE_KNIGHTS_1</Tag>
@@ -5201,7 +5201,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have trained a large enough force of [COLOR_UNIT_TEXT]Knight[COLOR_REVERT] units. Please choose your reward.</Chinese>
+    <Chinese>祝贺你！你已经训练了足够数量的[COLOR_UNIT_TEXT]骑士[COLOR_REVERT]单位。请选择你的奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_OVERWHELM_1</Tag>
@@ -5210,7 +5210,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our brightest admiral has proposed an amphibious assault strategy designed to capture port cities with lightning strikes.[PARAGRAPH:1]If we construct a large enough aircraft carrier battle fleet, we can bring any coastal city to its knees, making it much easier to attack amphibiously. We need a force large enough to disable all defenses with heavy shore bombardment and soften the defenders by bombing from the air. Then our troops may land on the same day the battle begins and thrust inland against a foe who will be in total disarray.</Chinese>
+    <Chinese>我们的海军将领设想了一种通过快速突袭夺取敌方重要港口城市的新型两栖攻击策略。[PARAGRAPH:1]如果我们建立一个强大的航空母舰战斗群，我们就能欲心所欲地控制任何沿海城市。我们需要足够的海空战力，先利用舰炮和飞机进行地毯式的轰炸摧毁敌军防御设施，再发动大规模两栖登陆并迅速深入敌国内陆地区，使其彻底丧失抵抗能力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_OVERWHELM_DONE_1</Tag>
@@ -5219,7 +5219,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have built a powerful Aircraft Carrier battle fleet capable of conquering enemy cities in a single attack. A force capable of executing the Overwhelm Doctrine is now yours to command. Please choose your reward.</Chinese>
+    <Chinese>祝贺你！你已经建立了一个强大的航空母舰战斗群，能够作为推行“绝对优势”战略的利器，向敌国城市发动毁灭性的海空打击。请选择你的奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PARROTS_1</Tag>
@@ -5228,7 +5228,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tamers have figured out how to farm the abundant supply of parrots within one of our tropical forest regions.</Chinese>
+    <Chinese>热带森林地区的居民大量饲养鹦鹉。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PARTISANS_1</Tag>
@@ -5237,7 +5237,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our city of %s6_city has been destroyed by the rampaging %s1_civ_adjective army. Some of our citizens are forming partisan resistance!</Chinese>
+    <Chinese>我们的城市%s6_city已经被残暴的%s1_civ_adjective军队夷为平地，一些幸存的市民组织起一支游击队！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_1</Tag>
@@ -5246,7 +5246,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Upon his passing, a patron of knowledge from %s2_city has willed his extensive collection of writings to the library.</Chinese>
+    <Chinese>根据一位热爱学术的收藏家立下的遗嘱，当地图书馆获赠一批珍贵的手稿。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_2</Tag>
@@ -5255,7 +5255,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A wealthy family from %s2_city has discovered a cache of lost and rare writings in one of their vaults. They have opted to give these materials to the library.</Chinese>
+    <Chinese>一位%s2_city当地的富豪在密室中找到一批珍贵的手稿，决定将其捐赠给公共图书馆。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PERSONAL_COMPUTERS_1</Tag>
@@ -5264,7 +5264,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Personal computers manufactured in %s2_city are in high demand among homes and small businesses.</Chinese>
+    <Chinese>%s2_city出产的个人电脑广受家庭用户和小型公司的欢迎。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_1</Tag>
@@ -5273,7 +5273,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A plague of locusts have swarmed over a Pasture near %s2_city, destroying all the livestock there.</Chinese>
+    <Chinese>蝗灾席卷%s2_city附近的牧场，导致大批牲畜饿死。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_2</Tag>
@@ -5282,7 +5282,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fire ant armies of massive proportion have laid waste to grazing lands near %s2_city.</Chinese>
+    <Chinese>大群火蚁横扫%s2_city附近地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_3</Tag>
@@ -5291,7 +5291,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Massive colonies of termites have overrun and destroyed some of our agriculture near %s2_city.</Chinese>
+    <Chinese>%s2_city附近白蚁泛滥成灾，一些农田被毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_4</Tag>
@@ -5300,7 +5300,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A plague of locusts have swarmed over a Plantation near %s2_city, destroying all the crops there.</Chinese>
+    <Chinese>蝗灾席卷在%s2_city附近的种植园，导致大量经济作物被毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_5</Tag>
@@ -5309,7 +5309,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fire ant armies of massive proportion have laid waste a region of plantations lands near %s2_city.</Chinese>
+    <Chinese>大群火蚁横扫%s2_city附近地区。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_PRAIRIE_DOGS_1</Tag>
@@ -5318,7 +5318,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Tamers have figured out how to domesticate the abundant supply of prairie dogs on the open range. They are now selling these as pets.</Chinese>
+    <Chinese>草原居民大量驯养土拨鼠，并作为宠物销售。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_REFORMATION</Tag>
@@ -5336,7 +5336,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our shipmasters have devised a way to reinforce the hulls of our triremes. This will help with both ramming and being rammed.</Chinese>
+    <Chinese>我们的船舶工程师找到了加固三层桨战船船身的新方法，使其在撞击敌舰和遭敌撞击时都更具优势。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_RIFLED_CANNON_1</Tag>
@@ -5345,7 +5345,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our knowledge of rifled barrels has been successfully applied to new cannon designs.</Chinese>
+    <Chinese>我们的新型加农炮成功应用了线膛炮管技术。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_RUNNING_BULLS_1</Tag>
@@ -5354,7 +5354,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The people of %s2_city have launched a popular new tradition called "Running With the Bulls."</Chinese>
+    <Chinese>%s2_city的“奔牛节”成为广受欢迎的传统娱乐项目。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_RURAL_FARMERS_1</Tag>
@@ -5363,7 +5363,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A grocer in %s2_city has struck a deal with rural farmers who live outside the normal range of business of any major city.</Chinese>
+    <Chinese>%s2_city的一位杂货商与远郊区的农民签订了一份收购协议。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SALTPETER_1</Tag>
@@ -5372,7 +5372,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our bat herds in the hills near %s2_city, legendary in quantity, are now providing us surplus sources of saltpeter for use in gunpowder.</Chinese>
+    <Chinese>%s2_city附近山洞中生活着数量庞大的蝙蝠，我们可以从山洞中大量采集硝石制造火药。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SEA_TURTLES_1</Tag>
@@ -5381,7 +5381,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The locals have figured out the mating cycles of the sea turtles who flock to the shore in massive quantities. They have begun to harvest the turtles and eggs, in a way that does not endanger the long term survival of the creatures.</Chinese>
+    <Chinese>滨海居民发现了海龟的洄游规律，特定季节会有大量海龟在沙滩上聚集。人们在那时大量捕捉海龟并收获海龟蛋，当然以不影响该物种的长期生存为基础。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SECRET_KNOWLEDGE_1</Tag>
@@ -5390,7 +5390,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A cache of ancient writings has been discovered hidden away in a cubby hole in a monastery in %s2_city!</Chinese>
+    <Chinese>在%s2_city修道院地下的隐秘洞穴里发现了一批古籍。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SECURITY_TAX_1</Tag>
@@ -5399,7 +5399,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our citizenry, fully protected by city walls, have accepted the burden of a Security Tax to help maintain their protection.</Chinese>
+    <Chinese>由于获得新建城墙的良好保护，我们的市民同意额外交纳“安全税”以维护防御系统的运作。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SETBACK_1</Tag>
@@ -5408,7 +5408,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our researchers have experienced a setback in their efforts.</Chinese>
+    <Chinese>我们的科学家遭遇重大挫折，研究进度放缓。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_1</Tag>
@@ -5417,7 +5417,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A slave revolt has taken place in %s2_city!</Chinese>
+    <Chinese>%s2_city发生奴隶暴动。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_2</Tag>
@@ -5426,7 +5426,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The slaves in %s2_city have rebelled against their keepers. The city is in chaos.</Chinese>
+    <Chinese>%s2_city的奴隶揭竿而起，城市陷入混乱。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_3</Tag>
@@ -5435,7 +5435,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Production at %s2_city has been halted temporarily by rebellious slaves.</Chinese>
+    <Chinese>由于发生奴隶暴动，%s2_city的生产陷于停顿。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_1</Tag>
@@ -5444,7 +5444,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The local authorities in %s2_city have so far been unable to put down the slave revolt.</Chinese>
+    <Chinese>%s2_city的地方政府无力镇压奴隶暴动。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_2</Tag>
@@ -5453,7 +5453,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The slave revolt in %s2_city continues unabated. The economy there is at a standstill.</Chinese>
+    <Chinese>%s2_city的奴隶暴动愈演愈烈，当地经济陷入瘫痪。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_WARNING</Tag>
@@ -5462,7 +5462,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The slaves of %s2_city are on the verge of revolt!</Chinese>
+    <Chinese>%s2_city的奴隶无法继续忍受残酷的压迫！整个社会面临严重危机。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SMOKELESS_POWDER_1</Tag>
@@ -5471,7 +5471,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The invention of smokeless powder has improved the effectiveness of our muskets on the battlefield.</Chinese>
+    <Chinese>无烟火药的发明使我们的火枪手能够更好的发挥战斗力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SOLO_FLIGHT_1</Tag>
@@ -5480,7 +5480,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A daring pilot has successfully flown around the globe in a single person airplane.</Chinese>
+    <Chinese>一位勇敢的飞行员驾驶一架小型单座飞机，胜利完成了首次单人环球飞行。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SOUR_CRUDE_1</Tag>
@@ -5489,7 +5489,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Most of the crude oil being pumped from one of our sites is thick with sulfur and other impurities. We are stuck with a source of sour crude!</Chinese>
+    <Chinese>从某个油井中开采出来的原油含有大量硫磺，这种劣质原油已积压了数百万桶。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SPICY_1</Tag>
@@ -5498,7 +5498,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An innovative chef has discovered a new type of spice, which grows only in a forest near %s2_city.</Chinese>
+    <Chinese>一位厨师发现了一种新香料，这种香料仅出产于%s2_city附近的森林。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SPOILED_GRAIN_1</Tag>
@@ -5507,7 +5507,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vermin have gotten in to the granary in %s2_city. All the food stored there is spoiled.</Chinese>
+    <Chinese>%s2_city的粮仓发生虫害，粮食储备严重受损。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SPORTS_LEAGUE</Tag>
@@ -5534,7 +5534,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A large order of stained glass has been shipped to %s2_city.</Chinese>
+    <Chinese>%s2_city地方政府大量购入彩色玻璃。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_STRONGER_FITTINGS_1</Tag>
@@ -5543,7 +5543,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Weaponsmiths have improved the strength and durability of fittings used to make crossbows. This allows for stronger tension and improved power.</Chinese>
+    <Chinese>武器工匠改进了弩机设计，使弩的射程和威力大大提升。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_SUBWAY_1</Tag>
@@ -5552,7 +5552,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The glorious city of %s2_city has added an underground railroad network to its mass transit system, greatly boosting commercial traffic.</Chinese>
+    <Chinese>现代化的%s2_city又新增了一种公共交通设施——地铁，极大地促进了城市经济发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TEA_1</Tag>
@@ -5570,7 +5570,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A new breed of race horse is generating a lot of revenue from our stables.</Chinese>
+    <Chinese>一个新赛马品种的成功繁育为我们的马厩带来了一笔额外利润。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TIN_1</Tag>
@@ -5579,7 +5579,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A rich source of Tin has been discovered in the hills!</Chinese>
+    <Chinese>在山区发现贮量丰富的锡矿！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TOO_CLOSE_TO_CALL_1</Tag>
@@ -5588,7 +5588,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Election results are so close, they fall within the margin of error typically written off to system inadequacies such as lost or mismarked ballots, hanging chads, or counting errors. With no indisputable way to decipher the true vote count, the election's outcome has been placed in the hands of the courts.</Chinese>
+    <Chinese>大选的票数是如此接近，以至于诸如丢失选票、错涂选票、作废选票、统计错误等情况可能对结果造成直接影响。在存在巨大争议的情况下，只能由宪法法院来作出最终裁定。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_1</Tag>
@@ -5597,7 +5597,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The heavens opened up and down came the fist of retribution. Terrible twisting rages of air wiped away our %s8_improvement.</Chinese>
+    <Chinese>上天向我们显示了怒火，强烈的飓风摧毁了我们的%s8_improvement。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_2</Tag>
@@ -5606,7 +5606,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An extremely violent weather system filled with powerful tornadoes wrecked our %s8_improvement.</Chinese>
+    <Chinese>强烈的飓风摧毁了我们的%s8_improvement。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_3</Tag>
@@ -5615,7 +5615,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A perfect storm spawned numerous F5 Class tornadoes, carving a path of destruction across our lands, smashing our %s8_improvement.</Chinese>
+    <Chinese>强烈的飓风横扫了我们的国土，摧毁了我们的%s8_improvement。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TOWER_SHIELD_1</Tag>
@@ -5624,7 +5624,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Invention of the tower shield has provided our foot soldiers with some protection against archers.</Chinese>
+    <Chinese>塔盾的发明使我们的步兵能够有效地防御弓箭。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TRADING_COMPANY_CONQUERORS</Tag>
@@ -5642,7 +5642,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A rich source of truffles has been discovered in a series of caves. The locals have begun to farm them.</Chinese>
+    <Chinese>在当地的洞穴中发现了美味的块菌，人们开始大量养殖。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_TSUNAMI_1</Tag>
@@ -5651,7 +5651,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A wall of water more than fifteen meters high has struck without warning at %s2_city. The tsunami has caused unprecedented destruction!</Chinese>
+    <Chinese>在没有任何先兆的情况下，高达15米的“水墙”袭击了%s2_city，这次海啸造成了空前的破坏。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_VOLCANO_1</Tag>
@@ -5660,7 +5660,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A volcano has erupted near %s2_city, spewing deadly ash clouds, lava flows, and mud- and debris-filled snow melts.</Chinese>
+    <Chinese>%s2_city附近的火山突然喷发，炽热的火山灰云将天空完全遮蔽。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WAR_CHARIOTS_1</Tag>
@@ -5669,7 +5669,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our military commanders wish to prepare for war.[PARAGRAPH:1]If we train enough [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] units, we should be able to rout our enemies on the field of battle!</Chinese>
+    <Chinese>我们的军事将领希望为战争做好准备。[PARAGRAPH:1]如果我们训练了足够数量的[COLOR_UNIT_TEXT]战车[COLOR_REVERT]单位，我们就能随心所欲地消灭任何敌人！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WAR_CHARIOTS_DONE_1</Tag>
@@ -5678,7 +5678,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have trained a large enough force of [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] units. Please choose your reward.</Chinese>
+    <Chinese>祝贺你！你已经拥有了一支强大的[COLOR_UNIT_TEXT]战车[COLOR_REVERT]部队。请选择你的奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WARSHIPS_1</Tag>
@@ -5687,7 +5687,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Our naval commanders wish to prepare for war.[PARAGRAPH:1]If we train enough [COLOR_UNIT_TEXT]Trireme units[COLOR_REVERT], we could dominate the seas!</Chinese>
+    <Chinese>我们的海军将领希望为战争做好准备。[PARAGRAPH:1]如果我们训练了足够数量的[COLOR_UNIT_TEXT]三层桨战船[COLOR_REVERT]单位，我们就能随心所欲地支配海洋！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WARSHIPS_DONE_1</Tag>
@@ -5696,7 +5696,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congratulations! You have built the world's largest combat navy. Please choose your reward.</Chinese>
+    <Chinese>祝贺你！你已经拥有了全世界最强大的海军。请选择你的奖励。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WASHED_OUT_1</Tag>
@@ -5705,7 +5705,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Floods have washed out the routes near %s2_city.</Chinese>
+    <Chinese>洪水冲毁了%s2_city附近的道路。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WATERS_OF_LIFE_1</Tag>
@@ -5714,7 +5714,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Folklore claims that the Waters of Life may be drawn from a certain oasis. Rumors are spreading that these waters can heal the sick and injured.</Chinese>
+    <Chinese>据传某个绿洲存在一眼能够治病疗伤的“生命之泉”。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_1</Tag>
@@ -5750,7 +5750,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sailors have spotted a new population of whales.</Chinese>
+    <Chinese>我们的水手在海上发现大量鲸鱼。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRIGGER_WININGMONKS_1</Tag>
@@ -5759,7 +5759,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Monks from the Monastery in %s2_city have grown their private vinyards large enough for them to become nationally significant.</Chinese>
+    <Chinese>%s2_city修道院的僧侣们努力经营葡萄园，那里出产的美酒享誉全国。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TRUFFLES_1</Tag>
@@ -5768,7 +5768,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Truffles! How delicious. Our people eat richly, do they not?</Chinese>
+    <Chinese>块菌！太美味了。我们的人民难道会不喜欢美食吗？</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TSUNAMI_1</Tag>
@@ -5777,7 +5777,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The city now lies in ruins. All life has been lost, all property obliterated.</Chinese>
+    <Chinese>城市变成了废墟，市民几乎全部死亡，建筑几乎全部被毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TSUNAMI_2</Tag>
@@ -5786,7 +5786,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The city has suffered massive loss of life and property. Recovery will take decades.</Chinese>
+    <Chinese>人员和财产损失严重，需要数十年才能恢复。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_TSUNAMI_2_HELP</Tag>
@@ -5795,7 +5795,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Up to %d1 buildings destroyed in %s2_city</Chinese>
+    <Chinese>[ICON_BULLET]%s2_city共有%d1座建筑物被毁</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_UNIT_AT_THE_SWORD</Tag>
@@ -5804,7 +5804,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Heroes of the Sword</Chinese>
+    <Chinese>战争英雄</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_VOLCANO_1</Tag>
@@ -5813,7 +5813,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send what aid we can to the survivors. Be thankful that the city itself was not struck.</Chinese>
+    <Chinese>尽力救助幸存者，幸好城市未被完全摧毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_VOLCANO_1_HELP</Tag>
@@ -5822,7 +5822,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]Suffer loss of plot improvements near the eruption</Chinese>
+    <Chinese>[ICON_BULLET]火山附近的区域设施被摧毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WAR_CHARIOTS_1</Tag>
@@ -5831,7 +5831,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>War Chariots[PARAGRAPH:1]You are tasked by your military leaders to train a sizable force of [COLOR_UNIT_TEXT]Chariots[COLOR_REVERT].</Chinese>
+    <Chinese>“战车部队”任务[PARAGRAPH:1]你的军事将领请求训练足够数量的[COLOR_UNIT_TEXT]战车[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WAR_CHARIOTS_DONE_1</Tag>
@@ -5840,7 +5840,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>With such a large force of chariots working together, additional training for these units can be achieved.</Chinese>
+    <Chinese>我们应该加强对这支强大战车部队的训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WAR_CHARIOTS_DONE_2</Tag>
@@ -5849,7 +5849,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Leverage our military advantage into a drive to spread our faith.</Chinese>
+    <Chinese>利用强大的军事优势传播我们的信仰。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WAR_CHARIOTS_HELP_1</Tag>
@@ -5858,7 +5858,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must train %d1 [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT] [NUM1:unit:units]. A source of Horses will be required.[PARAGRAPH:1]An additional reward option will be available if your civilization has a state religion.[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you arrive at the Classical Era without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须训练%d1个[COLOR_UNIT_TEXT]战车[COLOR_REVERT]单位，这需要拥有马匹资源。[PARAGRAPH:1]如果你的国家设立了官方信仰，将可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你进入古典时代仍未达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WARSHIPS_1</Tag>
@@ -5867,7 +5867,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Warships[PARAGRAPH:1]You are tasked by your naval commanders to build a sizable force of [COLOR_UNIT_TEXT]Triremes[COLOR_REVERT].</Chinese>
+    <Chinese>“无敌舰队”任务[PARAGRAPH:1]你的海军将领请求训练足够数量的[COLOR_UNIT_TEXT]三层桨战船[COLOR_REVERT]单位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WARSHIPS_DONE_1</Tag>
@@ -5876,7 +5876,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>With such a large fleet of warships, additional training for the crews can be achieved.</Chinese>
+    <Chinese>我们应该加强对这支强大海军的训练。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WARSHIPS_DONE_2</Tag>
@@ -5885,7 +5885,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Leverage our dominance of the sea to better protect our trade routes.</Chinese>
+    <Chinese>利用我们的制海权加强对商路的保护。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WARSHIPS_HELP_1</Tag>
@@ -5894,7 +5894,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[PARAGRAPH:1]To complete this quest, you must train %d1 [COLOR_UNIT_TEXT]Trireme[COLOR_REVERT] [NUM1:unit:units].[PARAGRAPH:1]An additional reward option will be available if your civilization has built [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]You will fail this quest if a rival civilization completes it first, or if you arrive at the Renaissance without having met the conditions.</Chinese>
+    <Chinese>[PARAGRAPH:1]要完成这项任务，你必须训练%d1个[COLOR_UNIT_TEXT]三层桨战船[COLOR_REVERT]单位。[PARAGRAPH:1]如果你的文明建造了[COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT]，将可以获得一个额外奖励选项。[PARAGRAPH:1]如果其他文明率先达成目标，或者当你进入中古时代仍未达成目标，你的任务将宣告失败。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WASHED_OUT_1</Tag>
@@ -5903,7 +5903,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>We will have to send workers to repair them at a later time.</Chinese>
+    <Chinese>我们稍后将派工人进行修复。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WASHED_OUT_2</Tag>
@@ -5912,7 +5912,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dispatch emergency crews to repair the damage, without heed to cost.</Chinese>
+    <Chinese>立即派遣抢修队，不惜代价地迅速修复。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WATERS_OF_LIFE_1</Tag>
@@ -5921,7 +5921,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>This will attract more traffic to the oasis? That sounds good.</Chinese>
+    <Chinese>这会吸引更多人到那个绿洲吧？听起来很不错。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_1</Tag>
@@ -5930,7 +5930,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send well wishes and a token wedding gift, trying not to further anger our neighbors.</Chinese>
+    <Chinese>送上美好的祝福和象征性的礼物，尝试不再激怒邻国。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_2</Tag>
@@ -5939,7 +5939,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Send hearty congratulations and a generous wedding gift.</Chinese>
+    <Chinese>送上衷心的祝福和大方得体的礼物。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_2_HELP</Tag>
@@ -5948,7 +5948,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET]%D1[ICON_HAPPY] in all cities with %F3_religion for %d2 [NUM2:turn:turns]</Chinese>
+    <Chinese>[ICON_BULLET]所有信仰%F3_religion的城市%D1[ICON_HAPPY]，持续%d2回合</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_3</Tag>
@@ -5957,7 +5957,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Announce a national celebration, send an outlandish wedding gift and donate generously to our religious organizations in the name of the newlyweds. This is likely going to trigger war!</Chinese>
+    <Chinese>宣布举国欢庆，送上最珍奇的礼物并以新人的名义向我们的宗教机构慷慨解囊。但这可能会引发战争！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_3_HELP</Tag>
@@ -5966,7 +5966,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] relations boost with all %F2_religion leaders</Chinese>
+    <Chinese>[ICON_BULLET]所有信仰%F2_religion的领袖态度[COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT]</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_1</Tag>
@@ -6002,7 +6002,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That sounds like welcome news for our economy.</Chinese>
+    <Chinese>这个消息有利于我们的经济发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WININGMONKS_1</Tag>
@@ -6011,7 +6011,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>That sounds like welcome news for our economy.</Chinese>
+    <Chinese>这个消息有利于我们的经济发展。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENT_WININGMONKS_2</Tag>
@@ -6020,7 +6020,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commit our government to harvesting this new resource immediately.</Chinese>
+    <Chinese>让政府接手管理这处新资源。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_AIRLINER_CRASH</Tag>
@@ -6047,7 +6047,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The %s2_city Games have become a unifying event for all those who are able to participate.</Chinese>
+    <Chinese>在%s2_city举办了一场盛大的综合运动会，大批选手同场竞技，无数观众欢聚一堂。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ANGEL_OF_MERCY</Tag>
@@ -6056,7 +6056,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The hospital in %s2_city is gaining favor among the pious because it is believed to be blessed by a spirit angel.</Chinese>
+    <Chinese>%s2_city的市立医院受到大批信徒的尊崇，他们相信在那里能得到天使的保佑。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_ANTELOPE</Tag>
@@ -6254,7 +6254,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The dam in %s2_city has broken, flooding the city's suburbs and killing people.</Chinese>
+    <Chinese>%s2_city的大堤发生垮塌，大部分郊区被淹没，人员伤亡严重。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_BROTHERS_IN_NEED</Tag>
@@ -6281,7 +6281,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A champion unit has emerged from the war games conducted by the %s1_civ_adjective military. This unit is rumored to be the strongest and toughest amongst all their forces.</Chinese>
+    <Chinese>一支作战部队在%s1_civ_adjective参谋部组织的兵棋推演中大获全胜，成为公认的王牌精锐。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CHARISMATIC</Tag>
@@ -6308,7 +6308,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fire has destroyed the Theatre in %s2_city.</Chinese>
+    <Chinese>%s2_city的剧场被大火烧毁。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CITY_RUINS</Tag>
@@ -6389,7 +6389,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Scandal has thrown the %s1_civ_adjective senate in to chaos. A constitutional crisis has emerged. Yet this also opens the door to political reforms.</Chinese>
+    <Chinese>%s1_civ_adjective参议院深陷政治丑闻的泥潭，导致了一场宪法危机，政治革新之门由此开启。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_CRUSADE_DONE</Tag>
@@ -6425,7 +6425,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A priest from %s2_city is doubting the supreme power of Amun-Re.</Chinese>
+    <Chinese>%s2_city的一位祭司质疑传统神灵的至尊地位。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_DUSTBOWL</Tag>
@@ -6479,7 +6479,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A renowned playwright from %s2_city is attracting patrons and fans from far and wide.</Chinese>
+    <Chinese>%s2_city的一位著名剧作家创作的优秀作品吸引了来自各地的赞助商和观众。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_EXPERIENCED_CAPTAIN</Tag>
@@ -6596,7 +6596,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Friendly locals have granted sanctuary to a wounded %s1_civ_adjective unit.</Chinese>
+    <Chinese>一名受伤的%s1_civ_adjective战士获得了友善的当地居民的救助。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FRIENDLY_LOCALS_2</Tag>
@@ -6623,7 +6623,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The %s1_civ_adjective mass transit system in %s2_city has begun to use advanced fuel additives to reduce pollution, cut costs, and improve vehicle performance.</Chinese>
+    <Chinese>%s1_civ_adjective%s2_city的公交系统开始推广使用新型燃油添加剂，以减少污染、节约成本并提升车辆性能。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_FUGITIVE</Tag>
@@ -6668,7 +6668,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A blacksmith from %s2_city has made a beautiful golden Buddha statue at his Forge.</Chinese>
+    <Chinese>%s2_city的一位工匠制作了一尊美丽的金佛像。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_GREAT_BEAST</Tag>
@@ -6767,7 +6767,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A warlord from %s2_city has made a generous contribution to his community.</Chinese>
+    <Chinese>%s2_city的一位军事首领以实际行动慷慨地回报家乡父老！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HINDENBERG</Tag>
@@ -6839,7 +6839,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s1_civ_adjective完成了“恶意接管”任务，正如预期的那样，%s6_corporation的收益像宇宙火箭般迅速窜升。</Chinese>
+    <Chinese>%s1_civ_adjective完成了“商业扩张”任务，正如预期的那样，%s6_corporation的收益像宇宙火箭般迅速窜升。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_HURRICANE</Tag>
@@ -6875,7 +6875,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Inspired by books telling stories about the culture of %s2_city, immigrants are flowing to the city!</Chinese>
+    <Chinese>%s2_city悠久的历史和文化吸引了大量外来人口！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_IMPEACHMENT</Tag>
@@ -6902,7 +6902,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>An industrial accident started a fire that gutted the Factory in %s2_city.</Chinese>
+    <Chinese>一次事故引发的火灾摧毁了%s2_city的工厂.</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_INFLUENZA</Tag>
@@ -6947,7 +6947,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The citizens of %s2_city are worried about their safety because of the city's Jail.</Chinese>
+    <Chinese>%s2_city的市民为当地监狱的安全状况感到担忧。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_JOYOUS_WEDDING</Tag>
@@ -6965,7 +6965,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A scientific breakthrough at the laboratory in %s2_city is credited in part to the free flow of ideas and information nurtured by the %s1_civ_adjective government.</Chinese>
+    <Chinese>在%s1_civ_adjective政府的大力资助下，%s2_city的实验室获得了一项重大科研突破。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_LEFT_AT_ALTAR</Tag>
@@ -7073,7 +7073,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The modern %s2_city Games have begun, with the full richness of the ancient athletic traditions brought back for all the world to enjoy.</Chinese>
+    <Chinese>%s2_city开始举办现代运动会，继承并发扬了古代运动会的传统，令全世界再次感受到体育运动的无限魅力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_MONEY_CHANGERS_1</Tag>
@@ -7235,7 +7235,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A well-known scientist from %s2_city has become a preacher at the local Christian Monastery.</Chinese>
+    <Chinese>%s2_city的一位著名学者决定到当地修道院的担任宣教师。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_REFORMATION</Tag>
@@ -7280,7 +7280,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>"Running With the Bulls", an annual ritual practiced by the people of %s2_city, is gaining worldwide renown.</Chinese>
+    <Chinese>%s2_city每年一度的“奔牛节”盛典已闻名全世界。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_RURAL_FARMERS_1</Tag>
@@ -7361,7 +7361,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A slave revolt has taken place in the %s1_civ_adjective city of %s2_city!</Chinese>
+    <Chinese>%s1_civ_adjective的%s2_city发生奴隶暴动。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SLAVE_REVOLT_AGAIN</Tag>
@@ -7370,7 +7370,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The slaves in %s2_city are still in revolt. Local authorities are bumbling the crackdown.</Chinese>
+    <Chinese>%s2_city的奴隶暴动愈演愈烈，地方政府已无力镇压。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SMOKELESS_POWDER_1</Tag>
@@ -7415,7 +7415,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Vermin got in to the granary in %s2_city. All the food stored there was ruined.</Chinese>
+    <Chinese>%s2_city的粮仓发生虫害，失去了全部粮食储备。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_SPORTS_LEAGUE_DONE</Tag>
@@ -7478,7 +7478,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A massive barbarian uprising is occurring. The Goths have gathered an army and their axemen seek to plunder civilizations.</Chinese>
+    <Chinese>蛮族开始大举入侵！哥特人集结了庞大的军队，用他们手中的利斧掠夺各个文明国度的财富。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_THE_HUNS</Tag>
@@ -7487,7 +7487,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A massive barbarian uprising is occurring. Attila the Hun leads his forces in a crusade against the very concept of civilization.</Chinese>
+    <Chinese>蛮族开始大举入侵！匈人首领阿提拉发动了旨在毁灭文明世界的大规模征伐。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_THE_PHILISTINES</Tag>
@@ -7496,7 +7496,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A massive barbarian uprising is occurring. The Philistines have gathered an army of spearmen and are on the march.</Chinese>
+    <Chinese>蛮族开始大举入侵！非利士人集结了庞大的军队，用他们手中的长矛掠夺各个文明国度的财富。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_THE_VANDALS</Tag>
@@ -7505,7 +7505,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A massive barbarian uprising is occurring. The Vandals strike out against civilization, seeking to claim its prizes with their swords.</Chinese>
+    <Chinese>蛮族开始大举入侵！汪达尔人四出袭扰各个文明国度，用他们手中的刀剑掠取财物。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_THE_VEDIC_ARYANS</Tag>
@@ -7514,7 +7514,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>A massive barbarian uprising is occurring. The Vedic Aryans seek to plunder the riches of civilization.</Chinese>
+    <Chinese>蛮族开始大举入侵！吠陀雅利安人集结了庞大的军队，四出掠夺各个文明国度的财富。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_THOROUGHBRED</Tag>
@@ -7568,7 +7568,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s1_civ_adjective Melee units are now deployed with new, larger shields, improving their defense versus Archery units.</Chinese>
+    <Chinese>%s1_civ_adjective的肉搏部队开始装备巨型塔盾，提升了对弓箭的防御能力。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_EVENTTRIGGER_TOXCATL</Tag>

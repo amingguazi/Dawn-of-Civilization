@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Silk Route</Chinese>
+    <Chinese>丝绸之路</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_TRADING_COMPANY</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Trading Company</Chinese>
+    <Chinese>贸易公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_CEREAL_INDUSTRY</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cereal Industry</Chinese>
+    <Chinese>谷物公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_FISHING_INDUSTRY</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fishing Industry</Chinese>
+    <Chinese>渔业公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_TEXTILE_INDUSTRY</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Textile Industry</Chinese>
+    <Chinese>纺织公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_STEEL_INDUSTRY</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Steel Industry</Chinese>
+    <Chinese>钢铁公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_OIL_INDUSTRY</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Oil Industry</Chinese>
+    <Chinese>石油公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_LUXURY_INDUSTRY</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Luxury Industry</Chinese>
+    <Chinese>奢侈品公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_COMPUTER_INDUSTRY</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Computer Industry</Chinese>
+    <Chinese>计算机公司</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CORPORATION_INFLUENCES_0</Tag>

@@ -82,7 +82,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>儒家</Chinese>
+    <Chinese>儒学</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_HINDUISM_ADJECTIVE</Tag>
@@ -108,7 +108,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>伊斯兰教</Chinese>
+    <Chinese>伊斯兰教 Male0</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PROTESTANTISM</Tag>
@@ -148,7 +148,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>东正教</Chinese>
+    <Chinese>东正教 Male0</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_REFORMATION</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>琐罗亚斯德教</Chinese>
+    <Chinese>祆教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_ZOROASTRIANISM_ADJECTIVE</Tag>
@@ -201,7 +201,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>琐罗亚斯德教</Chinese>
+    <Chinese>祆教</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_RELIGION_PAGANISM</Tag>

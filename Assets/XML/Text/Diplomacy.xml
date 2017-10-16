@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Peace be upon you, [CT_NAME] of [CT_CIV_SHORT]. If you would expect the blessings of Allah, be kind to his people, for Allah will help him who moves the ways of Allah.</Chinese>
+    <Chinese>和平与你同在，[CT_CIV_SHORT]的[CT_NAME]。如果你想让真主保佑你，请善待它的百姓。因为真主会帮助那些像真主一样的人。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ATATURK_1</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greetings. I am [OUR_NAME], Emperor of [OUR_CIV_SHORT]. Dedicating all my efforts to the well-being of my people, I shall guard the concept of Autocracy like all my forefathers did.</Chinese>
+    <Chinese>您好。我是[OUR_NAME]，[OUR_CIV_SHORT]的统治者。为了我人民的幸福我将奋斗终身，就如我的祖先一样继续实施专制统治。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_FIRST_CONTACT_LEADER_PEDRO_II</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>[OUR_NAME] of [OUR_CIV_SHORT] greets you. I do not praise myself or my courage, but I praise God, for he protected me, a sinful man, from deadly dangers and created me capable of doing many human things.</Chinese>
+    <Chinese>[OUR_CIV_SHORT]的[OUR_NAME]向您问候。我不赞美自己和我的勇气，但我赞美上帝。因为即使我罪孽深重，他依旧护佑着深处险境的我，并且为我创造机会做许多力所能及的事。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_ATATURK_1</Tag>
@@ -305,7 +305,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Treachery, cowardice and lies are everywhere - and your nation is no exception.</Chinese>
+    <Chinese>背板、胆怯和谎言无处不在。你的国家也不例外。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_PEDRO_II</Tag>

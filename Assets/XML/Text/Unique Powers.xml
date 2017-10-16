@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of the American Dream:</Chinese>
+    <Chinese>美国之梦:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_AME</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Additional happiness from running Republic, Capitalism and Free Market</Chinese>
+    <Chinese>实行共和制、资本主义和自由市场时将获得额外的快乐点数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIVIC_AMERICAN_UP_HAPPINESS</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Faith:</Chinese>
+    <Chinese>安拉之剑:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ARA</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of the Cradle of Civilization:</Chinese>
+    <Chinese>文明摇篮:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_BAB</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Ethanol:</Chinese>
+    <Chinese>清洁能源：</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_BRA</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sugar counts as oil for Oil Industry</Chinese>
+    <Chinese>把糖视为石油公司的消耗资源</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_BYZ_TITLE</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Mercenaries:</Chinese>
+    <Chinese>佣兵精锐:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_CAR</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Invention:</Chinese>
+    <Chinese>天工开物:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_CHI</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of the Liberator:</Chinese>
+    <Chinese>和平解放：</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_COL</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>No City Resistance on Conquest in Latin America</Chinese>
+    <Chinese>征服拉丁美洲城市后无动乱回合</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_CONQUESTS_TARGET</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of the Pharaoh:</Chinese>
+    <Chinese>神佑法老:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_EGY</Tag>
@@ -296,7 +296,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Indirect Rule:</Chinese>
+    <Chinese>殖民主义:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ENG</Tag>
@@ -314,7 +314,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Sovereignty:</Chinese>
+    <Chinese>独立主权:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ETH</Tag>
@@ -332,7 +332,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Diplomacy:</Chinese>
+    <Chinese>折冲樽俎:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_FRA</Tag>
@@ -341,7 +341,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Diplomatic penalties expire faster, more likely to be voted for in congresses</Chinese>
+    <Chinese>减少外交惩罚时间，在国际会议更容易获得支持</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_GER_TITLE</Tag>
@@ -368,7 +368,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Philosophy:</Chinese>
+    <Chinese>理性光辉:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_GRE</Tag>
@@ -377,7 +377,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>+150% Great People birth rate until the end of the Classical Era</Chinese>
+    <Chinese>古典时代结束之前历史伟人出现几率+150%</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_GREEK_CONQUESTS_TARGET</Tag>
@@ -413,7 +413,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Trading Companies:</Chinese>
+    <Chinese>贸易垄断:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_HOL</Tag>
@@ -422,7 +422,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Doubled yield and commerce from the trading company corporation</Chinese>
+    <Chinese>获得双倍贸易公司的生产和收益</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_HRE_TITLE</Tag>
@@ -458,7 +458,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Terraces:</Chinese>
+    <Chinese>旱地农业:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_INC</Tag>
@@ -467,7 +467,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mountains produce 2 food and 1 hammer</Chinese>
+    <Chinese>山地产出2食物和1产能</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_IND_TITLE</Tag>
@@ -512,7 +512,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Safaviyya:</Chinese>
+    <Chinese>萨菲教团:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_IRA</Tag>
@@ -521,7 +521,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Religious buildings produce +2 [ICON_CULTURE] and +2 [ICON_RESEARCH]</Chinese>
+    <Chinese>每座宗教建筑+2[ICON_CULTURE]，+2[ICON_RESEARCH]</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ITA_TITLE</Tag>
@@ -530,7 +530,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Renaissance:</Chinese>
+    <Chinese>文艺复兴:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ITA</Tag>
@@ -539,7 +539,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Free specialist in all of your cities until the Industrial Age</Chinese>
+    <Chinese>在工业时代之前，所有城市能够获得免费的专家。</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_JAP_TITLE</Tag>
@@ -566,7 +566,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Monsoons:</Chinese>
+    <Chinese>丛林穿梭:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_KHM</Tag>
@@ -584,7 +584,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of the Tropics:</Chinese>
+    <Chinese>热带雨林:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_CON</Tag>
@@ -602,7 +602,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Kobuksons:</Chinese>
+    <Chinese>铁甲龟船:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_KOR</Tag>
@@ -611,7 +611,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Free Drill I and Drill II promotions for all naval units</Chinese>
+    <Chinese>海军单位自动晋升操练一级和操练二级</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MAL_TITLE</Tag>
@@ -620,7 +620,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Wealth:</Chinese>
+    <Chinese>富甲天下:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MAL</Tag>
@@ -629,7 +629,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>+1 commerce in every land plot</Chinese>
+    <Chinese>每个陆地区块商业收入+1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MAY_TITLE</Tag>
@@ -638,7 +638,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Astronomy:</Chinese>
+    <Chinese>长纪年历:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MAY</Tag>
@@ -647,7 +647,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>-40% research cost until beginning of the Middle Ages</Chinese>
+    <Chinese>中古时代之前研究费用-40%</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MEX_TITLE</Tag>
@@ -656,7 +656,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Arid Agriculture:</Chinese>
+    <Chinese>旱作农业：</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MEX</Tag>
@@ -665,7 +665,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Can build farms on hills</Chinese>
+    <Chinese>可以在丘陵上修建农场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MON_TITLE</Tag>
@@ -737,7 +737,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Irrigation:</Chinese>
+    <Chinese>精耕细作:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MOO</Tag>
@@ -746,7 +746,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Improvements that yield food give one extra food on plains tiles until the Renaissance</Chinese>
+    <Chinese>启蒙时代之前，建造在平原地块上提供的食物的设施食物产出+1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_MUG_TITLE</Tag>
@@ -773,7 +773,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Satrapy:</Chinese>
+    <Chinese>帝国统治:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_PER</Tag>
@@ -809,7 +809,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Golden Liberty:</Chinese>
+    <Chinese>贵族联盟:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_POL</Tag>
@@ -827,7 +827,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Exploration:</Chinese>
+    <Chinese>乘风破浪:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_POR</Tag>
@@ -845,7 +845,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Infrastructure:</Chinese>
+    <Chinese>基础建设:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ROM</Tag>
@@ -854,7 +854,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Buildings that already exist in your capital receive +30% construction speed.</Chinese>
+    <Chinese>建造已存在于首都中的建筑时，建造速度+30%</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_ROMAN_CONQUESTS</Tag>
@@ -890,7 +890,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of General Winter:</Chinese>
+    <Chinese>寒冬将军:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_RUS</Tag>
@@ -899,7 +899,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Enemy units in Russia take damage every turn</Chinese>
+    <Chinese>敌方单位在俄国境内战斗力每回合均会受损</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_SPA_TITLE</Tag>
@@ -908,7 +908,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Discovery:</Chinese>
+    <Chinese>探索未知:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_SPA</Tag>
@@ -917,7 +917,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Naval units receive +2 movement points</Chinese>
+    <Chinese>海军单位移动力+2</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_TAM_TITLE</Tag>
@@ -926,7 +926,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Thalassocracy:</Chinese>
+    <Chinese>海权主义:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_TAM</Tag>
@@ -935,7 +935,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Extra commerce on coast and ocean tiles</Chinese>
+    <Chinese>为海滨地块和大洋地块提供额外的商业收益</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_TAMIL_CONQUESTS_TARGET</Tag>
@@ -944,7 +944,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Tamils have fielded an army to conquer our civilization!</Chinese>
+    <Chinese>泰米尔派出一支军队来征服我们的文明！</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_THA_TITLE</Tag>
@@ -971,7 +971,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Missionaries:</Chinese>
+    <Chinese>佛法无边:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_TIB</Tag>
@@ -980,7 +980,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Can train unlimited missionaries; Missionaries can enter foreign territory</Chinese>
+    <Chinese>传教士数量没有限制，并可以进入外国领土</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_TUR_TITLE</Tag>
@@ -1007,7 +1007,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>The Power of Raid:</Chinese>
+    <Chinese>强取豪夺:</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_UP_VIK</Tag>

@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mande</Chinese>
+    <Chinese>曼丁哥</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SONGHAI_ADJECTIVE</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Songhai</Chinese>
+    <Chinese>桑海</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_PEOPLES</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mandinka Peoples</Chinese>
+    <Chinese>曼丁哥诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_DEFAULT</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s1 Empire</Chinese>
+    <Chinese>%s1帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_FASCIST</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Military Comittee of %1</Chinese>
+    <Chinese>%1军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MALI_ADJECTIVE_OLD</Tag>

@@ -103,7 +103,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Happiness</Chinese>
+    <Chinese>快乐指数</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_CIV4LERTS__CITYHAPPINESS_HOVER</Tag>
@@ -750,7 +750,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Technologies</Chinese>
+    <Chinese>科技</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_MORECIV4LERTS__TECHTRADE_HOVER</Tag>

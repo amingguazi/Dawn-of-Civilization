@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Commonwealth of %s1</Chinese>
+    <Chinese>%s1联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_COMMUNIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Worker's Commonwealth</Chinese>
+    <Chinese>%s2工人联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_FASCIST</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Union</Chinese>
+    <Chinese>%s2同盟</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_GREAT_BRITAIN</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>大英</Chinese>
+    <Chinese>大不列颠</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_BRITISH</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>英</Chinese>
+    <Chinese>不列颠</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_UNITED_KINGDOM_OF</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>United Kingdom of %s1</Chinese>
+    <Chinese>%s1联合王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_ANGEVIN_EMPIRE</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>United Republic of %s1</Chinese>
+    <Chinese>%s1联合共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_EXILE</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Government in Exile</Chinese>
+    <Chinese>%s2流亡政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_VASSAL</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dominion of %s1</Chinese>
+    <Chinese>%s1自治领</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_INDIA</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Raj</Chinese>
+    <Chinese>英属印度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_BABYLONIA</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Mandate of Mesopotamia</Chinese>
+    <Chinese>英属美索不达米亚托管地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_PHOENICIA</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Mandate of Lebanon</Chinese>
+    <Chinese>英属黎巴嫩托管地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_ETHIOPIA</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 East Africa</Chinese>
+    <Chinese>英属东非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_MAYA</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Colony of %s2 Honduras</Chinese>
+    <Chinese>英属洪都拉斯殖民地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_BYZANTIUM</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Latin Empire</Chinese>
+    <Chinese>拉丁帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_VIKINGS</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of Scandinavia</Chinese>
+    <Chinese>斯堪的纳维亚直辖地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_INDONESIA</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Federated Malay States</Chinese>
+    <Chinese>马来联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_FRANCE</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of Anjou</Chinese>
+    <Chinese>安茹大公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_HOLY_ROME</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of Hanover</Chinese>
+    <Chinese>汉诺威大公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_GERMANY</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2-Occupied Germany</Chinese>
+    <Chinese>英占德国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_NETHERLANDS</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of Flanders</Chinese>
+    <Chinese>佛兰德斯大公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_MALI</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 West Africa</Chinese>
+    <Chinese>英属西非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_AMERICA</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Thirteen Colonies</Chinese>
+    <Chinese>十三殖民地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLISH_NAME_KHMER</Tag>

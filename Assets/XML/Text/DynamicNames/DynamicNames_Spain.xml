@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Asturian Peoples</Chinese>
+    <Chinese>阿斯图里亚斯诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_COMMUNIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Republic of %s1</Chinese>
+    <Chinese>%s1共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 State</Chinese>
+    <Chinese>%s2军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_AL_ANDALUS</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Al-Andalus</Chinese>
+    <Chinese>安达卢斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_CASTILE</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Castile</Chinese>
+    <Chinese>卡斯蒂利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_CASTILIAN</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Castilian</Chinese>
+    <Chinese>卡斯蒂利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_IBERIA</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iberia</Chinese>
+    <Chinese>伊比利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_IBERIAN</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Iberian</Chinese>
+    <Chinese>伊比利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_CROWN_OF</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Crown of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_ARAGON</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Aragon</Chinese>
+    <Chinese>阿拉贡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_ARAGONESE</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Aragonese</Chinese>
+    <Chinese>阿拉贡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_VASSAL</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Viceroyalty of %s1</Chinese>
+    <Chinese>%s1总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_CARTHAGE</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Lebanon</Chinese>
+    <Chinese>西属黎巴嫩</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_ETHIOPIA</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 East Africa</Chinese>
+    <Chinese>西属东非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_MAYA</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Diocesis of Yucatán</Chinese>
+    <Chinese>尤卡坦教区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_BYZANTIUM</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Latin Empire</Chinese>
+    <Chinese>拉丁帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_INDONESIA</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 East Indies</Chinese>
+    <Chinese>西属东印度群岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_MOORS</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Protectorate of %s1</Chinese>
+    <Chinese>西属%s1保护国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_FRANCE</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Autonomous Community of %s1</Chinese>
+    <Chinese>%s1自治区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_NETHERLANDS</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 %s1</Chinese>
+    <Chinese>西属%s1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_MALI</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 West Africa</Chinese>
+    <Chinese>西属西非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_PORTUGAL</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Autonomous Community of %s1</Chinese>
+    <Chinese>%s1自治区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_AMERICA</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Province of New Mexico</Chinese>
+    <Chinese>新墨西哥省</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_ARGENTINA</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Viceroyalty of the Rio de la Plata</Chinese>
+    <Chinese>拉普拉塔总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_COLOMBIA</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Viceroyalty of New Granada</Chinese>
+    <Chinese>新格拉纳达总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_NAME_KHMER</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indochina</Chinese>
+    <Chinese>中南半岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_NAME_AZTECS</Tag>
@@ -260,7 +260,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>New Spain</Chinese>
+    <Chinese>新西班牙</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPANISH_NAME_MUGHALS</Tag>
@@ -269,7 +269,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>West India</Chinese>
+    <Chinese>西印度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SPAIN_ADJECTIVE</Tag>

@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Taixue</Chinese>
+    <Chinese>太学</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CHINESE_TAIXUE_STRATEGY</Tag>
@@ -278,7 +278,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Amphitheatre</Chinese>
+    <Chinese>竞技场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_AMPHITHEATRE_STRATEGY</Tag>
@@ -359,7 +359,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Royal Exchange</Chinese>
+    <Chinese>皇家证券交易所</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_ENGLISH_ROYAL_EXCHANGE_STRATEGY</Tag>
@@ -413,7 +413,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Caravanserai</Chinese>
+    <Chinese>商栈</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_IRANIAN_CARAVANSERAI_STRATEGY</Tag>
@@ -710,7 +710,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mbwadi</Chinese>
+    <Chinese>手工作坊</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CONGOLESE_MBWADI_STRATEGY</Tag>
@@ -845,7 +845,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Charreada Arena</Chinese>
+    <Chinese>马术竞技场</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_MEXICAN_CHARREADA_STRATEGY</Tag>
@@ -908,7 +908,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pagan Temple</Chinese>
+    <Chinese>原始神庙</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PERSIAN_APOTHECARY_STRATEGY</Tag>
@@ -1358,7 +1358,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Catholic Church</Chinese>
+    <Chinese>天主教礼拜堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CATHOLIC_TEMPLE_STRATEGY</Tag>
@@ -1376,7 +1376,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Catholic Monastery</Chinese>
+    <Chinese>天主教修道院</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CATHOLIC_MONASTERY_STRATEGY</Tag>
@@ -1394,7 +1394,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Catholic Cathedral</Chinese>
+    <Chinese>天主教大教堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CATHOLIC_CATHEDRAL_STRATEGY</Tag>
@@ -1430,7 +1430,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Protestant Church</Chinese>
+    <Chinese>新教礼拜堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PROTESTANT_TEMPLE_STRATEGY</Tag>
@@ -1466,7 +1466,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Protestant Cathedral</Chinese>
+    <Chinese>新教大教堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PROTESTANT_CATHEDRAL_STRATEGY</Tag>
@@ -1484,7 +1484,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>All Saints' Church</Chinese>
+    <Chinese>诸圣堂</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_PROTESTANT_SHRINE_STRATEGY</Tag>
@@ -1718,7 +1718,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Confucian Academy</Chinese>
+    <Chinese>学宫</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_CONFUCIAN_MONASTERY_STRATEGY</Tag>
@@ -1934,7 +1934,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Bath</Chinese>
+    <Chinese>公共浴池</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUILDING_BATH_STRATEGY</Tag>

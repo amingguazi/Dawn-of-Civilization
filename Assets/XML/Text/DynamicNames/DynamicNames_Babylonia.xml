@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mesopotamian Peoples</Chinese>
+    <Chinese>美索不达米亚诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Empire</Chinese>
+    <Chinese>%s2王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Baathist %s1</Chinese>
+    <Chinese>%s1社会主义共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_COMMUNIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Golden Square</Chinese>
+    <Chinese>%s2金星党军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_MESOPOTAMIAN</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mesopotamian</Chinese>
+    <Chinese>美索不达米亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_ASSYRIA</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Assyria</Chinese>
+    <Chinese>亚述</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_ASSYRIAN</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Assyrian</Chinese>
+    <Chinese>亚述</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_ASSYRIA_ADJECTIVE</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Assyrian</Chinese>
+    <Chinese>亚述</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_BABYLONIA_NEO_EMPIRE</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Neo-%s2 Empire</Chinese>
+    <Chinese>新%s2王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PHOENICIA_BABYLONIAN_VASSAL</Tag>

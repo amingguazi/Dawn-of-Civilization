@@ -196,7 +196,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Technologies</Chinese>
+    <Chinese>科技</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_AUTOLOG__LOGTECH_HOVER</Tag>
@@ -466,7 +466,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Golden Age</Chinese>
+    <Chinese>黄金时代</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_AUTOLOG__LOGGA_HOVER</Tag>
@@ -556,7 +556,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Civics</Chinese>
+    <Chinese>政体</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_AUTOLOG__LOGCIVICS_HOVER</Tag>
@@ -574,7 +574,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Combat</Chinese>
+    <Chinese>战斗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_BUG_OPT_AUTOLOG__LOGCOMBAT_HOVER</Tag>

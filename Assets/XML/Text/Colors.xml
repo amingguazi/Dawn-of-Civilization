@@ -8,7 +8,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Black</Chinese>
+    <Chinese>黑色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_BLUE</Tag>
@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Blue</Chinese>
+    <Chinese>蓝色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_CYAN</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cyan</Chinese>
+    <Chinese>青色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_DARK_GREY</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dark Grey</Chinese>
+    <Chinese>深灰色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_GREEN</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Green</Chinese>
+    <Chinese>绿色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_GREY</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Grey</Chinese>
+    <Chinese>灰色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_LIGHT_GREY</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Light Grey</Chinese>
+    <Chinese>浅灰色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_MAGENTA</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Magenta</Chinese>
+    <Chinese>洋红色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_RED</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Red</Chinese>
+    <Chinese>红色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_WHITE</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>White</Chinese>
+    <Chinese>白色</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_COLOR_YELLOW</Tag>
@@ -98,6 +98,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Yellow</Chinese>
+    <Chinese>黄色</Chinese>
   </TEXT>
 </Civ4GameText>
