@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ghorid Peoples</Chinese>
+    <Chinese>古尔诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_DEFAULT</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Empire</Chinese>
+    <Chinese>莫卧儿帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_FASCIST</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Military Government</Chinese>
+    <Chinese>莫卧儿军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PAKISTAN_DEFAULT</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>巴基斯坦王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PAKISTAN_FASCIST</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Military Government</Chinese>
+    <Chinese>巴基斯坦军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_DELHI</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Delhi</Chinese>
+    <Chinese>德里</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHAL_VASSAL</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kewab of %s1</Chinese>
+    <Chinese>%s1邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHAL_INDIA</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Deccan Sultanates</Chinese>
+    <Chinese>德里苏丹国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_ADJECTIVE</Tag>
@@ -111,6 +111,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MUGHALS_SHORT_DESC</Tag>
+    <English>Mughals</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>莫卧儿</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_MUGHALS_SHORT_DESC_KEY</Tag>
     <English>Mughals</English>
     <L1 />
     <L2 />

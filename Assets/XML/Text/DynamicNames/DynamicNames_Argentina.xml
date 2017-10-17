@@ -62,6 +62,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>°¢¸ùÍ¢</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_ARGENTINA_SHORT_DESC_KEY</Tag>
+    <English>Argentina</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Argentina</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -287,6 +287,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>µ¬“‚÷æ</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_GERMANY_SHORT_DESC_KEY</Tag>
+    <English>Germany</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Germany</Chinese>
   </TEXT>
 </Civ4GameText>

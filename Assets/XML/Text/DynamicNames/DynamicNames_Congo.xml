@@ -71,6 +71,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>¸Õ¹û</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_CONGO_SHORT_DESC_KEY</Tag>
+    <English>Congo</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Congo</Chinese>
   </TEXT>
 </Civ4GameText>

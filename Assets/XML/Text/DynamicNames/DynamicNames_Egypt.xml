@@ -152,6 +152,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>°£¼°</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_EGYPT_SHORT_DESC_KEY</Tag>
+    <English>Egypt</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Egypt</Chinese>
   </TEXT>
 </Civ4GameText>

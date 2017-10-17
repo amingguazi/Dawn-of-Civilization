@@ -242,6 +242,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>“¡¿ </Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_IRAN_SHORT_DESC_KEY</Tag>
+    <English>Iran</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Iran</Chinese>
   </TEXT>
   <TEXT>
@@ -255,6 +264,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_SHORT_DESC</Tag>
+    <English>Persia</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>≤®Àπ</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_PERSIA_SHORT_DESC_KEY</Tag>
     <English>Persia</English>
     <L1 />
     <L2 />

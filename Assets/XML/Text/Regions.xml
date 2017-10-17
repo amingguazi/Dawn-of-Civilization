@@ -3,14 +3,12 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
   <TEXT>
     <Tag>TXT_KEY_REGION_</Tag>
-    <English>
-    </English>
+    <English></English>
     <L1 />
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>
-    </Chinese>
+    <Chinese></Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_REGION_0</Tag>

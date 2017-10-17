@@ -233,6 +233,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>°¢À­²®</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_ARABIA_SHORT_DESC_KEY</Tag>
+    <English>Arabia</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Arabia</Chinese>
   </TEXT>
 </Civ4GameText>

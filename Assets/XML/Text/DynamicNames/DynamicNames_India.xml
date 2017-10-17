@@ -125,6 +125,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>Ó¡¶È</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_INDIA_SHORT_DESC_KEY</Tag>
+    <English>India</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>India</Chinese>
   </TEXT>
 </Civ4GameText>

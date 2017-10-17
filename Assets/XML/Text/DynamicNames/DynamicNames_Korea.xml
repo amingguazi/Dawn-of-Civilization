@@ -102,6 +102,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>¸ßÀö</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_KOREA_SHORT_DESC_KEY</Tag>
+    <English>Korea</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Korea</Chinese>
   </TEXT>
 </Civ4GameText>

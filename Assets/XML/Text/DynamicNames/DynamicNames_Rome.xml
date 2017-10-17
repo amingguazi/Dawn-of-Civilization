@@ -287,6 +287,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>ÂÞÂí</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_ROME_SHORT_DESC_KEY</Tag>
+    <English>Rome</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Rome</Chinese>
   </TEXT>
 </Civ4GameText>

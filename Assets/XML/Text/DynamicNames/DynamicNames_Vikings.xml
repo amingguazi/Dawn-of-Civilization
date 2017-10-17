@@ -26,6 +26,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>Èðµä</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_SWEDEN_SHORT_DESC_KEY</Tag>
+    <English>Sweden</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Sweden</Chinese>
   </TEXT>
   <TEXT>
@@ -44,6 +53,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>µ¤Âó</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_DENMARK_SHORT_DESC_KEY</Tag>
+    <English>Denmark</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Denmark</Chinese>
   </TEXT>
   <TEXT>
@@ -57,6 +75,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC</Tag>
+    <English>Norway</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Å²Íþ</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC_KEY</Tag>
     <English>Norway</English>
     <L1 />
     <L2 />
@@ -228,6 +255,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_VIKING_SHORT_DESC</Tag>
+    <English>Vikings</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Î¬¾©</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_VIKING_SHORT_DESC_KEY</Tag>
     <English>Vikings</English>
     <L1 />
     <L2 />

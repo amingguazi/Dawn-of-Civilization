@@ -71,6 +71,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>°¢×ÈÌØ¿Ë</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_AZTEC_SHORT_DESC_KEY</Tag>
+    <English>Aztec</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Aztec</Chinese>
   </TEXT>
 </Civ4GameText>

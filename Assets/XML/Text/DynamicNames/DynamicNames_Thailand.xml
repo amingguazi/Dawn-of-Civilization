@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>åßÂÞ</Chinese>
+    <Chinese>Siamese</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAI_VASSAL</Tag>
@@ -84,6 +84,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_SHORT_DESC</Tag>
+    <English>Thailand</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>Ì©</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_THAILAND_SHORT_DESC_KEY</Tag>
     <English>Thailand</English>
     <L1 />
     <L2 />

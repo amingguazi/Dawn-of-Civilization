@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Germanic Peoples</Chinese>
+    <Chinese>日耳曼诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_DEFAULT</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greater %s2 Empire</Chinese>
+    <Chinese>大%s2帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_AUSTRO_HUNGARIAN</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Austro-Hungarian</Chinese>
+    <Chinese>奥匈</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_ARCHDUCHY_OF</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Archduchy of %s1</Chinese>
+    <Chinese>%s1大公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_HABSBURG</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Habsburg</Chinese>
+    <Chinese>哈布斯堡</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_GERMANY</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Germany</Chinese>
+    <Chinese>德意志</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROME_GERMAN</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>German</Chinese>
+    <Chinese>德意志</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIA_SHORT_DESC</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Austria</Chinese>
+    <Chinese>奥地利</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIA_ADJECTIVE</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Crown of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROMAN_FRANCE</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>West Francia</Chinese>
+    <Chinese>西法兰克王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROMAN_NETHERLANDS</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of Brabant</Chinese>
+    <Chinese>布拉班特公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROMAN_BYZANTIUM</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Latin Empire</Chinese>
+    <Chinese>拉丁帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_HOLY_ROMAN_POLAND</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of %s1</Chinese>
+    <Chinese>%s1公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIAN_POLAND</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of Galicia and Lodomeria</Chinese>
+    <Chinese>加利西亚及洛多梅里亚王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_AUSTRIAN_ITALY</Tag>
@@ -170,6 +170,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Grand Duchy of Tuscany</Chinese>
+    <Chinese>托斯卡纳大公国</Chinese>
   </TEXT>
 </Civ4GameText>

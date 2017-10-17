@@ -30,7 +30,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Celtia</Chinese>
+    <Chinese>凯尔特</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_INDEPENDENT_ADJECTIVE</Tag>
@@ -57,7 +57,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Independents</Chinese>
+    <Chinese>独立城邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NATIVE_ADJECTIVE</Tag>
@@ -84,7 +84,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Natives</Chinese>
+    <Chinese>原生土著</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_SELJUK_ADJECTIVE</Tag>
@@ -111,7 +111,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Seljuks</Chinese>
+    <Chinese>塞尔柱</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ZULU_ADJECTIVE</Tag>
@@ -151,6 +151,6 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Barbarians</Chinese>
+    <Chinese>蛮族</Chinese>
   </TEXT>
 </Civ4GameText>

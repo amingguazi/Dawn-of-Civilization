@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Khanate of the Golden Horde</Chinese>
+    <Chinese>金帐汗国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MONGOL_TURKEY</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Khanate of Delhi</Chinese>
+    <Chinese>德里汗国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MONGOLIA_MONGOL</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mongol</Chinese>
+    <Chinese>蒙古</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MONGOL_ADJECTIVE</Tag>
@@ -192,6 +192,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_MONGOL_SHORT_DESC</Tag>
+    <English>Mongolia</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>蒙古</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_MONGOL_SHORT_DESC_KEY</Tag>
     <English>Mongolia</English>
     <L1 />
     <L2 />

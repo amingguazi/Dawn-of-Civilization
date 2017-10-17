@@ -71,6 +71,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>╪сдц╢С</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_CANADA_SHORT_DESC_KEY</Tag>
+    <English>Canada</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Canada</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -134,6 +134,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>Ó¡¼Ó</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_INCA_SHORT_DESC_KEY</Tag>
+    <English>Inca</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Inca</Chinese>
   </TEXT>
 </Civ4GameText>

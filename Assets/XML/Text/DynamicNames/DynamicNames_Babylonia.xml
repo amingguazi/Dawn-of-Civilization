@@ -120,6 +120,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>°Í±ÈÂ×</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_BABYLONIA_SHORT_DESC_KEY</Tag>
+    <English>Babylonia</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Babylonia</Chinese>
   </TEXT>
 </Civ4GameText>

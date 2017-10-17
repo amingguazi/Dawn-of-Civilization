@@ -201,6 +201,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>°ÝÕ¼Í¥</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_BYZANTIUM_SHORT_DESC_KEY</Tag>
+    <English>Byzantium</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Byzantium</Chinese>
   </TEXT>
 </Civ4GameText>

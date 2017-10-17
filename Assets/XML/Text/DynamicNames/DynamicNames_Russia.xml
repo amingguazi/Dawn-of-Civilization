@@ -179,6 +179,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>ถํยÞหน</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_RUSSIA_SHORT_DESC_KEY</Tag>
+    <English>Russia</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Russia</Chinese>
   </TEXT>
 </Civ4GameText>

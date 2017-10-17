@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Yamato Peoples</Chinese>
+    <Chinese>大和诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPAN_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Shogunate</Chinese>
+    <Chinese>大和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPAN_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Empire of Greater %s1</Chinese>
+    <Chinese>大日本帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPANESE_VASSAL</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Co-Prosperity %s1</Chinese>
+    <Chinese>%s1共荣圈</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPANESE_CHINA</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Reorganized National Government of China</Chinese>
+    <Chinese>中华民国维新政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPANESE_KOREA</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Governor-General of Chosen</Chinese>
+    <Chinese>朝鲜总督府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPANESE_MONGOLIA</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mengjiang United Autonomous Government</Chinese>
+    <Chinese>蒙疆联合自治政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPANESE_INDIA</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Azad Hind</Chinese>
+    <Chinese>自由印度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPAN_ADJECTIVE</Tag>
@@ -93,6 +93,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_JAPAN_SHORT_DESC</Tag>
+    <English>Japan</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>日本</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_JAPAN_SHORT_DESC_KEY</Tag>
     <English>Japan</English>
     <L1 />
     <L2 />

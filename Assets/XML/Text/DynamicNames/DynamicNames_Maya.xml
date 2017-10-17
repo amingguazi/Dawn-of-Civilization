@@ -84,6 +84,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>ÂêÑÅ</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_MAYA_SHORT_DESC_KEY</Tag>
+    <English>Maya</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Maya</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>大不列颠</Chinese>
+    <Chinese>大英</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_BRITISH</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>不列颠</Chinese>
+    <Chinese>英</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_UNITED_KINGDOM_OF</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s1联合王国</Chinese>
+    <Chinese>英格兰联合王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_ANGEVIN_EMPIRE</Tag>
@@ -273,6 +273,15 @@
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_ENGLAND_SHORT_DESC</Tag>
+    <English>England</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
+    <Chinese>英格兰</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_ENGLAND_SHORT_DESC_KEY</Tag>
     <English>England</English>
     <L1 />
     <L2 />

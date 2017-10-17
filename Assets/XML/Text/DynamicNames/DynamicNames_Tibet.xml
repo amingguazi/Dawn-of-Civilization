@@ -53,6 +53,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>ÍÂÞ¬</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TIBET_SHORT_DESC_KEY</Tag>
+    <English>Tibet</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Tibet</Chinese>
   </TEXT>
 </Civ4GameText>

@@ -125,6 +125,15 @@
     <L2 />
     <L3 />
     <L4 />
+    <Chinese>Ì©Ã×¶û</Chinese>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CIV_TAMILS_SHORT_DESC_KEY</Tag>
+    <English>Tamils</English>
+    <L1 />
+    <L2 />
+    <L3 />
+    <L4 />
     <Chinese>Tamils</Chinese>
   </TEXT>
 </Civ4GameText>
