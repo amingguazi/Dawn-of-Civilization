@@ -16,6 +16,7 @@ gc = CyGlobalContext()
 localText = CyTranslator()
 
 encoding = "utf-8"
+# encoding = "gb2312"
 
 tBrazilTL = (32, 14)
 tBrazilBR = (43, 30)
@@ -806,11 +807,14 @@ def setKey(iPlayer, sKey):
 
 #niceboat
 def shortKey(iPlayer):
-	return CyTranslator().getText(getOrElse(dShortDescZh, iPlayer), ())
+	return localText.getText(getOrElse(dShortDescZh, iPlayer), ())
 
 def text(sTextKey, tInput=()):
 	# return  localText.getText(CvUtil.convertToStr(sTextKey), tInput)
-	return localText.getText(sTextKey.encode(encoding), tInput)
+	# return localText.getText(sTextKey.encode(encoding), tInput)
+	# CvUtil.convertToStr(sText)
+	# CvUtil.convertToUnicode(sText)
+	return localText.getText( CvUtil.convertToStr(sTextKey), tInput)
 # return CyTranslator().getText(sTextKey.encode(encoding), tInput)
 
 def desc(iPlayer, sTextKey=str("%s1")):
