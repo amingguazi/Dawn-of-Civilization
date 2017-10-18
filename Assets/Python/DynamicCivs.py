@@ -16,7 +16,6 @@ gc = CyGlobalContext()
 localText = CyTranslator()
 
 encoding = "utf-8"
-# encoding = "gb2312"
 
 tBrazilTL = (32, 14)
 tBrazilBR = (43, 30)
@@ -557,48 +556,48 @@ dStartingLeaders = [
 
 ### niceboat
 dShortDescZh = {
-	iEgypt : "TXT_KEY_CIV_EGYPT_SHORT_DESC_KEY",
-	iChina : "TXT_KEY_CIV_CHINA_SHORT_DESC_KEY",
-	iBabylonia : "TXT_KEY_CIV_BABYLONIA_SHORT_DESC_KEY",
-	iHarappa : "TXT_KEY_CIV_HARAPPANS_SHORT_DESC_KEY",
-	iGreece : "TXT_KEY_CIV_GREECE_SHORT_DESC_KEY",
-	iIndia : "TXT_KEY_CIV_INDIA_SHORT_DESC_KEY",
-	iCarthage : "TXT_KEY_CIV_CARTHAGE_SHORT_DESC_KEY",
-	iPhoenicia : "TXT_KEY_CIV_PHOENICIA_SHORT_DESC_KEY",
-	iPersia : "TXT_KEY_CIV_PERSIA_SHORT_DESC_KEY",
-	iRome : "TXT_KEY_CIV_ROME_SHORT_DESC_KEY",
-	iJapan : "TXT_KEY_CIV_JAPAN_SHORT_DESC_KEY",
-	iTamils : "TXT_KEY_CIV_TAMILS_SHORT_DESC_KEY",
-	iEthiopia : "TXT_KEY_CIV_ETHIOPIA_SHORT_DESC_KEY",
-	iKorea : "TXT_KEY_CIV_KOREA_SHORT_DESC_KEY",
-	iMaya : "TXT_KEY_CIV_MAYA_SHORT_DESC_KEY",
-	iByzantium : "TXT_KEY_CIV_BYZANTIUM_SHORT_DESC_KEY",
-	iVikings : "TXT_KEY_CIV_VIKING_SHORT_DESC_KEY",
-	iArabia : "TXT_KEY_CIV_ARABIA_SHORT_DESC_KEY",
-	iTibet : "TXT_KEY_CIV_TIBET_SHORT_DESC_KEY",
-	iIndonesia : "TXT_KEY_CIV_INDONESIA_SHORT_DESC_KEY",
-	iMoors : "TXT_KEY_CIV_MOORS_SHORT_DESC_KEY",
-	iSpain : "TXT_KEY_CIV_SPAIN_SHORT_DESC_KEY",
-	iFrance : "TXT_KEY_CIV_FRANCE_SHORT_DESC_KEY",
-	iEngland : "TXT_KEY_CIV_ENGLAND_SHORT_DESC_KEY",
-	iRussia : "TXT_KEY_CIV_RUSSIA_SHORT_DESC_KEY",
-	iMali : "TXT_KEY_CIV_MALI_SHORT_DESC_KEY",
-	iPoland : "TXT_KEY_CIV_POLAND_SHORT_DESC_KEY",
-	iPortugal : "TXT_KEY_CIV_PORTUGAL_SHORT_DESC_KEY",
-	iInca : "TXT_KEY_CIV_INCA_SHORT_DESC_KEY",
-	iItaly : "TXT_KEY_CIV_ITALY_SHORT_DESC_KEY",
-	iMongolia : "TXT_KEY_CIV_MONGOL_SHORT_DESC_KEY",
-	iAztecs : "TXT_KEY_CIV_AZTEC_SHORT_DESC_KEY",
-	iMughals : "TXT_KEY_CIV_MUGHALS_SHORT_DESC_KEY",
-	iTurkey : "TXT_KEY_CIV_OTTOMAN_SHORT_DESC_KEY",
-	iThailand : "TXT_KEY_CIV_THAILAND_SHORT_DESC_KEY",
-	iCongo : "TXT_KEY_CIV_CONGO_SHORT_DESC_KEY",
-	iGermany : "TXT_KEY_CIV_GERMANY_SHORT_DESC_KEY",
-	iAmerica : "TXT_KEY_CIV_AMERICA_SHORT_DESC_KEY",
-	iArgentina : "TXT_KEY_CIV_ARGENTINA_SHORT_DESC_KEY",
-	iBrazil : "TXT_KEY_CIV_BRAZIL_SHORT_DESC_KEY",
-	iCanada : "TXT_KEY_CIV_CANADA_SHORT_DESC_KEY",
-	iPolynesia : "TXT_KEY_CIV_POLYNESIA_SHORT_DESC_KEY"
+	iEgypt : "EGYPT",
+	iChina : "CHINA",
+	iBabylonia : "BABYLONIA",
+	iHarappa : "HARAPPANS",
+	iGreece : "GREECE",
+	iIndia : "INDIA",
+	iCarthage : "CARTHAGE",
+	iPhoenicia : "PHOENICIA",
+	iPersia : "PERSIA",
+	iRome : "ROME",
+	iJapan : "JAPAN",
+	iTamils : "TAMILS",
+	iEthiopia : "ETHIOPIA",
+	iKorea : "KOREA",
+	iMaya : "MAYA",
+	iByzantium : "BYZANTIUM",
+	iVikings : "VIKING",
+	iArabia : "ARABIA",
+	iTibet : "TIBET",
+	iIndonesia : "INDONESIA",
+	iMoors : "MOORS",
+	iSpain : "SPAIN",
+	iFrance : "FRANCE",
+	iEngland : "ENGLAND",
+	iRussia : "RUSSIA",
+	iMali : "MALI",
+	iPoland : "POLAND",
+	iPortugal : "PORTUGAL",
+	iInca : "INCA",
+	iItaly : "ITALY",
+	iMongolia : "MONGOL",
+	iAztecs : "AZTEC",
+	iMughals : "MUGHALS",
+	iTurkey : "OTTOMAN",
+	iThailand : "THAILAND",
+	iCongo : "CONGO",
+	iGermany : "GERMANY",
+	iAmerica : "AMERICA",
+	iArgentina : "ARGENTINA",
+	iBrazil : "BRAZIL",
+	iCanada : "CANADA",
+	iPolynesia : "POLYNESIA"
 }
 
 ### Event handlers
@@ -673,17 +672,17 @@ def onTechAcquired(iPlayer, iTech):
 		if iEra == iRenaissance:
 			if isCapital(iPlayer, ["Stockholm", "Kalmar"]):
 				setShort(iVikings, text("TXT_KEY_CIV_SWEDEN_SHORT_DESC"))
-				setKey(iVikings, "TXT_KEY_CIV_SWEDEN_SHORT_DESC_KEY")  # niceboat
+				setKey(iVikings, "SWEDEN")  #niceboat
 				setAdjective(iVikings, text("TXT_KEY_CIV_SWEDEN_ADJECTIVE"))
 
 			elif isCapital(iPlayer, ["Oslo", "Nidaros"]):
 				setShort(iVikings, text("TXT_KEY_CIV_NORWAY_SHORT_DESC"))
-				setKey(iVikings, "TXT_KEY_CIV_NORWAY_SHORT_DESC_KEY")  # niceboat
+				setKey(iVikings, "NORWAY")  #niceboat
 				setAdjective(iVikings, text("TXT_KEY_CIV_NORWAY_ADJECTIVE"))
 
 			elif isCapital(iPlayer, ["Roskilde"]):
 				setShort(iVikings, text("TXT_KEY_CIV_DENMARK_SHORT_DESC"))
-				setKey(iVikings, "TXT_KEY_CIV_DENMARK_SHORT_DESC_KEY")  # niceboat
+				setKey(iVikings, "DENMARK")  #niceboat
 				setAdjective(iVikings, text("TXT_KEY_CIV_DENMARK_ADJECTIVE"))
 
 	elif iPlayer == iMoors:
@@ -717,17 +716,17 @@ def onPalaceMoved(iPlayer):
 		if iEra >= iRenaissance:
 			if isCapital(iPlayer, ["Stockholm", "Kalmar"]):
 				setShort(iVikings, text("TXT_KEY_CIV_SWEDEN_SHORT_DESC"))
-				setKey(iVikings, "TXT_KEY_CIV_SWEDEN_SHORT_DESC_KEY")	#niceboat
+				setKey(iVikings, "SWEDEN")	#niceboat
 				setAdjective(iVikings, text("TXT_KEY_CIV_SWEDEN_ADJECTIVE"))
 
 			elif isCapital(iPlayer, ["Oslo", "Nidaros"]):
 				setShort(iVikings, text("TXT_KEY_CIV_NORWAY_SHORT_DESC"))
-				setKey(iVikings, "TXT_KEY_CIV_NORWAY_SHORT_DESC_KEY")	#niceboat
+				setKey(iVikings, "NORWAY")	#niceboat
 				setAdjective(iVikings, text("TXT_KEY_CIV_NORWAY_ADJECTIVE"))
 
 			elif isCapital(iPlayer, ["Roskilde"]):
 				setShort(iVikings, text("TXT_KEY_CIV_DENMARK_SHORT_DESC"))
-				setKey(iVikings, "TXT_KEY_CIV_DENMARK_SHORT_DESC_KEY")	#niceboat
+				setKey(iVikings, "DENMARK")	#niceboat
 				setAdjective(iVikings, text("TXT_KEY_CIV_DENMARK_ADJECTIVE"))
 
 	elif iPlayer == iMoors:
@@ -798,8 +797,7 @@ def getOrElse(dDictionary, iPlayer, sDefault=None):
 
 #niceboat
 def key(iPlayer, sSuffix):
-	if sSuffix: sSuffix = "_" + sSuffix
-	return "TXT_KEY_CIV_" + shortKey(iPlayer).replace(" ", "_").upper() + sSuffix
+	return "TXT_KEY_CIV_" + shortKey(iPlayer) + "_" + sSuffix
 
 #niceboat
 def setKey(iPlayer, sKey):
@@ -811,11 +809,10 @@ def shortKey(iPlayer):
 
 def text(sTextKey, tInput=()):
 	# return  localText.getText(CvUtil.convertToStr(sTextKey), tInput)
-	# return localText.getText(sTextKey.encode(encoding), tInput)
+	return localText.getText(sTextKey.encode(encoding), tInput)
 	# CvUtil.convertToStr(sText)
 	# CvUtil.convertToUnicode(sText)
-	return localText.getText( CvUtil.convertToStr(sTextKey), tInput)
-# return CyTranslator().getText(sTextKey.encode(encoding), tInput)
+	# return CyTranslator().getText(sTextKey.encode(encoding), tInput)
 
 def desc(iPlayer, sTextKey=str("%s1")):
 	return text(sTextKey, (name(iPlayer), adjective(iPlayer)))
