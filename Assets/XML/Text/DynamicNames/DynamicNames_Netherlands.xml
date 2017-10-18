@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Dutch Peoples</Chinese>
+    <Chinese>荷兰诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_REPUBLIC</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Republic of the Seven United %s1</Chinese>
+    <Chinese>尼德兰七省共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_COMMUNIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Democratic Republic of %s1</Chinese>
+    <Chinese>%s1民主共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_FASCIST</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Empire</Chinese>
+    <Chinese>%s2帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_UNITED_KINGDOM_OF</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>United Kingdom of %s1</Chinese>
+    <Chinese>荷兰联合王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_EXILE</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Government in Exile</Chinese>
+    <Chinese>荷兰流亡政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_BELGIUM</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Belgium</Chinese>
+    <Chinese>比利时</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_BELGIAN</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Belgian</Chinese>
+    <Chinese>比利时</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DUTCH_INDONESIA</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 East Indies</Chinese>
+    <Chinese>荷属东印度群岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DUTCH_CONGO</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Congo Free State</Chinese>
+    <Chinese>刚果自由邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DUTCH_AMERICA</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>New Netherlands</Chinese>
+    <Chinese>新西兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DUTCH_BRAZIL</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>New Holland</Chinese>
+    <Chinese>新荷兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DUTCH_MALI</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Gold Coast</Chinese>
+    <Chinese>荷属黄金海岸</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_DUTCH_ETHIOPIA</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 East Africa</Chinese>
+    <Chinese>荷属东非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_ARTICLE</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>the Netherlands</Chinese>
+    <Chinese>尼德兰</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_NETHERLANDS_ADJECTIVE</Tag>
