@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Parsi Peoples</Chinese>
+    <Chinese>波斯诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Shahdom</Chinese>
+    <Chinese>%s2王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National-Socialist Workers' %s1</Chinese>
+    <Chinese>%s1国家社会主义工人国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_IRAN_DEFAULT</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Shahdom</Chinese>
+    <Chinese>%s2王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_IRAN_FASCIST</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>National-Socialist Workers' %s1</Chinese>
+    <Chinese>%s1国家社会主义工人国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_MEDIAN</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Median</Chinese>
+    <Chinese>米底</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_PARTHIAN</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Parthian</Chinese>
+    <Chinese>帕提亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_ACHAEMENID</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Achaemenid</Chinese>
+    <Chinese>阿契美尼德</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_SASSANID</Tag>
@@ -89,7 +89,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sassanid</Chinese>
+    <Chinese>萨珊</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_SAFAVID</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Safavid</Chinese>
+    <Chinese>萨菲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_QAJAR</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Qajar</Chinese>
+    <Chinese>卡扎尔</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIA_PAHLAVI</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Pahlavi</Chinese>
+    <Chinese>巴列维</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_VASSAL</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Satrapy of %s1</Chinese>
+    <Chinese>%s1总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_EGYPT</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sixth Satrapy</Chinese>
+    <Chinese>第六总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_INDIA</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Twentieth Satrapy</Chinese>
+    <Chinese>第二十总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_BABYLONIA</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Ninth Satrapy</Chinese>
+    <Chinese>第九总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_GREECE</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>First Satrapy</Chinese>
+    <Chinese>第一总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_ETHIOPIA</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Seventeenth Satrapy</Chinese>
+    <Chinese>第七总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_ARABIA</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fifth Satrapy</Chinese>
+    <Chinese>第五总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_MONGOLIA</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fifteenth Satrapy</Chinese>
+    <Chinese>第十五总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_TURKEY</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Fourth Satrapy</Chinese>
+    <Chinese>第四总督区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_NAME_BYZANTIUM</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Anatolia</Chinese>
+    <Chinese>安纳托利亚</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_PERSIAN_NAME_INDONESIA</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Malacca</Chinese>
+    <Chinese>马六甲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_IRAN_ADJECTIVE</Tag>

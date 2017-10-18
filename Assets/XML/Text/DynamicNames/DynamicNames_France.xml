@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Frankish Peoples</Chinese>
+    <Chinese>法兰克诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_COMMUNIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Commune</Chinese>
+    <Chinese>%s2公社</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 State</Chinese>
+    <Chinese>%s2军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_FRANCIA</Tag>
@@ -53,7 +53,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Francia</Chinese>
+    <Chinese>法兰西</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_FRANKISH</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Frankish</Chinese>
+    <Chinese>法兰克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_EXILE</Tag>
@@ -71,7 +71,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Free %s1</Chinese>
+    <Chinese>自由%s1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_LOUISIANA</Tag>
@@ -80,16 +80,16 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Louisiana</Chinese>
+    <Chinese>路易斯安那</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_QUEBEC</Tag>
-    <English>Qu閎ec</English>
+    <English>Quebec</English>
     <L1 />
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Qu閎ec</Chinese>
+    <Chinese>魁北克</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_BABYLONIA</Tag>
@@ -98,7 +98,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>French Mandate of Mesopotamia</Chinese>
+    <Chinese>法属美索不达米亚托管地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_DEPARTEMENTS_OF</Tag>
@@ -107,7 +107,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>D閜artements of %s1</Chinese>
+    <Chinese>法属%s1</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_PHOENICIA</Tag>
@@ -116,7 +116,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>French Mandate of Lebanon</Chinese>
+    <Chinese>法属黎巴嫩托管地</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_ITALY</Tag>
@@ -125,7 +125,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Cisalpine Republic</Chinese>
+    <Chinese>奇萨尔皮尼共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_ETHIOPIA</Tag>
@@ -134,7 +134,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 East Africa</Chinese>
+    <Chinese>法属东非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_BYZANTIUM</Tag>
@@ -143,7 +143,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Latin Empire</Chinese>
+    <Chinese>拉丁帝国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_ENGLAND</Tag>
@@ -152,7 +152,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of Normandy</Chinese>
+    <Chinese>诺曼底公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_SPAIN</Tag>
@@ -161,7 +161,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Spanish March</Chinese>
+    <Chinese>西班牙边区</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_HOLY_ROME</Tag>
@@ -170,7 +170,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Confederation of the Rhine</Chinese>
+    <Chinese>莱茵邦联</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_NETHERLANDS</Tag>
@@ -179,7 +179,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Batavian Republic</Chinese>
+    <Chinese>巴达维亚共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_MALI</Tag>
@@ -188,7 +188,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 West Africa</Chinese>
+    <Chinese>法属西非</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_POLAND</Tag>
@@ -197,7 +197,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Duchy of Warsaw</Chinese>
+    <Chinese>华沙公国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_INCA</Tag>
@@ -206,7 +206,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Andean France</Chinese>
+    <Chinese>法属安第斯</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_AZTECS</Tag>
@@ -215,7 +215,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Mesoamerican France</Chinese>
+    <Chinese>法属中美</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_AMERICA</Tag>
@@ -224,7 +224,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>New France</Chinese>
+    <Chinese>新法兰西</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_NAME_KHMER</Tag>
@@ -233,7 +233,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Indochina</Chinese>
+    <Chinese>中南半岛</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_NAME_MUGHALS</Tag>
@@ -242,7 +242,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>West India</Chinese>
+    <Chinese>西印度</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRENCH_CONGO</Tag>
@@ -251,7 +251,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2 Equatorial Africa</Chinese>
+    <Chinese>法属赤道非洲</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_FRANCE_ADJECTIVE</Tag>

@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Three Kingdoms of %s1</Chinese>
+    <Chinese>三韩</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_PEOPLES</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Korean Peoples</Chinese>
+    <Chinese>大韩诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_COMMUNIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Democratic People's Republic of %s1</Chinese>
+    <Chinese>朝鲜民主主义人民共和国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Supreme Council for National Reconstruction</Chinese>
+    <Chinese>国家重建最高会议</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_SAMHAN</Tag>
@@ -80,7 +80,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Greater Joseon</Chinese>
+    <Chinese>大朝鲜</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_KOREA_ADJECTIVE</Tag>

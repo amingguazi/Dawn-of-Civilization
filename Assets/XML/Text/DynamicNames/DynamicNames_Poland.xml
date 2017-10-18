@@ -17,7 +17,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Polish Peoples</Chinese>
+    <Chinese>波兰诸部</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_POLAND_DEFAULT</Tag>
@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Kingdom of %s1</Chinese>
+    <Chinese>%s1王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_POLAND_COMMONWEALTH</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Polish-Lithuanian Commonwealth</Chinese>
+    <Chinese>波兰-立陶宛联邦</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_POLAND_DESC_FASCIST</Tag>
@@ -44,7 +44,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Sanacja %s1</Chinese>
+    <Chinese>%s1清算委员会</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_POLAND_GRAND_DUCHY_OF</Tag>

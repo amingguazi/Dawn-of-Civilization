@@ -26,7 +26,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s1王国</Chinese>
+    <Chinese>暹罗王国</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_FASCIST</Tag>
@@ -35,7 +35,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>%s2军政府</Chinese>
+    <Chinese>泰军政府</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAILAND_AYUTTHAYA</Tag>
@@ -62,7 +62,7 @@
     <L2 />
     <L3 />
     <L4 />
-    <Chinese>Siamese</Chinese>
+    <Chinese>暹罗</Chinese>
   </TEXT>
   <TEXT>
     <Tag>TXT_KEY_CIV_THAI_VASSAL</Tag>
